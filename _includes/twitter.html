@@ -1,0 +1,35 @@
+<div id="twitter" class="right">
+	<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+    <script>
+        new TWTR.Widget({
+          version: 2,
+          type: 'search',
+          search:'genevajug',
+          interval: 5000,
+          title: 'GenevaJUG on twitter',
+          subject: 'genevajug ...',
+          width: 250,
+          height: 120,
+          theme: {
+            shell: {
+              background: '#1e90ff',
+              color: '#ffffff'
+            },
+            tweets: {
+              background: '#ffffff',
+              color: '#444444',
+              links: '#1e90ff'
+            }
+          },
+          features: {
+            scrollbar: false,
+            loop: true,
+            live: true,
+            hashtags: true,
+            timestamp: true,
+            avatars: false,
+            behavior: 'default'
+          }
+        }).render().start();
+    </script>
+</div>

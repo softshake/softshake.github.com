@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+
+{% for post in site.categories.members %}
+<div class="disp">
+    <p>{{ post.title }}</p>
+    <p>
+    {{ post.content }}
+    <a href="http://www.twitter.com/{{ post.twitter }}" style="margin-left:40px;">
+        <img src="http://twitter-badges.s3.amazonaws.com/twitter-b.png"
+             alt="Follow {{ post.twitter }} on Twitter"/>
+    </a>
+    </p>
+</div>
+{% endfor %}

@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<h2>L'ASSOCIATION</h2>
+
+
+<p>Afin de garantir tant une ind&eacute;pendance &agrave; toute soci&eacute;t&eacute; et toute technologie, qu'une strat&eacute;gie commune, nous avons cr&eacute;&eacute; une association &agrave; but non lucratif qui a pour vocation d'organiser l'&eacute;v&eacute;nement et de g&eacute;rer le budget.</p>
+
+<p>Afin de maintenir un &eacute;quilibre entre les principales technologies repr&eacute;sent&eacute;es, l'association est d&eacute;compos&eacute;e en binômes, chacun ayant &agrave; charge la gestion de son track (agilit&eacute;, iPhone et java). Le track incubateur est lui g&eacute;r&eacute; par l'ensemble de l'association.</p>
+
+
+<h2>SES MEMBRES</h2>        
+
+{% for post in site.categories.members %}
+<div class="disp">
+    <p id="memberName">{{ post.title }}</p>
+    <p>
+    {{ post.content }}
+    <a href="http://www.twitter.com/{{ post.twitter }}" style="margin-left:40px;">
+        <img src="http://twitter-badges.s3.amazonaws.com/twitter-b.png"
+             alt="Follow {{ post.twitter }} on Twitter"/>
+    </a>
+    </p>
+</div>
+{% endfor %}

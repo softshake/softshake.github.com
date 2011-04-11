@@ -1,0 +1,262 @@
+html {
+    overflow-y: scroll;
+}
+
+html, body {
+    background: #F7F7F7;
+    background-color: #ffffff;
+    color: #666;
+    font-family: 'Lucida Grande', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5em !important;
+    width: 976px;
+    margin: auto;
+    position: relative;
+}
+h1, h2, h3, h4, h5 {
+    color: #333;
+}
+a {
+    color: #000;
+
+}
+a:hover {
+    text-decoration: none;
+}
+
+
+.wrapper {
+    width: 976px;
+    margin: auto;
+    position: relative;
+    border-bottom: 1px solid #D9D9D9;
+}
+
+.wrapper::after {
+    content: " ";
+    display: block;
+    clear: both;
+}
+
+.wrapped {
+    width: 650px;
+}
+
+
+
+#home {
+    position : relative;  
+    min-height: 100%; 
+}
+
+#page {
+    position: relative;  
+    min-height: 100%-80px;  
+    margin: 0 auto;  
+    padding-bottom: 80px;   
+}
+
+
+/** HEADER **/
+
+#header {
+    height: 100px;
+    background: #ffffff;
+}
+
+#logo a {
+    background: url(../images/logo_softshake.png) no-repeat 100% 100%;
+    display: block;
+    height: 140px;
+    left: 0px;
+    position: absolute;
+    text-indent: -99em;
+    top: 10px;
+    width: 313px;
+}
+
+#menu {
+    list-style: none;
+    position:absolute;
+    right: 0;
+    top: 0px;
+}
+
+#menu li {
+    float: left;
+    padding: 15px 15px;
+    position: relative;
+}
+
+#menu li a p{
+    color:#a9a9a9;
+    font-size: 12px;
+}
+
+#menu span {
+    display: none;
+}
+
+#menu a {
+    color:#1e90ff;
+    text-decoration: none;
+    font-size: 15px;
+}
+#menu a:hover {
+    color: #ccc;
+}
+
+#menu .selected a {
+    color: #fff;
+}
+
+#menu .selected a:after {
+    content: " .";
+    display: block;
+    text-indent: -99em;
+    border-left: 0.8em solid transparent;
+    border-right: 0.8em solid transparent;
+    border-top: none;
+    height: 0px;
+    margin-left: -.8em;
+    margin-right: auto;
+    margin-top: 14px;
+    position: absolute;
+    left: 50%;
+    width: 1px;
+}
+
+ul, menu {
+    display:block;
+    list-style-type: disc;
+}
+
+
+/** content **/
+
+#content {
+    border-top: 1px solid #D9D9D9;
+    position:relative;
+    top: 0px;
+    background-color: #ffffff;
+}
+
+
+
+/* Slideshow */
+#slideshow{
+    border-top: 1px solid #D9D9D9;
+    border-bottom: 1px solid #D9D9D9;
+}
+
+/* Information */
+
+#information {
+    margin-top:70px;
+    position:relative;
+    display:block;
+
+}
+
+#information .col{
+    float:left;
+    display:inline;
+    width:32%;
+}
+
+.col h2{
+    width:85%;
+    border-bottom: 1px solid #D9D9D9;
+    color:#1e90ff;
+    text-decoration: none;
+    font-size: 15px;
+}
+.col p{
+    width:85%;
+}
+
+/** Footer **/
+
+
+#footer {
+    position: absolute;  
+    bottom: 0px;  
+    height: 70px;  
+    border-top: 1px solid #D9D9D9;
+    margin-top: 20px;
+    background: #ffffff;
+    padding: 5px;
+    font-size: 12px;
+    color: #ffffff;
+}
+
+
+#footer p {
+    top: 6px;
+    text-decoration: none;
+    float:right;
+    color: #000000;
+}
+
+#footer a {
+    text-decoration: none;
+    color: #ccc;
+}
+#footer a:hover {
+    color: #fff;
+}
+
+#footer ul {
+    float: left;
+    padding: 10px 0 10px;
+}
+
+#footer ul li {
+    height:65px;
+    margin-bottom: 3px;
+}
+
+#social {
+    list-style: none;
+    top: 6px;
+}
+
+
+#social h1 {
+    display:block;
+    list-style-type: disc;
+    float: left;
+    padding: 5px 5px;
+    position: relative;
+}
+
+#linkedin a {
+    background: url(../images/social/drink-linkedin-32.png) no-repeat 100% 100%;
+    display: block;
+    height: 32px;
+    text-indent: -99em;
+    top: 10px;
+    width: 32px;
+}
+
+#facebook a {
+    background: url(../images/social/drink-facebook-32.png) no-repeat 100% 100%;
+    display: block;
+    height: 32px;
+    text-indent: -99em;
+    top: 10px;
+    width: 32px;
+}
+
+#twitter a {
+    background: url(../images/social/drink-twitter-32.png) no-repeat 100% 100%;
+    display: block;
+    height: 32px;
+    text-indent: -99em;
+    top: 10px;
+    width: 32px;
+}
+
+#memberName {
+    font-weight:bold;
+}
