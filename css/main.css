@@ -17,9 +17,20 @@ h1, h2, h3, h4, h5 {
     color: #333;
 }
 
-a {
-    color: #333;
+h2 a {
+    color:#1e90ff;
     text-decoration: none;
+}
+h2 a:hover {
+    color: #ccc;
+}
+
+h2 .selected a {
+    color: #fff;
+}
+
+a {
+    color: #000;
 }
 
 a:hover {
