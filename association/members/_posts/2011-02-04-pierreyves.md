@@ -5,4 +5,4 @@ twitter: pyby85
 mail: pierre-yves@soft-shake.ch
 ---
 
-Soci&eacute;t&eacute; Hortis, Le Studio
+Société Hortis, Le Studio
