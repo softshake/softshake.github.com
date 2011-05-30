@@ -1,11 +1,20 @@
 <html>
-    <body>
-    <p>
-        <a href="/fr/">French site</a>
-    </p>
-    <p>
-        <a href="/en/">English site</a>
-    </p>
-    </body>
+<head>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
+</head>
+<body>
+<script type="text/javascript">
+    var language = (window.navigator.userLanguage || window.navigator.language).substring(0,2);
+    if (language != 'fr')
+        language = 'en';
+    location.href = "/" + language;
+</script>
+<p>
+    <a href="/fr/">French site</a>
+</p>
+<p>
+    <a href="/en/">English site</a>
+</p>
+</body>
 </html>
 
