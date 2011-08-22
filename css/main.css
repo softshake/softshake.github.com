@@ -282,3 +282,32 @@ ul, menu {
 #memberName {
     font-weight:bold;
 }
+
+ul#grid-speaker li {
+    list-style: none outside;
+    float: left;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    width: 110px;
+    background: none;
+}
+
+ul#grid-speaker li img {
+    float: none;
+}
+
+div.img {
+    position: absolute;
+    z-index: 200;
+    float: left;
+}
+
+div.img.img {
+    margin-left: 20px;
+    margin-top: 20px
+}
+
+div.text {
+    padding: 0 0 0 180px;
+    clear: both;
+}

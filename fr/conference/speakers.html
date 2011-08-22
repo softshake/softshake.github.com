@@ -1,0 +1,15 @@
+---
+layout: default_fr
+---
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("a[rel='speakers']").colorbox({width: "50%"});
+        var params = location.search.substring(1).split(/&/);
+        var speakerParam = params[0].split('=');
+        $("a#"+speakerParam[1]).click();
+    })
+</script><ul id="grid-speaker">
+{% for post in site.categories.speakers %}
+    <li><a href="{{ post.url }}" rel="speakers" id="{{ post.param }}"><img src="/images/speakers/{{ post.photo }}" alt="{{ post.title }}"/></a></li>
+{% endfor %}
+</ul>
