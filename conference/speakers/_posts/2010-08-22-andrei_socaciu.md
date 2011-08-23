@@ -2,6 +2,9 @@
 layout: speaker
 title: Andrei Socaciu
 photo: AndreiSocaciu.jpg
+param: andreisocaciu
+session: "Tackling fragmentation on the Android platform"
+sessionParam: androidworkshop
 ---
 
 Andrei Socaciu is a Senior Software Engineer at Canoo Engineering AG, Basel.

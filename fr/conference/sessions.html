@@ -1,0 +1,33 @@
+---
+layout: default_fr
+---
+<script type="text/javascript">
+    $(document).ready(function() {
+        const colorboxParam = {width: "50%", top: "20%", left: "10%", loop: false};
+        $("a[rel='java']").colorbox(colorboxParam);
+        $("a[rel='mobility']").colorbox(colorboxParam);
+        var params = location.search.substring(1).split(/&/);
+        var sessionParam = params[0].split('=');
+        $("a#"+sessionParam[1]).click();
+    })
+</script>
+
+<h2>Les sessions du track java</h2>
+
+<ul>
+{% for post in site.categories.java %}
+    <li>
+        <a href="{{ post.url }}" rel="java" id="{{ post.param }}">{{ post.title }}</a>
+    </li>
+{% endfor %}
+</ul>
+
+<h2>Les sessions du track mobilité</h2>
+
+<ul>
+{% for post in site.categories.mobility %}
+    <li>
+        <a href="{{ post.url }}" rel="mobility" id="{{ post.param }}">{{ post.title }}</a>
+    </li>
+{% endfor %}
+</ul>

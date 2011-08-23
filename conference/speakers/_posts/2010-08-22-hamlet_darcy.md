@@ -2,6 +2,11 @@
 layout: speaker
 title: "Hamlet D'Arcy"
 photo: hamlet_darcy.jpg
+param: hamletdarcy
+session: "Java Boilerplate Busters"
+sessionParam: boilerplatebusters
+session2: "Code Generation on the JVM: Writing Code that Writes Code"
+sessionParam2: codegeneration
 ---
 
 Sr. Java/Groovy Developer, Groovy and CodeNarc Committer, Hamlet D'Arcy has been writing software for over a decade, and has spent considerable time coding in C++, Java, and Groovy.

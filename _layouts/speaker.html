@@ -3,4 +3,10 @@
 </div>
 <div class="text">
     {{ content }}
+    <ul>
+        <li><a href="sessions.html?param={{ page.sessionParam }}">{{ page.session }}</a></li>
+        {% if page.session2 %}
+        <li><a href="sessions.html?param={{ page.sessionParam2 }}">{{ page.session2 }}</a></li>
+        {% endif %}
+    </ul>
 </div>

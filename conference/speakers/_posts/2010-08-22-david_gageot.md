@@ -3,6 +3,8 @@ layout: speaker
 title: David Gageot
 photo: david_gageot.jpeg
 param: davidgageot
+session: "Marre des frameworks ! Oui aux bons outils !"
+sessionParam: marredesframeworks
 ---
 
 David Gageot est consultant indépendant. Sa passion ? L'écriture de logiciels pointus mais simples.

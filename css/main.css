@@ -286,8 +286,8 @@ ul, menu {
 ul#grid-speaker li {
     list-style: none outside;
     float: left;
-    margin-right: 8px;
-    margin-bottom: 8px;
+    margin-right: 16px;
+    margin-bottom: 16px;
     width: 110px;
     background: none;
 }
@@ -309,5 +309,10 @@ div.img.img {
 
 div.text {
     padding: 0 0 0 180px;
+    clear: both;
+}
+
+div.session {
+    padding: 10px 10px 10px 10px;
     clear: both;
 }

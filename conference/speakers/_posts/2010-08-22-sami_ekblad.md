@@ -2,6 +2,9 @@
 layout: speaker
 title: Sami Ekblad
 photo: sami-ekblad.jpg
+param: samiekblad
+session: Rich Portlets in Liferay 6 with Vaadin
+sessionParam: vaadin
 ---
 
 Sami Ekblad is one of the original developers of Vaadin framework and partner of Vaadin Ltd.

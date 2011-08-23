@@ -2,6 +2,9 @@
 layout: speaker
 title: Mickael Istria
 photo: mickael_istria.jpg
+param: mickaelistria
+session: Modeling with Eclipse
+sessionParam: modelingwitheclipse
 ---
 
 Mickael is an Eclipse Plug-ins/RCP developer. He is a contributor to several Eclipse projects, and a committer on some of them
