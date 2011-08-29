@@ -1,6 +1,6 @@
 <script type="text/javascript">
     $(document).ready(function() {
-        $("a[rel='speakers']").colorbox({width: "50%", top: "20%", left: "0%"});
+        $("a[rel='speakers']").colorbox({width: "50%", top: "20%", left: "20%"});
         var params = location.search.substring(1).split(/&/);
         var speakerParam = params[0].split('=');
         $("a#"+speakerParam[1]).click();
