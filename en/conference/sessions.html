@@ -1,0 +1,24 @@
+---
+layout: default_en
+---
+{% include sessions_script.html %}
+
+<h2>Java sessions</h2>
+
+<ul>
+{% for post in site.categories.java %}
+    <li>
+        <a href="{{ post.url }}" rel="java" id="{{ post.param }}">{{ post.title }}</a>
+    </li>
+{% endfor %}
+</ul>
+
+<h2>Mobility sessions</h2>
+
+<ul>
+{% for post in site.categories.mobility %}
+    <li>
+        <a href="{{ post.url }}" rel="mobility" id="{{ post.param }}">{{ post.title }}</a>
+    </li>
+{% endfor %}
+</ul>

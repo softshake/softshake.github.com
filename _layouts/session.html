@@ -1,0 +1,8 @@
+<div class="session">
+    <h2>{{ page.title }}</h2>
+
+    {{ content }}
+
+    <h3>with <a href="speakers.html?key={{ page.speakerParam }}">{{ page.speaker }}</a>
+    {% if page.speaker2%} and <a href="speakers.html?key={{ page.speakerParam2 }}">{{ page.speaker2 }}</a>{% endif %}</h3>
+</div>
