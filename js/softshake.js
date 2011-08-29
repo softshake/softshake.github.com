@@ -1,11 +1,19 @@
 $(document).ready(function() {
-	$('#langFr').click(function() {
-		location.href = changeLanguage('fr');
-	});
+    $('#langFr').click(function() {
+        location.href = changeLanguage('fr');
+    });
 
-	$('#langEn').click(function() {
-		location.href = changeLanguage('en');
-	});
+    $('#langEn').click(function() {
+        location.href = changeLanguage('en');
+    });
+
+    $('#cssdropdown li.headlink').hover(
+        function() {
+            $('ul', this).css('display', 'block');
+        },
+        function() {
+            $('ul', this).css('display', 'none');
+        });
 });
 
 

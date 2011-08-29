@@ -1,0 +1,13 @@
+<script type="text/javascript">
+    $(document).ready(function() {
+        const colorboxParam = {width: "50%", top: "20%", left: "0%", loop: false};
+        $("a[rel='java']").colorbox(colorboxParam);
+        $("a[rel='mobility']").colorbox(colorboxParam);
+        $("a[rel='agile']").colorbox(colorboxParam);
+        $("a[rel='microsoft']").colorbox(colorboxParam);
+        $("a[rel='incubator']").colorbox(colorboxParam);
+        var params = location.search.substring(1).split(/&/);
+        var sessionParam = params[0].split('=');
+        $("a#"+sessionParam[1]).click();
+    })
+</script>
