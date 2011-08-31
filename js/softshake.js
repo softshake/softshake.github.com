@@ -7,7 +7,7 @@ $(document).ready(function() {
         location.href = changeLanguage('en');
     });
 
-    var colorboxParam = { loop: false, top: 15% };
+    var colorboxParam = { loop: false, top: "15%" };
     $("a[rel='java']").colorbox(colorboxParam);
     $("a[rel='mobility']").colorbox(colorboxParam);
     $("a[rel='agile']").colorbox(colorboxParam);
