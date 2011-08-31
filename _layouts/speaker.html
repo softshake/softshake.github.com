@@ -1,13 +1,15 @@
-<div class="img">
-    <img src="/images/speakers/{{ page.photo }}" alt="{{ page.title }}">
-</div>
-<div class="text">
-    <h2>{{ page.title }}</h2>
-    {{ content }}
-    <ul>
-        <li><a href="sessions.html?key={{ page.sessionParam }}">{{ page.session }}</a></li>
-        {% if page.session2 %}
-        <li><a href="sessions.html?key={{ page.sessionParam2 }}">{{ page.session2 }}</a></li>
-        {% endif %}
-    </ul>
+<div class="speaker">
+    <div class="img">
+        <img src="/images/speakers/{{ page.photo }}" alt="{{ page.title }}">
+    </div>
+    <div class="text">
+        <h2>{{ page.title }}</h2>
+        {{ content }}
+        <ul>
+            <li><a href="sessions.html?key={{ page.sessionParam }}">{{ page.session }}</a></li>
+            {% if page.session2 %}
+            <li><a href="sessions.html?key={{ page.sessionParam2 }}">{{ page.session2 }}</a></li>
+            {% endif %}
+        </ul>
+    </div>
 </div>
