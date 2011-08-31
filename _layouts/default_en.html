@@ -1,3 +1,5 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html>
 <head>
     <title>Soft-Shake</title>
@@ -10,34 +12,34 @@
     <script src="/js/softshake.js" type="text/javascript"></script>
 </head>
 <body class="home">
-    <div id="page">
-        <div id="header">
-                <h1 id="logo">
-                    <a href="/en/">Soft-Shake</a>
-                </h1>
-                <ul class="dropdown">
-                    <li>
-                        <a href="/en/conference">Conference</a>
-                        <ul>
-                            <li><a href="/en/conference/sessions.html">Sessions</a></li>
-                            <li><a href="/en/conference/speakers.html">Speakers</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="/en/association">Organization</a></li>
-                    <li><a href="/en/sponsor">Sponsors</a></li>
-                    <li>Multimedia kit</li>
+<div id="page">
+    <div id="header">
+        <h1 id="logo">
+            <a href="/en/">Soft-Shake</a>
+        </h1>
+        <ul class="dropdown">
+            <li>
+                <a href="/en/conference">Conference</a>
+                <ul>
+                    <li><a href="/en/conference/sessions.html">Sessions</a></li>
+                    <li><a href="/en/conference/speakers.html">Speakers</a></li>
                 </ul>
-                <div id="lang">
-                    <img id="langFr" src="/images/fr.png" />
-                    <img id="langEn" src="/images/en.png" />
-                </div>
-        </div>
-        <div id="content">
-            <div class="wrapper">
-                {{ content }}
-            </div>
+            </li>
+            <li><a href="/en/association">Organization</a></li>
+            <li><a href="/en/sponsor">Sponsors</a></li>
+            <li>Multimedia kit</li>
+        </ul>
+        <div id="lang">
+            <img id="langFr" src="/images/fr.png"/>
+            <img id="langEn" src="/images/en.png"/>
         </div>
     </div>
-    {% include footer.html %}
+    <div id="content">
+        <div class="wrapper">
+            {{ content }}
+        </div>
+    </div>
+</div>
+{% include footer.html %}
 </body>
 </html>

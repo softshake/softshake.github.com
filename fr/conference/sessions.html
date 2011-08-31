@@ -1,9 +1,8 @@
 ---
 layout: default_fr
 ---
-{% include sessions_script.html %}
 
-<h2>Les sessions du track java</h2>
+<h2>Les sessions du track Java</h2>
 
 <ul>
 {% for post in site.categories.java %}
@@ -19,6 +18,16 @@ layout: default_fr
 {% for post in site.categories.mobility %}
     <li>
         <a href="{{ post.url }}" rel="mobility" id="{{ post.param }}">{{ post.title }}</a>
+    </li>
+{% endfor %}
+</ul>
+
+<h2>Les sessions du track Agile</h2>
+
+<ul>
+{% for post in site.categories.agility %}
+    <li>
+        <a href="{{ post.url }}" rel="agile" id="{{ post.param }}">{{ post.title }}</a>
     </li>
 {% endfor %}
 </ul>
