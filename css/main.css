@@ -16,7 +16,6 @@ h1, h2, h3, h4, h5 {
 
 h2 a {
     color: #1e90ff;
-    text-decoration: none;
 }
 
 h2 a:hover {
@@ -31,8 +30,13 @@ a {
     color: #000;
 }
 
-a:hover {
+*:link, *:visited, *:link:focus, *:visited:focus {
     text-decoration: none;
+}
+
+*:link:hover, *:visited:hover, *:link:active, *:visited:active {
+    cursor: pointer;
+    text-decoration: underline;
 }
 
 .wrapper {
