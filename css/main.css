@@ -30,6 +30,11 @@ a {
     color: #000;
 }
 
+img {
+    border-style: none;
+    display: block;
+}
+
 *:link, *:visited, *:link:focus, *:visited:focus {
     text-decoration: none;
 }
