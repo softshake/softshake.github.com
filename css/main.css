@@ -1,6 +1,5 @@
 html, body {
-    background: #F7F7F7;
-    background-color: #ffffff;
+    background: #ffffff;
     color: #666;
     font-family: 'Lucida Grande', Helvetica, Arial, sans-serif;
     font-size: 14px;
@@ -51,7 +50,7 @@ img {
     border-bottom: 1px solid #D9D9D9;
 }
 
-.wrapper::after {
+.wrapper:after {
     content: " ";
     display: block;
     clear: both;
@@ -234,9 +233,9 @@ img {
 ul#grid-speaker li {
     list-style: none outside;
     float: left;
-    margin-right: 16px;
-    margin-bottom: 16px;
-    width: 110px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    width: 100px;
     background: none;
 }
 
@@ -251,24 +250,22 @@ div.img {
 }
 
 div.img.img {
-    margin-left: 20px;
-    margin-top: 20px
+    margin-left: 10px;
+    margin-top: 10px
 }
 
 div.text {
-    padding: 0 0 0 180px;
+    padding: 0 0 0 140px;
     clear: both;
-    margin-right: 20px;
+    margin-right: 10px;
 }
 
 div.session {
-    width: 650px;
     padding: 10px 10px 10px 10px;
     clear: both;
 }
 
 div.speaker {
-    width: 650px;
     padding: 10px 10px 10px 10px;
     clear: both;
 }
