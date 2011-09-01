@@ -31,3 +31,13 @@ layout: default_en
     </li>
 {% endfor %}
 </ul>
+
+<h2>Incubator sessions</h2>
+
+<ul>
+{% for post in site.categories.incubator %}
+    <li>
+        <a href="{{ post.url }}" rel="incubator" id="{{ post.param }}">{{ post.title }}</a>
+    </li>
+{% endfor %}
+</ul>

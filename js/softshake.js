@@ -7,17 +7,17 @@ $(document).ready(function() {
         location.href = changeLanguage('en');
     });
 
-    var colorboxParam = { top: "10%", loop: false };
+    var colorboxParam = { width: '750px', top: '100px', loop: false };
     $("a[rel='java']").colorbox(colorboxParam);
     $("a[rel='mobility']").colorbox(colorboxParam);
     $("a[rel='agile']").colorbox(colorboxParam);
     $("a[rel='microsoft']").colorbox(colorboxParam);
     $("a[rel='incubator']").colorbox(colorboxParam);
-    $("a[rel='speakers']").colorbox();
-    
+    $("a[rel='speakers']").colorbox({ width: '750px', top: '100px' });
+
     var params = location.search.substring(1).split(/&/);
     var sessionParam = params[0].split('=');
-    $("a#"+sessionParam[1]).click();
+    $("a#" + sessionParam[1]).click();
 });
 
 
