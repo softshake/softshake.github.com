@@ -32,6 +32,15 @@ layout: default_en
 {% endfor %}
 </ul>
 
+<h2>Microsoft sessions</h2>
+
+<ul>
+{% for post in site.categories.microsoft %}
+    <li>
+        <a href="{{ post.url }}" rel="microsoft" id="{{ post.param }}">{{ post.title }}</a>
+    </li>
+{% endfor %}
+</ul>
 <h2>Incubator sessions</h2>
 
 <ul>
