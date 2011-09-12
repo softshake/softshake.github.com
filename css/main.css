@@ -319,3 +319,50 @@ ul.dropdown ul li {
     text-decoration: none;
     font-size: 15px;
 }
+
+
+.schedule{
+    padding:20px;
+}
+
+.hours {
+    float: left;
+    width : 50px;
+}
+
+.track {
+    float: left;
+    width : 150px;
+    padding-left:25px;
+}
+
+.trackName {
+    background:#1e90ff;
+    border: 1px black solid;
+    text-align:center;
+    color: white;
+    line-height:30px;
+}
+
+.session{
+    border: 1px black solid;
+}
+
+.sessionName{
+    font-weight:bold;
+    color:#1e90ff;
+
+}
+
+.speakerName{
+    color:gray;
+}
+
+.first{
+    padding-top: 80px;
+}
+
+.hour{
+    height:80px;
+    border: 1px black solid;
+}
