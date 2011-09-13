@@ -5,6 +5,8 @@ photo: alexis-hassler.png
 param: alexishassler
 session: "Tests d'intégration JavaEE avec Arquillian"
 sessionParam: arquillian
+session2: "JBoss AS 7, la révolution"
+sessionParam2: jboss
 ---
 
 Je suis développeur, consultant et formateur Java depuis une douzaine d'années, j'aide mes clients à améliorer leur façon de développer,
