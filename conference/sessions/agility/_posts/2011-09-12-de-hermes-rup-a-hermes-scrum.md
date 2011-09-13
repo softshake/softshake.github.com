@@ -6,7 +6,7 @@ speakerParam: alexandrecuva
 param: hermes
 ---
 
-Retour d'expérience au DCTI sur la mise en place de Scrum dans une équipe de maintenance évolutive avec des procédures
+Retour d'expérience à l'Administration Cantonale sur la mise en place de Scrum dans une équipe de maintenance évolutive avec des procédures
 de gestion de projet Hermes RUP et des stratégies de test TMap.
 
 Nous allons couvrir les différentes étapes de l'évolution de l'équipe SCRUM dans un monde standard.
