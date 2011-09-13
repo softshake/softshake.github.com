@@ -325,44 +325,82 @@ ul.dropdown ul li {
     padding:20px;
 }
 
+.fullSession {
+    height : 50px;
+    border-top:1px gray solid;
+    clear:both;
+}
+
+
 .hours {
-    float: left;
-    width : 50px;
+    height : 100px;
+    border-top:1px gray solid;
+    clear:both;
 }
 
-.track {
-    float: left;
-    width : 150px;
-    padding-left:25px;
+
+.hour{
+    width:60px;
+    text-align:right;
+    float:left; 
 }
 
-.trackName {
-    background:#1e90ff;
-    border: 1px black solid;
+.startAt{}
+
+
+.endAt{margin-top:45px;}
+
+.keynote{
+    float:left;
+    width : 825px;
+    margin-left:25px;    
     text-align:center;
-    color: white;
-    line-height:30px;
+    font-size:16px;
+    line-height: 80px; 
 }
 
-.session{
-    border: 1px black solid;
+
+.talk{
+    float:left;
+    width : 145px;
+    margin-left:25px; 
 }
 
 .sessionName{
     font-weight:bold;
     color:#1e90ff;
-
+    text-align:center
 }
 
 .speakerName{
     color:gray;
+    text-align:center
 }
+
+
+.track {
+   margin-left: 60px; 
+   clear:both;
+}
+
 
 .first{
-    padding-top: 80px;
+   
 }
 
-.hour{
-    height:80px;
-    border: 1px black solid;
+.trackName {
+    float: left;
+    width : 145px;
+    margin-left:25px;
+    background:#1e90ff;
+    border: 1px gray solid;
+    text-align:center;
+    color: white;
+    line-height:30px;
 }
+
+
+
+
+
+
