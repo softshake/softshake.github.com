@@ -40,7 +40,7 @@ img {
 
 *:link:hover, *:visited:hover, *:link:active, *:visited:active {
     cursor: pointer;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .wrapper {
@@ -347,7 +347,6 @@ ul.dropdown ul li {
 
 .startAt{}
 
-
 .endAt{margin-top:45px;}
 
 .keynote{
@@ -366,7 +365,7 @@ ul.dropdown ul li {
     margin-left:25px; 
 }
 
-.sessionName{
+.sessionName {
     font-weight:bold;
     color:#1e90ff;
     text-align:center
@@ -379,7 +378,7 @@ ul.dropdown ul li {
 
 
 .track {
-   margin-left: 60px; 
+   margin-left: 60px;
    clear:both;
 }
 
@@ -399,8 +398,25 @@ ul.dropdown ul li {
     line-height:30px;
 }
 
+.dayTabs {
+    margin-left: 150px;
+    clear: both;
+}
+.day {
+    float: left;
+    width: 360px;
+    text-align: center;
+    display: block;
+}
 
+.day h2 {
+    color: #1e90ff;
+}
 
+.day a {
 
+}
 
-
+.active {
+    background-color: #ccc;
+}
