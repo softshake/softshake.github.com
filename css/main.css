@@ -323,6 +323,7 @@ ul.dropdown ul li {
 
 .schedule{
     padding:20px;
+    clear:both;
 }
 
 .fullSession {
