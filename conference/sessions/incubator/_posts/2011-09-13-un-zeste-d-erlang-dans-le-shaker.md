@@ -3,6 +3,8 @@ layout: session
 title: "Un zeste d’Erlang dans le shaker!"
 speaker: Dominic Williams
 speakerParam: dominicwilliams
+speaker2: Fabrice Nourisson
+speakerParam2: fabricenourisson
 param: erlang
 ---
 
