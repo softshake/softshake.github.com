@@ -5,6 +5,8 @@ photo: BenjaminSoulier.jpg
 param: benjaminsoulier
 session: "Les nouveautés de Windows Azure"
 sessionParam: azure
+session2: "Développez pour l’interface de la prochaine version de Windows, en C++, C#, VB, ou HTML5/Javascript !"
+sessionParam2: developperpourwindows8
 ---
 
 Benjamin est MVP Windows Azure et Expert Technique pour Cambridge Technology Partners.
