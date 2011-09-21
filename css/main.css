@@ -244,6 +244,19 @@ ul#grid-speaker li img {
     float: none;
 }
 
+ul#grid-sponsor-mousseux li {
+    list-style: none outside;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    width: 400px;
+    background: none;
+}
+
+ul#grid-sponsor-mousseux li img {
+    float: none;
+}
+
 div.img {
     position: absolute;
     z-index: 200;
