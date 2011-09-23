@@ -2,51 +2,64 @@
 layout: default_en
 ---
 
-<h2>Java sessions</h2>
+<div class="sessionsblock">
+    <div class="sessions">
+        <h2>Java sessions</h2>
 
-<ul>
-{% for post in site.categories.java %}
-    <li>
-        <a href="{{ post.url }}" rel="java" id="{{ post.param }}">{{ post.title }}</a>
-    </li>
-{% endfor %}
-</ul>
+        <ul>
+        {% for post in site.categories.java %}
+            <li>
+                <a href="{{ post.url }}" rel="java" id="{{ post.param }}">{{ post.title }}</a>
+            </li>
+        {% endfor %}
+        </ul>
+    </div>
+    <div class="sessions">
+        <h2>Mobility sessions</h2>
 
-<h2>Mobility sessions</h2>
+        <ul>
+        {% for post in site.categories.mobility %}
+            <li>
+                <a href="{{ post.url }}" rel="mobility" id="{{ post.param }}">{{ post.title }}</a>
+            </li>
+        {% endfor %}
+        </ul>
+    </div>
+</div>
+<div class="sessionsblock">
+    <div class="sessions">
+        <h2>Agile sessions</h2>
 
-<ul>
-{% for post in site.categories.mobility %}
-    <li>
-        <a href="{{ post.url }}" rel="mobility" id="{{ post.param }}">{{ post.title }}</a>
-    </li>
-{% endfor %}
-</ul>
+        <ul>
+        {% for post in site.categories.agility %}
+            <li>
+                <a href="{{ post.url }}" rel="agile" id="{{ post.param }}">{{ post.title }}</a>
+            </li>
+        {% endfor %}
+        </ul>
+    </div>
+    <div class="sessions">
+        <h2>Microsoft sessions</h2>
 
-<h2>Agile sessions</h2>
+        <ul>
+        {% for post in site.categories.microsoft %}
+            <li>
+                <a href="{{ post.url }}" rel="microsoft" id="{{ post.param }}">{{ post.title }}</a>
+            </li>
+        {% endfor %}
+        </ul>
+    </div>
+</div>
+<div class="sessionsblock">
+    <div class="sessions">
+        <h2>Incubator sessions</h2>
 
-<ul>
-{% for post in site.categories.agility %}
-    <li>
-        <a href="{{ post.url }}" rel="agile" id="{{ post.param }}">{{ post.title }}</a>
-    </li>
-{% endfor %}
-</ul>
-
-<h2>Microsoft sessions</h2>
-
-<ul>
-{% for post in site.categories.microsoft %}
-    <li>
-        <a href="{{ post.url }}" rel="microsoft" id="{{ post.param }}">{{ post.title }}</a>
-    </li>
-{% endfor %}
-</ul>
-<h2>Incubator sessions</h2>
-
-<ul>
-{% for post in site.categories.incubator %}
-    <li>
-        <a href="{{ post.url }}" rel="incubator" id="{{ post.param }}">{{ post.title }}</a>
-    </li>
-{% endfor %}
-</ul>
+        <ul>
+        {% for post in site.categories.incubator %}
+            <li>
+                <a href="{{ post.url }}" rel="incubator" id="{{ post.param }}">{{ post.title }}</a>
+            </li>
+        {% endfor %}
+        </ul>
+    </div>
+</div>

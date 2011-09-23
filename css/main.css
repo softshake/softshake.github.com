@@ -333,89 +333,87 @@ ul.dropdown ul li {
     font-size: 15px;
 }
 
-
-.schedule{
-    padding:20px;
-    clear:both;
+.schedule {
+    padding: 20px;
+    clear: both;
 }
 
 .fullSession {
-    height : 50px;
-    border-top:1px gray solid;
-    clear:both;
+    height: 50px;
+    border-top: 1px gray solid;
+    clear: both;
 }
-
 
 .hours {
-    height : 100px;
-    border-top:1px gray solid;
-    clear:both;
+    height: 100px;
+    border-top: 1px gray solid;
+    clear: both;
 }
 
-
-.hour{
-    width:60px;
-    text-align:right;
-    float:left; 
+.hour {
+    width: 60px;
+    text-align: right;
+    float: left;
 }
 
-.startAt{}
-
-.endAt{margin-top:45px;}
-
-.keynote{
-    float:left;
-    width : 825px;
-    margin-left:25px;    
-    text-align:center;
-    font-size:16px;
-    line-height: 80px; 
+.startAt {
 }
 
+.endAt {
+    margin-top: 45px;
+}
 
-.talk{
-    float:left;
-    width : 145px;
-    margin-left:25px; 
+.keynote {
+    float: left;
+    width: 825px;
+    margin-left: 25px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 80px;
+}
+
+.talk {
+    float: left;
+    width: 145px;
+    margin-left: 25px;
 }
 
 .sessionName {
-    font-weight:bold;
-    color:#1e90ff;
-    text-align:center
+    font-weight: bold;
+    color: #1e90ff;
+    text-align: center
 }
 
-.speakerName{
-    color:gray;
-    text-align:center
+.speakerName {
+    color: gray;
+    text-align: center
 }
-
 
 .track {
-   margin-left: 60px;
-   clear:both;
+    margin-left: 60px;
+    clear: both;
 }
 
+.first {
 
-.first{
-   
 }
 
 .trackName {
     float: left;
-    width : 145px;
-    margin-left:25px;
-    background:#1e90ff;
+    width: 145px;
+    margin-left: 25px;
+    background: #1e90ff;
     border: 1px gray solid;
-    text-align:center;
+    text-align: center;
     color: white;
-    line-height:30px;
+    line-height: 30px;
 }
 
 .dayTabs {
     margin-left: 150px;
     clear: both;
 }
+
 .day {
     float: left;
     width: 360px;
@@ -433,4 +431,15 @@ ul.dropdown ul li {
 
 .active {
     background-color: #ccc;
+}
+
+.sessionsblock {
+    height: 250px;
+    clear: both;
+}
+
+.sessions {
+    float: left;
+    width: 425px;
+    margin-left: 50px;
 }
