@@ -3,8 +3,6 @@ layout: session
 title: "Mettre en place un atelier logiciel pour iOS"
 speaker: Claude Falguière
 speakerParam: claudefalguiere
-speaker2: Sylvain Rousseau
-speakerParam2: sylvainrousseau
 param: atelierlogicielios
 ---
 
