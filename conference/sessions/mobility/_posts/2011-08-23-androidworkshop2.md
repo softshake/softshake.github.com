@@ -1,11 +1,11 @@
 ---
 layout: session
-title: "Tackling fragmentation on the Android platform"
+title: "Android Fragmentation - supporting multiple screens"
 speaker: Andreas Hölzl
 speakerParam: andreashoelzl
 speaker2: Andrei Socaciu
 speakerParam2: andreisocaciu
-param: androidworkshop
+param: androidworkshop2
 ---
 
 Fragmentation on the Android platform comes in several flavors.

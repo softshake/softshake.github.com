@@ -3,8 +3,12 @@ layout: speaker
 title: Andreas Hölzl
 photo: AndreasHoelzl.jpg
 param: andreashoelzl
-session: "Tackling fragmentation on the Android platform"
-sessionParam: androidworkshop
+session: "Android Fragmentation - API & hardware fragmentation"
+sessionParam: androidworkshop1
+session2: "Android Fragmentation - supporting multiple screens"
+sessionParam2: androidworkshop2
+session3: "Android Fragmentation - tablet UIs"
+sessionParam3: androidworkshop3
 ---
 
 Andreas Hölzl is a Senior Software Engineer working at Canoo Engineering AG, Basel.
