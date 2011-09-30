@@ -13,6 +13,7 @@ $(document).ready(function() {
     $("a[rel='agile']").colorbox(colorboxParam);
     $("a[rel='microsoft']").colorbox(colorboxParam);
     $("a[rel='incubator']").colorbox(colorboxParam);
+    $("a[rel='keynote']").colorbox(colorboxParam);
     $("a[rel='speakers']").colorbox({ width: '750px', top: '100px' });
 
     var params = location.search.substring(1).split(/&/);
