@@ -1,7 +1,7 @@
 ---
 layout: speaker
 title: "Xavier Bourguignon"
-photo: xavier_bourguinon.jpg
+photo: XavierBourguignon.jpg
 param: xavierbourguignon
 session: "GenevaJUG Coding Dojo"
 sessionParam: codingdojo

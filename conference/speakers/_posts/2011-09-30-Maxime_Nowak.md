@@ -1,7 +1,7 @@
 ---
 layout: speaker
 title: "Maxime Nowak"
-photo: maximenowak.jpg
+photo: MaximeNowak.jpg
 param: maximenowak
 session: "GenevaJUG Coding Dojo"
 sessionParam: codingdojo
