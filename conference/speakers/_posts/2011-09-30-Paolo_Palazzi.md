@@ -1,7 +1,7 @@
 ---
 layout: speaker
 title: Paolo Palazzi
-photo: paolo_palazzi.jpg
+photo: PaoloPalazzi.jpg
 param: paolopalazzi
 session: "The Early Days of the WWW at CERN"
 sessionParam: earlydays
