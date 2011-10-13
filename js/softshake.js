@@ -23,5 +23,5 @@ $(document).ready(function() {
 
 
 function changeLanguage(lang) {
-    return window.location.href.replace(/(https?:\/\/[^/]+)\/?([^/]*)(.*)/gi, '$1/' + lang + '$3');
+    return window.location.href.replace(/(https?:\/\/[^/]+)(\/\d+)?\/?([^/]*)(.*)/gi, '$1$2/' + lang + '$4');
 }
