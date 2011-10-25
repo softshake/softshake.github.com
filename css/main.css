@@ -1,3 +1,9 @@
+/*
+ * SOFTSHAKE COLORS :
+ *  - #009ad7 - blue
+ *  - #9e9c9c - gray
+ */
+
 html, body {
     background: #ffffff;
     color: #666;
@@ -18,7 +24,8 @@ h2 a {
 }
 
 h2 a:hover {
-    color: #ccc;
+    /* color: #ccc; */
+	text-decoration:underline; 
 }
 
 h2 .selected a {
@@ -26,7 +33,9 @@ h2 .selected a {
 }
 
 a {
-    color: #000;
+    /* color: #000; */
+    color: #009ad7;
+	text-decoration: none;
 }
 
 img {
