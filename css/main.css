@@ -37,10 +37,6 @@ a {
 	text-decoration: none;
 }
 
-a:hover {
-	text-decoration:underline; 
-}
-
 img {
     border-style: none;
     display: block;
@@ -53,6 +49,10 @@ img {
 *:link:hover, *:visited:hover, *:link:active, *:visited:active {
     cursor: pointer;
     text-decoration: none;
+}
+
+a:hover {
+	text-decoration:underline; 
 }
 
 .wrapper {
