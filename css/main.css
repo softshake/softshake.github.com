@@ -51,7 +51,7 @@ img {
     text-decoration: none;
 }
 
-a:hover {
+a:hover, a:visited:hover {
 	text-decoration:underline; 
 }
 
