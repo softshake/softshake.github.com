@@ -24,8 +24,7 @@ h2 a {
 }
 
 h2 a:hover {
-    /* color: #ccc; */
-	text-decoration:underline; 
+    color: #ccc;
 }
 
 h2 .selected a {
@@ -36,6 +35,10 @@ a {
     /* color: #000; */
     color: #009ad7;
 	text-decoration: none;
+}
+
+a:hover {
+	text-decoration:underline; 
 }
 
 img {
