@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5 {
 }
 
 h2 a {
-    color: #1e90ff;
+    color: #009ad7;
 }
 
 h2 a:hover {
@@ -150,7 +150,7 @@ a:hover, a:visited:hover {
 .col h2 {
     width: 85%;
     border-bottom: 1px solid #D9D9D9;
-    color: #1e90ff;
+    color: #009ad7;
     text-decoration: none;
     font-size: 15px;
 }
@@ -312,9 +312,16 @@ ul.dropdown li {
 }
 
 ul.dropdown a {
-    color: #1e90ff;
+    color: #009ad7;
     text-decoration: none;
     font-size: 15px;
+}
+
+ul.dropdown a.new {
+    color: white;
+    background-color: #990000;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
 }
 
 ul.dropdown li a:hover {
@@ -342,7 +349,7 @@ ul.dropdown ul li {
     border-right: none;
     width: 100%;
     display: inline-block;
-    color: #1e90ff;
+    color: #009ad7;
     text-decoration: none;
     font-size: 15px;
 }
@@ -402,7 +409,7 @@ ul.dropdown ul li {
 
 .sessionName {
     font-weight: bold;
-    color: #1e90ff;
+    color: #009ad7;
     text-align: center
 }
 
@@ -424,7 +431,7 @@ ul.dropdown ul li {
     float: left;
     width: 145px;
     margin-left: 25px;
-    background: #1e90ff;
+    background: #009ad7;
     border: 1px gray solid;
     text-align: center;
     color: white;
@@ -444,7 +451,7 @@ ul.dropdown ul li {
 }
 
 .day h2 {
-    color: #1e90ff;
+    color: #009ad7;
 }
 
 .day a {
