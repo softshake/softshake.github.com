@@ -1,0 +1,29 @@
+---
+layout: 2013_default_fr
+---
+
+<p>&nbsp;</p>
+
+<h2>L'association</h2>
+
+<p>Afin de garantir tant une indépendance à toute société, technologie, pratique, méthodologie, qu'une stratégie commune, nous avons créé une association à but non lucratif qui a pour vocation d'organiser l'événement et de gérer le budget.</p>
+
+<p>Afin de maintenir un équilibre entre les principales technologies représentées, l'association est décomposée en binômes, chacun ayant à charge la gestion de son track (agilité, java, Microsoft, mobilité et ruby). Le track Incubateur est lui géré par l'ensemble de l'association.</p>
+
+
+<p>&nbsp;</p>
+
+<h2>Les membres</h2>
+
+{% for post in site.categories.members %}
+	{% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+	{% if year == "2013" %}
+		<h3>{{ post.title }}</h3>
+		<ul>
+    		<li>Track <b>{{ post.track }}</b> &#149; <a href="mailto:{{ post.email }}" >email</a> &#149; <a href="http://www.twitter.com/{{ post.twitter }}" >twitter</a></li>
+    		<li>{{ post.content }}</li>
+		</ul>
+	{% endif %}
+{% endfor %}
+
+<p>&nbsp;</p>
