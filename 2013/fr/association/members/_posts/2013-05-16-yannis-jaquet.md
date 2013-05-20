@@ -9,6 +9,7 @@ email: yannis@soft-shake.ch
 email-track: track-ruby@soft-shake.ch
 ---
 
+{% raw %}
 yannis_jaquet = {
   :age => 38,
   :kids => 2,
@@ -22,3 +23,4 @@ yannis_jaquet = {
     "Co-organiseur du user group Geneva.rb avec Romain Sempé"
   ]
 }
+{% endraw %}
