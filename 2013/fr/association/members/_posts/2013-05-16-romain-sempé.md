@@ -2,7 +2,7 @@
 layout: trackowner
 title: Romain SEMPE
 photo: romain-sempe.jpg
-track: Java
+track: Ruby
 linkedIn: ch.linkedin.com/in/maximenowak
 twitter: rsempe
 email: romain@soft-shake.ch
