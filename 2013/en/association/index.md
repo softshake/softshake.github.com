@@ -15,15 +15,17 @@ His interests: innovation, continuous improvement, teamwork, experimentation at 
 
 Yannis JAQUET
 
- - Track Ruby • email • twitter
- - yannis_jaquet = {
+ - Track Ruby • email • twitter 
+
+<pre>
+yannis_jaquet = {
 age => 38,
 kids => 2,
 diploms => {
 grade => ‘Doctor of Science, Biological Mention’,
-title => ‘Functional dissection of Su(var)3-7, a heterochromatic protein from Drosophila melanogaster’,
-date => ‘2004-10-15’ },
+title => ‘Functional dissection of Su(var)3-7, a heterochromatic protein from Drosophila melanogaster’,date => ‘2004-10-15’ },
 current_activities => “Ruby on Rails developer at Département de Génétique & Evolution, Université de Genève”, “Co-organizer of Geneva.rb user group with Romain Sempé” }
+</pre>
 
 Valeriu CARAULEAN
 
