@@ -2,3 +2,7 @@ _site/
 .DS_Store
 .idea/
 *azure*
+.bundle
+vendor/
+gemfile
+.rbenv-version
