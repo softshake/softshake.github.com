@@ -2,3 +2,4 @@
 # Jekyll configuration
 #
 auto:        true
+exclude: ["vendor"]
