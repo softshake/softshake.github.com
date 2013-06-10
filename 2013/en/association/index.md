@@ -6,7 +6,7 @@ layout: 2013_default_en
 
 To guarantee equal opportunities to any company, technology, practice or methodology as well to define a common strategy we have created a non-profit organization that have as the goal to organize the event and manage the budget.
 
-In order to maintain a balance between technologies represented at the conference, organization is decomposed in pairs, each having the responsibility to manage their track (Agile, Java, Microsoft, Mobile and Ruby).
+In order to maintain a balance between technologies represented at the conference, organization is decomposed in pairs, each having the responsibility to manage their track (Agile, Java, Microsoft, Mobile and Ruby). Incubator track is managed by the whole organization.
 
 ##Members
 
