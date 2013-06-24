@@ -19,7 +19,7 @@ yannis_jaquet = {
     :date => '2004-10-15'
   },
   :current_activities => [
-    "Développeur Ruby on Rails au Département de Génétique & Evolution, Université de Genève",
+    "Développeur Ruby on Rails au Département de Génétique &amp; Evolution, Université de Genève",
     "Co-organiseur du user group Geneva.rb avec Romain Sempé"
   ]
 }
