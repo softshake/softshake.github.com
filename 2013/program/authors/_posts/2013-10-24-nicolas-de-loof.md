@@ -1,11 +1,11 @@
 ---
 layout: 2013_speaker_fr
-title: Nicolas De Loof
+title: Nicolas DE LOOF
 author: nicolas-de-loof
 photo: 
 linkedIn: 
 twitter: ndeloof
-email: 
+email: nicolas.deloof@gmail.com
 web: 
 ---
 

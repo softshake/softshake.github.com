@@ -1,11 +1,11 @@
 ---
 layout: 2013_speaker_fr
-title: Guillaume Tardif
+title: Guillaume TARDIF
 author: guillaume-tardif
 photo: 
 linkedIn: 
 twitter: gtardif
-email: 
+email: guillaume.tardif@gmail.com
 web: 
 ---
 

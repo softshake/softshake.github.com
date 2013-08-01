@@ -1,11 +1,11 @@
 ---
 layout: 2013_speaker_fr
-title: Brice Leporini
+title: Brice LEPORINI
 author: brice-leporini
 photo:
 linkedIn:
 twitter:
-email: 
+email: bleporini@gmail.com
 web:
 ---
 

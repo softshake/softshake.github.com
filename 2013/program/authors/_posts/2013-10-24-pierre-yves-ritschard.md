@@ -1,11 +1,11 @@
 ---
 layout: 2013_speaker_fr
-title: Pierre-Yves Ritschard
+title: Pierre-Yves RITSCHARD
 author: pierre-yves-ritschard
 photo: 
 linkedIn: 
 twitter: 
-email: 
+email: pyr@spootnik.org
 web: 
 ---
 

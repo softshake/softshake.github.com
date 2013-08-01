@@ -1,11 +1,11 @@
 ---
 layout: 2013_speaker_fr
-title: Bartosz Majsak
+title: Bartosz MAJSAK
 author: bartosz-majsak
 photo: 
 linkedIn: 
 twitter: 
-email: 
+email: bartosz.majsak@gmail.com
 web: 
 ---
 

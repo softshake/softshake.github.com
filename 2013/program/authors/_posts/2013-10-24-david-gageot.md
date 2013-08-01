@@ -1,11 +1,11 @@
 ---
 layout: 2013_speaker_fr
-title: David Gageot
+title: David GAGEOT
 author: david-gageot
 photo: 
 linkedIn: 
 twitter: dgageot
-email: 
+email: david@gageot.net
 web:
 ---
 

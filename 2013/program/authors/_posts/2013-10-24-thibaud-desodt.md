@@ -5,7 +5,7 @@ author: thibaud-desodt
 photo: 
 linkedIn: 
 twitter: 
-email: 
+email: tibo.desodt@gmail.com
 web: 
 ---
 

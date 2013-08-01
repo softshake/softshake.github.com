@@ -1,11 +1,11 @@
 ---
 layout: 2013_speaker_fr
-title: Sam Brannen
+title: Sam BRANNEN
 author: sam-brannen
 photo:
 linkedIn:
 twitter:
-email: 
+email: sam.brannen@swiftmind.com
 web:
 ---
 

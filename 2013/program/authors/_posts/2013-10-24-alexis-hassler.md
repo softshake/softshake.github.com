@@ -1,11 +1,11 @@
 ---
 layout: 2013_speaker_fr
-title: Alexis Hassler
+title: Alexis HASSLER
 author: alexis-hassler
 photo: 
 linkedIn: 
 twitter: AlexisHassler
-email: 
+email: alexis.hassler@gmail.com
 web: 
 ---
 

@@ -5,8 +5,9 @@ author: pierre-dal-pra
 photo: 
 linkedIn: 
 twitter: 
-email: 
+email: dalpra.pierre@gmail.com
 web: 
 ---
+
 Consultant Java/JEE, je contribue depuis un an à Gatling, avec grand plaisir !
 Je m'intéresse également plus généralement à Scala et à son écosystème.

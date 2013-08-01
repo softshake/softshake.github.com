@@ -1,6 +1,6 @@
 ---
 layout: 2013_speaker_fr
-title: Anatole Tresche
+title: Anatole TRESCHE
 author: anatole-tresche
 photo: 
 linkedIn: 

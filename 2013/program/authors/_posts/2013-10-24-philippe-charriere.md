@@ -1,11 +1,11 @@
 ---
 layout: 2013_speaker_fr
-title: Philippe Charrière
+title: Philippe CHARRIÈRE
 author: philippe-charriere
 photo: 
 linkedIn: 
 twitter: k33g_org
-email: 
+email: ph.charriere@gmail.com
 web:
 ---
 

@@ -5,7 +5,7 @@ author: dominic-williams
 photo:
 linkedIn:
 twitter:
-email: 
+email: mail@dominicwilliams.net
 web:
 ---
 

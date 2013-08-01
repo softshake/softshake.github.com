@@ -5,7 +5,7 @@ author: maarten-balliauw
 photo: http://blog.maartenballiauw.be/image.axd?picture=2012%2f8%2fmaarten-small.jpg
 linkedIn: http://www.linkedin.com/in/maartenballiauw
 twitter: maartenballiauw
-email: 
+email: maarten@balliauw.be
 web: http://blog.maartenballiauw.be/
 ---
 

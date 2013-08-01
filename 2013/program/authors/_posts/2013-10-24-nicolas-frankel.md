@@ -1,11 +1,11 @@
 ---
 layout: 2013_speaker_fr
-title: Nicolas Fränkel
+title: Nicolas FRÄNKEL
 author: nicolas-frankel
 photo: 
 linkedIn: 
 twitter: nicolas_frankel
-email: 
+email: nicolas@frankel.ch
 web: http://blog.frankel.ch/
 ---
 

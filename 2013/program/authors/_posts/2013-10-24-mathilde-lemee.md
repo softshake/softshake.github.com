@@ -1,11 +1,11 @@
 ---
 layout: 2013_speaker_fr
-title: Mathilde Lemée
+title: Mathilde LEMÉE
 author: mathilde-lemee
 photo: 
 linkedIn: 
 twitter: MathildeLemee
-email: 
+email: mathilde.lemee@yahoo.fr
 web: 
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: 2013_speaker_fr
-title: Thierry Wasylczenko
+title: Thierry WASYLCZENKO
 author: thierry-wasylczenko
 photo: 
 linkedIn: 
 twitter: twasyl
-email: 
+email: thierry.wasylczenko@gmail.com
 web: http://thierrywasyl.wordpress.com
 ---
 

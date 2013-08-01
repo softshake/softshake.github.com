@@ -1,11 +1,11 @@
 ---
 layout: 2013_speaker_fr
-title: Henri Tremblay
+title: Henri TREMBLAY
 author: henri-tremblay
 photo: 
 linkedIn: 
 twitter: 
-email: 
+email: henri.tremblay@gmail.com
 web: 
 ---
 

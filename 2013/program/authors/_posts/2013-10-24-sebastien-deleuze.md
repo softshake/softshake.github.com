@@ -1,11 +1,11 @@
 ---
 layout: 2013_speaker_fr
-title: Sébastien Deleuze
+title: Sébastien DELEUZE
 author: sébastien-deleuze
 photo:
 linkedIn: http://www.linkedin.com/in/deleuze
 twitter:
-email:
+email: seb@deleuze.fr
 web:
 ---
 

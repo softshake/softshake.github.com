@@ -1,11 +1,11 @@
 ---
 layout: 2013_speaker_fr
-title: Cyrille Le Clerc
+title: Cyrille LE CLERC
 author: cyrille-le-clerc
 photo: 
 linkedIn: 
 twitter: 
-email: 
+email: cleclerc@cloudbees.com
 web:
 ---
 

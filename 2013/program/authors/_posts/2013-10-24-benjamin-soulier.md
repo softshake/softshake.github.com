@@ -5,7 +5,7 @@ author: benjamin-soulier
 photo: 
 linkedIn: 
 twitter: 
-email: 
+email: benjamin.soulier@gmail.com
 web: 
 ---
 

@@ -1,11 +1,11 @@
 ---
 layout: 2013_speaker_fr
-title: Guillaume Scheibel
+title: Guillaume SCHEIBEL
 author: guillaume-scheibel
 photo: 
 linkedIn: 
 twitter: g_scheibel
-email: 
+email: guillaume.scheibel@gmail.com
 web: 
 ---
 
