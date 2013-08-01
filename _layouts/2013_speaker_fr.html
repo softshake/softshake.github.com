@@ -1,0 +1,49 @@
+---
+layout: 2013_default_fr
+---
+
+<div class="navbar">
+	<ul class="nav navbar-nav">
+	    <li><a href="/2013/fr/conference/program.html">Programme</a></li>
+	    <li><a href="/2013/fr/conference/sessions.html">Sessions</a></li>
+	    <li><a href="/2013/fr/conference/speakers.html">Orateurs</a></li>
+	</ul>
+</div>
+
+<div id="main_container">
+	<h2>{{ page.title }}</h2>
+	<ul>
+		{% if page.web != null %}
+			<li><a href="{{ page.web }}">{{ page.web }}</a></li>
+		{% endif %}
+		{% if page.linkedIn != null %}
+			<li><a href="{{ page.linkedIn }}">linkedin</a></li>
+		{% endif %}
+		{% if page.twitter != null %}
+			<li><a href="https://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a></li>
+		{% endif %}
+	</ul>
+    {{ content }}
+</div>
+
+<p>&nbsp;</p>
+
+<h3>Sessions</h3>
+
+<ul>
+{% for track in site.tracks2013 %}
+
+	{% assign t = track[0] %}
+	{% for post in site.categories[t] reversed %}
+		{% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+		{% if year == "2013" %}
+			{% if post.authorpost == page.author %}
+    			<li>[<a href="/2013/fr/conference/sessions.html#{{ track[0] }}" >{{ track[1] }}</a>] <a href="{{ post.url }}" >{{ post.title }}</a></li>
+			{% endif %}
+		{% endif %}
+	{% endfor %}
+
+{% endfor %}
+</ul>
+
+<p>&nbsp;</p>

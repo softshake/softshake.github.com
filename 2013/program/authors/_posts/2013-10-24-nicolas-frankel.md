@@ -1,0 +1,12 @@
+---
+layout: 2013_speaker_fr
+title: Nicolas Fränkel
+author: nicolas-frankel
+photo: 
+linkedIn: 
+twitter: nicolas_frankel
+email: 
+web: http://blog.frankel.ch/
+---
+
+Nicolas Fränkel est un architect logiciel avec plus d'une décade d'expérience, spécialisé en Java, Java EE et leur écosystème. Ses centres d'intérêt vont du front-end à l'automatisation du build en passant par la gestion de la qualité logicielle. Nicolas est aussi auteur de l'ouvrage Learning Vaadin.

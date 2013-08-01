@@ -1,0 +1,67 @@
+---
+layout: 2013_default_fr
+---
+
+<div id="main_container">
+
+<a id="top" name="top" ></a>
+
+<div class="navbar">
+	<ul class="nav navbar-nav">
+	    <li><a href="/2013/fr/conference/program.html">Programme</a></li>
+	    <li><a class="active" href="/2013/fr/conference/sessions.html">Sessions</a></li>
+	    <li><a href="/2013/fr/conference/speakers.html">Orateurs</a></li>
+	</ul>
+</div>
+
+<p>&nbsp;</p>
+
+<h1>Les tracks</h1>
+
+<ol>
+{% for track in site.tracks2013 %}
+
+	<li><a href="#{{ track[0] }}" >{{ track[1] }}</a></li>
+
+{% endfor %}
+</ol>
+
+<p>&nbsp;</p>
+
+
+
+{% for track in site.tracks2013 %}
+
+<a id="{{ track[0] }}" name="{{ track[0] }}" ></a>
+
+<h2>{{ track[1] }} <small>[<a href="#top" >haut</a>]</small></h2>
+
+<ol>
+
+{% assign t = track[0] %}
+{% for post in site.categories[t] reversed %}
+	{% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+	{% if year == "2013" %}
+    		<li><a href="{{ post.url }}" >{{ post.title }}</a> <i><small>-- {{ post.author }}</small></i></li>
+	{% endif %}
+{% endfor %}
+
+</ol>
+
+<p>&nbsp;</p>
+
+{% endfor %}
+
+<p>&nbsp;</p>
+
+<div class="navbar">
+	<ul class="nav navbar-nav">
+	    <li><a href="/2013/fr/conference/program.html">Programme</a></li>
+	    <li><a class="active" href="/2013/fr/conference/sessions.html">Sessions</a></li>
+	    <li><a href="/2013/fr/conference/speakers.html">Orateurs</a></li>
+	</ul>
+</div>
+
+<p>&nbsp;</p>
+
+</div> <!-- id="main_container" -->

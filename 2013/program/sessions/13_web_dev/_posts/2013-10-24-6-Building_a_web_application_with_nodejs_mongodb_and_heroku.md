@@ -1,0 +1,12 @@
+---
+layout: 2013_session_fr
+title: "Building a web application with node.js mongodb and heroku"
+author: Itamar WEISS
+authorpost: itamar-weiss
+track: 13_web_dev
+web:
+language: en
+---
+
+Our entire platform is built on node.js and mongodb with Heroku- I can give a technical talk about our infrastructure or even a simple workshop.
+We can create a sample web app, and push it to the cloud.

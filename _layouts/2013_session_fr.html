@@ -1,0 +1,22 @@
+---
+layout: 2013_default_fr
+---
+
+<div class="navbar">
+	<ul class="nav navbar-nav">
+	    <li><a href="/2013/fr/conference/program.html">Programme</a></li>
+	    <li><a href="/2013/fr/conference/sessions.html">Sessions</a></li>
+	    <li><a href="/2013/fr/conference/speakers.html">Orateurs</a></li>
+	</ul>
+</div>
+
+<div id="main_container">
+	<h2>{{ page.title }}</h2>
+	<ul>
+		<li>Speaker: <a href="/2013/program/authors/2013/10/24/{{ page.authorpost }}.html">{{ page.author }}</a></il>
+		<li>Track: <a href="/2013/fr/conference/sessions.html#{{ page.track }}" >{{ site.tracks2013[page.track] }}</a></li>
+	</ul>
+    {{ content }}
+</div>
+
+<p>&nbsp;</p>

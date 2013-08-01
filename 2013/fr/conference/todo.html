@@ -1,0 +1,48 @@
+---
+layout: 2013_default_fr
+---
+
+<div id="main_container">
+
+<p>&nbsp;</p>
+
+<div class="navbar">
+	<ul class="nav navbar-nav">
+	    <li><a href="/2013/fr/conference/program.html">Programme</a></li>
+	    <li><a href="/2013/fr/conference/sessions.html">Sessions</a></li>
+	    <li><a class="active" href="/2013/fr/conference/speakers.html">Orateurs</a></li>
+	</ul>
+</div>
+
+<p>&nbsp;</p>
+
+<h2>Les orateurs</h2>
+
+<ul>
+{% for post in site.categories.authors reversed %}
+	{% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+	{% if year == "2013" %}
+	<li><a href="{{ post.url }}" >{{ post.title }}</a>
+		{% if post.content contains "TODO." %}
+		<span style="color: red;"><b> << BIO MISSING</b></span></li>
+		{% endif %}
+		
+		
+		</li>
+	{% endif %}
+{% endfor %}
+</ul>
+
+<p>&nbsp;</p>
+
+<div class="navbar">
+	<ul class="nav navbar-nav">
+	    <li><a href="/2013/fr/conference/program.html">Programme</a></li>
+	    <li><a href="/2013/fr/conference/sessions.html">Sessions</a></li>
+	    <li><a class="active" href="/2013/fr/conference/speakers.html">Orateurs</a></li>
+	</ul>
+</div>
+
+<p>&nbsp;</p>
+
+</div> <!-- id="main_container" -->

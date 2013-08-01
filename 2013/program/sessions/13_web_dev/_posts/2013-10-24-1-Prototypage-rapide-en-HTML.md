@@ -1,0 +1,15 @@
+---
+layout: 2013_session_fr
+title: Prototypage rapide en HTML
+author: Marc FRIEDERICH
+authorpost: marc-friederich
+track: 13_web_dev
+web:
+language: fr
+---
+
+Rien ne vaut du papier et un bon vieux crayon pour coucher ses idées. Puis vient le moment où il faut présenter et éprouver son concept. Dans une démarche agile, il est indispensable d'obtenir rapidement un concept testable.
+
+À travers plusieurs retours d'expérience, cette présentation vous donnera un aperçu des méthodes de prototypage en HTML. Construire son interface en quelques lignes pour pouvoir la tester rapidement.
+
+Valable pour tous les types d'applications, ces méthodes sont idéales pour réaliser des tests utilisateurs.

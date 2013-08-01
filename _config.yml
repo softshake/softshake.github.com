@@ -3,3 +3,56 @@
 #
 auto:        true
 exclude: ["vendor"]
+
+tracks2013:
+    13_agile: Agile
+    13_bigdata: BigData / noSQL
+    13_fun_prog: Programmtion Fonctionnelle
+    13_gamification: Gamification
+    13_ia_robotics: IA / Robotique
+    13_java: Java
+    13_microsoft: Microsoft
+    13_mobile: Mobile
+    13_ruby: Ruby / Rails
+    13_web_dev: Web (JS / CSS3 / HTML5)
+    13_incubator: Incubateur
+
+hours_j1:
+- "S1"
+- "S2"
+- "S3"
+- "S4"
+- "S5"
+- "S6"
+- "S7"
+- "S8"
+
+hours_j2:
+- "S1"
+- "S2"
+- "S3"
+- "S4"
+- "S5"
+- "S6"
+
+schedule2013_j1:
+- 13_agile
+- 13_fun_prog
+- 13_java
+- 13_microsoft
+- 13_mobile
+- 13_web_dev
+- 13_incubator
+- 13_gamification
+- 13_bigdata
+
+schedule2013_j2:
+- 13_agile
+- 13_fun_prog
+- 13_java
+- 13_microsoft
+- 13_mobile
+- 13_web_dev
+- 13_incubator
+- 13_ruby
+- 13_ia_robotics

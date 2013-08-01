@@ -1,0 +1,138 @@
+---
+layout: 2013_default_fr
+---
+
+<div id="main_container">
+
+<a id="top" name="top" ></a>
+
+<div class="navbar">
+	<ul class="nav navbar-nav">
+	    <li><a class="active" href="/2013/fr/conference/program.html">Programme</a></li>
+	    <li><a href="/2013/fr/conference/sessions.html">Sessions</a></li>
+	    <li><a href="/2013/fr/conference/speakers.html">Orateurs</a></li>
+	</ul>
+</div>
+
+<p>&nbsp;</p>
+
+
+{% assign tracks_count = site.schedule2013_j1 | size %}
+{% assign tracks_count_plus_one = 10 %}
+
+<h1>Le programme</h1>
+
+<table border="1" cellspacing="0" cellpadding="3">
+
+	<tr>
+		<th class="13_program_date" colspan="{{ tracks_count_plus_one }}"><h2>Jeudi 24 octobre</h2></th>
+	</tr>
+	<tr>
+		<th> </th>
+		{% for track_code in site.schedule2013_j1 %}
+			{% for track in site.tracks2013 %}
+				{% if track[0] == track_code %}
+					<th class="13_program_track"><small><b>{{ track[1] }}</b></small></th>
+				{% endif %}
+			{% endfor %}
+		{% endfor %}
+	</tr>
+	<tr>
+		<td> </td>
+		<td class="13_program_kyenote" colspan="{{ tracks_count }}"><center><h3>Keynote</h3></center></td>
+	</tr>
+
+{% for h in site.hours_j1 %}
+	{% assign i = forloop.index0 %}
+	<tr>
+		<td class="13_program_hour">{{ h }}</td>
+		{% for track_code in site.schedule2013_j1 %}
+			{% assign track_posts = site.categories[track_code] %}
+			{% assign posts_count = track_posts | size %}
+			{% assign post_index = posts_count | minus:i | minus:1 %}
+			{% assign post = track_posts[post_index] %}
+			<td>
+				{% capture day %}{{post.date | date: "%d"}}{% endcapture %}
+				{% if day == "24" %}
+					<small><small><a href="{{ post.url }}">{{ post.title }}</a></small></small>
+				{% endif %}
+			</td>
+		{% endfor %}
+	</tr>
+{% endfor %}
+
+	<tr>
+		<th> </th>
+		{% for track_code in site.schedule2013_j1 %}
+			{% for track in site.tracks2013 %}
+				{% if track[0] == track_code %}
+					<th class="13_program_track"><small><b>{{ track[1] }}</b></small></th>
+				{% endif %}
+			{% endfor %}
+		{% endfor %}
+	</tr>
+
+	<tr>
+		<th class="13_program_date" colspan="{{ tracks_count_plus_one }}"><p>&nbsp;</p><h2>Vendredi 25 octobre</h2></th>
+	</tr>
+
+	<tr>
+		<th> </th>
+		{% for track_code in site.schedule2013_j2 %}
+			{% for track in site.tracks2013 %}
+				{% if track[0] == track_code %}
+					<th class="13_program_track"><small><b>{{ track[1] }}</b></small></th>
+				{% endif %}
+			{% endfor %}
+		{% endfor %}
+	</tr>
+
+{% for h in site.hours_j2 %}
+	{% assign i = forloop.index0 %}
+
+	<tr>
+		<td class="13_program_hour">{{ h }}</td>
+		
+		{% for track_code in site.schedule2013_j2 %}
+
+			{% assign track_posts = site.categories[track_code] %}
+			{% assign posts_count = track_posts | size %}
+			{% assign post_index = posts_count | minus:i | minus:1 %}
+			{% assign post = track_posts[i] %}
+
+			<td>
+				{% capture day %}{{post.date | date: "%d"}}{% endcapture %}
+				{% if day == "25" %}
+					<small><small><a href="{{ post.url }}">{{ post.title }}</a></small></small>
+				{% endif %}
+			</td>
+
+		{% endfor %}
+	</tr>
+
+{% endfor %}
+
+	<tr>
+		<th> </th>
+		{% for track_code in site.schedule2013_j2 %}
+			{% for track in site.tracks2013 %}
+				{% if track[0] == track_code %}
+					<th class="13_program_track"><small><b>{{ track[1] }}</b></small></th>
+				{% endif %}
+			{% endfor %}
+		{% endfor %}
+	</tr>
+
+</table>
+
+<p>&nbsp;</p>
+
+<div class="navbar">
+	<ul class="nav navbar-nav">
+	    <li><a class="active" href="/2013/fr/conference/program.html">Programme</a></li>
+	    <li><a href="/2013/fr/conference/sessions.html">Sessions</a></li>
+	    <li><a href="/2013/fr/conference/speakers.html">Orateurs</a></li>
+	</ul>
+</div>
+
+</div>
