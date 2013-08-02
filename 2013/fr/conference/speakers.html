@@ -4,34 +4,54 @@ layout: 2013_default_fr
 
 <div id="main_container">
 
-<div class="navbar">
-	<ul class="nav navbar-nav">
-	    <li><a href="/2013/fr/conference/program.html">Programme</a></li>
-	    <li><a href="/2013/fr/conference/sessions.html">Sessions</a></li>
-	    <li><a class="active" href="/2013/fr/conference/speakers.html">Orateurs</a></li>
-	</ul>
-</div>
+	<div class="navbar">
+		<ul class="nav navbar-nav">
+	    	<li><a href="/2013/fr/conference/program.html">Programme</a></li>
+	    	<li><a href="/2013/fr/conference/sessions.html">Sessions</a></li>
+	    	<li><a class="active" href="/2013/fr/conference/speakers.html">Orateurs</a></li>
+		</ul>
+	</div>
 
-<p>&nbsp;</p>
+	<p>&nbsp;</p>
 
-<h2>Les orateurs</h2>
+	<h2>Les orateurs</h2>
 
-<ul>
-{% for post in site.categories.authors reversed %}
-	{% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
-	{% if year == "2013" %}
-	<li><a href="{{ post.url }}" >{{ post.title }}</a></li>
-	{% endif %}
-{% endfor %}
-</ul>
+	<div>
+		<ul id="grid-speaker">
+			{% for post in site.categories.authors reversed %}
+				{% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+				{% if post.photo %}
+	    			<li>
+	        			<a href="{{ post.url }}">
+							<img src="/images/2013/speakers/{{ post.photo }}" alt="{{ post.title }}" title="{{ post.title }}"/>
+						</a>
+	    			</li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+	</div>
 
-<p>&nbsp;</p>
+	<h2>&nbsp;</h2>
 
-<div class="navbar">
-	<ul class="nav navbar-nav">
-	    <li><a href="/2013/fr/conference/program.html">Programme</a></li>
-	    <li><a href="/2013/fr/conference/sessions.html">Sessions</a></li>
-	    <li><a class="active" href="/2013/fr/conference/speakers.html">Orateurs</a></li>
-	</ul>
-</div>
+	<div style="clear: left">
+		<ul>
+			{% for post in site.categories.authors reversed %}
+				{% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+				{% if year == "2013" %}
+					<li><a href="{{ post.url }}" >{{ post.title }}</a></li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+
+		<p>&nbsp;</p>
+	</div>
+
 </div> <!-- id="main_container" -->
+
+<div class="navbar">
+	<ul class="nav navbar-nav">
+    	<li><a href="/2013/fr/conference/program.html">Programme</a></li>
+    	<li><a href="/2013/fr/conference/sessions.html">Sessions</a></li>
+    	<li><a class="active" href="/2013/fr/conference/speakers.html">Orateurs</a></li>
+	</ul>
+</div>

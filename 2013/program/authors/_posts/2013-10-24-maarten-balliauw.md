@@ -2,7 +2,7 @@
 layout: 2013_speaker_fr
 title: Maarten BALLIAUW
 author: maarten-balliauw
-photo: http://blog.maartenballiauw.be/image.axd?picture=2012%2f8%2fmaarten-small.jpg
+photo: maarten-balliauw.jpg
 linkedIn: http://www.linkedin.com/in/maartenballiauw
 twitter: maartenballiauw
 email: maarten@balliauw.be

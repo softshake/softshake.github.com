@@ -2,7 +2,7 @@
 layout: 2013_speaker_fr
 title: Christian LAPOINTE
 author: christian-lapointe
-photo:
+photo: ChristianLapointe.jpg
 linkedIn:
 twitter:
 email: clapointe@pyxis-tech.com

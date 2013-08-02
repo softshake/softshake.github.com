@@ -2,7 +2,7 @@
 layout: 2013_speaker_fr
 title: Alexandre CUVA
 author: alexandre-cuva
-photo:
+photo: AlexandreCuva.jpg
 linkedIn:
 twitter:
 email: alexandre.cuva@gmail.com

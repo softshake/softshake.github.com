@@ -2,7 +2,7 @@
 layout: 2013_speaker_fr
 title: Maxime NOWAK
 author: maxime-nowak
-photo: 
+photo: MaximeNowak.jpg
 linkedIn: 
 twitter: 
 email: maxime.nowak@gmail.com

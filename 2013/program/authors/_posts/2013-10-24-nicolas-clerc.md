@@ -2,7 +2,7 @@
 layout: 2013_speaker_fr
 title: Nicolas CLERC
 author: nicolas-clerc
-photo: 
+photo: NicolasClerc.jpg
 linkedIn: 
 twitter: 
 email: nclerc@quidmind.com

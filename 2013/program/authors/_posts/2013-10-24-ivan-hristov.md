@@ -1,9 +1,9 @@
 ---
 layout: 2013_speaker_fr
 talk: Jongo - Querying MongoDB from Java without a fuss
-title: 
-author: Ivan HRISTOV
-photo: http://m.c.lnkd.licdn.com/media/p/7/000/2a6/259/3b14ed1.jpg
+title: Ivan HRISTOV
+author: ivan-hristov
+photo: ivan-hristov.jpg
 linkedIn: http://www.linkedin.com/in/ivhristov
 twitter: iv_hristov
 email: hristov.iv@gmail.com

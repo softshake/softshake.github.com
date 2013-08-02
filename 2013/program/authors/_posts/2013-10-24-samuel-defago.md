@@ -2,7 +2,7 @@
 layout: 2013_speaker_fr
 title: Samuel DEFAGO
 author: samuel-defago
-photo: 
+photo: SamuelDefago.jpg
 linkedIn: 
 twitter: defagos
 email: samuel.defago@hortis.ch

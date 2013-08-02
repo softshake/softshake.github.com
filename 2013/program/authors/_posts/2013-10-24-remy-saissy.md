@@ -2,8 +2,8 @@
 layout: 2013_speaker_fr
 talk: YARN dans la vraie vie, retour d'expérience et bonnes pratiques tirées de sa mise en place pour un datalab
 title: Rémy SAISSY
-author: Rémy SAISSY
-photo: http://m.c.lnkd.licdn.com/mpr/mpr/shrink_200_200/p/4/000/15b/247/2c3ff8e.jpg
+author: remy-saissy
+photo: remy-saissy.jpg
 linkedIn: fr.linkedin.com/in/remysaissy/
 twitter: 
 email: rsaissy@octo.com

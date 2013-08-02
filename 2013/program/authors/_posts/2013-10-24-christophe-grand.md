@@ -2,7 +2,7 @@
 layout: 2013_speaker_fr
 title: Christophe GRAND
 author: christophe-grand
-photo:
+photo: ChristopheGrand.jpg
 linkedIn:
 twitter:
 email: christophe@cgrand.net

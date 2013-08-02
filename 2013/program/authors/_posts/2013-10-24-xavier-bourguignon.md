@@ -2,7 +2,7 @@
 layout: 2013_speaker_fr
 title: Xavier Bourguignon
 author: Xavier Bourguignon
-photo:
+photo: XavierBourguignon.jpg
 linkedIn:
 twitter:
 email: xavierbourguignon@gmail.com

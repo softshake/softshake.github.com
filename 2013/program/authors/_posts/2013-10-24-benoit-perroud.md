@@ -3,7 +3,7 @@ layout: 2013_speaker_fr
 talk: Enabling Real-time Queries to End-Users
 title: Benoit PERROUD
 author: Benoit PERROUD
-photo: http://www.noisette.ch/data/BenoitPerroud12.07.2013.jpg
+photo: BenoitPerroud12.07.2013.jpg
 linkedIn: http://ch.linkedin.com/in/benoitperroud
 twitter: killerwhile
 email: benoit@noisette.ch

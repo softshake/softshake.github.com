@@ -2,7 +2,7 @@
 layout: 2013_speaker_fr
 title: Jean-François JAGODZINSKI
 author: jean-françois-jagodzinski
-photo: 
+photo: JeanFrancoisJagodzinski.jpg
 linkedIn: 
 twitter: 
 email: jf@jago.fr
