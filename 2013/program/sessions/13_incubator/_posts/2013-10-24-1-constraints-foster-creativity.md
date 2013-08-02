@@ -1,5 +1,5 @@
 ---
-layout: 2013_session_en
+layout: 2013_session_fr
 title: "Constraints foster creativity: Pebble watch app development"
 author: Damian MEHERS
 authorpost: damian-mehers

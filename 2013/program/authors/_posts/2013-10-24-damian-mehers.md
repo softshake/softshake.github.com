@@ -1,6 +1,6 @@
 ---
 layout: 2013_speaker_fr
-title: Damian Mehers
+title: Damian MEHERS
 author: damian-mehers
 photo:
 linkedIn:
