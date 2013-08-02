@@ -2,12 +2,11 @@
 layout: 2013_speaker_fr
 title: Laurent KOHLER
 author: laurent-kohler
-photo: 
-linkedIn: 
+photo: laurent-kohler.png
+linkedIn: http://www.linkedin.com/pub/laurent-kohler/1/334/ab5
 twitter: 
 email: laurent.kohler@apiness.ch
-web: 
+web: http://www.apiness.ch
 ---
 
-30+ années d'expérience ! Développeur, PMP, Scrum master.
-Fondateur d'Apiness SA. Partage d'expérience sur la réalisation d'un outil de productivité et d'un cas d'étude (application mobile et backend web)
+Gestionnaire de projet, développeur iPhone par passion, «créateur de logiciel» polyvalent, Laurent à fondé la société Apiness SA en 2011. 30 ans d’expérience à partager et toujours prêt à apprendre et à découvrir les nouveautés !

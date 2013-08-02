@@ -1,6 +1,6 @@
 ---
 layout: 2013_session_fr
-title: "Backend web - productivité de développement"
+title: "L’envers du décor - synchronisation des données entre MySql et application iOS"
 author: Laurent KOHLER
 authorpost: laurent-kohler
 track: 13_mobile
@@ -8,7 +8,20 @@ web:
 language: fr
 ---
 
-Partage d'expériences et présentation d'un outil de productivité pour réaliser rapidement des "systèmes" de gestion de données en web (intégrés à Joomla pour l'instant). 
-L'outil se base sur l'utilisation de procédure stockée pour le backend db pour favoriser robustesse et performance ainsi que la maintenance.
-L'étude de cas se fera sur une app mobile (déploiement prévu en septembre) qui synchronise le contenu depuis le backend web.
-Le but de l'atelier est 1) présenter notre expérience et outil 2) discuter/partager les expériences des participants sur les approches de développement/outils et la productivité qui en découle. Echanger les différents points de vue.
+Pour une fois, il s’agit de parler de ce que l’on ne montre pas toujours au public : «l’envers du décor», soit le backend base de données et la synchronisation avec l’application iPhone. 
+
+Le but de la session est de présenter notre expérience dans le contexte suivant :
+
+* Base de données locale Sqlite
+* Base de données serveur MySql
+* Synchronisation des données application - serveur
+
+Agenda :
+
+* Présentation de l’application 
+* Présentation de l’administration des données (écrans de maintenance des données intégrés à Joomla)
+* Présentation de l’approche et du code, productivité de développement pour le backend web
+* Sqlite sans CoreData
+* Echange des données en JSON
+* Procédures stockées et vues MySql
+* Discussion concernant les techniques possibles et la productivité
