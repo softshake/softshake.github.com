@@ -1,7 +1,7 @@
 ---
 layout: session
-title: Scala in Action
-author: Andres Almiray
+title: "'Functional Groovy'. Scheduling mistake perhaps?"
+author: Andres ALMIRAY
 authorpost: andres-almiray
 track: 13_fun_prog
 web: 
