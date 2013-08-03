@@ -1,7 +1,7 @@
 ---
 layout: 2013_session_fr
 title: "From vertical to horizontal: infrastructure and scalability challenges in the cloud"
-author: Pierre-Yves Ritschard
+author: Pierre-Yves RITSCHARD
 authorpost: pierre-yves-ritschard
 track: 13_incubator
 web: 

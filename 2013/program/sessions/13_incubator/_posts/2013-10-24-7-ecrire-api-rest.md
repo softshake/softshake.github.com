@@ -1,7 +1,7 @@
 ---
 layout: 2013_session_fr
 title: Ecrire une API REST
-author: Maxime Nowak
+author: Maxime NOWAK
 authorpost: maxime-nowak
 track: 13_incubator
 web: 

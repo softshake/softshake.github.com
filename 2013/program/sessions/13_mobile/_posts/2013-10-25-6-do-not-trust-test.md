@@ -1,6 +1,6 @@
 ---
 layout: 2013_session_fr
-title: Do not trust test
+title: "Do not trust, test ! "
 author: Olivier GONTHIER
 authorpost: olivier-gonthier
 track: 13_2013_session_frmobile

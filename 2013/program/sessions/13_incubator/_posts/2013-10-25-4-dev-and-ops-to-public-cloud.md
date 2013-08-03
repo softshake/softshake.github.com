@@ -1,7 +1,7 @@
 ---
 layout: 2013_session_fr
 title: "(Dev && Ops).toPublicCloud()"
-author: Cyrille Le Clerc
+author: Cyrille LE CLERC
 authorpost: cyrille-le-clerc
 track: 13_incubator
 web: 
