@@ -2,7 +2,7 @@
 layout: 2013_speaker_fr
 title: Damian MEHERS
 author: damian-mehers
-photo:
+photo: damian-mehers.jpg
 linkedIn:
 twitter:
 email: damian@evernote.com
