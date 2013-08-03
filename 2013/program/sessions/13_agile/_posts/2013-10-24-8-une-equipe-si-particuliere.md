@@ -2,7 +2,7 @@
 layout: 2013_session_fr
 title: Une équipe si particulière
 author: Jean-François JAGODZINSKI
-authorpost: jean-françois-jagodzinski
+authorpost: jean-francois-jagodzinski
 track: 13_agile
 web: 
 language: fr
