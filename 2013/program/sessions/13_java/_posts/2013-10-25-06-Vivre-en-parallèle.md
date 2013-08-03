@@ -1,7 +1,7 @@
 ---
 layout: 2013_session_fr
-title: "Vivre en parallèle (conférence et exemples de code)"
-author: Tremblay Henri
+title: "Vivre en parallèle"
+author: Henri TREMBLAY
 authorpost: henri-tremblay
 track: 13_java
 web: 

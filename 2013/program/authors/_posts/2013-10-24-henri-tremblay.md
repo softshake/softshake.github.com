@@ -2,11 +2,11 @@
 layout: 2013_speaker_fr
 title: Henri TREMBLAY
 author: henri-tremblay
-photo: 
-linkedIn: 
-twitter: 
+photo: henri-tremblay.jpg
+linkedIn: http://www.linkedin.com/in/henritremblay
+twitter: henri_tremblay
 email: henri.tremblay@gmail.com
-web: 
+web: http://henritremblay.blogspot.fr/
 ---
 
 Henri Tremblay est un amateur d'algorithmie et de performance. Souvent en Java. Il conçoit des logiciels, souvent financiers, depuis bientôt 14 ans. Plus que tout, il aime résoudre des problèmes complexes et l'informatique s'avère en être particulièrement bien nanti. 
