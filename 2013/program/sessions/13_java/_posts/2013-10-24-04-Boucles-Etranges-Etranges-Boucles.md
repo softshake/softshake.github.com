@@ -1,9 +1,8 @@
 ---
 layout: 2013_session_fr
 title: "Boucles Etranges : Etranges Boucles"
-author: Eric Lefevre-Ardant
+author: Eric LEFEVRE-ARDANT et Guillaume TARDIF
 authorpost: eric-lefevre-ardant
-author2: Guillaume Tardif
 authorpost2: guillaume-tardif
 track: 13_java
 web: 
