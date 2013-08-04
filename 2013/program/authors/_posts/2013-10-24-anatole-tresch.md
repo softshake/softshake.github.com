@@ -5,7 +5,7 @@ author: anatole-tresch
 photo: 
 linkedIn: 
 twitter: 
-email: 
+email: atsticks@gmail.com
 web: 
 ---
 
