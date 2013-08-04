@@ -1,7 +1,7 @@
 ---
 layout: 2013_session_fr
 title: "Facilitation graphique - Je simplifie donc je dessine"
-author: "Elizabeth Auzan et Sébastien Gerbier"
+author: "Elizabeth AUZAN et Sébastien GERBIER"
 authorpost: elizabeth-auzan
 track: 13_incubator
 web: 

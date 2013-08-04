@@ -1,9 +1,8 @@
 ---
 layout: 2013_session_fr
 title: Mettez en place Sonar sur vos développements mobiles
-author: Cyril PICAT et Romain FEIDEN
+author: Cyril PICAT (et Romain FEIDEN)
 authorpost: cyril-picat
-authorpost2: romain-feiden
 track: 13_mobile
 web: 
 language: en

@@ -1,6 +1,6 @@
 ---
 layout: 2013_speaker_fr
-title: Alexis Bernard
+title: Alexis BERNARD
 author: alexis-bernard
 photo:
 linkedIn:

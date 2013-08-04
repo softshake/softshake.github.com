@@ -19,11 +19,9 @@ layout: 2013_default_fr
 <h1>Les tracks</h1>
 
 <ol>
-{% for track in site.tracks2013 %}
-
-	<li><a href="#{{ track[0] }}" >{{ track[1] }}</a></li>
-
-{% endfor %}
+	{% for track in site.tracks2013 %}
+		<li><a href="#{{ track[0] }}" >{{ track[1] }}</a></li>
+	{% endfor %}
 </ol>
 
 <p>&nbsp;</p>
@@ -32,23 +30,20 @@ layout: 2013_default_fr
 
 {% for track in site.tracks2013 %}
 
-<a id="{{ track[0] }}" name="{{ track[0] }}" ></a>
+	<a id="{{ track[0] }}" name="{{ track[0] }}" ></a>
+	<h2>{{ track[1] }} <small>[<a href="#top" >haut</a>]</small></h2>
 
-<h2>{{ track[1] }} <small>[<a href="#top" >haut</a>]</small></h2>
-
-<ol>
-
-{% assign t = track[0] %}
-{% for post in site.categories[t] reversed %}
-	{% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
-	{% if year == "2013" %}
+	<ol>
+	{% assign t = track[0] %}
+	{% for post in site.categories[t] reversed %}
+		{% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+		{% if year == "2013" %}
     		<li><a href="{{ post.url }}" >{{ post.title }}</a> <i><small>-- {{ post.author }}</small></i></li>
-	{% endif %}
-{% endfor %}
+		{% endif %}
+	{% endfor %}
+	</ol>
 
-</ol>
-
-<p>&nbsp;</p>
+	<p>&nbsp;</p>
 
 {% endfor %}
 

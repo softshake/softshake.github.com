@@ -24,8 +24,8 @@ layout: 2013_default_fr
 	{% if year == "2013" %}
 		{% if post.content contains "TODO." %}
 		<li><a href="{{ post.url }}" >{{ post.title }}</a>
-		<span style="color: red;"><b> << BIO MISSING</b></span></li>
-	</li>
+			<span style="color: red;"><b> << BIO MISSING</b></span></li>
+		</li>
 		{% endif %}
 	{% endif %}
 {% endfor %}
@@ -41,8 +41,12 @@ layout: 2013_default_fr
 	{% for post in site.categories[t] reversed %}
 		{% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
 		{% if year == "2013" %}
-			{% if post.author contains ' et ' %} 
-    			<li><a href="{{ post.url }}" >{{ post.title }}</a> [et] <i><small>-- {{ post.author }}</small></i></li>
+			{% if post.author contains 'et ' %} 
+    			<li><a href="{{ post.url }}" >{{ post.title }}</a> [et] <i><small>-- {{ post.author }}</small></i>
+					{% if post.authorpost2 == null %}
+						<span style="color: red;"><b> << 2nd SPEAKER NOT INVITED</b></span></li>
+					{% endif %}
+				</li>
 			{% endif %}
 			{% if post.author contains ', ' %} 
     			<li><a href="{{ post.url }}" >{{ post.title }}</a> [,] <i><small>-- {{ post.author }}</small></i></li>
