@@ -473,15 +473,43 @@ ul.dropdown ul li {
     margin-left: 50px;
 }
 
-#13_program_date {
-    background-color: #ccc;
+.sos13_program_date {
+    background-color: rgba(0, 154, 215, 1.0);
+    background-color: #009ad7;
+	color: white;
+    text-align: center;
+	font-weight: 500;
+    font-size: 24px;
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
 
-#13_program_hour {
+.sos13_program_hour {
 }
 
-#13_program_track {
+.sos13_program_track {
+    text-align: center;
+    background-color: #dddddd;
+
+    background-color: rgba(0, 154, 215, 1.0);
+    background-color: black;
+	color: white;
+    text-align: center;
+	/* font-weight: 500; */
+    font-size: 85%;
+	/* padding-top: 10px; */
+	/* padding-bottom: 10px; */
 }
 
-#13_program_keynote {
+.sos13_program_keynote {
+    text-align: center;
+    background-color: #cccccc;
+    text-align: center;
+    font-size: 110%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.sos13_program_session_en {
+    background-color: rgba(255, 0, 0, 0.2);
 }
