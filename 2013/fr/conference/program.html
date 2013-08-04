@@ -94,18 +94,24 @@ layout: 2013_default_fr
 		<td class="13_program_hour">{{ h }}</td>
 		
 		{% for track_code in site.schedule2013_j2 %}
-
 			{% assign track_posts = site.categories[track_code] %}
-			{% assign posts_count = track_posts | size %}
-			{% assign post_index = posts_count | minus:i | minus:1 %}
-			{% assign post = track_posts[i] %}
+
 
 			<td>
-				{% capture day %}{{post.date | date: "%d"}}{% endcapture %}
-				{% if day == "25" %}
-					<small><small><a href="{{ post.url }}">{{ post.title }}</a></small></small>
-				{% endif %}
+			{% assign d25count = 0 %}
+			{% for post in track_posts reversed %}
+					{% capture day %}{{post.date | date: "%d"}}{% endcapture %}
+					{% if day == "25" %}
+						{% if d25count == i %}
+							<small><small><a href="{{ post.url }}">{{ post.title }}</a></small></small>
+						{% endif %}
+						{% assign d25count = d25count | plus:1 %}
+					{% endif %}
+
+			{% endfor %}
 			</td>
+
+
 
 		{% endfor %}
 	</tr>
