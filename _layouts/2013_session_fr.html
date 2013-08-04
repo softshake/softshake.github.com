@@ -15,8 +15,21 @@ layout: 2013_default_fr
 	<ul>
 		<li>Speaker: <a href="/2013/program/authors/2013/10/24/{{ page.authorpost }}.html">{{ page.author }}</a></il>
 		<li>Track: <a href="/2013/fr/conference/sessions.html#{{ page.track }}" >{{ site.tracks2013[page.track] }}</a></li>
+		{% if page.level %}
+			<li>Niveau: <a href="http://fr.wikipedia.org/wiki/Shuhari" target="_blank">{{ page.level }}</a></li>
+		{% endif %}
 	</ul>
+	<p>&nbsp;</p>
+	<h4>Description</h4>
+
     {{ content }}
+
+	{% if page.contribution %}
+		<p>&nbsp;</p>
+		<h4>Apport pour les participants</h4>
+	
+		<p>{{ page.contribution }}</p>
+	{% endif %}
 </div>
 
 <p>&nbsp;</p>
