@@ -2,9 +2,9 @@
 layout: 2013_speaker_fr
 title: Pablo Tamarit
 author: pablo-tamarit
-photo:
+photo: pablo-tamarit.jpg
 linkedIn:
-twitter:
+twitter: ptamarit
 email: Pablo.Tamarit@cern.ch
 web:
 ---
