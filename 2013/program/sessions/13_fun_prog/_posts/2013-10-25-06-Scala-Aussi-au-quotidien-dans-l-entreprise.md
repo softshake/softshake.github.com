@@ -5,7 +5,7 @@ author: Antoine COMTE
 authorpost: antoine-comte
 track: 13_fun_prog
 web:
-language: Fr
+language: fr
 ---
 
 Cette présentation est une exploration de ce que peut apporter Scala et son éco-système pour le développement d'application de gestion en entreprise.

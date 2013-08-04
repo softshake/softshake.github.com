@@ -5,7 +5,7 @@ author: Max PENET
 authorpost: max-penet
 track: 13_fun_prog
 web:
-language: En
+language: en
 ---
 
 This talk will explore two libraries, a Cassandra native CQL client (1) and a Clojure DSL for writing CQL3 queries (2).

@@ -5,7 +5,7 @@ author: Cédric EXBRAYAT
 authorpost: cedric-exbrayat
 track: 13_fun_prog
 web: 
-language: Fr
+language: fr
 ---
 
 Java 8 arrive très bientôt. Et avec cette nouvelle version, un nouveau paradigme de programmation: la programmation fonctionnelle, avec les lambdas.

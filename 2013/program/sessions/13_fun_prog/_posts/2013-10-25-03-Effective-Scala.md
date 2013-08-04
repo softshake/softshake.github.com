@@ -5,7 +5,7 @@ author: Mirco Dotta
 authorpost: mirco-dotta
 track: 13_fun_prog
 web: 
-language: En
+language: en
 ---
 
 Everything you always wanted to know about Scala but were afraid to ask. 

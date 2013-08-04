@@ -5,7 +5,7 @@ author: Christophe PACHE
 authorpost: christophe-pache
 track: 13_fun_prog
 web: 
-language: Fr
+language: fr
 ---
 
 Le modèle des Acteurs (Actor model) est une théorie de programmation concurrente. 

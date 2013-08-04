@@ -5,7 +5,7 @@ author: Alex PETROV
 authorpost: alex-petrov
 track: 13_fun_prog
 web:
-language: En
+language: en
 ---
 
 Businesses often suffer from not knowing precise numbers, many decisions are taken rather blindly, without analysis and projection. Even basic event aggregation and statistics can give an amazing amount of information for decision making, anomaly detection and projection.

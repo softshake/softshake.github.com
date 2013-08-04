@@ -5,7 +5,7 @@ author: Matthew FARWELL
 authorpost: matthew-farwell
 track: 13_fun_prog
 web: 
-language: Fr
+language: fr
 ---
 
 10 raisons pourquoi les développeurs Java sont jaloux des développeurs Scala

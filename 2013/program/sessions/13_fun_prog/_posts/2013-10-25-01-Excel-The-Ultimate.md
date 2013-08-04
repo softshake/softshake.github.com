@@ -5,7 +5,7 @@ author: Christophe GRAND
 authorpost: christophe-grand
 track: 13_fun_prog
 web: 
-language: Fr
+language: fr
 ---
 
 Le langage de formule est le langage fonctionnel le plus répandu.

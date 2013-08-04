@@ -5,7 +5,7 @@ author: Luc Bourlier
 authorpost: luc-bourlier
 track: 13_fun_prog
 web: 
-language: Fr
+language: fr
 ---
 
 You don't yet speak Scala? Then let us invite you to a journey on which we will explore the outstanding features of this programming language for the Java Virtual Machine.
