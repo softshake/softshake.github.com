@@ -2,8 +2,8 @@
 layout: 2013_speaker_fr
 title: Mirco DOTTA
 author: mirco-dotta
-photo:
-linkedIn:
+photo: mirco-dotta.jpg
+linkedIn: http://www.linkedin.com/pub/mirco-dotta/a/537/152
 twitter:
 email: mirco.dotta@typesafe.com
 web:
