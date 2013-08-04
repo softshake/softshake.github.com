@@ -21,13 +21,18 @@ layout: 2013_default_fr
     <div class="text">
         <h2>{{ page.title }}</h2>
 		<ul>
-			{% if page.web != null %}
-				<li><a href="{{ page.web }}">{{ page.web }}</a></li>
+			{% if page.web %}
+				<li>
+					<a href="{{ page.web }}">{{ page.web }}</a>
+					{% if page.web2 %}
+						 &bull; <a href="{{ page.web2 }}">{{ page.web2 }}</a>
+					{% endif %}
+				</li>
 			{% endif %}
-			{% if page.linkedIn != null %}
+			{% if page.linkedIn %}
 				<li><a href="{{ page.linkedIn }}">linkedin</a></li>
 			{% endif %}
-			{% if page.twitter != null %}
+			{% if page.twitter %}
 				<li><a href="https://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a></li>
 			{% endif %}
 		</ul>
