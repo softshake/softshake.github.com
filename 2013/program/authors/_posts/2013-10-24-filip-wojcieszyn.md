@@ -5,7 +5,7 @@ author: filip-wojcieszyn
 photo: 
 linkedIn: 
 twitter: filip_woj
-email: 
+email: filip@strathweb.com
 web: www.starthweb.com
 ---
 
