@@ -2,10 +2,11 @@
 layout: 2013_speaker_fr
 title: Anatole TRESCH
 author: anatole-tresch
-photo: 
-linkedIn: 
-twitter: 
+photo: anatole-tresch.jpg
+linkedIn: http://lnkd.in/PqGf_A
+twitter: atsticks
 email: atsticks@gmail.com
+email2: atsticks@java.net
 web: 
 ---
 
