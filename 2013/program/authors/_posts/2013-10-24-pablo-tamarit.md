@@ -1,6 +1,6 @@
 ---
 layout: 2013_speaker_fr
-title: Pablo Tamarit
+title: Pablo TAMARIT
 author: pablo-tamarit
 photo: pablo-tamarit.jpg
 linkedIn:
