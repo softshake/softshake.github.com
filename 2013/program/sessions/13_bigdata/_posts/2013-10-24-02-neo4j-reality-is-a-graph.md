@@ -3,7 +3,7 @@ layout: 2013_session_fr
 title: "Neo4J: (Reality)-[:IS_A]->(Graph)"
 author: Florent Biville
 confirmed: YES
-authorpost: ???
+authorpost: florent-biville
 track: 13_bigdata
 web: 
 language: en
