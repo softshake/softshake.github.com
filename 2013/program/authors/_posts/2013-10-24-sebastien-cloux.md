@@ -2,7 +2,7 @@
 layout: 2013_speaker_fr
 title: Sebastien CLOUX
 author: sebastien-cloux
-photo: 
+photo: sebastien-cloux.png
 linkedIn: 
 twitter: sbclx
 email: sebastien_cloux@bluewin.ch
