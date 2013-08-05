@@ -2,11 +2,11 @@
 layout: 2013_speaker_fr
 title: Cédric EXBRAYAT
 author: cedric-exbrayat
-photo:
-linkedIn:
-twitter:
+photo: cedric-exbrayat.jpg
+linkedIn: http://www.linkedin.com/in/exbrayatcedric
+twitter: cedric_exbrayat
 email: cedric@ninja-squad.com
-web:
+web: http://ninja-squad.fr/
 ---
 
 Cédric est avant tout un passionné. Par son travail déjà et c’est une chance.
