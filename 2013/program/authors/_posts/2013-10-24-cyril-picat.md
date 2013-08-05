@@ -2,11 +2,11 @@
 layout: 2013_speaker_fr
 title: Cyril PICAT
 author: cyril-picat
-photo:
+photo: cyril-picat.jpg
 linkedIn:
-twitter:
+twitter: cyrilpicat
 email: cpicat@octo.com
-web:
+web: http://blog.octo.com/author/cpi
 ---
 
 Cyril est un consultant IT et intervient en tant qu'architecte sur des missions d'audit et d'architecture d'application, ainsi que sur des missions d'architecture de SI. Il s'occupe depuis 3 ans de l'offre Mobilité chez 
