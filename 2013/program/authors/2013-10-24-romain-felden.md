@@ -1,7 +1,7 @@
 ---
 layout: 2013_speaker_fr
-title: Romain FEIDEN
-author: romain-feiden
+title: Romain FELDEN
+author: romain-felden
 photo:
 linkedIn:
 twitter:

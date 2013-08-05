@@ -5,7 +5,7 @@ author: jean-baptiste-nizet
 photo: jean-baptiste-nizet.jpg
 linkedIn: http://www.linkedin.com/pub/jean-baptiste-nizet/6b/285/798
 twitter: jbnizet
-email: 
+email: jb@ninja-squad.com
 web: http://ninja-squad.fr/
 ---
 
