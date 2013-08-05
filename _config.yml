@@ -7,7 +7,7 @@ exclude: ["vendor"]
 tracks2013:
     13_agile: Agile
     13_bigdata: BigData / noSQL
-    13_fun_prog: Programmtion Fonctionnelle
+    13_fun_prog: Programmation Fonctionnelle
     13_gamification: Gamification
     13_ia_robotics: IA / Robotique
     13_java: Java
