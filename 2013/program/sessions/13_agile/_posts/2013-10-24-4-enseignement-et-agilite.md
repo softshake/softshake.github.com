@@ -6,6 +6,7 @@ authorpost: romain-couturier
 track: 13_agile
 web: 
 language: fr
+confirmed: yes
 ---
 
 Cette session est dédiée à toutes celles et ceux qui interviennent pour enseigner l’Agilité. Les IUT, les écoles d’informatique (mais pas que !) inscrivent désormais l’Agilité dans leur cursus pédagogique. Il s’agit d’une avancée importante pour l’Agilité, mais contrairement à ce que nous pratiquons en entreprise ou en formation, l’enseignement de l’Agilité doit prendre d’autres formes, auprès des étudiants … mais également du corps enseignant.
