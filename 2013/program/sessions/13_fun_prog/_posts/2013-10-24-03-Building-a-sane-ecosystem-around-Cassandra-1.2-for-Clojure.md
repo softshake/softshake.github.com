@@ -1,6 +1,6 @@
 ---
 layout: 2013_session_fr
-title: "Scala : Building a sane ecosystem around Cassandra 1.2+ for Clojure"
+title: "Building a sane ecosystem around Cassandra 1.2+ for Clojure"
 author: Max PENET
 authorpost: max-penet
 track: 13_fun_prog
