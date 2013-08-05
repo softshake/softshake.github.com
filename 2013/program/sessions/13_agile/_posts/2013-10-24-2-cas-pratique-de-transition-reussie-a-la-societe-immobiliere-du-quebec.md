@@ -1,11 +1,12 @@
 ---
 layout: 2013_session_fr
-title: Cas pratique de transition réussie à la Société immobilière du Québec
+title: "Cas pratique de transition agile réussie à la Société immobilière du Québec"
 author: Mathieu BOISVERT
 authorpost: mathieu-boisvert
 track: 13_agile
 web: 
 language: fr
+confirmed: yes
 ---
 
 Mathieu désire partager avec vous un bel exemple de ce que l'adoption de l'Agilité peut apporter à une organisation, au-delà de la simple utilisation de Scrum. En particulier, leur présentation portera sur les pratiques mises en place à la Société immobilière du Québec (SIQ) dans un contexte d'équipes nombreuses :
