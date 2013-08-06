@@ -5,7 +5,7 @@ author: Cyril PICAT (et Romain FELDEN)
 authorpost: cyril-picat
 track: 13_mobile
 web: 
-language: en
+language: fr
 ---
 
 Cette session présentera l'état et la maturité de la solution de qualimétrie Sonar sur les plateformes Android et iOS. 
