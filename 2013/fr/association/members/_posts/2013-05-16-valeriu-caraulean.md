@@ -1,7 +1,7 @@
 ---
 layout: 2013_trackowner_fr
 title: Valeriu CARAULEAN
-photo:
+photo: valeriu-caraulean.jpg
 track: 13_microsoft
 linkedIn: http://ch.linkedin.com/in/vcaraulean
 twitter: vcaraulean
