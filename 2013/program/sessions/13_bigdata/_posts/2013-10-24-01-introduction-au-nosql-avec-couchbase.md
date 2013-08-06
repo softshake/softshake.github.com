@@ -2,7 +2,7 @@
 layout: 2013_session_fr
 title: Introduction au NoSQL avec Couchbase
 author: Grall Tugdual
-authorpost: ???
+authorpost: grall-tugdual
 track: 13_bigdata
 web: 
 language: fr

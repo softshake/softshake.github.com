@@ -3,7 +3,7 @@ layout: 2013_session_fr
 title: "Jongo - Querying MongoDB from Java without a fuss"
 author: Ivan Hristov
 confirmed: YES
-authorpost: ???
+authorpost: ivan-hristov
 track: 13_bigdata
 web: http://ingini.org
 language: en

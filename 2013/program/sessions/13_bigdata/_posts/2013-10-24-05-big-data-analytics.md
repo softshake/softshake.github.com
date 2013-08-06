@@ -2,7 +2,7 @@
 layout: 2013_session_fr
 title: Big Data Analytics
 author: Laurent Guiraud
-authorpost: ???
+authorpost: laurent-guiraud
 track: 13_bigdata
 web: 
 language: en

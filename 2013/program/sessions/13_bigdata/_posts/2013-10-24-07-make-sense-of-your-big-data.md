@@ -3,7 +3,7 @@ layout: 2013_session_fr
 title: Make sense of your (BIG) data!
 author: Pilato David
 confirmed: YES
-authorpost: ???
+authorpost: david-pilato
 track: 13_bigdata
 web: 
 language: fr
