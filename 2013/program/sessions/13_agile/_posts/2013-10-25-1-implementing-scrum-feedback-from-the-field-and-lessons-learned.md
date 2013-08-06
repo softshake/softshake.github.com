@@ -6,6 +6,7 @@ authorpost: andrej-sobkowski
 track: 13_agile
 web: 
 language: en
+confirmed: yes
 ---
 
 Based on the speaker’s experience as a Software Engineering Executive, the session will provide honest feedback on the following questions:

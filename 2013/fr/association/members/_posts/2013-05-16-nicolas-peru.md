@@ -3,7 +3,7 @@ layout: 2013_trackowner_fr
 title: Nicolas PERU
 photo: 
 track: 13_java
-linkedIn: ch.linkedin.com/in/maximenowak
+linkedIn: 
 twitter: benzonico
 email: nicolas.p@soft-shake.ch
 email-track: track-java@soft-shake.ch

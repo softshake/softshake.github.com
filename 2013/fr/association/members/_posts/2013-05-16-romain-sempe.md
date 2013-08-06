@@ -1,9 +1,9 @@
 ---
 layout: 2013_trackowner_fr
 title: Romain SEMPE
-photo:
+photo: romain-sempe.png
 track: 13_ruby
-linkedIn: ch.linkedin.com/in/maximenowak
+linkedIn: http://www.linkedin.com/in/rsempe
 twitter: rsempe
 email: romain@soft-shake.ch
 email-track: track-ruby@soft-shake.ch

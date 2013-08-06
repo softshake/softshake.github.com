@@ -3,7 +3,7 @@ layout: 2013_trackowner_fr
 title: Benjamin SOULIER
 photo: benjamin-soulier.jpg
 track: 13_microsoft
-linkedIn: ch.linkedin.com/in/maximenowak
+linkedIn: 
 twitter: bsoulier
 email: benjamin@soft-shake.ch
 email-track: track-microsoft@soft-shake.ch

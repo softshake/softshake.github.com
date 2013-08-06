@@ -3,7 +3,7 @@ layout: 2013_trackowner_fr
 title: Valeriu CARAULEAN
 photo:
 track: 13_microsoft
-linkedIn: ch.linkedin.com/in/vcaraulean
+linkedIn: http://ch.linkedin.com/in/vcaraulean
 twitter: vcaraulean
 email: valeriu@soft-shake.ch
 email-track: track-microsoft@soft-shake.ch

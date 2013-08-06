@@ -3,7 +3,7 @@ layout: 2013_trackowner_fr
 title: Gaël LUISIER
 photo: gael-luisier.jpg
 track: 13_agile
-linkedIn: ch.linkedin.com/in/maximenowak
+linkedIn: 
 twitter: Pyxis_Suisse
 email: gael@soft-shake.ch
 email-track: track-agile@soft-shake.ch
