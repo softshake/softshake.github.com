@@ -1,10 +1,10 @@
 ---
 layout: 2013_trackowner_fr
 title: Géraud DE LAVAL
-photo:
+photo: geraud-de-laval.png
 track: 13_mobile
 linkedIn: 
-twitter: Geraudch
+twitter: geraudch
 email: geraud@soft-shake.ch
 email-track: track-mobile@soft-shake.ch
 ---

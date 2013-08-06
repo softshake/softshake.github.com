@@ -2,7 +2,7 @@
 layout: 2013_speaker_fr
 title: Géraud de LAVAL
 author: geraud-de-laval
-photo: 
+photo: geraud-de-laval.png
 linkedIn: 
 twitter: geraudch
 email: gerauddelaval@gmail.com
