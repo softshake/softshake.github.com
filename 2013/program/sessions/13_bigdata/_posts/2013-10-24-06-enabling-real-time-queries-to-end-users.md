@@ -3,7 +3,7 @@ layout: 2013_session_fr
 title: "Enabling Real-time Queries to End-Users"
 author: Benoit Perroud
 confirmed: YES
-authorpost: ???
+authorpost: benoit-perroud
 track: 13_bigdata
 web: 
 language: en

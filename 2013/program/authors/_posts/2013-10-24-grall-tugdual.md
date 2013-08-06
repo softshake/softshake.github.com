@@ -1,8 +1,8 @@
 ---
 layout: 2013_speaker_fr
 talk: Introduction au NoSQL avec Couchbase
-title: 
-author: Tugdual GRALL
+title: Tugdual GRALL
+author: grall-tugdual
 photo: 
 linkedIn: 
 twitter: 
