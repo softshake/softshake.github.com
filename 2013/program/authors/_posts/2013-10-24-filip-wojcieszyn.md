@@ -1,8 +1,8 @@
 ---
 layout: 2013_speaker_fr
-title: Filip WOJCIESYN
+title: Filip WOJCIESZYN
 author: filip-wojcieszyn
-photo: 
+photo: filip-wojcieszyn.png
 linkedIn: 
 twitter: filip_woj
 email: filip@strathweb.com
