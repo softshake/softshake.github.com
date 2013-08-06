@@ -1,8 +1,8 @@
 ---
-layout: trackowner
+layout: 2013_trackowner_fr
 title: Valeriu CARAULEAN
-photo: valeriu-caraulean.jpg
-track: Microsoft
+photo:
+track: 13_microsoft
 linkedIn: ch.linkedin.com/in/maximenowak
 twitter: vcaraulean
 email: valeriu@soft-shake.ch

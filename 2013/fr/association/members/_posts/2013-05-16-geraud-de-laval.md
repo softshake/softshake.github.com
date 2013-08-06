@@ -1,8 +1,8 @@
 ---
-layout: trackowner
+layout: 2013_trackowner_fr
 title: Géraud DE LAVAL
-photo: geraud-de-laval.jpg
-track: Mobile
+photo:
+track: 13_mobile
 linkedIn: ch.linkedin.com/in/maximenowak
 twitter: Geraudch
 email: geraud@soft-shake.ch
