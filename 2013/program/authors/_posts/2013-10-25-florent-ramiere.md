@@ -5,7 +5,7 @@ author: florent-ramiere
 photo: 
 linkedIn: 
 twitter:
-email: 
+email: florent@ramiere.com
 web: 
 secondary: yes
 ---

@@ -5,7 +5,7 @@ author: damian-soto
 photo: 
 linkedIn: 
 twitter: 
-email: 
+email: soto@coderev.org
 web: 
 secondary: yes
 ---

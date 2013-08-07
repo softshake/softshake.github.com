@@ -6,7 +6,7 @@ photo: jean-baptiste-nizet.jpg
 linkedIn: http://www.linkedin.com/pub/jean-baptiste-nizet/6b/285/798
 twitter: jbnizet
 email: jb@ninja-squad.com
-web: http://ninja-squad.fr/
+web: http://ninja-squad.fr
 secondary: yes
 ---
 

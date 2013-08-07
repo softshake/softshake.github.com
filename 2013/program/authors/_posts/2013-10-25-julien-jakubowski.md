@@ -5,7 +5,7 @@ author: julien-jakubowski
 photo: 
 linkedIn: 
 twitter: 
-email: 
+email: jjakubowski@octo.com
 web: 
 secondary: yes
 ---
