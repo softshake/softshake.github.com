@@ -3,6 +3,7 @@ layout: 2013_session_fr
 title: "Du Javascript propre? Challenge Accepted!"
 author: Romain LINSOLAS (et Julien JAKUBOWSKI)
 authorpost: romain-linsolas
+authorpost2: julien-jakubowski
 track: 13_web_dev
 web:
 language: fr

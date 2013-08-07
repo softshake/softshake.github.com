@@ -50,6 +50,9 @@ layout: 2013_default_fr
 					{% if post.authorpost == page.author %}
 		    			<li>[<a href="/2013/fr/conference/sessions.html#{{ track[0] }}" >{{ track[1] }}</a>] <a href="{{ post.url }}" >{{ post.title }}</a></li>
 					{% endif %}
+					{% if post.authorpost2 == page.author %}
+		    			<li>[<a href="/2013/fr/conference/sessions.html#{{ track[0] }}" >{{ track[1] }}</a>] <a href="{{ post.url }}" >{{ post.title }}</a></li>
+					{% endif %}
 				{% endif %}
 			{% endfor %}
 

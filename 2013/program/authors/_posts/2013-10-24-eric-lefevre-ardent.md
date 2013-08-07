@@ -1,7 +1,7 @@
 ---
 layout: 2013_speaker_fr
-title: Eric LEFEVRE ARDENT
-author: eric-lefevre-ardent
+title: Eric LEFEVRE ARDANT
+author: eric-lefevre-ardant
 photo: 
 linkedIn: 
 twitter: elefevre

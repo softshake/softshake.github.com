@@ -3,6 +3,7 @@ layout: 2013_session_fr
 title: Découvrez les lambdas avec Java 8
 author: Cédric EXBRAYAT (et Jean Baptiste NIZET)
 authorpost: cedric-exbrayat
+authorpost2: jean-baptiste-nizet
 track: 13_fun_prog
 web: 
 language: fr

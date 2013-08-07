@@ -7,6 +7,7 @@ linkedIn: http://www.linkedin.com/pub/jean-baptiste-nizet/6b/285/798
 twitter: jbnizet
 email: jb@ninja-squad.com
 web: http://ninja-squad.fr/
+secondary: yes
 ---
 
 JB ne boit pas de café, ce qui en fait un développeur hors normes. Mais il n'y a pas que ça. JB n'est vraiment content de son code que lorsqu'il est documenté et testé. Voir la barre des tests unitaires rester verte jusqu'au bout est l'un des petits plaisirs de sa vie. Ça et la plongée sous-marine, qu'il pratique et enseigne.

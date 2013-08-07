@@ -3,6 +3,7 @@ layout: 2013_session_fr
 title: "Illustrating 'Real options'"
 author: Greg JONES (et Damian SOTO)
 authorpost: greg-jones
+authorpost2: damian-soto
 track: 13_gamification
 web: 
 language: en

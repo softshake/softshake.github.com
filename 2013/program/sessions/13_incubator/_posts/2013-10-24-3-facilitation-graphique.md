@@ -1,11 +1,13 @@
 ---
 layout: 2013_session_fr
 title: "Facilitation graphique - Je simplifie donc je dessine"
-author: "Elizabeth AUZAN et Sébastien GERBIER"
+author: "Elizabeth AUZAN (et Sébastien GERBIER)"
 authorpost: elizabeth-auzan
+authorpost2: sebastien-gerbier
 track: 13_incubator
 web: 
 language: fr
+confirmed: yes
 ---
 
 La facilitation graphique, technique originale et efficace permet de saisir, synthétiser et organiser votre message afin de mieux le transmettre.
