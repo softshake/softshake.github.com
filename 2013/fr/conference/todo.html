@@ -59,6 +59,35 @@ layout: 2013_default_fr
 <p>&nbsp;</p>
 
 
+
+<h2>Seconds Speakers</h2>
+
+<ol>
+{% for track in site.tracks2013 %}
+	{% assign t = track[0] %}
+	{% for session in site.categories[t] reversed %}
+		{% capture year %}{{session.date | date: "%Y"}}{% endcapture %}
+		{% if year == "2013" and session.authorpost2 %}
+			{% for speaker in site.categories.authors %}
+				{% capture year %}{{ speaker.date | date: "%Y"}}{% endcapture %}
+				{% if year == "2013" %}
+					{% if speaker.author == session.authorpost %}
+						{% assign author1 = speaker %}
+					{% endif %}
+					{% if speaker.author == session.authorpost2 %}
+						{% assign author2 = speaker %}
+					{% endif %}
+				{% endif %}
+			{% endfor %}
+			<li><a href="mailto:{{ author1.email }}">{{ author1.title }}</a> et <a href="mailto:{{ author2.email }}">{{ author2.title }}</a></li>
+		{% endif %}
+	{% endfor %}
+{% endfor %}
+</ol>
+
+<p>&nbsp;</p>
+
+
 <div class="navbar">
 	<ul class="nav navbar-nav">
 	    <li><a href="/2013/fr/conference/program.html">Programme</a></li>
