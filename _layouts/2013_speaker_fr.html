@@ -23,9 +23,17 @@ layout: 2013_default_fr
 		<ul>
 			{% if page.web %}
 				<li>
-					<a href="{{ page.web }}">{{ page.web }}</a>
+					{% if page.web contains "http" %}
+						<a href="{{ page.web }}">{{ page.web }}</a>
+					{% else %}
+						<a href="http://{{ page.web }}">{{ page.web }}</a>
+					{% endif %}
 					{% if page.web2 %}
-						 &bull; <a href="{{ page.web2 }}">{{ page.web2 }}</a>
+						{% if page.web2 contains "http" %}
+							 &bull; <a href="{{ page.web2 }}">{{ page.web2 }}</a>
+						{% else %}
+							 &bull; <a href="http://{{ page.web2 }}">{{ page.web2 }}</a>
+						{% endif %}
 					{% endif %}
 				</li>
 			{% endif %}
