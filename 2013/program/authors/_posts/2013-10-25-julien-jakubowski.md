@@ -3,10 +3,10 @@ layout: 2013_speaker_fr
 title: Julien JAKUBOWSKI
 author: julien-jakubowski
 photo: julien-jakubowski.jpg
-linkedIn: 
-twitter: 
+linkedIn: http://www.linkedin.com/in/julienjakubowski
+twitter: jak78
 email: jjakubowski@octo.com
-web: 
+web: julien.jakubowski.fr
 secondary: yes
 ---
 
