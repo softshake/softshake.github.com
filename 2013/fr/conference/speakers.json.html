@@ -1,0 +1,19 @@
+---
+layout: mylayout
+---
+{
+    "speakers": [
+		{% for post in site.categories.authors reversed %}
+			{% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+        	{
+        		"name": "{{ post.title }}",
+				"email": "{{ post.email }}",
+				"photo": "/images/2013/speakers/{{ post.photo }}"
+        	},
+		{% endfor %}
+        {
+            "first_name": "Bruce",
+            "last_name": "WAYNE"
+        }
+    ]
+}
