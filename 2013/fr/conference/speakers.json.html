@@ -1,19 +1,63 @@
 ---
-layout: mylayout
+layout: jsonlayout
 ---
 {
+	"tracks": [
+		{% for track in site.tracks2013 %}
+			{
+				"code" : "{{ track[0] }}",
+				"name" : "{{ track[1] }}"
+			},
+		{% endfor %}
+	    {
+	    	"STOP": "YES"
+	    }
+	],
+    
+    "sessions": [
+		{% for track in site.tracks2013 %}
+			{% assign t = track[0] %}
+			{% for post in site.categories[t] reversed %}
+				{% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+				{% if year == "2013" %}
+	        		{
+	        			"name": "{{ post.title }}",
+						"author_code_1" : "{{ post.authorpost }}",
+						"author_code_2" : "{{ post.authorpost2 }}",
+						"track_code" : "{{ post.track }}",
+						"language" : "{{ post.language }}",
+						"web" : "{{ post.web }}",
+						"description": "{{ post.content }}"
+	        		},
+				{% endif %}
+			{% endfor %}
+		{% endfor %}
+        {
+            "STOP": "YES"
+        }
+    ],
+
     "speakers": [
 		{% for post in site.categories.authors reversed %}
 			{% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
         	{
         		"name": "{{ post.title }}",
+        		"code": "{{ post.author }}",
 				"email": "{{ post.email }}",
-				"photo": "/images/2013/speakers/{{ post.photo }}"
+				"linkedin": "{{ post.linkedIn }}",
+				"twitter": "{{ post.twitter }}",
+				"web1": "{{ post.web }}",
+				"web2": "{{ post.web2 }}",
+				"bio": "{{ post.content }}",
+				{% if post.photo %}
+					"photo": "http://soft-shake.ch/images/2013/speakers/{{ post.photo }}"
+				{% else %}
+					"photo": ""
+				{% endif %}
         	},
 		{% endfor %}
         {
-            "first_name": "Bruce",
-            "last_name": "WAYNE"
+            "STOP": "YES"
         }
     ]
 }
