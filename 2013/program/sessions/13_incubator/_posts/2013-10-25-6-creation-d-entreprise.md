@@ -1,6 +1,6 @@
 ---
 layout: 2013_session_en
-title: "Création d'entreprise, the good and the bad parts"
+title: "Bref, j'ai fait une startup…"
 author: Dominique CHION
 authorpost: dominique-chion
 track: 13_incubator
@@ -8,7 +8,4 @@ web:
 language: fr
 ---
 
-Lors de cette présentation, Dominique vous exposera les trucs, astuces et pièges à éviter lors de la création et des premiers mois de la vie d'une start-up.
-Businees angels, venture capitalist, incubateur n'auront plus de secrets pour vous.
-
-Préparez vous à quelques désillusions ;-)
+Comment une idée de pause café fait travailler 12 personnes et permet de lever plusieurs centaines de milliers de francs ? A travers ce retour d'expérience, je vous présenterais les différentes étapes du lancement et de la vie d'une société. J'aborderais aussi des sujets plus tabou comme les levées de fonds ou la valorisation
