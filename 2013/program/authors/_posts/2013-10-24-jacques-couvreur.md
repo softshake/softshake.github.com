@@ -3,10 +3,11 @@ layout: 2013_speaker_fr
 title: Jacques COUVREUR
 author: jacques-couvreur
 photo: jacques-couvreur.jpg
-linkedIn:
+linkedIn: http://ch.linkedin.com/in/jacquescouvreur
 twitter: jacquescouvreur
 email: jacques@inagua.me
-web: http://inagua.ch
+web: inagua.ch/author/jacques
+web2: jacques.couvreur.me
 ---
 
 Président et créateur de la conférence softshake.
