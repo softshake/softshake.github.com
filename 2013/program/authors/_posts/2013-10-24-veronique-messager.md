@@ -2,11 +2,11 @@
 layout: 2013_speaker_fr
 title: Véronique MESSAGER
 author: veronique-messager
-photo: 
-linkedIn: http://www.linkedin.com/pub/v%C3%A9ronique-messager-rota/a/915/407
+photo: veronique-messager.jpg
+linkedIn: lnkd.in/DPNmKF
 twitter: vmessager
 email: veronique.messager@yahoo.fr
-web: http://www.ici-et-demain.fr
+web: www.ici-et-demain.fr
 ---
 
 Coach certifiée HEC, accréditée Process Com, Véronique Messager accompagne, depuis plus de quinze ans, des équipes projet et des organisations en phase de transition agile. Accordant une part essentielle à la dimension humaine, elle leur propose un support organisationnel et méthodologique, et surtout un accompagnement personnalisé. Quelques séances de coaching d’équipe ou individuel facilitent, ainsi, l’adoption des bons réflexes comportementaux et permettent le développement de compétences relationnelles et managériales.
