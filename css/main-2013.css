@@ -240,6 +240,33 @@ a:hover, a:visited:hover {
     top: 10px;
     width: 32px;
 }
+#sponsors h1{
+    margin-top: 0px;
+    display: block;
+    float: left;
+    position: relative;
+}
+
+#sponsors{
+    top:6px;
+}
+#sonar a{
+    background: url(../images/2013/sponsor/sonar_footer.png) no-repeat 100% 100%;
+    text-indent: -9999px;
+     display:block;
+    height: 52px;
+    width: 250px;
+}
+
+#elasticsearch a{
+    background: url(../images/2013/sponsor/elasticsearch.png) no-repeat 100% 100%;
+    width: 199px;
+     display:block;
+    height: 52px;
+    text-indent: -9999px;
+}
+
+
 
 #memberName {
     font-weight: bold;
