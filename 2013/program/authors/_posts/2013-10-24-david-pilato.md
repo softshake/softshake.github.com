@@ -8,7 +8,7 @@ linkedIn: fr.linkedin.com/in/dadoonet
 twitter: dadoonet
 twitter2: ElasticsearchFR
 email: david.pilato@elasticsearch.com
-github: https://github.com/dadoonet
+github: dadoonet
 web: dev.david.pilato.fr
 ---
 

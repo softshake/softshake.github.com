@@ -7,7 +7,7 @@ photo: BenoitPerroud12.07.2013.jpg
 linkedIn: ch.linkedin.com/in/benoitperroud
 twitter: killerwhile
 email: benoit@noisette.ch
-github: github.com/killerwhile
+github: killerwhile
 web: www.noisette.ch
 ---
 
