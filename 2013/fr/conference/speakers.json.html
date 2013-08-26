@@ -6,7 +6,8 @@ layout: jsonlayout
 		{% for track in site.tracks2013 %}
 			{
 				"code" : "{{ track[0] }}",
-				"name" : "{{ track[1] }}"
+				"name" : "{{ track[1] }}",
+				"remove": "{{ post.remove }}"
 			},
 		{% endfor %}
 	    {
@@ -22,12 +23,14 @@ layout: jsonlayout
 				{% if year == "2013" %}
 	        		{
 	        			"name": "{{ post.title }}",
+						"code" : "{{ post.url }}",
 						"author_code_1" : "{{ post.authorpost }}",
 						"author_code_2" : "{{ post.authorpost2 }}",
 						"track_code" : "{{ post.track }}",
 						"language" : "{{ post.language }}",
 						"web" : "{{ post.web }}",
-						"description": "{{ post.content }}"
+						"description": "{{ post.content }}",
+						"remove": "{{ post.remove }}"
 	        		},
 				{% endif %}
 			{% endfor %}
@@ -46,9 +49,11 @@ layout: jsonlayout
 				"email": "{{ post.email }}",
 				"linkedin": "{{ post.linkedIn }}",
 				"twitter": "{{ post.twitter }}",
+				"github": "{{ post.github }}",
 				"web1": "{{ post.web }}",
 				"web2": "{{ post.web2 }}",
 				"bio": "{{ post.content }}",
+				"remove": "{{ post.remove }}",
 				{% if post.photo %}
 					"photo": "http://soft-shake.ch/images/2013/speakers/{{ post.photo }}"
 				{% else %}

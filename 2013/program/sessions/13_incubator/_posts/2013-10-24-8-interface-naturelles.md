@@ -1,6 +1,6 @@
 ---
 layout: 2013_session_fr
-title: Les Interfaces Naturelles, c'est maintenant
+title: "Les Interfaces Naturelles, c'est maintenant"
 author: Vincent GUIGUI 
 authorpost: vincent-guigui
 track: 13_incubator
