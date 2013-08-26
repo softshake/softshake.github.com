@@ -3,7 +3,7 @@ layout: 2013_speaker_fr
 title: Maksym DOVGOPOLYI
 author: maksym-dovgopolyi
 photo: maksym-dovgopolyi.png
-linkedIn: http://ch.linkedin.com/in/dovgopoly/
+linkedIn: ch.linkedin.com/in/dovgopoly
 twitter: 
 email: md@itoutsourcingadvisor.com
 web: itoutsourcingadvisor.com

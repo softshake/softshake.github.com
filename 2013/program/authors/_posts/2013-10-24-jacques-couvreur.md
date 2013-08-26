@@ -3,7 +3,7 @@ layout: 2013_speaker_fr
 title: Jacques COUVREUR
 author: jacques-couvreur
 photo: jacques-couvreur.jpg
-linkedIn: http://ch.linkedin.com/in/jacquescouvreur
+linkedIn: ch.linkedin.com/in/jacquescouvreur
 twitter: jacquescouvreur
 email: jacques@inagua.me
 web: inagua.ch/author/jacques

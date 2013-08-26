@@ -3,10 +3,10 @@ layout: 2013_speaker_fr
 title: Mathieu BOISVERT
 author: mathieu-boisvert
 photo: mathieu-boisvert.jpg
-linkedIn: http://ca.linkedin.com/in/mathieuboisvert/
+linkedIn: ca.linkedin.com/in/mathieuboisvert
 twitter: 
 email: mboisvert@pyxis-tech.com
-web: http://pyxis-tech.com/fr/notre-offre/formation-agile
+web: pyxis-tech.com/fr/notre-offre/formation-agile
 ---
 
 M. Mathieu Boisvert est conseiller principal à Pyxis, expert en adoption des méthodes agiles à Montréal et à Québec.

@@ -1,6 +1,6 @@
 ---
 layout: 2013_speaker_fr
-title: Géraud de LAVAL
+title: Géraud DE LAVAL
 author: geraud-de-laval
 photo: geraud-de-laval.png
 linkedIn: 

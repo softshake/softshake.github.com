@@ -3,7 +3,7 @@ layout: 2013_speaker_fr
 title: Romain SEMPE
 author: romain-sempe
 photo: romain-sempe.png
-linkedIn: http://www.linkedin.com/in/rsempe
+linkedIn: linkedin.com/in/rsempe
 twitter: rsempe
 email: romain@soft-shake.ch
 web:

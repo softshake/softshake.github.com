@@ -3,7 +3,7 @@ layout: 2013_speaker_fr
 title: Sam BRANNEN
 author: sam-brannen
 photo: sam-brannen.jpg
-linkedIn: http://www.linkedin.com/in/sbrannen
+linkedIn: linkedin.com/in/sbrannen
 twitter: sam_brannen
 email: sam.brannen@swiftmind.com
 web: swiftmind.com

@@ -3,7 +3,7 @@ layout: 2013_speaker_fr
 title: Andrej SOBKOWSKI
 author: andrej-sobkowski
 photo: andrej-sobkowski.jpg
-linkedIn: http://ch.linkedin.com/in/sobkowski/
+linkedIn: ch.linkedin.com/in/sobkowski/
 twitter: 
 email: asobkows@hotmail.com
 web: 

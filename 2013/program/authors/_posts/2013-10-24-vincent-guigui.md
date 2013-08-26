@@ -6,7 +6,7 @@ photo:
 linkedIn: 
 twitter: 
 email: 
-web: http://kinectgeniusbar.com
+web: kinectgeniusbar.com
 ---
 
 De la 1ère bulle internet à aujourd'hui,

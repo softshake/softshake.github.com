@@ -1,9 +1,9 @@
 ---
 layout: 2013_speaker_fr
-title: Romain Linsolas
+title: Romain LINSOLAS
 author: romain-linsolas
 photo: romain-linsolas.jpg
-linkedIn: http://www.linkedin.com/in/romainlinsolas
+linkedIn: linkedin.com/in/romainlinsolas
 twitter: romaintaz
 email: linsolas@gmail.com
 web: linsolas.github.io

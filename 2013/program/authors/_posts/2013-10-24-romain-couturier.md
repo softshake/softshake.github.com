@@ -1,12 +1,12 @@
 ---
 layout: 2013_speaker_fr
-title: Romain Couturier
+title: Romain COUTURIER
 author: romain-couturier
 photo: romain-couturier.jpg
-linkedIn: http://fr.linkedin.com/in/romaincouturier
+linkedIn: fr.linkedin.com/in/romaincouturier
 twitter: romaincouturier
 email: couturier.romain@gmail.com
-web: http://www.terredagile.com
+web: www.terredagile.com
 ---
 
 Romain Couturier est coach agile, facilitateur et formateur. En tant qu’artisan du changement, il accompagne les équipes et les organisations dans leur transition et évolution vers l’agilité. Il travaille à développer la valeur ajoutée des produits avec les responsables métier, unifier les équipes, et soutenir les managers dans le déploiement de contextes d'amélioration continue

@@ -3,10 +3,10 @@ layout: 2013_speaker_fr
 title: David IMBODEN
 author: david-imboden
 photo: david_imboden.jpg
-linkedIn: http://www.linkedin.com/in/imboden
+linkedIn: linkedin.com/in/imboden
 twitter: david_imboden
 email: david.imboden@me.com
-web: http://www.iteration.info
+web: www.iteration.info
 ---
 
 David Imboden a débuté sa carrière dans le développement de logiciel, après plusieurs expériences de gestion de projet il s'oriente sur le coaching et aide les entreprises dans leurs changements de processus.

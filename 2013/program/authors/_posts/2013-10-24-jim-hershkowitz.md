@@ -3,7 +3,7 @@ layout: 2013_speaker_fr
 title: Jim HERSHKOWITZ
 author: jim-hershkowitz
 photo: jim-hershkowitz.png
-linkedIn: http://www.linkedin.com/profile/view?id=7762045
+linkedIn: linkedin.com/profile/view?id=7762045
 twitter: jiimhershko
 email: Jim@Immodating.com
 web: www.meetup.com/The-Geneva-Lean-StartUp-Group 

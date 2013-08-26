@@ -1,6 +1,6 @@
 ---
 layout: 2013_speaker_fr
-title: Marc Friederich
+title: Marc FRIEDERICH
 author: marc-friederich
 photo:
 linkedIn:

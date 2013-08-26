@@ -6,8 +6,8 @@ photo:
 linkedIn: 
 twitter: fnicollet
 email: fnicollet@gmail.com
-web: http://html5-tutorial.fr
-web2: http://flex-tutorial.fr
+web: html5-tutorial.fr
+web2: flex-tutorial.fr
 ---
 
 Fabien Nicollet, développeur @ Business Geografic (Lyon).

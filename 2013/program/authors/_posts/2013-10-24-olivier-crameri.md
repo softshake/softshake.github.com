@@ -1,6 +1,6 @@
 ---
 layout: 2013_speaker_fr
-title: Olivier Crameri
+title: Olivier CRAMERI
 author: olivier-crameri
 photo:
 linkedIn: ch.linkedin.com/in/oliviercrameri/

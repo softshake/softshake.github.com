@@ -3,10 +3,10 @@ layout: 2013_speaker_fr
 title: Jean Baptiste NIZET
 author: jean-baptiste-nizet
 photo: jean-baptiste-nizet.jpg
-linkedIn: http://www.linkedin.com/pub/jean-baptiste-nizet/6b/285/798
+linkedIn: linkedin.com/pub/jean-baptiste-nizet/6b/285/798
 twitter: jbnizet
 email: jb@ninja-squad.com
-web: http://ninja-squad.fr
+web: ninja-squad.fr
 secondary: yes
 ---
 

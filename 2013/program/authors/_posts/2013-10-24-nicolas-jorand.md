@@ -3,7 +3,7 @@ layout: 2013_speaker_fr
 title: Nicolas JORAND
 author: nicolas-jorand
 photo: nicolas-jorand.jpg
-linkedIn: http://www.linkedin.com/pub/nicolas-jorand/a/b03/465
+linkedIn: linkedin.com/pub/nicolas-jorand/a/b03/465
 twitter: nicolasjorand
 email: nicolas.jorand@me.com
 web:

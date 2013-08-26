@@ -6,7 +6,7 @@ photo:
 linkedIn:
 twitter:
 email: cmaximilien.rzepka@gmail.com
-web: http://about.me/maxrzepka
+web: about.me/maxrzepka
 ---
 
 Clojure and Data Enthusiast. 

@@ -1,6 +1,6 @@
 ---
 layout: 2013_speaker_fr
-title: Tobie Langel
+title: Tobie LANGEL
 author: tobie-langel
 photo:
 linkedIn:

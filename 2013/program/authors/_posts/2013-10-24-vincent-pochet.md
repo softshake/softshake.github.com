@@ -1,12 +1,12 @@
 ---
 layout: 2013_speaker_fr
-title: Vincent Pochet
+title: Vincent POCHET
 author: vincent-pochet
 photo: vincent-pochet.jpg
-linkedIn: http://www.linkedin.com/in/vincentpochet/en
+linkedIn: linkedin.com/in/vincentpochet/en
 twitter: vin100pochet
 email: vincent.pochet@gmail.com
-web: http://ruby42.com/
+web: ruby42.com
 ---
 
 Vincent est un développeur Web spécialiste de Ruby, Rails et Javascript.

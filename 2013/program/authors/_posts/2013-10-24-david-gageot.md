@@ -6,7 +6,7 @@ photo: david_gageot.jpeg
 linkedIn: 
 twitter: dgageot
 email: david@gageot.net
-web: http://retour1024.fr
+web: retour1024.fr
 ---
 
 Bonjour, je suis David Gageot, développeur indépendant. Ma passion ? L'écriture de logiciels pointus mais simples. J'ai pour leitmotiv d'être un facilitateur qui, par ma créativité et mon expertise, aide les équipes à être plus innovantes et plus efficaces.

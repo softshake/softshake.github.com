@@ -1,6 +1,6 @@
 ---
 layout: 2013_speaker_fr
-title: Xavier Bourguignon
+title: Xavier BOURGUIGNON
 author: xavier-bourguignon
 photo: XavierBourguignon.jpg
 linkedIn:
