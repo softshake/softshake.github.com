@@ -4,6 +4,7 @@ title: "Building cross-platform mobile apps with C#"
 author: Piotr Walat
 authorpost: piotr-walat
 track: 13_mobile
+code: s13mo1d
 web: 
 language: en
 ---

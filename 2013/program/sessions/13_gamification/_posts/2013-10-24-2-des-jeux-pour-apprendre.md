@@ -4,6 +4,7 @@ title: Des Jeux pour Apprendre
 author: Alexandre BOUTIN
 authorpost: alexandre-boutin
 track: 13_gamification
+code: s13ga1b
 web: 
 language: fr
 ---

@@ -4,6 +4,7 @@ title: "'It's time to kick ass and chew bubble gum' une démo live codée illust
 author: David HODGETTS
 authorpost: david-hodgetts
 track: 13_incubator
+code: s13in2c
 web: 
 language: fr
 ---

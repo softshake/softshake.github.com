@@ -4,6 +4,7 @@ title: "Web Components, l'avenir des développeurs web"
 author: Julien VEY
 authorpost: julien-vey
 track: 13_web_dev
+code: s13wd1d
 web:
 language: fr
 ---

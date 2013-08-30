@@ -4,6 +4,7 @@ title: En tant que scrumMaster, je dois aussi développer mon leadership !
 author: Véronique MESSAGER
 authorpost: veronique-messager
 track: 13_agile
+code: s13ag2c
 web: 
 language: fr
 ---

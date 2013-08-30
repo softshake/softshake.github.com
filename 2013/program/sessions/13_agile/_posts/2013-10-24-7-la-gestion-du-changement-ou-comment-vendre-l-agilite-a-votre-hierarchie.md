@@ -4,6 +4,7 @@ title: La gestion du changement ou comment vendre l'agilité à votre hiérarchi
 author: David IMBODEN
 authorpost: david-imboden
 track: 13_agile
+code: s13ag1g
 web: 
 language: fr
 confirmed: yes

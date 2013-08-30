@@ -4,6 +4,7 @@ title: "Lean Startup - l'art d'obtenir un feedback honnête sur le produit que v
 author: Jim HERSHKOWITZ
 authorpost: jim-hershkowitz
 track: 13_incubator
+code: s13in2b
 web: 
 language: fr
 ---

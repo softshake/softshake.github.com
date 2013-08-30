@@ -4,6 +4,7 @@ title: Prototypage rapide en HTML
 author: Marc FRIEDERICH
 authorpost: marc-friederich
 track: 13_web_dev
+code: s13wd1a
 web:
 language: fr
 ---

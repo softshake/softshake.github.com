@@ -4,6 +4,7 @@ title: La mobilité multi-plateforme
 author: Eric PASCAL
 authorpost: eric-pascal
 track: 13_mobile
+code: s13mo2d
 web: 
 language: fr
 ---

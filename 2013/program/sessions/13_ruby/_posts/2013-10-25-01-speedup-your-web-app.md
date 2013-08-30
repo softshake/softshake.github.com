@@ -4,6 +4,7 @@ title: Speedup your web app
 author: Alexis BERNARD
 authorpost: alexis-bernard
 track: 13_ruby
+code: s13rb1a
 web:
 language: fr
 ---

@@ -4,6 +4,7 @@ title: "Clojure and Data : introduction to datascience"
 author: Maximilien RZEPKA
 authorpost: maximilien-rzepka
 track: 13_fun_prog
+code: s13fp1a
 web: http://about.me/maxrzepka
 language: en
 ---

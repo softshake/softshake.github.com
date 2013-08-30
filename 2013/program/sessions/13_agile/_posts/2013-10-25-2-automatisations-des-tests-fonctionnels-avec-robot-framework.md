@@ -4,6 +4,7 @@ title: Automatisations des tests fonctionnels avec Robot Framework
 author: Laurent BRISTIEL
 authorpost: laurent-bristiel
 track: 13_agile
+code: s13ag2b
 web: 
 language: fr
 confirmed: yes

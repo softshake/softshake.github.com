@@ -4,6 +4,7 @@ title: Histoire d’une équipe agile qui a réussi dans un grand groupe
 author: Nedjma SAIDANI
 authorpost: nedjma-saidani
 track: 13_agile
+code: s13ag1e
 web: 
 language: fr
 confirmed: yes

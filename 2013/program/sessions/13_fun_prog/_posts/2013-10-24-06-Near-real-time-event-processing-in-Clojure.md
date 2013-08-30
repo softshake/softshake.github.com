@@ -4,6 +4,7 @@ title: Near real-time event processing in Clojure
 author: Alex PETROV
 authorpost: alex-petrov
 track: 13_fun_prog
+code: s13fp1f
 web:
 language: en
 ---

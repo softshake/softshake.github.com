@@ -4,6 +4,7 @@ title: "Windows Azure Web Sites – things they don’t teach kids in school"
 author: Maarten BALLIAUW
 authorpost: maarten-balliauw
 track: 13_microsoft
+code: s13ms1d
 web: 
 language: en
 ---

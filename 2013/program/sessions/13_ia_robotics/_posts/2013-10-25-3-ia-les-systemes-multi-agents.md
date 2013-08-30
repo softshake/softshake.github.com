@@ -4,6 +4,7 @@ title: "Tout ce que vous avez toujours voulu savoir sur les Systèmes Multi-Agen
 author: Marc-Philippe HUGET
 authorpost: marc-philippe-huget
 track: 13_ia_robotics
+code: s13ir1c
 web: 
 language: fr
 confirmed: yes

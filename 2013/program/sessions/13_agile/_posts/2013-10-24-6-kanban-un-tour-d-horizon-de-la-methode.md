@@ -4,6 +4,7 @@ title: Kanban, un tour d'horizon de la méthode
 author: Laurent MORISSEAU
 authorpost: laurent-morisseau
 track: 13_agile
+code: s13ag1f
 web: 
 language: fr
 ---

@@ -4,6 +4,7 @@ title: Big Lego4Scrum (partie 2)
 author: Alexandre CUVA
 authorpost: alexandre-cuva
 track: 13_gamification
+code: s13ga1f
 web: 
 language: fr
 ---

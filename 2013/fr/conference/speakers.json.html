@@ -23,7 +23,8 @@ layout: jsonlayout
 				{% if year == "2013" %}
 	        		{
 	        			"name": "{{ post.title }}",
-						"code" : "{{ post.url }}",
+						"url" : "{{ post.url }}",
+						"code" : "{{ post.code }}",
 						"author_code_1" : "{{ post.authorpost }}",
 						"author_code_2" : "{{ post.authorpost2 }}",
 						"track_code" : "{{ post.track }}",

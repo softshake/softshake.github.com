@@ -4,6 +4,7 @@ title: "Spring Framework 4.0 - The Next Generation"
 author: Sam BRANNEN
 authorpost: sam-brannen
 track: 13_java
+code: s13ja1b
 web: 
 language: en
 ---

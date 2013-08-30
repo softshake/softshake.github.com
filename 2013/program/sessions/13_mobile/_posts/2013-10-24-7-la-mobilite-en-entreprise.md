@@ -4,6 +4,7 @@ title: La mobilité en entreprise
 author: Frédéric MAUGER et Géraud de LAVAL
 authorpost: frederic-mauger
 authorpost2: geraud-de-laval
+code: s13mo1g
 track: 13_mobile
 web: 
 language: fr

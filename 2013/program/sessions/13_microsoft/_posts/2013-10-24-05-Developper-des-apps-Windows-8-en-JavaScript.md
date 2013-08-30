@@ -4,6 +4,7 @@ title: Développer des apps Windows 8 en JavaScript
 author: Fabien NICOLLET
 authorpost: fabien-nicollet
 track: 13_microsoft
+code: s13ms1e
 web: 
 language: fr
 ---

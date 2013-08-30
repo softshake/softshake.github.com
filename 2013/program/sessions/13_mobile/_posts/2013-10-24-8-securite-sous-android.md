@@ -4,6 +4,7 @@ title: La sécurité sous Android et comment l'exploiter
 author: Philippe PRADOS
 authorpost: philippe-prados
 track: 13_mobile
+code: s13mo1h
 web: 
 language: en
 ---

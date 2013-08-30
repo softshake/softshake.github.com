@@ -4,9 +4,11 @@ title: "(Dev && Ops).toPublicCloud()"
 author: Cyrille LE CLERC
 authorpost: cyrille-le-clerc
 track: 13_incubator
+code: s13in2d
 web: 
 language: en
 ---
+
 IaaS, PaaS or Saas ; Public Cloud radically changes the roles and the ways of working not only of the OPS teams but also of the DEV teams. If the “as a service” approach makes many jobs disappear, mostly on OPS side, new roles emerge and coaching projects to this new world of freedom is key to success. We will illustrate with real-life examples the new role and responsibilities of Dev, QA and Ops teams in this new world where many things are yet to be invented.
 
 After a quick overview of IaaS, PaaS and SaaS, we will look at the skills and tasks required by each of these clouds. We will first go through SaaS and see that OPS roles completely disappear on the SaaS side but that there is a new skill of connecting On Premise data centers to SaaS services. On the DEV side, we will see that SaaS is similar to software packages, it requires new skills and often new engineers. 

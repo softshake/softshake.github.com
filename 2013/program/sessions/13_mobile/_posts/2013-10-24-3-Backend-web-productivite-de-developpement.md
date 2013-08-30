@@ -4,6 +4,7 @@ title: "L’envers du décor - synchronisation des données entre MySql et appli
 author: Laurent KOHLER
 authorpost: laurent-kohler
 track: 13_mobile
+code: s13mo1c
 web: 
 language: fr
 ---

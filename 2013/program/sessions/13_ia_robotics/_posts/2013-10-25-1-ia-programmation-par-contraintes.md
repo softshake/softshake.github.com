@@ -4,6 +4,7 @@ title: "Programmation par contraintes : théorie, applications et enseignement"
 author: Philippe MORIGNOT
 authorpost: philippe-morignot
 track: 13_ia_robotics
+code: s13ir1a
 web: 
 language: fr
 confirmed: yes

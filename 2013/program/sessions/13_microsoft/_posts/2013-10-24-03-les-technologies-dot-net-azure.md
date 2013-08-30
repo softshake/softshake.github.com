@@ -4,6 +4,7 @@ title: "Les technologies .Net/Azure au service du développement mobile multipla
 author: Nicolas CLERC
 authorpost: nicolas-clerc
 track: 13_microsoft
+code: s13ms1c
 web: 
 language: fr
 ---

@@ -4,6 +4,7 @@ title: "Présentations webs, deck.js et ses extensions"
 author: Rémi EMONET
 authorpost: remi-emonet
 track: 13_web_dev
+code: s13wd2f
 web:
 language: fr
 ---

@@ -4,6 +4,7 @@ title: "Event-driven SOA in .NET with NServiceBus"
 author: Piotr WALAT
 authorpost: piotr-walat
 track: 13_microsoft
+code: s13ms1g
 web: 
 language: en
 ---

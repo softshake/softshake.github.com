@@ -4,6 +4,7 @@ title: Applying both Agile and Waterfall in one project
 author: Maksym DOVGOPOLYI
 authorpost: maksym-dovgopolyi
 track: 13_agile
+code: s13ag1c
 web: 
 language: en
 ---

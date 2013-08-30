@@ -4,6 +4,7 @@ title: La programmation concurrente simplifiée avec Akka et le modèle des Acte
 author: Christophe PACHE
 authorpost: christophe-pache
 track: 13_fun_prog
+code: s13fp2d
 web: 
 language: fr
 ---

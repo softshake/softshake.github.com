@@ -4,6 +4,7 @@ title: Introduction au NoSQL avec Couchbase
 author: Grall Tugdual
 authorpost: grall-tugdual
 track: 13_bigdata
+code: s13bd1a
 web: 
 language: fr
 ---

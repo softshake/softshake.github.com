@@ -4,6 +4,7 @@ title: "An Introduction to F#, or: Writing Simple Code to Solve Complex Poblems"
 author: Marc SIGRIST
 authorpost: marc-sigrist
 track: 13_microsoft
+code: s13ms2f
 web: 
 language: en
 ---

@@ -4,6 +4,7 @@ title: "Building a sane ecosystem around Cassandra 1.2+ for Clojure"
 author: Max PENET
 authorpost: max-penet
 track: 13_fun_prog
+code: s13fp1c
 web:
 language: en
 ---

@@ -4,6 +4,7 @@ title: "Enabling the quest of science: Computing infrastructure in Ruby"
 author: Daniel Lobato
 authorpost: daniel-lobato
 track: 13_ruby
+code: s13rb1b
 web:
 language: en
 ---

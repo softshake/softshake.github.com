@@ -4,6 +4,7 @@ title: Architectures web presque-temps-réel avec PubSubHubbub
 author: Bruno RENIE
 authorpost: bruno-renie
 track: 13_incubator
+code: s13in2a
 web: 
 language: fr
 ---

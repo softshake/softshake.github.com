@@ -4,6 +4,7 @@ title: Une pointe de NoSQL dans mon java EE
 author: Guillaume Scheibel
 authorpost: guillaume-scheibel
 track: 13_java
+code: s13ja2a
 web: 
 language: fr
 ---

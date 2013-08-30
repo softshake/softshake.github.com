@@ -4,6 +4,7 @@ title: Une équipe si particulière
 author: Jean-François JAGODZINSKI
 authorpost: jean-francois-jagodzinski
 track: 13_agile
+code: s13ag1h
 web: 
 language: fr
 ---

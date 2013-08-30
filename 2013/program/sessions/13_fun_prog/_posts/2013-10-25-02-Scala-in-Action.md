@@ -4,6 +4,7 @@ title: Scala in Action
 author: Luc Bourlier
 authorpost: luc-bourlier
 track: 13_fun_prog
+code: s13fp2b
 web: 
 language: fr
 ---

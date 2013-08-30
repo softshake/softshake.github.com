@@ -4,6 +4,7 @@ title: Coding Clojure in a big company
 author: Robert BRANCHAT
 authorpost: robert-branchat
 track: 13_fun_prog
+code: s13fp1d
 web: 
 language: fr
 ---

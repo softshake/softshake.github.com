@@ -4,6 +4,7 @@ title: "Applications concrètes des Reactive Extensions pour .NET (Rx)"
 author: Jonas CHAPUIS
 authorpost: jonas-chapuis
 track: 13_microsoft
+code: s13ms2e
 web: 
 language: fr
 ---

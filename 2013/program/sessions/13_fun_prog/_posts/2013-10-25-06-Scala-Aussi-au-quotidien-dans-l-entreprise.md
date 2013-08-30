@@ -4,6 +4,7 @@ title: "Scala : Aussi au quotidien dans l'entreprise"
 author: Antoine COMTE
 authorpost: antoine-comte
 track: 13_fun_prog
+code: s13fp2f
 web:
 language: fr
 ---

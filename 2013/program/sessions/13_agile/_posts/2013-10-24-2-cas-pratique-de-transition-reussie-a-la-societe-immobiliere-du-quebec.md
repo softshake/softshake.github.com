@@ -4,6 +4,7 @@ title: "Cas pratique de transition agile réussie à la Société immobilière d
 author: Mathieu BOISVERT
 authorpost: mathieu-boisvert
 track: 13_agile
+code: s13ag1b
 web: 
 language: fr
 confirmed: yes

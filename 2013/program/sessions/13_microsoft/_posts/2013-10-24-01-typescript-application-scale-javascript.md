@@ -4,6 +4,7 @@ title: "TypeScript, Application-scale Javascript"
 author: Benjamin SOULIER
 authorpost: benjamin-soulier
 track: 13_microsoft
+code: s13ms1a
 web: 
 language: fr
 ---

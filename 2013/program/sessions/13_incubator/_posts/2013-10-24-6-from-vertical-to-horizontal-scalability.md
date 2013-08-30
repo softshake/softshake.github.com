@@ -4,6 +4,7 @@ title: "From vertical to horizontal: infrastructure and scalability challenges i
 author: Pierre-Yves RITSCHARD
 authorpost: pierre-yves-ritschard
 track: 13_incubator
+code: s13in1f
 web: 
 language: en
 ---

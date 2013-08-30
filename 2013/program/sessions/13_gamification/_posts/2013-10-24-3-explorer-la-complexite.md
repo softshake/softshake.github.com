@@ -4,6 +4,7 @@ title: Explorer la complexité
 author: Oliver WAGNER
 authorpost: oliver-wagner
 track: 13_gamification
+code: s13ga1c
 web: 
 language: fr
 confirmed: yes

@@ -4,6 +4,7 @@ title: "STJS: Managing JavaScript application complexity"
 author: Alexandru CRACIUN
 authorpost: alexandru-craciun
 track: 13_web_dev
+code: s13wd2d
 web:
 language: en
 ---

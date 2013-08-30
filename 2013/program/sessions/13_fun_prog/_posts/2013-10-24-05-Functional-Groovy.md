@@ -4,6 +4,7 @@ title: "'Functional Groovy'. Scheduling mistake perhaps?"
 author: Andres ALMIRAY
 authorpost: andres-almiray
 track: 13_fun_prog
+code: s13fp1e
 web: 
 language: en
 ---

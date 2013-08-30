@@ -4,6 +4,7 @@ title: "Scala joue avec Nao"
 author: Nicolas JORAND
 authorpost: nicolas-jorand
 track: 13_ia_robotics
+code: s13ir1d
 web: 
 language: fr
 ---

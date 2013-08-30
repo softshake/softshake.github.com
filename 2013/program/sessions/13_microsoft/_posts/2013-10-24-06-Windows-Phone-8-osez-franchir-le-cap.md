@@ -4,6 +4,7 @@ title: "Windows Phone 8 : osez franchir le cap !"
 author: Jeremy ALLES
 authorpost: jeremy-alles
 track: 13_microsoft
+code: s13ms1f
 web: 
 language: fr
 ---

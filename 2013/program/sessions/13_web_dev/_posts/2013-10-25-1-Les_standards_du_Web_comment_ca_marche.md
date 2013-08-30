@@ -4,6 +4,7 @@ title: "Les standards du Web, comment ça marche?"
 author: Tobie LANGEL
 authorpost: tobie-langel
 track: 13_web_dev
+code: s13wd2a
 web:
 language: fr
 ---

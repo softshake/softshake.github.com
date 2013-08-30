@@ -4,6 +4,7 @@ title: iOS Collection View
 author: Sebastien CLOUX
 authorpost: sebastien-cloux
 track: 13_mobile
+code: s13mo2a
 web: 
 language: fr
 ---

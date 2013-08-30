@@ -4,6 +4,7 @@ title: Implementing SCRUM - Feedback from the Field and Lessons Learned
 author: Andrej SOBKOWSKI
 authorpost: andrej-sobkowski
 track: 13_agile
+code: s13ag2a
 web: 
 language: en
 confirmed: yes

@@ -4,6 +4,7 @@ title: Effective Scala
 author: Mirco Dotta
 authorpost: mirco-dotta
 track: 13_fun_prog
+code: s13fp2c
 web: 
 language: en
 ---

@@ -5,6 +5,7 @@ author: Vincent POCHET et Romain SEMPÉ
 authorpost: vincent-pochet
 authorpost2: romain-sempe
 track: 13_ruby
+code: s13rb1c
 web:
 language: fr
 ---

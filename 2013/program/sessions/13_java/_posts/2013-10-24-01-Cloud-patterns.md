@@ -4,6 +4,7 @@ title: Cloud patterns
 author: Nicolas De Loof
 authorpost: nicolas-de-loof
 track: 13_java
+code: s13ja1a
 web: 
 language: fr
 ---

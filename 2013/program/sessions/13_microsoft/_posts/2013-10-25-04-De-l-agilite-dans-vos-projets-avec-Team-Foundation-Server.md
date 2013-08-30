@@ -4,6 +4,7 @@ title: "De l’agilité dans vos projets avec Team Foundation Server, ou l’ALM
 author: Christophe DELESTRE
 authorpost: christophe-delestre
 track: 13_microsoft
+code: s13ms2d
 web: 
 language: fr
 ---
