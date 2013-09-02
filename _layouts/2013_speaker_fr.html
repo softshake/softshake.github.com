@@ -38,7 +38,13 @@ layout: 2013_default_fr
 				</li>
 			{% endif %}
 			{% if page.linkedIn %}
-				<li><a href="{{ page.linkedIn }}">linkedin</a></li>
+				<li>
+					{% if page.linkedIn contains "http" %}
+						 <a href="{{ page.linkedIn }}">linkedin</a>
+					{% else %}
+						 <a href="http://{{ page.linkedIn }}">linkedin</a>
+					{% endif %}
+				</li>
 			{% endif %}
 			{% if page.twitter %}
 				<li><a href="https://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a></li>

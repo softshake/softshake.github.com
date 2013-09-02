@@ -1,6 +1,6 @@
 ---
 layout: 2013_session_fr
-title: Are you happy with your code quality?
+title: "Are you happy with your code quality?"
 author: Vincent POCHET et Romain SEMPÉ
 authorpost: vincent-pochet
 authorpost2: romain-sempe
