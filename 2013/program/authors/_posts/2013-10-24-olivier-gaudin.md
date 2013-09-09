@@ -2,11 +2,11 @@
 layout: 2013_speaker_fr
 title: Olivier GAUDIN
 author: olivier-gaudin
-photo: 
-linkedIn: 
-twitter: 
+photo: olivier-gaudin.jpg
+linkedIn: ch.linkedin.com/in/oliviergaudin
+twitter: gaudol
 email: olivier.gaudin@sonarsource.com
-web:
+web: www.sonarsource.com
 ---
 
 Olivier Gaudin est co-fondateur et CEO de la société SonarSource éditrice de Sonar, la plateforme open source de gestion de la qualité du code source.

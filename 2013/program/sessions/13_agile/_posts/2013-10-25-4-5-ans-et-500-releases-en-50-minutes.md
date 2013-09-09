@@ -1,8 +1,9 @@
 ---
 layout: 2013_session_fr
 title: 5 ans et 500 releases en 50 minutes !
-author: Olivier GAUDIN
+author: "Olivier GAUDIN et Freddy MALLET"
 authorpost: olivier-gaudin
+authorpost2: freddy-mallet
 track: 13_agile
 code: s13ag2d
 web: 
