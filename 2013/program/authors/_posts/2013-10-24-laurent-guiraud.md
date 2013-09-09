@@ -4,10 +4,10 @@ talk: Big Data Analytics
 title: Laurent GUIRAUD
 author: laurent-guiraud
 photo: 
-linkedIn: 
-twitter: 
+linkedIn: fr.linkedin.com/in/laurentguiraud
+twitter: laurentelg
 email: laurentg@amazon.lu
-github: 
+github: Laurentelg
 web: 
 ---
 
