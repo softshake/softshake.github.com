@@ -1,6 +1,6 @@
 ---
 layout: 2013_speaker_fr
-title: David Hodgetts
+title: David HODGETTS
 author: david-hodgetts
 photo:
 linkedIn:

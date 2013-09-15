@@ -1,6 +1,6 @@
 ---
 layout: 2013_speaker_fr
-title: Dominique Broeglin
+title: Dominique BROEGLIN
 author: dominique-broeglin
 photo:
 linkedIn:
