@@ -1,7 +1,7 @@
 ---
 layout: 2013_trackowner_fr
 title: Nicolas PERU
-photo: 
+photo: nicolas-peru.jpg
 track: 13_java
 linkedIn: 
 twitter: benzonico
