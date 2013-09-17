@@ -245,6 +245,7 @@ a:hover, a:visited:hover {
     display: block;
     float: left;
     position: relative;
+    padding-left: 15px;
 }
 
 #sponsors{
@@ -267,6 +268,13 @@ a:hover, a:visited:hover {
 }
 
 
+#octo a{
+    background: url(../images/2013/sponsor/octo-logo-small.png) no-repeat 100% 100%;
+    width: 123px;
+     display:block;
+    height: 64px;
+    text-indent: -9999px;
+}
 
 #memberName {
     font-weight: bold;
