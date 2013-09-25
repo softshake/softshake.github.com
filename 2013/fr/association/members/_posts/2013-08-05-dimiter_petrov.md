@@ -1,10 +1,10 @@
 ---
 layout: 2013_trackowner_fr
 title: Dimiter PETROV
-photo: 
+photo:
 track: 13_web_dev
-linkedIn: 
-twitter: 
+linkedIn:
+twitter:
 email: dimiter@lockfree.ch
-email-track: 
+email-track: track-web@soft-shake.ch
 ---
