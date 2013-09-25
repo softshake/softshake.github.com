@@ -1,9 +1,8 @@
 ---
 layout: 2013_session_fr
 title: "Generating tests from code - or how to test better and faster"
-author: Olivier CRAMERI et Renault John LECOULTRE
-authorpost: olivier-crameri
-authorpost2: renault-john-lecoultre
+author: Renault John LECOULTRE
+authorpost: renault-john-lecoultre
 track: 13_web_dev
 code: s13wd1b
 web:
