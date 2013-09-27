@@ -165,7 +165,7 @@ a:hover, a:visited:hover {
     position: absolute;
     bottom: 0;
     height: 70px;
-    border-top: 1px solid #D9D9D9;
+    /* border-top: 1px solid #D9D9D9; */
     margin-top: 20px;
     background: #ffffff;
     padding: 5px;
@@ -251,28 +251,36 @@ a:hover, a:visited:hover {
 #sponsors{
     top:6px;
 }
+
 #sonar a{
     background: url(../images/2013/sponsor/sonar_footer.png) no-repeat 100% 100%;
-    text-indent: -9999px;
-     display:block;
     height: 52px;
     width: 250px;
+    display:block;
+    text-indent: -9999px;
 }
 
 #elasticsearch a{
     background: url(../images/2013/sponsor/elasticsearch.png) no-repeat 100% 100%;
     width: 218px;
-     display:block;
     height: 52px;
+    display:block;
     text-indent: -9999px;
 }
-
 
 #octo a{
     background: url(../images/2013/sponsor/octo-logo-small.png) no-repeat 100% 100%;
     width: 123px;
-     display:block;
     height: 64px;
+    display:block;
+    text-indent: -9999px;
+}
+
+#appstore a{
+    background: url(../images/2013/appstore.png) no-repeat 100% 100%;
+    width: 190px;
+    height: 62px;
+    display:block;
     text-indent: -9999px;
 }
 
@@ -547,4 +555,8 @@ ul.dropdown ul li {
 
 .sos13_program_session_en {
     background-color: rgba(255, 0, 0, 0.2);
+}
+
+#copyright {
+    text-align: center;
 }
