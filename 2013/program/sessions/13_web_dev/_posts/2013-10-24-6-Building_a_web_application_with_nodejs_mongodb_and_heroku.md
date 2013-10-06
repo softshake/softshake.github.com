@@ -7,6 +7,7 @@ track: 13_web_dev
 code: s13wd1f
 web:
 language: en
+schedule : jeudi 24 octobre 2013, 15:30 - 16:15
 ---
 
 Our entire platform is built on node.js and mongodb with Heroku- I can give a technical talk about our infrastructure or even a simple workshop.

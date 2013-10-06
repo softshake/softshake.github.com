@@ -7,6 +7,7 @@ track: 13_fun_prog
 code: s13fp2a
 web: 
 language: fr
+schedule : jeudi 24 octobre 2013, 13:30 - 14:15
 ---
 
 Le langage de formule est le langage fonctionnel le plus répandu.
