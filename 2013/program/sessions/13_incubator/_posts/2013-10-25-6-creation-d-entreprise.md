@@ -7,6 +7,7 @@ track: 13_incubator
 code: s13in2f
 web: 
 language: fr
+schedule : vendredi 25 octobre 2013, 15:30 - 16:15
 ---
 
 Comment une idée de pause café fait travailler 12 personnes et permet de lever plusieurs centaines de milliers de francs ? A travers ce retour d'expérience, je vous présenterais les différentes étapes du lancement et de la vie d'une société. J'aborderais aussi des sujets plus tabou comme les levées de fonds ou la valorisation

@@ -8,6 +8,7 @@ track: 13_web_dev
 code: s13wd1e
 web:
 language: fr
+schedule : jeudi 24 octobre 2013, 14:30 - 15:15
 ---
 
 Il y a quelques années, nous bidouillions en JavaScript. Un effet “bling bling” par-ci, un contrôle de saisie par-là. L’essentiel de nos applications tournait côté serveur, et était écrit dans un langage comme, par exemple, Java.
