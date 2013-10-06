@@ -8,7 +8,7 @@ code: s13ag1a
 web: 
 language: fr
 confirmed: yes
-schedule : 9:40 - 10:25
+schedule : jeudi 24 octobre 2013, 9:40 - 10:25
 ---
 
 Rappelez-vous cette petite fille, la bouche pleine de chocolat qui dit ""Mon papa il me dit toujours on ne doit pas manger de mousse au chocolat avant de manger... sinon tu trompes la confiance que tes parents ils ont mis à l'intérieur de toi""

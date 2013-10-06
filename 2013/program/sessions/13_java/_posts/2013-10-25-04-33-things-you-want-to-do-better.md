@@ -7,7 +7,7 @@ track: 13_java
 code: s13ja2d
 web: 
 language: en
-schedule : 13:30 - 14:15
+schedule : vendredi 25 octobre 2013, 13:30 - 14:15
 ---
 
 Working on a business project is intensive, time-consuming and tiring. Tight deadlines often make developers produce the infamous "enterprise" code, the quality of which is the least important factor. "We are what we repeatedly do. Excellence, therefore, is not an act, but a habit" Aristotle used to say. Deploying our skills, however, is almost mutually exclusive from mastering them. The rule of thumb is that the more frequently we repeat our shoddy techniques, the more difficult it is to get rid of them! 

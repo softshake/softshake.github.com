@@ -7,7 +7,7 @@ track: 13_mobile
 code: s13mo1f
 web: 
 language: fr
-schedule : 15:30 - 16:15
+schedule : jeudi 24 octobre 2013, 15:30 - 16:15
 ---
 
 Batman ne sortirait jamais sans son Batarang, Superman jamais sans sa cape. En tout bon super-héros des temps modernes, un bon développeur iOS ne sort lui aussi jamais sans ses outils.

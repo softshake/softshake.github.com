@@ -8,7 +8,7 @@ track: 13_bigdata
 code: s13bd1b
 web: 
 language: en
-schedule : 10:40 - 11:25
+schedule : jeudi 24 octobre 2013, 10:40 - 11:25
 ---
 
 Big data is a thing.

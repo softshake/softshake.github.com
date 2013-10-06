@@ -7,7 +7,7 @@ track: 13_mobile
 code: s13mo1h
 web: 
 language: en
-schedule : 17:30 - 18:15
+schedule : jeudi 24 octobre 2013, 17:30 - 18:15
 ---
 
 Pourquoi les applications Android doivent se défendre contre de nouvelles menaces ?

@@ -8,7 +8,7 @@ code: s13ag1g
 web: 
 language: fr
 confirmed: yes
-schedule : 16:30 - 17:15
+schedule : jeudi 24 octobre 2013, 16:30 - 17:15
 ---
 
 Il ne fait nul doute que l'agilité et particulièrement Scrum, prend une place prépondérante dans les entreprises software. Toutefois je rencontre souvent encore des membres d'équipes R&D qui m'avouent "vouloir faire du Scrum, mais ne pouvoir". Durant cette présentation je ne reviendrais pas sur la thématique de comment "mettre les processus en place" et "bien implémenter" l'agilité, mais sur ce qui se passe avant : comment motiver le changement et faire face aux différentes critiques habituelles.

@@ -7,7 +7,7 @@ track: 13_mobile
 code: s13mo2d
 web: 
 language: fr
-schedule : 13:30 - 14:15
+schedule : vendredi 25 octobre 2013, 13:30 - 14:15
 ---
 
 Point sur le multi-plateforme mobile. 

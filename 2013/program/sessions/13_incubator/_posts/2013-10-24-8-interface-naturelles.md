@@ -7,7 +7,7 @@ track: 13_incubator
 code: s13in1h
 web: 
 language: fr
-schedule : 17:30 - 18:15
+schedule : jeudi 24 octobre 2013, 17:30 - 18:15
 ---
 
 Des services innovants avec les "Natural User Interfaces",

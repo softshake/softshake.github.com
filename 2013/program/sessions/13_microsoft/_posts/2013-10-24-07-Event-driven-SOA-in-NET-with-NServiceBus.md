@@ -7,7 +7,7 @@ track: 13_microsoft
 code: s13ms1g
 web: 
 language: en
-schedule : 16:30 - 17:15
+schedule : jeudi 24 octobre 2013, 16:30 - 17:15
 ---
 
 Distributed architectures based on message exchange are often perceived as an attractive design choice for scalability and loose-coupling reasons.

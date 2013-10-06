@@ -7,7 +7,7 @@ track: 13_incubator
 code: s13in1d
 web: 
 language: fr
-schedule : 13:30 - 14:15
+schedule : jeudi 24 octobre 2013, 13:30 - 14:15
 ---
 
 aprés un an de pair programming et de remote pair programing, on profite de SoftShake pour tirer le bilan de notre expérience. 

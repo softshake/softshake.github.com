@@ -7,7 +7,7 @@ track: 13_ia_robotics
 code: s13ir1d
 web: 
 language: fr
-schedule : 13:30 - 14:15
+schedule : vendredi 25 octobre 2013, 13:30 - 14:15
 ---
 
 Cette session est une démonstration ainsi qu'une explication du projet nommé Scanao qui permet de contrôler un robot depuis Scala.

@@ -8,7 +8,7 @@ track: 13_bigdata
 code: s13bd1g
 web: 
 language: fr
-schedule : 16:30 - 17:15
+schedule : jeudi 24 octobre 2013, 16:30 - 17:15
 ---
 
 Building analytics live

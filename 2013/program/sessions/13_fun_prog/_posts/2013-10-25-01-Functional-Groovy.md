@@ -7,7 +7,7 @@ track: 13_fun_prog
 code: s13fp1e
 web: 
 language: en
-schedule : 9:40 - 10:25
+schedule : vendredi 25 octobre 2013, 9:40 - 10:25
 ---
 
 In recent years functional programming has gained ground over object oriented mainly due to the advancement in computing power. The JVM is no exception, you can find powerful contenders in Clojure and Scala. However Groovy doesn't stay behind.

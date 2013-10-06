@@ -9,7 +9,7 @@ code: s13in1c
 web: 
 language: fr
 confirmed: yes
-schedule : 11:40 - 12:25
+schedule : jeudi 24 octobre 2013, 11:40 - 12:25
 ---
 
 La facilitation graphique, technique originale et efficace permet de saisir, synthétiser et organiser votre message afin de mieux le transmettre.

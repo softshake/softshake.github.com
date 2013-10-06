@@ -7,7 +7,7 @@ track: 13_agile
 code: s13ag2c
 web: 
 language: fr
-schedule : 11:40 - 12:25
+schedule : vendredi 25 octobre 2013, 11:40 - 12:25
 ---
 
 Ca y est, vous avez suivi la formation Scrum, vous êtes même certifié ScrumMaster ! Garant du processus, c’est relativement simple finalement, vous maîtrisez bien les pratiques agiles ; et puis vous êtes un très bon technicien et un excellent gestionnaire… 

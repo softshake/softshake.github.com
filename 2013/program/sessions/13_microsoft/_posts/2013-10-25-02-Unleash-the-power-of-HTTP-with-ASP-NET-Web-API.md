@@ -7,7 +7,7 @@ track: 13_microsoft
 code: s13ms2b
 web: 
 language: en
-schedule : 10:40 - 11:25
+schedule : vendredi 25 octobre 2013, 10:40 - 11:25
 ---
 
 The session will focus on building modern lightweight HTTP services for a whole plethora of clients with ASP.NET Web API. 

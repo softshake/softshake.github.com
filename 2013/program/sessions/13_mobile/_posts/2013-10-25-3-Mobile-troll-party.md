@@ -7,7 +7,7 @@ track: 13_mobile
 code: s13mo2c
 web: 
 language: fr
-schedule : 11:40 - 12:25
+schedule : vendredi 25 octobre 2013, 11:40 - 12:25
 ---
 
 Une session pour le fun, où vous retrouverez le pire de la guerre iOS/Android.

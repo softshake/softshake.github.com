@@ -7,7 +7,7 @@ track: 13_mobile
 code: s13mo1e
 web: 
 language: fr
-schedule : 14:30 - 15:15
+schedule : jeudi 24 octobre 2013, 14:30 - 15:15
 ---
 
 Cette présentation explique le fonctionnement et les subtilités de l'API Twitter ainsi que les différentes manières d'y accéder depuis une application iOS.

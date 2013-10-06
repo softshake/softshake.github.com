@@ -7,7 +7,7 @@ track: 13_web_dev
 code: s13wd2d
 web:
 language: en
-schedule : 13:30 - 14:15
+schedule : vendredi 25 octobre 2013, 13:30 - 14:15
 ---
 
 Have you already struggled with thousands of lines of Javascript code, maintained by many developers over a few years?

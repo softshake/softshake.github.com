@@ -7,7 +7,7 @@ track: 13_mobile
 code: s13mo2a
 web: 
 language: fr
-schedule : 9:40 - 10:25
+schedule : vendredi 25 octobre 2013, 9:40 - 10:25
 ---
 
 Principale nouveauté du UIKit à l'arrivé d'iOS 6, les collection views offrent de nombreuses possibilités.

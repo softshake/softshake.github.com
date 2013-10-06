@@ -7,7 +7,7 @@ track: 13_web_dev
 code: s13wd1d
 web:
 language: fr
-schedule : 13:30 - 14:15
+schedule : jeudi 24 octobre 2013, 13:30 - 14:15
 ---
 
 Templating, encapsulation, éléments customs, databinding... Tous les frameworks web modernes proposent actuellement leur propre solution.

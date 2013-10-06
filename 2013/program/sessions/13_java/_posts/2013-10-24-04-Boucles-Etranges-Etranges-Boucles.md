@@ -8,7 +8,7 @@ track: 13_java
 code: s13ja1d
 web: 
 language: fr
-schedule : 13:30 - 14:15
+schedule : jeudi 24 octobre 2013, 13:30 - 14:15
 ---
 
 Une promenade décousue dans les limites du code source Java, à la manière de Douglas Hofstadter. Nous parlerons de puzzlers, de comportement inattendu, de hacking... et de la vie.
