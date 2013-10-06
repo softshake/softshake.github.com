@@ -7,6 +7,7 @@ track: 13_mobile
 code: s13mo2d
 web: 
 language: fr
+schedule : 13:30 - 14:15
 ---
 
 Point sur le multi-plateforme mobile. 

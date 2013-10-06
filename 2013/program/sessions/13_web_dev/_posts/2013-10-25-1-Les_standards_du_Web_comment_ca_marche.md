@@ -7,6 +7,7 @@ track: 13_web_dev
 code: s13wd2a
 web:
 language: fr
+schedule : 9:40 - 10:25
 ---
 
 Les technologies du Web sont développées au seing d'organismes de standardisations dont le W3C est un des plus connu.

@@ -7,6 +7,7 @@ track: 13_incubator
 code: s13in1e
 web: 
 language: fr
+schedule : 14:30 - 15:15
 ---
 Face à l'explosion du traffic Internet et à de nouveaux usages, la résistance à la charge des applications est devenu un enjeu majeur.
 Pour cela, il est impératif de convenablement s'outiller.

@@ -7,6 +7,7 @@ track: 13_incubator
 code: s13in2e
 web: 
 language: fr
+schedule : 14:30 - 15:15
 ---
 
 Les nouvelles applications et développeurs sont polyglottes !

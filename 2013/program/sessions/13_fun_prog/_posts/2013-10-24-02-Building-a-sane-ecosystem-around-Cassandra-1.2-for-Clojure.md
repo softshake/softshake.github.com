@@ -7,6 +7,7 @@ track: 13_fun_prog
 code: s13fp1c
 web:
 language: en
+schedule : 10:40 - 11:25
 ---
 
 This talk will explore two libraries, a Cassandra native CQL client (1) and a Clojure DSL for writing CQL3 queries (2).

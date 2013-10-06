@@ -7,6 +7,7 @@ track: 13_java
 code: s13ja2c
 web: 
 language: en
+schedule : 11:40 - 12:25
 ---
 
 The presentation introduces the new JSR 354 (Java Currency and Money). It is shown how the new JSR allows to flexible represent and manipulate monetary amounts in different currencies (including virtual ones). It is shown how the current ISO currencies can effectively merged and extended with other currency schemes and also strives some aspects regarding the challenges of the ISO standard and the current java.util.Currency class. The presentation will shortly discuss numeric representation and will show what considerations must be done according to numeric precision and performance. 

@@ -9,6 +9,7 @@ code: s13ga1g
 web: 
 language: fr
 confirmed: yes
+schedule : 16:30 - 17:15
 ---
 
 Ateliers pour initier à la rétrospective et comprendre les mécanismes de cette technique d'amélioration continue adaptée : seul pré-requis, évoluer dans une équipe (un projet, une communauté, une association, des colocataires...).

@@ -7,6 +7,7 @@ track: 13_java
 code: s13ja2a
 web: 
 language: fr
+schedule : 9:40 - 10:25
 ---
 
 Vous aimez jouer avec les bases de données NoSQL et revez de pouvoir les utiliser dans vos applications Java EE. Hibernate OGM est là pour vous.

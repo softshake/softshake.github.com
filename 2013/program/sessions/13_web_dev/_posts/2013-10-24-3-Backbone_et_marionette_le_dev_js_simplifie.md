@@ -8,6 +8,7 @@ track: 13_web_dev
 code: s13wd1c
 web:
 language: fr
+schedule : 11:40 - 12:25
 ---
 
 Ça y est, vous avez enfin décidé de ne plus générer une seule ligne de html côté serveur !

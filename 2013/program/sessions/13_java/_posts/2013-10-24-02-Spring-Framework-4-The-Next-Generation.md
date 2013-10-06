@@ -7,6 +7,7 @@ track: 13_java
 code: s13ja1b
 web: 
 language: en
+schedule : 10:40 - 11:25
 ---
 
 Spring Framework 4.0 is the next generation of the popular open source framework for Enterprise Java developers, focusing on the future with support for Java SE 8 and Java EE 7. In this presentation core Spring committer Sam Brannen will provide attendees an overview of the new enterprise features in the framework as well as new programming models made possible with the adoption of JDK 8 language features and APIs.

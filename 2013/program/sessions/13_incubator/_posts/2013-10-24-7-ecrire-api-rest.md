@@ -7,6 +7,7 @@ track: 13_incubator
 code: s13in1g
 web: 
 language: fr
+schedule : 16:30 - 17:15
 ---
 
 Les services REST se démocratisent de plus en plus notamment grâce aux besoin de fournir des données à divers types de clients (Web, Android, iOs, communication avec des providers externes, …).

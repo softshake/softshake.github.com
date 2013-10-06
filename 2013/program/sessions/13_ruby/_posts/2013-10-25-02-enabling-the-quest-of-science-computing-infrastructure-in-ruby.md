@@ -7,6 +7,7 @@ track: 13_ruby
 code: s13rb1b
 web:
 language: en
+schedule : 10:40 - 11:25
 ---
 
 Infrastructure is hot these days. Salaries are still high even though Heroku, Engine Yard, and others have made deployments easy as pie. It is not only that infrastructure these days can be managed with code, using Chef, Puppet and the like, but Ruby can be used for, and is used to power some of the most important super computer centers these days.

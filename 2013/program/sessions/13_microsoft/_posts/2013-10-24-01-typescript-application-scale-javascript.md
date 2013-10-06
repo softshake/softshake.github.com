@@ -7,6 +7,7 @@ track: 13_microsoft
 code: s13ms1a
 web: 
 language: fr
+schedule : 9:40 - 10:25
 ---
 
 JavaScript est passée de la simple page web à une utilisation dans les déploiements à grande échelle à la fois sur le serveur et le navigateur.

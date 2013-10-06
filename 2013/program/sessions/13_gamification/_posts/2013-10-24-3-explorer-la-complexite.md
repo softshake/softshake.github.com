@@ -8,6 +8,7 @@ code: s13ga1c
 web: 
 language: fr
 confirmed: yes
+schedule : 11:40 - 12:25
 ---
 
 Il existe plusieurs cadres de classification des problèmes, par exemple Ralph Stacey, célàbre pour la matrice présentée dans "Complexity and Creativity in Organizations", Jurgen Appelo présenté sa classification sur son blog http://www.noop.nl/2010/09/simplicity-a-new-model.html et Dave Snowden présente la complexité dans le Cynefin Framework: http://en.wikipedia.org/wiki/Cynefin.

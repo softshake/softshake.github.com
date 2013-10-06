@@ -7,6 +7,7 @@ track: 13_web_dev
 code: s13wd2e
 web:
 language: fr
+schedule : 14:30 - 15:15
 ---
 
 Live coding sur les tests d'acceptances d'une application html5/javascript #bdd #javascript

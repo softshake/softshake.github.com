@@ -7,6 +7,7 @@ track: 13_incubator
 code: s13in2c
 web: 
 language: fr
+schedule : 11:40 - 12:25
 ---
 
 La présentation, sous forme de démo live, se donne le but d'illustrer les principes de base du scripting sous Unity de façon vivante et dynamique. Les participants curieux sont invités à venir avec Unity3d installé sur leurs laptop.

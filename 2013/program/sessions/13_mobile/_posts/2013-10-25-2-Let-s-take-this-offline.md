@@ -7,6 +7,7 @@ track: 13_mobile
 code: s13mo2b
 web: 
 language: en
+schedule : 10:40 - 11:25
 ---
 
 This presentation will explain the advantages of making mobile applications work offline, and will provide a full-stack how-to.

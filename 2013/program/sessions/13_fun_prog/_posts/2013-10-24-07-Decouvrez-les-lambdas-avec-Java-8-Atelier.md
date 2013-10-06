@@ -8,6 +8,7 @@ track: 13_fun_prog
 code: s13fp1b
 web: 
 language: fr
+schedule : 16:30 - 17:15
 ---
 
 Cette session est un atelier.

@@ -8,6 +8,7 @@ track: 13_ruby
 code: s13rb1c
 web:
 language: fr
+schedule : 11:40 - 12:25
 ---
 
 Créer une application robuste sur le long terme requiert d'avoir un code de bonne qualité. Ruby on rails nous offre une vitesse de développement impressionnante, ceci nous permet de nous concentrer sur la fiabilité du code afin d'éviter tout risque de régression.

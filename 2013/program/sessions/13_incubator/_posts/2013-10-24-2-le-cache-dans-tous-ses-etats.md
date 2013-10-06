@@ -7,6 +7,7 @@ track: 13_incubator
 code: s13in1b
 web: 
 language: fr
+schedule : 10:40 - 11:25
 ---
 
 Comment diminuer le temps de traitement d'un batch ? Le temps d'exécution dune requête ? Le cache est un des outils du développeur pour résoudre ses problématiques quotidiennes et les concepts qui gravitent autour sont nombreux. Si les mots Cache Aside, Write-Behind, Read-Through ne vous sont pas familiers, cela fait pourtant parti des architectures qu’il est facile à mettre en place et qui dans certains contextes peuvent diminuer de manière drastique la durée d’un batch ou d’une requête.

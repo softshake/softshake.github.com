@@ -7,6 +7,7 @@ track: 13_microsoft
 code: s13ms1d
 web: 
 language: en
+schedule : 13:30 - 14:15
 ---
 
 Microsoft has a cloud platform which runs .NET, NodeJS and PHP.

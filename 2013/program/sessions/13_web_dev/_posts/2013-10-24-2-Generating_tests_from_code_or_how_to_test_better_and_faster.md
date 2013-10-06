@@ -7,6 +7,7 @@ track: 13_web_dev
 code: s13wd1b
 web:
 language: fr
+schedule : 10:40 - 11:25
 ---
 
 Alice: Hey Bob, ready for the Big Release. Everything working?

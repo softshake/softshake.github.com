@@ -7,6 +7,7 @@ track: 13_fun_prog
 code: s13fp2b
 web: 
 language: fr
+schedule : 10:40 - 11:25
 ---
 
 You don't yet speak Scala? Then let us invite you to a journey on which we will explore the outstanding features of this programming language for the Java Virtual Machine.

@@ -7,6 +7,7 @@ track: 13_agile
 code: s13ag1f
 web: 
 language: fr
+schedule : 15:30 - 16:15
 ---
 
 Améliorer l’agilité et la prédictibilité, réduire les délais de vos projets informatiques, de manière visible pour vos clients et vos utilisateurs, même lorsque le contexte n’est pas favorable à l’agile.

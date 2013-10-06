@@ -7,6 +7,7 @@ track: 13_gamification
 code: s13ga1b
 web: 
 language: fr
+schedule : 10:40 - 11:25
 ---
 
 L'agilité est une approche radicalement différente des autres méthodes de développement pour le logiciel, mais néanmoins tout n'est pas nouveau et certaines pratiques d'enseignement peuvent être réutilisées avec succès, en particulier tout ce qui concerne l'apprentissage par le jeu. 

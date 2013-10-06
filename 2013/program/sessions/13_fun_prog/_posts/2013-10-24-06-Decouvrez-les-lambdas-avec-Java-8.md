@@ -8,6 +8,7 @@ track: 13_fun_prog
 code: s13fp1b
 web: 
 language: fr
+schedule : 15:30 - 16:15
 ---
 
 Java 8 arrive très bientôt. Et avec cette nouvelle version, un nouveau paradigme de programmation: la programmation fonctionnelle, avec les lambdas.

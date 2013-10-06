@@ -7,6 +7,7 @@ track: 13_fun_prog
 code: s13fp2d
 web: 
 language: fr
+schedule : 13:30 - 14:15
 ---
 
 Le modèle des Acteurs (Actor model) est une théorie de programmation concurrente. 
