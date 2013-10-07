@@ -7,6 +7,7 @@ track: 13_incubator
 code: s13in2d
 web: 
 language: en
+schedule : vendredi 25 octobre 2013, 13:30 - 14:15
 ---
 
 IaaS, PaaS or Saas ; Public Cloud radically changes the roles and the ways of working not only of the OPS teams but also of the DEV teams. If the “as a service” approach makes many jobs disappear, mostly on OPS side, new roles emerge and coaching projects to this new world of freedom is key to success. We will illustrate with real-life examples the new role and responsibilities of Dev, QA and Ops teams in this new world where many things are yet to be invented.

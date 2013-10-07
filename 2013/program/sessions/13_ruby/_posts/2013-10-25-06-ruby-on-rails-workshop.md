@@ -8,6 +8,7 @@ track: 13_ruby
 code: s13rb1f
 web:
 language: fr
+schedule : vendredi 25 octobre 2013, 15:30 - 16:15
 ---
 
 Nombre de places limité aux 30 premiers participants dans la salle.

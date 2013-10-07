@@ -7,6 +7,7 @@ track: 13_web_dev
 code: s13wd1a
 web:
 language: fr
+schedule : jeudi 24 octobre 2013, 9:40 - 10:25
 ---
 
 Rien ne vaut du papier et un bon vieux crayon pour coucher ses idées. Puis vient le moment où il faut présenter et éprouver son concept. Dans une démarche agile, il est indispensable d'obtenir rapidement un concept testable.

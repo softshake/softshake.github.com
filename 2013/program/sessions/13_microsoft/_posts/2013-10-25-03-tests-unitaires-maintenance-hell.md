@@ -7,6 +7,7 @@ track: 13_microsoft
 code: s13ms2c
 web: 
 language: fr
+schedule : vendredi 25 octobre 2013, 11:40 - 12:25
 ---
 
 "Oui, les tests unitaires, c'est cool, mais à chaque fois que je fais une petite modification dans le code, je dois réparer tous mes tests, c'est pénible et ça me prend un temps fou! Alors j'hésite à laisser tomber ma suite de tests, ou alors je fais l'impasse sur ce refactoring ..."

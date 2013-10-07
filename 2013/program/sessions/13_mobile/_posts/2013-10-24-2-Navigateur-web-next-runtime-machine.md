@@ -7,6 +7,7 @@ track: 13_mobile
 code: s13mo1b
 web: 
 language: fr
+schedule : jeudi 24 octobre 2013, 10:40 - 11:25
 ---
 
 À l'heure de l'HTML5, le navigateur web est une plate-forme viable pour des applications mobiles. Les navigateurs ont énormément évolué ces dernières années grâce à des investissements massifs des grands acteurs du web. 

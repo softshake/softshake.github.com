@@ -7,6 +7,7 @@ track: 13_microsoft
 code: s13ms1h
 web: 
 language: en
+schedule : jeudi 24 octobre 2013, 17:30 - 18:15
 ---
 
 C# is an incredibly versatile language, staring with its roots in OOP and then elegantly evolving in syntax and semantics to enable terser expression, iterators, lambdas, high-order functional and asynchronous programming.

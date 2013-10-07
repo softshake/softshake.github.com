@@ -7,6 +7,7 @@ track: 13_microsoft
 code: s13ms2e
 web: 
 language: fr
+schedule : vendredi 25 octobre 2013, 14:30 - 15:15
 ---
 
 Reactive Extensions (Rx) est une bibliothèque nous venant des laboratoires Microsoft qui aide à gérer des situations complexes d’orchestration d’évènements et d’asynchronie avec une approche fonctionnelle et une grande testabilité.

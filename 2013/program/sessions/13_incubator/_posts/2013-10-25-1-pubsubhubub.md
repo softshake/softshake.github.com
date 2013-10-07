@@ -7,6 +7,7 @@ track: 13_incubator
 code: s13in2a
 web: 
 language: fr
+schedule : vendredi 25 octobre 2013, 9:40 - 10:25
 ---
 
 PubSubHubbub est un protocole de publication de contenu serveur-à-serveur basé sur HTTP. Initialement conçu pour les flux RSS et Atom et ouvert à tous types de contenu dans sa dernière version, il permet de délivrer du contenu à des abonnés dès le moment où il est publié, évitant aux abonnés un polling coûteux et fastidieux.

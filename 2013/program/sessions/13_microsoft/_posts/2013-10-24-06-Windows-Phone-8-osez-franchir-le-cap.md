@@ -7,6 +7,7 @@ track: 13_microsoft
 code: s13ms1f
 web: 
 language: fr
+schedule : jeudi 24 octobre 2013, 15:30 - 16:15
 ---
 
 Windows Phone c’est une plateforme novatrice et unique en son genre. En offrant aux utilisateurs une ergonomie unique sur mobile, Microsoft fait le pari d’applications modernes et fluides qui séduiront les utilisateurs.

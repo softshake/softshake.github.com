@@ -7,6 +7,7 @@ track: 13_gamification
 code: s13ga1e
 web: 
 language: fr
+schedule : jeudi 24 octobre 2013, 14:30 - 15:15
 ---
 
 Dans cet atelier, nous allons découvrir comment fonctionne Scrum avec plusieurs équipe qui ont un objectif commun. Nous aurons des products owner jonglant avec les difficultés du métier, des Scrum master trouvant des solutions sur les problèmes de leurs équipes. Et dans tous ça des développeurs travaillant dans un environnement complique et complexe avec des legos.

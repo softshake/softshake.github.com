@@ -7,6 +7,7 @@ track: 13_fun_prog
 code: s13fp2e
 web: 
 language: fr
+schedule : vendredi 25 octobre 2013, 14:30 - 15:15
 ---
 
 10 raisons pourquoi les développeurs Java sont jaloux des développeurs Scala

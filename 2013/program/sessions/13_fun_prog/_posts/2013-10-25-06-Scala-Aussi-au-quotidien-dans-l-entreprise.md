@@ -7,6 +7,7 @@ track: 13_fun_prog
 code: s13fp2f
 web:
 language: fr
+schedule : vendredi 25 octobre 2013, 15:30 - 16:15
 ---
 
 Cette présentation est une exploration de ce que peut apporter Scala et son éco-système pour le développement d'application de gestion en entreprise.

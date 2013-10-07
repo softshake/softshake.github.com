@@ -7,6 +7,7 @@ track: 13_microsoft
 code: s13ms2d
 web: 
 language: fr
+schedule : vendredi 25 octobre 2013, 13:30 - 14:15
 ---
 
 A travers la découverte de la solution ALM de Microsoft, de la spécification du besoin à sa livraison, en passant par le développement collaboratif, la gestion SCRUM du projet, les processus d'intégration continue, cette présentation vous permettra de mieux appréhender les enjeux de l'Agilité dans vos projets, et vous convaincra que la solution Microsoft couvre l’entièreté du besoin.
