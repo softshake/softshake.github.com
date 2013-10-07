@@ -253,9 +253,9 @@ a:hover, a:visited:hover {
 }
 
 #sonar a{
-    background: url(../images/2013/sponsor/sonar_footer.png) no-repeat 100% 100%;
-    height: 52px;
-    width: 250px;
+    background: url(../images/2013/sponsor/sonar-small.png) no-repeat 100% 100%;
+    height: 42px;
+    width: 200px;
     display:block;
     text-indent: -9999px;
 }
@@ -272,6 +272,14 @@ a:hover, a:visited:hover {
     background: url(../images/2013/sponsor/octo-logo-small.png) no-repeat 100% 100%;
     width: 123px;
     height: 64px;
+    display:block;
+    text-indent: -9999px;
+}
+
+#swissquote a{
+    background: url(../images/2013/sponsor/swissquote-small.jpg) no-repeat 100% 100%;
+    width: 200px;
+    height: 60px;
     display:block;
     text-indent: -9999px;
 }
