@@ -2,7 +2,7 @@
 layout: 2013_speaker_fr
 title: Jeremy ALLES
 author: jeremy-alles
-photo: 
+photo: jeremy-alles.jpg
 linkedIn: linkedin.com/in/jeremyalles
 twitter: jalpf
 email: jeremy.alles@gmail.com
