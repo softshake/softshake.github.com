@@ -77,4 +77,4 @@ His interests: innovation, continuous improvement, teamwork, experimentation at 
 **Renault JOHN LECOULTRE**
 
  - Track **Web (JS / CSS3 / HTML5)** • [email](mailto:renault@soft-shake.ch) • [twitter](http://www.twitter.com/renajohn)
- - Enthusiastic and polyvalent software engineer. Co-founder at [BugBuster](http://bugbuster.com) ([@BugBuster_Inc](http://www.twitter.com/BugBuster_Inc)). Current organizer of [JS Romendie](http://www.meetup.com/jsromandie/).
+ - Enthusiastic and polyvalent software engineer. Co-founder at [BugBuster](http://bugbuster.com) ([@BugBuster_Inc](http://www.twitter.com/BugBuster_Inc)). Current organizer of [JS Romandie](http://www.meetup.com/jsromandie/).
