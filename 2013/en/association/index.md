@@ -73,3 +73,8 @@ His interests: innovation, continuous improvement, teamwork, experimentation at 
 
  - Track **Agile** • [email](mailto:gael@soft-shake.ch) • [twitter](http://www.twitter.com/Pyxis_Suisse)
  - Gaël holds a degree in management and communication from ESM Geneva. After working in finance and advertising, he decided to change his career to get closer to his passion – IT. He decided to pick up his studies, this time at Montreal University, department of Computer Science. He received his certificate in 2010 with an Award of Excellence. Passionate developer and always in touch with latest technologies he continued his career at Pyxis as a Web developer and integrator. One day he launched the idea to create a branch of Pyxis in Switzerland. After a year of preparations, he is now back in his country to start up Pyxis Suisse SA in the quality of founder and president.
+
+**Renault JOHN LECOULTRE**
+
+ - Track **Web (JS / CSS3 / HTML5)** • [email](mailto:renault@soft-shake.ch) • [twitter](http://www.twitter.com/renajohn)
+ - Enthusiastic and polyvalent software engineer. Co-founder at [BugBuster](http://bugbuster.com) ([@BugBuster_Inc](http://www.twitter.com/BugBuster_Inc)). Current organizer of [JS Romandie](http://www.meetup.com/jsromandie/).
