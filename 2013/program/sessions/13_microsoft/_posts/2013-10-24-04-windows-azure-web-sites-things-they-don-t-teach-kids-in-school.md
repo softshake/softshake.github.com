@@ -4,8 +4,10 @@ title: "Windows Azure Web Sites – things they don’t teach kids in school"
 author: Maarten BALLIAUW
 authorpost: maarten-balliauw
 track: 13_microsoft
+code: s13ms1d
 web: 
 language: en
+schedule : jeudi 24 octobre 2013, 13:30 - 14:15
 ---
 
 Microsoft has a cloud platform which runs .NET, NodeJS and PHP.

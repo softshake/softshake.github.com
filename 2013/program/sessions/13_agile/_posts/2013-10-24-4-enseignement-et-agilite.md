@@ -4,9 +4,11 @@ title: Enseignement et Agilité
 author: Romain COUTURIER
 authorpost: romain-couturier
 track: 13_agile
+code: s13ag1d
 web: 
 language: fr
 confirmed: yes
+schedule : jeudi 24 octobre 2013, 13:30 - 14:15
 ---
 
 Cette session est dédiée à toutes celles et ceux qui interviennent pour enseigner l’Agilité. Les IUT, les écoles d’informatique (mais pas que !) inscrivent désormais l’Agilité dans leur cursus pédagogique. Il s’agit d’une avancée importante pour l’Agilité, mais contrairement à ce que nous pratiquons en entreprise ou en formation, l’enseignement de l’Agilité doit prendre d’autres formes, auprès des étudiants … mais également du corps enseignant.

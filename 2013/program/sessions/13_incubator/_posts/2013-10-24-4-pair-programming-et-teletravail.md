@@ -4,8 +4,10 @@ title: "'il y avait vraiment du gâteau', pair-programming et télétravail un r
 author: Andréas KUNDIG
 authorpost: andreas-kundig
 track: 13_incubator
+code: s13in1d
 web: 
 language: fr
+schedule : jeudi 24 octobre 2013, 13:30 - 14:15
 ---
 
 aprés un an de pair programming et de remote pair programing, on profite de SoftShake pour tirer le bilan de notre expérience. 

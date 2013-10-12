@@ -4,9 +4,11 @@ title: "Tout ce que vous avez toujours voulu savoir sur les Systèmes Multi-Agen
 author: Marc-Philippe HUGET
 authorpost: marc-philippe-huget
 track: 13_ia_robotics
+code: s13ir1c
 web: 
 language: fr
 confirmed: yes
+schedule : vendredi 25 octobre 2013, 11:40 - 12:25
 ---
 
 A l'ère du cloud, du global computing, de la simulation, du social computing, le domaine des systèmes multi-agents semble répondre à de nombreuses problématiques que les architectes logiciels et les développeurs se posent. En effet, un système multi-agents apporte des notions d'autonomie des agents quant à leurs décisions, de décentralisation du contrôle pour éviter le point central qui risque de s'écrouler, d'intelligence puisque les agents disposent de comportements intelligents (à base de règles entre autres), mais aussi pour les plus avancés d'apprentissage.

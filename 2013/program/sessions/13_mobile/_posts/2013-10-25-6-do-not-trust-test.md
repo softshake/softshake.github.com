@@ -4,8 +4,10 @@ title: "Do not trust, test ! "
 author: Olivier GONTHIER
 authorpost: olivier-gonthier
 track: 13_2013_session_frmobile
+code: s13mo2f
 web: 
 language: fr
+schedule : vendredi 25 octobre 2013, 15:30 - 16:15
 ---
 
 Tester une application Android est loin d’être une chose facile. Quels outils avons-nous à notre disposition, comment les utiliser et que faut-il tester?

@@ -1,6 +1,6 @@
 ---
 layout: 2013_speaker_fr
-title: Rémi Emonet
+title: Rémi EMONET
 author: remi-emonet
 photo:
 linkedIn:

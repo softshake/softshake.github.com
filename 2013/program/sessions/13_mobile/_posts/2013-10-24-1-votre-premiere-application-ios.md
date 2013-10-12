@@ -4,8 +4,10 @@ title: Votre première application iOS
 author: Marc-Henri PRIMAULT
 authorpost: marc-henri-primault
 track: 13_mobile
+code: s13mo1a
 web: 
 language: fr
+schedule : jeudi 24 octobre 2013, 9:40 - 10:25
 ---
 
 Cette session s'adresse aux personnes n'ayant jamais fait d'Objective-c.

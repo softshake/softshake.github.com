@@ -1,12 +1,12 @@
 ---
 layout: 2013_speaker_fr
-title: Filip WOJCIESYN
+title: Filip WOJCIESZYN
 author: filip-wojcieszyn
-photo: 
+photo: filip-wojcieszyn.png
 linkedIn: 
 twitter: filip_woj
 email: filip@strathweb.com
-web: www.starthweb.com
+web: strathweb.com
 ---
 
 Filip is a popular ASP.NET Web API blogger (www.starthweb.com), a Microsoft ASP.NET MVP, coordinator at the scriptcs project, open source contributor and a member of the ASP.NET Web API advisory group. Specializes in ASP.NET Web Stack and modern Microsoft web technologies. 

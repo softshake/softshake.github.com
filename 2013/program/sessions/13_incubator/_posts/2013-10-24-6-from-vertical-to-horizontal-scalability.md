@@ -4,8 +4,10 @@ title: "From vertical to horizontal: infrastructure and scalability challenges i
 author: Pierre-Yves RITSCHARD
 authorpost: pierre-yves-ritschard
 track: 13_incubator
+code: s13in1f
 web: 
 language: en
+schedule : jeudi 24 octobre 2013, 15:30 - 16:15
 ---
 
 As cloud adoption rises, new infrastructure pattern emerges. The volatility of nodes and the ephemeral nature of storage in on-demand environments challenges the way we reason about application design and architecture.

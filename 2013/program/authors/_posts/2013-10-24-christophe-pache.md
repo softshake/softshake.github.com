@@ -3,7 +3,7 @@ layout: 2013_speaker_fr
 title: Christophe PACHE
 author: christophe-pache
 photo:
-linkedIn: http://www.linkedin.com/pub/christophe-pache/41/52/14a
+linkedIn: linkedin.com/pub/christophe-pache/41/52/14a
 twitter: chpache
 email: christophe.pache@crossing-tech.com
 web:

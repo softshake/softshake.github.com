@@ -3,7 +3,7 @@ layout: 2013_speaker_fr
 title: Andréas KUNDIG
 author: andreas-kundig
 photo: andreas-kundig.jpg
-linkedIn: http://www.linkedin.com/pub/andreas-k%C3%BCndig/b/422/73b
+linkedIn: linkedin.com/pub/andreas-k%C3%BCndig/b/422/73b
 twitter:
 email: andreas.kuendig@gmx.ch
 web:

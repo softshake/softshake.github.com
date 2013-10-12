@@ -3,7 +3,7 @@ layout: 2013_speaker_fr
 title: Nedjma SAIDANI
 author: nedjma-saidani
 photo: nedjma-saidani.jpg
-linkedIn: http://fr.linkedin.com/pub/nedjma-saidani/39/765/840
+linkedIn: fr.linkedin.com/pub/nedjma-saidani/39/765/840
 twitter: snedjma
 email: saidaninedjma@gmail.com
 web: 

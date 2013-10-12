@@ -4,8 +4,10 @@ title: "Tests de performances: outils, bonnes pratiques & Gatling"
 author: Pierre DAL-PRA
 authorpost: pierre-dal-pra
 track: 13_incubator
+code: s13in1e
 web: 
 language: fr
+schedule : jeudi 24 octobre 2013, 14:30 - 15:15
 ---
 Face à l'explosion du traffic Internet et à de nouveaux usages, la résistance à la charge des applications est devenu un enjeu majeur.
 Pour cela, il est impératif de convenablement s'outiller.

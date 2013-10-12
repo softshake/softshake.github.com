@@ -1,9 +1,9 @@
 ---
-layout: trackowner
+layout: 2013_trackowner_fr
 title: Nicolas REMOND
 photo: nicolas-remond.jpg
-track: Java
-linkedIn: ch.linkedin.com/in/maximenowak
+track: 13_java
+linkedIn: 
 twitter: nremond
 email: nicolas.r@soft-shake.ch
 email-track: track-java@soft-shake.ch

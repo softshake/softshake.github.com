@@ -3,10 +3,12 @@ layout: 2013_session_fr
 title: Make sense of your (BIG) data!
 author: Pilato David
 confirmed: YES
-authorpost: ???
+authorpost: david-pilato
 track: 13_bigdata
+code: s13bd1g
 web: 
 language: fr
+schedule : jeudi 24 octobre 2013, 16:30 - 17:15
 ---
 
 Building analytics live

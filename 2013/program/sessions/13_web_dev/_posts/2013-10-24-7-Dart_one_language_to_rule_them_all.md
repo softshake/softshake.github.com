@@ -4,8 +4,10 @@ title: "Dart : one language to rule them all"
 author: Sébastien DELEUZE
 authorpost: sebastien-deleuze
 track: 13_web_dev
+code: s13wd1g
 web:
 language: fr
+schedule : jeudi 24 octobre 2013, 16:30 - 17:15
 ---
 
 Dart est un langage (et une plateforme incluant VM, compilateur, etc.) actuellement en cours de développement chez Google. Son mode de développement itératif, l'équilibre qu'il représente en tant que langage client et serveur et les talents que Google a réuni pour le développer sont autant de points qui donnent à penser que Dart sera une technologie majeure dans les prochaines années.

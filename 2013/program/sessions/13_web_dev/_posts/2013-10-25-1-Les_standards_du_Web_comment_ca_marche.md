@@ -4,8 +4,10 @@ title: "Les standards du Web, comment ça marche?"
 author: Tobie LANGEL
 authorpost: tobie-langel
 track: 13_web_dev
+code: s13wd2a
 web:
 language: fr
+schedule : vendredi 25 octobre 2013, 9:40 - 10:25
 ---
 
 Les technologies du Web sont développées au seing d'organismes de standardisations dont le W3C est un des plus connu.

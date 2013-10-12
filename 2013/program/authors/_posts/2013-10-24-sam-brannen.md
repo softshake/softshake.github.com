@@ -2,11 +2,12 @@
 layout: 2013_speaker_fr
 title: Sam BRANNEN
 author: sam-brannen
-photo:
-linkedIn:
-twitter:
+photo: sam-brannen.jpg
+linkedIn: linkedin.com/in/sbrannen
+twitter: sam_brannen
 email: sam.brannen@swiftmind.com
-web:
+web: swiftmind.com
+web2: swiftmind.com/de/author/sam
 ---
 
 Sam Brannen is a Senior Software Consultant with over 15 years' experience and co-founder of Swiftmind, a software consulting agency in Zurich, Switzerland. At Swiftmind Sam helps international clients achieve best practices in agile software development, architecture, design, implementation, and testing of enterprise Java applications using the Spring Framework and a plethora of open source technologies. In his consulting role, Sam most enjoys leading work shops, code reviews, coaching, and training clients.

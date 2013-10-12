@@ -4,8 +4,10 @@ title: Welcome to an asynchronous world
 author: Jose Luis LATORRE MILLAS
 authorpost: jose-luis-latorre-millas
 track: 13_incubator
+code: s13ms2a
 web: 
 language: en
+schedule : vendredi 25 octobre 2013, 9:40 - 10:25
 ---
 
 In the beginning of time, code was linear.

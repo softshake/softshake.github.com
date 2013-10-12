@@ -4,8 +4,10 @@ title: "Clojure and Data : introduction to datascience"
 author: Maximilien RZEPKA
 authorpost: maximilien-rzepka
 track: 13_fun_prog
+code: s13fp1a
 web: http://about.me/maxrzepka
 language: en
+schedule : jeudi 24 octobre 2013, 9:40 - 10:25
 ---
 
 Introduction on datascience with clojure, cascalog (maybe more...) with optional (but highly recommended) hands-on.

@@ -13,11 +13,29 @@ layout: 2013_default_fr
 <div id="main_container">
 	<h2>{{ page.title }}</h2>
 	<ul>
-		<li>Speaker: <a href="/2013/program/authors/2013/10/24/{{ page.authorpost }}.html">{{ page.author }}</a></il>
+		<li>Speaker: 
+			{% if page.authorpost2 %}
+				{% for post in site.categories.authors %}
+					{% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
+					{% if year == "2013" %}
+						{% if post.author == page.authorpost %}
+							{% assign author1 = post %}
+						{% endif %}
+						{% if post.author == page.authorpost2 %}
+							{% assign author2 = post %}
+						{% endif %}
+					{% endif %}
+				{% endfor %}
+				<a href="{{ author1.url }}">{{ author1.title }}</a> et <a href="{{ author2.url }}">{{ author2.title }}</a>
+			{% else %}
+				<a href="/2013/program/authors/2013/10/24/{{ page.authorpost }}.html">{{ page.author }}</a>
+			{% endif %}
+		</il>
 		<li>Track: <a href="/2013/fr/conference/sessions.html#{{ page.track }}" >{{ site.tracks2013[page.track] }}</a></li>
 		{% if page.level %}
 			<li>Niveau: <a href="http://fr.wikipedia.org/wiki/Shuhari" target="_blank">{{ page.level }}</a></li>
 		{% endif %}
+		<li>Horaire: {{page.schedule}}</li>
 	</ul>
 	<p>&nbsp;</p>
 	<h4>Description</h4>

@@ -1,6 +1,6 @@
 ---
 layout: 2013_speaker_fr
-title: Julien Vey
+title: Julien VEY
 author: julien-vey
 photo:
 linkedIn:

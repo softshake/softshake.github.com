@@ -4,8 +4,10 @@ title: "An Introduction to F#, or: Writing Simple Code to Solve Complex Poblems"
 author: Marc SIGRIST
 authorpost: marc-sigrist
 track: 13_microsoft
+code: s13ms2f
 web: 
 language: en
+schedule : vendredi 25 octobre 2013, 15:30 - 16:15
 ---
 
 F# is a fully CLI compatible, Apache 2.0 open source-licensed programming language available on all major platforms.

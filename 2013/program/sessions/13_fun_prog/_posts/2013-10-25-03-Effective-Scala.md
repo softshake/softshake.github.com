@@ -4,8 +4,10 @@ title: Effective Scala
 author: Mirco Dotta
 authorpost: mirco-dotta
 track: 13_fun_prog
+code: s13fp2c
 web: 
 language: en
+schedule : vendredi 25 octobre 2013, 11:40 - 12:25
 ---
 
 Everything you always wanted to know about Scala but were afraid to ask. 

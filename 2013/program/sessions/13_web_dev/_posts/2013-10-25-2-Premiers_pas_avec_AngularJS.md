@@ -4,8 +4,10 @@ title: Premiers pas avec AngularJS
 author: Maxime NOWAK
 authorpost: maxime-nowak
 track: 13_web_dev
+code: s13wd2b
 web:
 language: fr
+schedule : vendredi 25 octobre 2013, 10:40 - 11:25
 ---
 
 Le nombre de librairies et frameworks JavaScripts ne cesse d'augmenter. Certains sont plus ou moins facile à prendre en main.

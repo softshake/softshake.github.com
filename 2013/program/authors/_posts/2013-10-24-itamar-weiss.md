@@ -1,9 +1,9 @@
 ---
 layout: 2013_speaker_fr
-title: Itamar Weiss
+title: Itamar WEISS
 author: itamar-weiss
 photo: itamar-weiss.jpg
-linkedIn: http://www.linkedin.com/in/itamarweiss
+linkedIn: linkedin.com/in/itamarweiss
 twitter:
 email: itamar@serviceathome.com
 web: serviceathome.com

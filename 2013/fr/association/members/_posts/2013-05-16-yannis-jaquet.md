@@ -1,9 +1,9 @@
 ---
-layout: trackowner
+layout: 2013_trackowner_fr
 title: Yannis Jaquet
-photo: yannis-jaquet.jpg
-track: Ruby
-linkedIn: ch.linkedin.com/in/maximenowak
+photo: 
+track: 13_ruby
+linkedIn: 
 twitter: yannis_
 email: yannis@soft-shake.ch
 email-track: track-ruby@soft-shake.ch

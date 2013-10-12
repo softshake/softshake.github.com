@@ -1,0 +1,55 @@
+---
+layout: 2013_default_fr
+---
+
+<div class="speaker">
+    <div class="img">
+		{% if page.photo != null %}
+        	<img src="/images/2013/trackowners/{{ page.photo }}" alt="{{ page.title }}">
+		{% else %}
+    		<img src="/images/2013/trackowners/-default-w.png" alt="Photo">
+		{% endif %}
+    </div>
+    <div class="text">
+        <h2>{{ page.title }}</h2>
+		<ul>
+			{% if page.web %}
+				<li>
+					<a href="{{ page.web }}">{{ page.web }}</a>
+					{% if page.web2 %}
+						 &bull; <a href="{{ page.web2 }}">{{ page.web2 }}</a>
+					{% endif %}
+				</li>
+			{% endif %}
+			{% if page.linkedIn %}
+				<li><a href="{{ page.linkedIn }}">linkedin</a></li>
+			{% endif %}
+			{% if page.twitter %}
+				<li><a href="https://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a></li>
+			{% endif %}
+			
+			{% if page.track %}
+				<li>Track: 
+				{% assign c = 0 %}
+				{% for track in site.tracks2013 %}
+					{% assign t = track[0] %}
+					{% if page.track contains t %}
+						{% if c == 1 %}
+		    				 &bull; 
+						{% endif %}
+		    			<a href="/2013/fr/conference/sessions.html#{{ track[0] }}" >{{ track[1] }}</a>
+						{% assign c = 1 %}
+					{% endif %}
+				{% endfor %}
+				</li>
+			{% endif %}
+			
+		</ul>
+
+		<p>&nbsp;</p>
+        {{ content }}
+
+    </div>
+</div>
+
+<p>&nbsp;</p>

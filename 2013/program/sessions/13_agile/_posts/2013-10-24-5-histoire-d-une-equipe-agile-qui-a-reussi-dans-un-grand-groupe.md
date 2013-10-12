@@ -4,9 +4,11 @@ title: Histoire d’une équipe agile qui a réussi dans un grand groupe
 author: Nedjma SAIDANI
 authorpost: nedjma-saidani
 track: 13_agile
+code: s13ag1e
 web: 
 language: fr
 confirmed: yes
+schedule : jeudi 24 octobre 2013, 14:30 - 15:15
 ---
 
 Le succès d’un projet dépend directement de l’implication des personnes qui travaillent dessus, ce qui est lié directement au niveau de motivation de chaque membre de l’équipe, il s’agit de l’un des fondements du manifeste agile.  Cette présentation est un retour d’expérience sur la construction d’une équipe agile motivée. Au delà de la réussite de cette équipe  à livrer un produit de qualité, je vais vous parler de sa réussite à construire une vraie cohésion et à avoir du plaisir à travailler ensemble.

@@ -23,14 +23,28 @@ layout: 2013_default_fr
 		<ul>
 			{% if page.web %}
 				<li>
-					<a href="{{ page.web }}">{{ page.web }}</a>
+					{% if page.web contains "http" %}
+						<a href="{{ page.web }}">{{ page.web }}</a>
+					{% else %}
+						<a href="http://{{ page.web }}">{{ page.web }}</a>
+					{% endif %}
 					{% if page.web2 %}
-						 &bull; <a href="{{ page.web2 }}">{{ page.web2 }}</a>
+						{% if page.web2 contains "http" %}
+							 &bull; <a href="{{ page.web2 }}">{{ page.web2 }}</a>
+						{% else %}
+							 &bull; <a href="http://{{ page.web2 }}">{{ page.web2 }}</a>
+						{% endif %}
 					{% endif %}
 				</li>
 			{% endif %}
 			{% if page.linkedIn %}
-				<li><a href="{{ page.linkedIn }}">linkedin</a></li>
+				<li>
+					{% if page.linkedIn contains "http" %}
+						 <a href="{{ page.linkedIn }}">linkedin</a>
+					{% else %}
+						 <a href="http://{{ page.linkedIn }}">linkedin</a>
+					{% endif %}
+				</li>
 			{% endif %}
 			{% if page.twitter %}
 				<li><a href="https://twitter.com/{{ page.twitter }}">@{{ page.twitter }}</a></li>
@@ -48,6 +62,9 @@ layout: 2013_default_fr
 				{% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
 				{% if year == "2013" %}
 					{% if post.authorpost == page.author %}
+		    			<li>[<a href="/2013/fr/conference/sessions.html#{{ track[0] }}" >{{ track[1] }}</a>] <a href="{{ post.url }}" >{{ post.title }}</a></li>
+					{% endif %}
+					{% if post.authorpost2 == page.author %}
 		    			<li>[<a href="/2013/fr/conference/sessions.html#{{ track[0] }}" >{{ track[1] }}</a>] <a href="{{ post.url }}" >{{ post.title }}</a></li>
 					{% endif %}
 				{% endif %}

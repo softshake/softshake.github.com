@@ -4,8 +4,10 @@ title: Développer des apps Windows 8 en JavaScript
 author: Fabien NICOLLET
 authorpost: fabien-nicollet
 track: 13_microsoft
+code: s13ms1e
 web: 
 language: fr
+schedule : jeudi 24 octobre 2013, 14:30 - 15:15
 ---
 
 La nouvelle version de Windows vous permet de développer des applications natives à distribuer sur le Windows Store. Ces applications peuvent être développées sur 2 stacks: une stack "traditionnelle" (C# / XAML) et une stack basée sur les technologies HTML5 (JavaScript / CSS / HTML).

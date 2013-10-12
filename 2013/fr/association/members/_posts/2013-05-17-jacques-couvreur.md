@@ -1,8 +1,8 @@
 ---
-layout: trackowner
+layout: 2013_trackowner_fr
 title: Jacques COUVREUR
 photo: jacques-couvreur.jpg
-track: Agile & président
+track: 13_agile, 13_gamification, 13_ia_robotics
 linkedIn: ch.linkedin.com/in/maximenowak
 twitter: jacquescouvreur
 email: jacques@soft-shake.ch

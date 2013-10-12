@@ -4,8 +4,10 @@ title: Kanban, un tour d'horizon de la méthode
 author: Laurent MORISSEAU
 authorpost: laurent-morisseau
 track: 13_agile
+code: s13ag1f
 web: 
 language: fr
+schedule : jeudi 24 octobre 2013, 15:30 - 16:15
 ---
 
 Améliorer l’agilité et la prédictibilité, réduire les délais de vos projets informatiques, de manière visible pour vos clients et vos utilisateurs, même lorsque le contexte n’est pas favorable à l’agile.

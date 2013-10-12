@@ -1,6 +1,6 @@
 ---
 layout: 2013_speaker_fr
-title: Alexandru Craciun
+title: Alexandru CRACIUN
 author: alexandru-craciun
 photo:
 linkedIn:

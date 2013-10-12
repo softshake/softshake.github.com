@@ -4,8 +4,10 @@ title: "Comment tester une application html5 ?"
 author: Jean-Laurent DE MORLHON
 authorpost: jean-laurent-de-morlhon
 track: 13_web_dev
+code: s13wd2e
 web:
 language: fr
+schedule : vendredi 25 octobre 2013, 14:30 - 15:15
 ---
 
 Live coding sur les tests d'acceptances d'une application html5/javascript #bdd #javascript

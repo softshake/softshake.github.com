@@ -4,9 +4,11 @@ title: "Confiance et Concombre: quel rapport?"
 author: Arnauld LOYER
 authorpost: arnauld-loyer
 track: 13_agile
+code: s13ag1a
 web: 
 language: fr
 confirmed: yes
+schedule : jeudi 24 octobre 2013, 9:40 - 10:25
 ---
 
 Rappelez-vous cette petite fille, la bouche pleine de chocolat qui dit ""Mon papa il me dit toujours on ne doit pas manger de mousse au chocolat avant de manger... sinon tu trompes la confiance que tes parents ils ont mis à l'intérieur de toi""

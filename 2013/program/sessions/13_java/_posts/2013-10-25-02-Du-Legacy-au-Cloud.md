@@ -4,8 +4,10 @@ title: Du Legacy au Cloud en moins d'une heure
 author: David Gageot
 authorpost: david-gageot
 track: 13_java
+code: s13ja2b
 web: 
 language: fr
+schedule : vendredi 25 octobre 2013, 10:40 - 11:25
 ---
 
 Il est de plus en plus simple de développer des applications web, en partant de zéro, pour les héberger sur le Cloud. Mais est-ce aussi simple quand on part de code existant ? Les techniques adaptées à un projet tout neuf sont-elles utilisables de la même façon sur du code "Legacy" ?

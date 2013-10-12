@@ -4,8 +4,10 @@ title: Speedup your web app
 author: Alexis BERNARD
 authorpost: alexis-bernard
 track: 13_ruby
+code: s13rb1a
 web:
 language: fr
+schedule : vendredi 25 octobre 2013, 9:40 - 10:25
 ---
 
 Nous sommes de moins en moins patients. Une demie seconde d'attente en trop et c'est souvent un client ou un utilisateur de perdu.

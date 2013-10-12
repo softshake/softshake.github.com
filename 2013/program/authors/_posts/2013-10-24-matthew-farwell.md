@@ -3,8 +3,8 @@ layout: 2013_speaker_fr
 title: Matthew FARWELL
 author: matthew-farwell
 photo:
-linkedIn:
-twitter:
+linkedIn: www.linkedin.com/in/matthewfarwell
+twitter: matthewfarwell
 email: matthew@farwell.co.uk
 web:
 ---
