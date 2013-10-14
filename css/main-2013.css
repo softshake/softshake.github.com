@@ -536,18 +536,22 @@ ul.dropdown ul li {
 }
 
 .sos13_program_hour {
+    text-align: center;
+    font-weight: bold;
+    font-size: 75%;
+    background-color: #dddddd;
+    background-color: black;
+	color: white;
 }
 
 .sos13_program_track {
     text-align: center;
-    background-color: #dddddd;
-
-    background-color: rgba(0, 154, 215, 1.0);
     background-color: black;
 	color: white;
+    font-weight: bold;
     text-align: center;
 	/* font-weight: 500; */
-    font-size: 85%;
+    font-size: 70%;
 	/* padding-top: 10px; */
 	/* padding-bottom: 10px; */
 }
@@ -561,7 +565,12 @@ ul.dropdown ul li {
 	padding-bottom: 10px;
 }
 
+.sos13_program_session_fr {
+    font-size: 70%;
+}
+
 .sos13_program_session_en {
+    font-size: 70%;
     background-color: rgba(255, 0, 0, 0.2);
 }
 

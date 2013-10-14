@@ -21,67 +21,11 @@ layout: 2013_default_fr
 
 <h1>Programme softshake 2013</h1>
 
-<h3> Les horaires </h3>
-<table border="1" cellspacing="0" cellpadding="5">
-	<tr>
-		<th>Sessions</th>
-		<th>Jeudi</th>
-		<th>Vendredi</th>
-	</tr>
-	<tr>
-		<td>Ouverture, mot du président</td>
-		<td align="center">8:45 - 9:00</td>
-		<td>-</td>
-	</tr>
-	<tr>
-		<td>Keynote - 30 minutes</td>
-		<td colspan="2" align="center">9:00 - 9:30</td>
-	</tr>
-	<tr>
-		<td>S1</td>
-		<td colspan="2" align="center">9:40 - 10:25</td>
-	</tr>
-	<tr>
-		<td>S2</td>
-		<td colspan="2" align="center">10:40 - 11:25</td>
-	</tr>
-	<tr>
-		<td>S3</td>
-		<td colspan="2" align="center">11:40 - 12:25</td>
-	</tr>
-	<tr>
-		<td>Pause de midi</td>
-		<td colspan="2" align="center">12:25 - 13:30</td>
-	</tr>
-	<tr>
-		<td>S4</td>
-		<td colspan="2" align="center">13:30 - 14:15</td>
-	</tr>
-	<tr>
-		<td>S5</td>
-		<td colspan="2" align="center">14:30 - 15:15</td>
-	</tr>
-	<tr>
-		<td>S6</td>
-		<td colspan="2" align="center">15:30 - 16:15</td>
-	</tr>
-	<tr>
-		<td>S7</td>
-		<td>16:30 - 17:15</td>
-		<td>pas de session</td>
-	</tr>
-	<tr>
-		<td>S8</td>
-		<td>17:30 - 18:15</td>
-		<td>pas de session</td>
-	</tr>
-</table>
-
 <p>&nbsp;</p>
 
 <p>Légende:</p>
 <ul>
-	<li><span class="sos13_program_session_en">English language</span></li>
+	<li><span class="sos13_program_session_en" style="padding=7px">English language</span></li>
 </ul>
 
 <table border="1" cellspacing="0" cellpadding="3">
@@ -90,18 +34,26 @@ layout: 2013_default_fr
 		<th class="sos13_program_date" colspan="{{ tracks_count_plus_one }}">Jeudi 24 octobre</th>
 	</tr>
 	<tr>
-		<th> </th>
+		<td class="sos13_program_hour">8:15<br />8:45</td>
+		<td class="sos13_program_keynote" colspan="{{ tracks_count }}">Accueil des participants</td>
+	</tr>
+	<tr>
+		<td class="sos13_program_hour">8:45<br />9:00</td>
+		<td class="sos13_program_keynote" colspan="{{ tracks_count }}">Ouverture, mot du président</td>
+	</tr>
+	<tr>
+		<td class="sos13_program_hour">9:00<br />9:30</td>
+		<td class="sos13_program_keynote" colspan="{{ tracks_count }}">Keynote</td>
+	</tr>
+	<tr>
+		<th class="sos13_program_track"> </th>
 		{% for track_code in site.schedule2013_j1 %}
 			{% for track in site.tracks2013 %}
 				{% if track[0] == track_code %}
-					<th class="sos13_program_track"><small><b>{{ track[1] }}</b></small></th>
+					<th class="sos13_program_track">{{ track[1] }}</th>
 				{% endif %}
 			{% endfor %}
 		{% endfor %}
-	</tr>
-	<tr>
-		<td> </td>
-		<td class="sos13_program_keynote" colspan="{{ tracks_count }}">Keynote</td>
 	</tr>
 
 {% for h in site.hours_j1 %}
@@ -120,7 +72,7 @@ layout: 2013_default_fr
 			{% endif %}
 				{% capture day %}{{post.date | date: "%d"}}{% endcapture %}
 				{% if day == "24" %}
-					<small><small><a href="{{ post.url }}">{{ post.title }}</a></small></small>
+					<a href="{{ post.url }}">{{ post.title }}</a>
 				{% endif %}
 			</td>
 		{% endfor %}
@@ -128,11 +80,11 @@ layout: 2013_default_fr
 {% endfor %}
 
 	<tr>
-		<th> </th>
+		<th class="sos13_program_track"> </th>
 		{% for track_code in site.schedule2013_j1 %}
 			{% for track in site.tracks2013 %}
 				{% if track[0] == track_code %}
-					<th class="sos13_program_track"><small><b>{{ track[1] }}</b></small></th>
+					<th class="sos13_program_track">{{ track[1] }}</th>
 				{% endif %}
 			{% endfor %}
 		{% endfor %}
@@ -145,13 +97,21 @@ layout: 2013_default_fr
 	<tr>
 		<th class="sos13_program_date" colspan="{{ tracks_count_plus_one }}">Vendredi 25 octobre</th>
 	</tr>
+	<tr>
+		<td class="sos13_program_hour">8:30<br />9:00</td>
+		<td class="sos13_program_keynote" colspan="{{ tracks_count }}">Accueil des participants</td>
+	</tr>
+	<tr>
+		<td class="sos13_program_hour">9:00<br />9:30</td>
+		<td class="sos13_program_keynote" colspan="{{ tracks_count }}">Keynote</td>
+	</tr>
 
 	<tr>
-		<th> </th>
+		<th class="sos13_program_track"> </th>
 		{% for track_code in site.schedule2013_j2 %}
 			{% for track in site.tracks2013 %}
 				{% if track[0] == track_code %}
-					<th class="sos13_program_track"><small><b>{{ track[1] }}</b></small></th>
+					<th class="sos13_program_track">{{ track[1] }}</th>
 				{% endif %}
 			{% endfor %}
 		{% endfor %}
@@ -179,7 +139,7 @@ layout: 2013_default_fr
 							{% else %}
 								<td class="sos13_program_session_fr">
 							{% endif %}
-								<small><small><a href="{{ post.url }}">{{ post.title }}</a></small></small>
+								<a href="{{ post.url }}">{{ post.title }}</a>
 							</td>
 						{% endif %}
 						{% assign d25count = d25count | plus:1 %}
@@ -197,11 +157,11 @@ layout: 2013_default_fr
 {% endfor %}
 
 	<tr>
-		<th> </th>
+		<th class="sos13_program_track"> </th>
 		{% for track_code in site.schedule2013_j2 %}
 			{% for track in site.tracks2013 %}
 				{% if track[0] == track_code %}
-					<th class="sos13_program_track"><small><b>{{ track[1] }}</b></small></th>
+					<th class="sos13_program_track">{{ track[1] }}</th>
 				{% endif %}
 			{% endfor %}
 		{% endfor %}
