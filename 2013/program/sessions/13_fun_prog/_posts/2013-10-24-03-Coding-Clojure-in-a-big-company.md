@@ -6,7 +6,7 @@ authorpost: robert-branchat
 track: 13_fun_prog
 code: s13fp1d
 web: 
-language: fr
+language: en
 schedule : jeudi 24 octobre 2013, 11:40 - 12:25
 ---
 
