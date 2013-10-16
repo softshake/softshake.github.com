@@ -1,7 +1,7 @@
 ---
 layout: 2013_speaker_fr
-title: Christophe DELESTRE
-author: christophe-delestre
+title: Jose Luis LATORRE MILLAS
+author: jose-luis-latorre-millas
 photo: 
 linkedIn: 
 twitter: 
