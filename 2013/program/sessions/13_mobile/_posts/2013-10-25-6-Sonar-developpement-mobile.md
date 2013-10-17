@@ -8,7 +8,7 @@ track: 13_mobile
 code: s13mo2e
 web: 
 language: fr
-schedule : vendredi 25 octobre 2013, 14:30 - 15:15
+schedule : vendredi 25 octobre 2013, 15:30 - 16:15
 ---
 
 Cette session présentera l'état et la maturité de la solution de qualimétrie Sonar sur les plateformes Android et iOS. 
