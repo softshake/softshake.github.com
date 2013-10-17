@@ -9,7 +9,7 @@ track: 13_java
 code: s13ja1b
 web: 
 language: en
-schedule : jeudi 24 octobre 2013, 10:40 - 12:25
+schedule : jeudi 24 octobre 2013, 10:40 - 11:25
 ---
 
 **This session is a Lab : Don't forget your laptop**
