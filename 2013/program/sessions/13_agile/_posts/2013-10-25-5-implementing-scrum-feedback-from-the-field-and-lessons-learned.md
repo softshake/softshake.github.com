@@ -8,7 +8,7 @@ code: s13ag2a
 web: 
 language: en
 confirmed: yes
-schedule : vendredi 25 octobre 2013, 9:40 - 10:25
+schedule : vendredi 25 octobre 2013, 14:30 - 15:15
 ---
 
 Based on the speaker’s experience as a Software Engineering Executive, the session will provide honest feedback on the following questions:
