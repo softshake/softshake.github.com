@@ -8,7 +8,7 @@ track: 13_bigdata
 code: s13bd1d
 web: 
 language: en
-schedule : jeudi 24 octobre 2013, 13:30 - 14:15
+schedule : jeudi 24 octobre 2013, 14:30 - 15:15
 ---
 
 Discussion informelle sur les familles de datastore NoSQL. Leurs avantages, inconvénients et leurs complémentarités.
