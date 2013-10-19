@@ -11,4 +11,5 @@ github: Laurentelg
 web: 
 ---
 
-Started with a PhD in Physics from the Pierre et Marie Curie University in Paris I quickly moved to IT and started my career at Oracle in 1997 in the Network Computer division, after some consulting experience I moved to Google in 2006 to work on the early cloud solutions. Since 2011 I am leading AWS Big Data effort in EMEA. 
+Throughout his career in the IT industry, Laurent has helped customers to better understand the various IT challenges and a guided them during the emergence of cloud computing so they can take advantage of its benefits to boost their business.
+Laurent is now in charge of Big Data solutions within Amazon Web Services (AWS). Every day he assists clients and partners of all sizes within the EMEA region. Thus, helping them to better understand and implement Big Data solutions tailored to their needs.
