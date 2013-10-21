@@ -7,7 +7,7 @@ track: 13_ia_robotics
 code: s13ir1e
 web: 
 language: fr
-schedule : vendredi 25 octobre 2013, 14:30 - 15:15
+schedule : vendredi 25 octobre 2013, 15:30 - 16:15
 ---
 
 Raspberry Pi est un ordinateur à processeur ARM.  Il a la taille d'une carte de crédit et permet l'exécution de plusieurs variantes du système d'exploitation libre GNU/Linux et des logiciels compatibles.  L'exposé discutera:

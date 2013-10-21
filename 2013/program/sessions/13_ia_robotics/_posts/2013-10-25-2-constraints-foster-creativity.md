@@ -3,11 +3,11 @@ layout: 2013_session_fr
 title: "Constraints foster creativity: Pebble watch app development"
 author: Damian MEHERS
 authorpost: damian-mehers
-track: 13_incubator
+track: 13_ia_robotics
 code: s13in1a
 web: 
 language: en
-schedule : jeudi 24 octobre 2013, 9:40 - 10:25
+schedule : vendredi 25 octobre 2013, 10:40 - 11:25
 ---
 
 You've grown lazy and wasteful, and so have I.
