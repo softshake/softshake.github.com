@@ -1,12 +1,12 @@
 ---
 layout: 2013_speaker_fr
-title: William H. Bell
+title: William H. BELL
 author: william-h-bell
 photo: william-h-bell.jpg
 linkedIn: 
 twitter:
-email: 
-web: http://wbell.web.cern.ch/wbell/
+email: w.bell@cern.ch
+web: wbell.web.cern.ch/wbell/
 ---
 
 William H. Bell is a particle physicist currently working for l'Université de Genève in the ATLAS collaboration.  He has published several papers on results of LHC data analyses.
