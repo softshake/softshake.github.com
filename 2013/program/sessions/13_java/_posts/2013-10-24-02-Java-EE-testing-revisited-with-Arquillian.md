@@ -1,6 +1,6 @@
 ---
 layout: 2013_session_fr
-title: Java EE testing revisited with Arquillian
+title: "Java EE testing revisited with Arquillian (Part 1/2)"
 author: Bartosz Majsak
 authorpost: bartosz-majsak
 author2: Alexis Hassler
