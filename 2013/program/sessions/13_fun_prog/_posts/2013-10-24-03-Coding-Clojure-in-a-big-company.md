@@ -1,7 +1,7 @@
 ---
 layout: 2013_session_fr
 title: Coding Clojure in a big company
-author: Robert BRANCHAT
+author: Robert BRANCHAT (et Marc-Elian Bégin)
 authorpost: robert-branchat
 track: 13_fun_prog
 code: s13fp1d
