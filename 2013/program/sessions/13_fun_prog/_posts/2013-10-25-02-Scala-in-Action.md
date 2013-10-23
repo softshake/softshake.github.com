@@ -10,5 +10,4 @@ language: fr
 schedule : vendredi 25 octobre 2013, 10:40 - 11:25
 ---
 
-You don't yet speak Scala? Then let us invite you to a journey on which we will explore the outstanding features of this programming language for the Java Virtual Machine.
-As an introduction we will briefly talk about Scala's key characteristics. Then we will explore this language and some of its typical applications, e.g. concise OO and powerful functional collections. If you are a developer and expect vivid examples and live coding, then you will like this session. 
+Vous ne parlez pas encore Scala? Alors laissez nous vous inviter à un voyage au cours duquel nous explorons ce langage de programmation pour la machine virtuelle Java. En introduction, nous parlerons brièvement des principales caractéristiques de Scala. Puis explorerons ce langage et certaines de ses applications typiques, comme l'OO concise et les puissantes collections fonctionnelles  Si vous êtes développeur, et vous attendez des exemples précis et du code live, alors cette session est pour vous.

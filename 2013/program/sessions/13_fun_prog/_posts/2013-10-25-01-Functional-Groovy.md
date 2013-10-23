@@ -1,5 +1,5 @@
 ---
-layout: session
+layout: 2013_session_fr
 title: "'Functional Groovy'. Scheduling mistake perhaps?"
 author: Andres ALMIRAY
 authorpost: andres-almiray
