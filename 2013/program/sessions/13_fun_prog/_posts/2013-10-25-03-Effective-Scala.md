@@ -14,3 +14,5 @@ resource : http://www.slideshare.net/mircodotta/effective-scala
 Everything you always wanted to know about Scala but were afraid to ask. 
 If you want to be able to optimize your use of the Scala programming language to solve real world problems without explosions, broken thumbs or bullet wounds then this is the session for you.
 During the presentation there will be a lot of do's and don't's in order to guide you into how to become a better Scala developer. The target audience is intermediate to advanced Scala developers. 
+
+[Presentation slides](http://www.slideshare.net/mircodotta/effective-scala)
