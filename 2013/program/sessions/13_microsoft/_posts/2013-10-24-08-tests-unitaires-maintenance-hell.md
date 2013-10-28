@@ -8,6 +8,7 @@ code: s13ms2c
 web: 
 language: fr
 schedule : jeudi 24 octobre 2013, 17:30 - 18:15
+resource : http://www.slideshare.net/ThibaudDesodt/unit-tests-maintenance-hell
 ---
 
 "Oui, les tests unitaires, c'est cool, mais à chaque fois que je fais une petite modification dans le code, je dois réparer tous mes tests, c'est pénible et ça me prend un temps fou! Alors j'hésite à laisser tomber ma suite de tests, ou alors je fais l'impasse sur ce refactoring ..."
