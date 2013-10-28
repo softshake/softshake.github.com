@@ -17,4 +17,7 @@ This will demonstrate how Cassandra and Clojure are a great fit, show the streng
 Depending on the program of the conference this talk would begin by a 5min crash course on Clojure essentials and 2min intro to Cassandra to understand what follows.
 
 (1) https://github.com/mpenet/alia 
-(2) https://github.com/mpenet/hayt
+(2) https://github.com/mpenet/hayt      
+
+[Presentation slides (online)](http://www.slideshare.net/mpenet/clojure-cassandra-27592147)
+[Presentation slides (pdf)](https://github.com/mpenet/softshake-talk/raw/master/ClojureCasssandra.pdf)

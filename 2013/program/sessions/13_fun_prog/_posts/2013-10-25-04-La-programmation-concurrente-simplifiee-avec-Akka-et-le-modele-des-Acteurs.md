@@ -15,4 +15,5 @@ Il définit de petites entités, les acteurs, communiquant de manière asynchron
 Akka étant le meilleur exemple de ce modèle sur la JVM (Java et Scala) nous simplifie en grande partie tout ce qui consiste en gestion de thread, sémaphores, moniteurs et verroux.
 De plus, Akka est reconnu pour sa résilience, utilisant la pattern "Let it crash".
 Cette présentation à pour but de vous rendre familier avec Akka ainsi que de présenter un retour de mon expérience avec ce framework.
-
+                                                                                                                                            
+[Presentation slides](http://prezi.com/nrsvum7wkegf/akka-et-la-programmation-orientee-acteur/)
