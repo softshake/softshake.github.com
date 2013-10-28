@@ -8,6 +8,7 @@ code: s13in1h
 web: 
 language: fr
 schedule : jeudi 24 octobre 2013, 17:30 - 18:15
+resource : http://www.slideshare.net/OCTOTechnology/softshake-2013-les-interfaces-naturelles-cest-maintenant
 ---
 
 Des services innovants avec les "Natural User Interfaces",
