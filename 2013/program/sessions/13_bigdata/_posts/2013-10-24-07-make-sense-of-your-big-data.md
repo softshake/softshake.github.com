@@ -9,6 +9,7 @@ code: s13bd1g
 web: 
 language: fr
 schedule : jeudi 24 octobre 2013, 16:30 - 17:15
+resource : https://speakerdeck.com/elasticsearch/make-sense-of-your-big-data
 ---
 
 Building analytics live
