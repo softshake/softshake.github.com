@@ -8,6 +8,7 @@ code: s13fp2d
 web: 
 language: fr
 schedule : vendredi 25 octobre 2013, 13:30 - 14:15
+resource : http://prezi.com/nrsvum7wkegf/akka-et-la-programmation-orientee-acteur/
 ---
 
 Le modèle des Acteurs (Actor model) est une théorie de programmation concurrente. 
