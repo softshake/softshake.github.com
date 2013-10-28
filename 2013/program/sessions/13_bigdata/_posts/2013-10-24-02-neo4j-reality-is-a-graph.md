@@ -9,6 +9,7 @@ code: s13bd1b
 web: 
 language: en
 schedule : jeudi 24 octobre 2013, 10:40 - 11:25
+resource : http://www.slideshare.net/fbiville/soft-shake-event-a-soft-introduction-to-neo4j
 ---
 
 Big data is a thing.
