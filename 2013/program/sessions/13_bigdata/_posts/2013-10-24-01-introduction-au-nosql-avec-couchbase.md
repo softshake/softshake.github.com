@@ -8,6 +8,7 @@ code: s13bd1a
 web: 
 language: fr
 schedule : jeudi 24 octobre 2013, 9:40 - 10:25
+resource : https://speakerdeck.com/tgrall/softshake-introduction-to-nosql-with-couchbase
 ---
 
 Cette présentation commencera par une introduction au NoSQL. Cette introduction expliquera les raisons pour lesquelles de plus en plus de projets utilisent ce type de solutions et les limitations des architectures classiques. Tugdual fera également le tour des différentes solutions (Clé Valeur, Document, Colonnes, Graph) et leur cas d'utilisations.
