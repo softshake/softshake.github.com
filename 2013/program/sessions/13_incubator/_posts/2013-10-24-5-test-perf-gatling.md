@@ -8,6 +8,7 @@ code: s13in1e
 web: 
 language: fr
 schedule : jeudi 24 octobre 2013, 14:30 - 15:15
+resource : http://www.slideshare.net/PierreDALPRA/gatling-softshake-2013
 ---
 Face à l'explosion du traffic Internet et à de nouveaux usages, la résistance à la charge des applications est devenu un enjeu majeur.
 Pour cela, il est impératif de convenablement s'outiller.
