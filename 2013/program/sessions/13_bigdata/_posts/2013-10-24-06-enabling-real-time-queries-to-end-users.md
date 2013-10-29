@@ -9,6 +9,7 @@ code: s13bd1f
 web: 
 language: en
 schedule : jeudi 24 octobre 2013, 15:30 - 16:15
+resource : http://www.slideshare.net/benoitperroud/softshake-2013-enabling-realtime-queries-to-end-users
 ---
 
 Since it became an Apache Top Level Project in early 2008, Hadoop has established itself as the de-facto industry standard for batch processing. The two layers composing its core, HDFS and MapReduce, are strong building blocks for data processing. Running data analysis and crunching petabytes of data is no longer fiction. But the MapReduce framework does have two major drawbacks: query latency and data freshness.
