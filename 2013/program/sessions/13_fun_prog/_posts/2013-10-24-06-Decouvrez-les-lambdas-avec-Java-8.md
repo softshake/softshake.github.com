@@ -9,6 +9,7 @@ code: s13fp1b
 web: 
 language: fr
 schedule : jeudi 24 octobre 2013, 15:30 - 16:15
+resource : https://github.com/Ninja-Squad/ninjackaton-lambda/tree/master/slides
 ---
 
 Java 8 arrive très bientôt. Et avec cette nouvelle version, un nouveau paradigme de programmation: la programmation fonctionnelle, avec les lambdas.

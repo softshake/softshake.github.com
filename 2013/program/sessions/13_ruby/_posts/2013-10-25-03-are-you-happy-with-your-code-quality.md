@@ -9,6 +9,7 @@ code: s13rb1c
 web:
 language: fr
 schedule : vendredi 25 octobre 2013, 11:40 - 12:25
+resource : https://speakerdeck.com/vin100/are-you-happy-with-your-code-quality
 ---
 
 Créer une application robuste sur le long terme requiert d'avoir un code de bonne qualité. Ruby on rails nous offre une vitesse de développement impressionnante, ceci nous permet de nous concentrer sur la fiabilité du code afin d'éviter tout risque de régression.

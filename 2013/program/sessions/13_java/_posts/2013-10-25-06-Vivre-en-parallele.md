@@ -8,6 +8,7 @@ code: s13ja2f
 web: 
 language: fr
 schedule : vendredi 25 octobre 2013, 15:30 - 16:15
+resource : http://www.slideshare.net/henrit/vivre-en-parallle-jugl-2013
 ---
 
 La programmation parallèle est désormais une incontournable solution aux problèmes de performance. Ce n'est pas la seule, mais elle ne peut être ignorée. Les nombreux coeurs et CPUs qui peuplent nos serveurs en sont la preuve.

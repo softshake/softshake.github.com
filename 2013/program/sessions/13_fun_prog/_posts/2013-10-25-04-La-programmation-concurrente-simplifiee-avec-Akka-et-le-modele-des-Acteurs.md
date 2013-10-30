@@ -8,7 +8,7 @@ code: s13fp2d
 web: 
 language: fr
 schedule : vendredi 25 octobre 2013, 13:30 - 14:15
-resource : http://prezi.com/nrsvum7wkegf/akka-et-la-programmation-orientee-acteur/
+resource : http://prezi.com/nrsvum7wkegf/akka-et-la-programmation-orientee-acteur
 ---
 
 Le modèle des Acteurs (Actor model) est une théorie de programmation concurrente. 
@@ -17,4 +17,3 @@ Akka étant le meilleur exemple de ce modèle sur la JVM (Java et Scala) nous si
 De plus, Akka est reconnu pour sa résilience, utilisant la pattern "Let it crash".
 Cette présentation à pour but de vous rendre familier avec Akka ainsi que de présenter un retour de mon expérience avec ce framework.
                                                                                                                                             
-[Presentation slides](http://prezi.com/nrsvum7wkegf/akka-et-la-programmation-orientee-acteur/)

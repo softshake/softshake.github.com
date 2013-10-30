@@ -8,6 +8,7 @@ code: s13ja1a
 web: 
 language: fr
 schedule : jeudi 24 octobre 2013, 9:40 - 10:25
+resource : http://www.slideshare.net/ndeloof/cloud-patterns-softshake-2013
 ---
 
 Même si le Cloud promet d'héberger toutes vos applications, les choses sont rarement aussi simple que sur la plaquette commerciale, et vous ne pouvez pas benner votre application "legacy" à base d'EJB 1.0 dans le cloud sans un minimum de refactoring. 

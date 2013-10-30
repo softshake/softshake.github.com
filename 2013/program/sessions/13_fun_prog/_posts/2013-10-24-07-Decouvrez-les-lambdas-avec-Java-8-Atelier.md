@@ -9,6 +9,7 @@ code: s13fp1b
 web: 
 language: fr
 schedule : jeudi 24 octobre 2013, 16:30 - 17:15
+resource : https://github.com/Ninja-Squad/ninjackaton-lambda/tree/master/slides
 ---
 
 Cette session est un atelier.
