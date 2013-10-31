@@ -8,6 +8,7 @@ code: s13ja1e
 web: 
 language: en
 schedule : jeudi 24 octobre 2013, 14:30 - 15:15
+resource : http://www.slideshare.net/cloudbees/open-source-monitoring-for-java-with-jmx-and-graphite-softshake-2013
 ---
 
 Fast feedback from monitoring is a key of Continuous Delivery. JMX is the right Java API to do so but it unfortunately stayed underused and underappreciated as it was difficult to connect to monitoring and graphing systems. Throw in the sin bin the poor solutions based on log files and weakly secured web interfaces! 
