@@ -9,6 +9,7 @@ web:
 language: fr
 confirmed: yes
 schedule : jeudi 24 octobre 2013, 10:40 - 11:25
+resource : http://fr.slideshare.net/pyxistech/la-revue-ditration-intgre-et-autres-fabuleuses-pratiques-agiles-adaptes-au-contexte-de-la-siq
 ---
 
 Mathieu désire partager avec vous un bel exemple de ce que l'adoption de l'Agilité peut apporter à une organisation, au-delà de la simple utilisation de Scrum. En particulier, leur présentation portera sur les pratiques mises en place à la Société immobilière du Québec (SIQ) dans un contexte d'équipes nombreuses :

@@ -8,6 +8,7 @@ code: s13ag1c
 web: 
 language: en
 schedule : jeudi 24 octobre 2013, 11:40 - 12:25
+resource : http://www.slideshare.net/dovgopoly/agile-waterfall-in-one-project
 ---
 
 Agile is gathering momentum but its not easy to switch to Agile especially in complex environments like banking or multinationals. Many companies can’t refuse Waterfall but understand the value of Agile and want to start applying it. How to combine Waterfall and Agile in one project, do it effectively and get value? In every standard Waterfall phase from initiation till closure Agile is able to help Project manager, team and stakeholders be more effective, adaptive, meet end user expectations better and have a fun. There are cases from CISCO Systems, NASA, US health care program to learn from.

@@ -11,6 +11,7 @@ confirmed: yes
 contribution: "Une introduction au change management à travers un cas pratique dans un domaine connu : Scrum."
 level: Tout niveau
 schedule : jeudi 24 octobre 2013, 15:30 - 16:15
+resource : http://prezi.com/4vdicf2cfuoc/copy-of-quand-appeler-un-coach-agile/
 ---
 
 Cette présentation indiquera comment identifié le moment approprié pour se faire accompagner par un coach organisationnel. 

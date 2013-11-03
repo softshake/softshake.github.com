@@ -8,6 +8,7 @@ code: s13ag1h
 web: 
 language: fr
 schedule : jeudi 24 octobre 2013, 17:30 - 18:15
+resource : http://fr.slideshare.net/jfjago/equipe-particuliere-softshake2013
 ---
 
 Quoi de plus simple et de plus élémentaire que la vie en équipe ? Nous chassions ensemble et nous vivions ensemble. Il y avait des murs à nos villages pour nous protéger. Des sentinelles les gardaient des intrusions. Ceux qui étaient dedans étaient des nôtres. A l'extérieur il y avait les autres.
