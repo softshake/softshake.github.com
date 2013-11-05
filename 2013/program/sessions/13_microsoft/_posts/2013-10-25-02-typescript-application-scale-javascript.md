@@ -8,6 +8,7 @@ code: s13ms1a
 web: 
 language: fr
 schedule : vendredi 25 octobre 2013, 10:40 - 11:25
+resource : http://sdrv.ms/HH6I8H
 ---
 
 JavaScript est passée de la simple page web à une utilisation dans les déploiements à grande échelle à la fois sur le serveur et le navigateur.
