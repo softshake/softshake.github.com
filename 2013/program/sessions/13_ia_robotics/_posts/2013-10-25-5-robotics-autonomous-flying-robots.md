@@ -8,6 +8,7 @@ code: s13ir1b
 web: 
 language: en
 schedule : vendredi 25 octobre 2013, 14:30 - 15:15
+resource : https://docs.google.com/presentation/d/1S9rN2Y9W68AArePWcKZcI-zS1EaO9Oo76_86knTQEaI/edit?usp=sharing
 ---
 
 s a side project I created an autonomous landing algorithm for quadrocopters, based on image processing. You can see a short demonstration here:

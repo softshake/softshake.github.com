@@ -8,6 +8,7 @@ code: s13in1a
 web: 
 language: en
 schedule : vendredi 25 octobre 2013, 10:40 - 11:25
+resource : http://damianblog.com/2013/10/28/pebble-from-scratch/
 ---
 
 You've grown lazy and wasteful, and so have I.

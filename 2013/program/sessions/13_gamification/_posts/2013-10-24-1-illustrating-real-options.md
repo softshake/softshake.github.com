@@ -9,6 +9,7 @@ code: s13ga1a
 web: 
 language: en
 schedule : jeudi 24 octobre 2013, 9:40 - 10:25
+resource : http://slid.es/soto/towering-options
 ---
 
 For those interested, Real Options background (not required reading to play the game) :  http://www.infoq.com/articles/real-options-enhance-agility

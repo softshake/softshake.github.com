@@ -8,6 +8,7 @@ code: s13ir1e
 web: 
 language: fr
 schedule : vendredi 25 octobre 2013, 15:30 - 16:15
+resource : http://dpnc.unige.ch/~wbell/outreach/softshake-raspi-20131025.pdf
 ---
 
 Raspberry Pi est un ordinateur à processeur ARM.  Il a la taille d'une carte de crédit et permet l'exécution de plusieurs variantes du système d'exploitation libre GNU/Linux et des logiciels compatibles.  L'exposé discutera:

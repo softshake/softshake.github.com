@@ -8,6 +8,7 @@ code: s13ir1d
 web: 
 language: fr
 schedule : vendredi 25 octobre 2013, 13:30 - 14:15
+resource : http://prezi.com/zief20rwiray/scala-joue-avec-nao/
 ---
 
 Cette session est une démonstration ainsi qu'une explication du projet nommé Scanao qui permet de contrôler un robot depuis Scala.
@@ -15,5 +16,3 @@ Cette session est une démonstration ainsi qu'une explication du projet nommé S
 Nao est un robot humanoïde développé et construit à Paris par la société Aldebaran Robotics SA. Scanao consiste à utiliser les avantages de Scala afin de simplifier la programmation ainsi que d'utiliser des ressources (CPU, disque, ...) externe au robot pour soulager le CPU interne de celui-ci.
 
 L'architecture est essentiellement orientée autour d'Akka permettant une abstraction de la topologie des ressources ainsi que d'une gestion des accès concurrents simplifiée. Pour orchestrer le tout, scanao possède un DSL permettant le contrôle du robot utilisant son propre langage.  
-
-[Presentation slides](http://prezi.com/zief20rwiray/scala-joue-avec-nao/)
