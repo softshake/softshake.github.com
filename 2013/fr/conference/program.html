@@ -25,6 +25,7 @@ layout: 2013_default_fr
 
 <p>Légende:</p>
 <ul>
+	<li><span class="sos13_program_session_slides" style="padding:7px">Support disponible</span></li>
 	<li><span class="sos13_program_session_en" style="padding:7px">English language</span></li>
 </ul>
 
@@ -65,7 +66,9 @@ layout: 2013_default_fr
 			{% assign posts_count = track_posts | size %}
 			{% assign post_index = posts_count | minus:i | minus:1 %}
 			{% assign post = track_posts[post_index] %}
-			{% if post.language == "en" %}
+			{% if post.resource %}
+				<td class="sos13_program_session_slides">
+			{% elsif post.language == "en" %}
 				<td class="sos13_program_session_en">
 			{% else %}
 				<td class="sos13_program_session_fr">
@@ -134,7 +137,9 @@ layout: 2013_default_fr
 					{% if day == "25" %}
 						{% if d25count == i %}
 							{% assign post_found = 1 %}
-							{% if post.language == "en" %}
+							{% if post.resource %}
+								<td class="sos13_program_session_slides">
+							{% elsif post.language == "en" %}
 								<td class="sos13_program_session_en">
 							{% else %}
 								<td class="sos13_program_session_fr">
