@@ -8,6 +8,7 @@ code: s13ms2a
 web: 
 language: en
 schedule : vendredi 25 octobre 2013, 9:40 - 10:25
+resource : http://www.slideshare.net/joslat/welcome-to-an-asynchronous-world-129s
 ---
 
 In the beginning of time, code was linear.
