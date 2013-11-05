@@ -32,3 +32,4 @@ Nous allons couvrir:
 * Concurrence simplifié
 * The REPL / sbt interactive mode
 
+[Presentation slides](http://www.slideshare.net/matthewfarwell/softshake-10-reasons)
