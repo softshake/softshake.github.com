@@ -26,3 +26,4 @@ Pour participer à cet atelier, vous devrez venir avec votre machine, sur laquel
 * De préférence, la javadoc de ce JDK téléchargeable sur la même page
 * De préférence, un IDE supportant les lambdas. Je conseille IntelliJ IDEA 12.1.
 
+[Presentation slides](http://blog.ninja-squad.com/2013/10/23/going-to-softshake/)
