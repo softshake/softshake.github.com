@@ -9,6 +9,7 @@ code: s13mo2e
 web: 
 language: fr
 schedule : vendredi 25 octobre 2013, 15:30 - 16:15
+resource:fr.slideshare.net/cyrilpicat/make-use-of-sonar-for-your-mobile-developments
 ---
 
 Cette session présentera l'état et la maturité de la solution de qualimétrie Sonar sur les plateformes Android et iOS. 
