@@ -8,6 +8,7 @@ code: s13wd1b
 web:
 language: fr
 schedule : jeudi 24 octobre 2013, 10:40 - 11:25
+resource: https://dl.dropboxusercontent.com/u/2323071/soft-shake-2013-presentation/index.html
 ---
 
 Alice: Hey Bob, ready for the Big Release. Everything working?

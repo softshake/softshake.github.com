@@ -8,6 +8,7 @@ code: s13wd1f
 web:
 language: en
 schedule : jeudi 24 octobre 2013, 15:30 - 16:15
+resource: https://docs.google.com/presentation/d/10oE6GzaeDpJCIeecZre6d6nxEB7RWQOFhl7e_CbGVkA/edit?usp=sharing
 ---
 
 Our entire platform is built on node.js and mongodb with Heroku- I can give a technical talk about our infrastructure or even a simple workshop.
