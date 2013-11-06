@@ -8,7 +8,7 @@ code: s13mo1f
 web: 
 language: fr
 schedule : jeudi 24 octobre 2013, 15:30 - 16:15
-resource:http://fr.slideshare.net/defagos/ios-developer-toolbox
+resource: http://fr.slideshare.net/defagos/ios-developer-toolbox
 ---
 
 Batman ne sortirait jamais sans son Batarang, Superman jamais sans sa cape. En tout bon super-héros des temps modernes, un bon développeur iOS ne sort lui aussi jamais sans ses outils.
