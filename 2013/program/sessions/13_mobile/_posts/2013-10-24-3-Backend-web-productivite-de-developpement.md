@@ -9,7 +9,7 @@ code: s13mo1c
 web: 
 language: fr
 schedule : jeudi 24 octobre 2013, 11:40 - 12:25
-resource:http://www.apiness-software.ch/images/share_softshake_20131024/softshake_20131024_apiness_keynote_enversdudecor_sqlite.pdf
+resource: http://www.apiness-software.ch/images/share_softshake_20131024/softshake_20131024_apiness_keynote_enversdudecor_sqlite.pdf
 ---
 
 Pour une fois, il s’agit de parler de ce que l’on ne montre pas toujours au public : «l’envers du décor», soit le backend base de données et la synchronisation avec l’application iPhone. 
