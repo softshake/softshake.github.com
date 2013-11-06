@@ -8,6 +8,7 @@ code: s13wd2a
 web:
 language: fr
 schedule : vendredi 25 octobre 2013, 9:40 - 10:25
+resource: http://tobie.github.io/slides/2013-10-25.html
 ---
 
 Les technologies du Web sont développées au seing d'organismes de standardisations dont le W3C est un des plus connu.
