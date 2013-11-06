@@ -8,7 +8,7 @@ code: s13mo1e
 web: 
 language: fr
 schedule : jeudi 24 octobre 2013, 14:30 - 15:15
-resource:http://seriot.ch/resources/abusing_twitter_api/ios_twitter_integration_sos13.pdf
+resource: http://seriot.ch/resources/abusing_twitter_api/ios_twitter_integration_sos13.pdf
 ---
 
 Cette présentation explique le fonctionnement et les subtilités de l’API Twitter ainsi que les différentes manières d’y accéder depuis une application iOS.
