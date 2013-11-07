@@ -8,6 +8,7 @@ code: s13ms1c
 web: 
 language: fr
 schedule : jeudi 24 octobre 2013, 11:40 - 12:25
+resource : http://fr.slideshare.net/nclerc/soft-shake-2013-nclerc-windows-azure-mobile-services
 ---
 
 Les technologies Microsoft .Net et Windows Azure offre un ensemble de technologies ouvertes permettant de développer des applications mobiles sur de multiple plateforme, tout en se reposant sur des services de cloud computing performant et fiable.
