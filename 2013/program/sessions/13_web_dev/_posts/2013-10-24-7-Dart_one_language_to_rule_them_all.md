@@ -8,6 +8,7 @@ code: s13wd1g
 web:
 language: fr
 schedule : jeudi 24 octobre 2013, 16:30 - 17:15
+resource: https://www.dropbox.com/s/b60d2lf4m5p0iqj/dart-2013.pdf
 ---
 
 Dart est un langage (et une plateforme incluant VM, compilateur, etc.) actuellement en cours de développement chez Google. Son mode de développement itératif, l'équilibre qu'il représente en tant que langage client et serveur et les talents que Google a réuni pour le développer sont autant de points qui donnent à penser que Dart sera une technologie majeure dans les prochaines années.

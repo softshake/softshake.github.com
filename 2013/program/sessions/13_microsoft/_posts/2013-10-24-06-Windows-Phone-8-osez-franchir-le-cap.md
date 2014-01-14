@@ -8,6 +8,7 @@ code: s13ms1f
 web: 
 language: fr
 schedule : jeudi 24 octobre 2013, 15:30 - 16:15
+resource : http://slideshare.net/jalpf/build-your-wp8-app-today
 ---
 
 Windows Phone c’est une plateforme novatrice et unique en son genre. En offrant aux utilisateurs une ergonomie unique sur mobile, Microsoft fait le pari d’applications modernes et fluides qui séduiront les utilisateurs. La part de marché de Windows Phone dépasse maintenant 10% en France et en Angleterre !

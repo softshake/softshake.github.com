@@ -8,6 +8,7 @@ code: s13ms1b
 web: 
 language: en
 schedule : jeudi 24 octobre 2013, 10:40 - 11:25
+resource : https://speakerdeck.com/jgraber/introducing-ravendb-agile-persistence-in-net-soft-shake-2013
 ---
 
 In all the hype for NoSQL it got almost forgotten that there are already great products that can ease our work. One of those is RavenDB. With this document oriented database we finally have an easy and agile way to handle the persistence layer.

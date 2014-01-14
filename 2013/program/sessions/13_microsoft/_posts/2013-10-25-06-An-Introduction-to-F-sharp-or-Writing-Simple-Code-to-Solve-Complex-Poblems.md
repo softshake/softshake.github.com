@@ -8,6 +8,7 @@ code: s13ms2f
 web: 
 language: en
 schedule : vendredi 25 octobre 2013, 15:30 - 16:15
+resource : https://www.dropbox.com/s/ogneegjxpz33nlo/FSharp%20Intro%20-%20Marc%20Sigrist.pdf
 ---
 
 F# is a fully CLI compatible, Apache 2.0 open source-licensed programming language available on all major platforms.

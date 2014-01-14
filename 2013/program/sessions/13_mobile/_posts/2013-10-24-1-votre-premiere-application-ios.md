@@ -8,6 +8,7 @@ code: s13mo1a
 web: 
 language: fr
 schedule : jeudi 24 octobre 2013, 9:40 - 10:25
+resource: http://primault.ch/softshake2013
 ---
 
 Cette session s'adresse aux personnes n'ayant jamais fait d'Objective-c.

@@ -8,6 +8,7 @@ code: s13mo2b
 web: 
 language: en
 schedule : vendredi 25 octobre 2013, 10:40 - 11:25
+resource: http://fr.slideshare.net/creynaud/softshake-2013-lets-take-this-offline
 ---
 
 This presentation will explain the advantages of making mobile applications work offline, and will provide a full-stack how-to.

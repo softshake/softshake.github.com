@@ -8,6 +8,7 @@ code: s13ms1d
 web: 
 language: en
 schedule : jeudi 24 octobre 2013, 13:30 - 14:15
+resource : http://www.slideshare.net/maartenba/windows-azure-web-sites-things-they-dont-teach-kids-in-school-comunity-day-2013
 ---
 
 Microsoft has a cloud platform which runs .NET, NodeJS and PHP.
