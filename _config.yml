@@ -4,6 +4,8 @@
 auto:        true
 exclude: ["vendor"]
 
+markdown: kramdown
+
 tracks2013:
     13_agile: Agile
     13_bigdata: BigData / noSQL
