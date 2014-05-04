@@ -1,55 +1,478 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html>
-<head>
-    <title>Soft-Shake</title>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-    <meta http-equiv="Cache-Control" content="no-cache" />
-    <meta http-equiv="Pragma" content="no-cache" />
-    <meta http-equiv="Expires" content="0" />
-    <link rel="stylesheet" type="text/css" media="screen" href="/css/main-2014.css"/>
-    <link rel="stylesheet" type="text/css" media="screen" href="/css/colorbox.css"/>
-    <link href="/apple_touch_icon.png" rel="apple-touch-icon" />
-    <link rel="icon" type="image/png" href="/favicon.png" />
-    <!--[if IE]><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" /><![endif]-->
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
-    <script src="/js/jquery.colorbox-min.js" type="text/javascript"></script>
-    <script src="/js/jquery.dropdownPlain.js" type="text/javascript"></script>
-    <script src="/js/softshake.js" type="text/javascript"></script>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Soft-Shake</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>  
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-	<!-- Twitter Bootstrap -->
-    <link rel="stylesheet" type="text/css" media="screen" href="/css/bootstrap-v3.0.0-rc1-dist/bootstrap.css"/>
-    <script src="/js/bootstrap-v3.0.0-rc1-dist/bootstrap.min.js"></script>
-</head>
-<body class="home">
-<div id="page">
-    <div id="header">
-        <h1 id="logo">
-            <a href="/2014/en/">Soft-Shake</a>
-        </h1>
-        <ul class="dropdown">
-            <li><a href="/2013/en/association/index.html">Organization</a></li>
-            <li>
-                <a href="#">Previous</a>
-                <ul>
-		        	<li><a href="/2010/index-page=home-en.php.html">2010</a></li>
-		        	<li><a href="/2011/en">2011</a></li>
-		        	<li><a href="/2013/en">2013</a></li>
-            	</ul>
-	        </li>
-	        <li><a href="/2014/fr"><img id="langFr" src="/images/fr.png" alt="FR"/></a></li>
-		</ul>
-	    <!-- div id="lang">
-	    	<a href="/2014/fr"><img id="langFr" src="/images/fr.png" alt="FR"/></a>
-	        <a href="/2014/en/"><img id="langEn" src="/images/en.png" alt="EN"/></a>
-	    </div -->
-    </div>
-    <div id="content">
-        <div class="wrapper">
-            {{ content }}
+        <!--== CSS Files ==-->
+        <link href="/css/template/bootstrap.css" rel="stylesheet" media="screen">
+        <link href="/css/template/style.css" rel="stylesheet" media="screen">
+        <link href="/css/template/animate.min.css" rel="stylesheet" media="screen">
+        <link href="/css/template/font-awesome.css" rel="stylesheet" media="screen">
+        <link href="/css/template/owl.carousel.css" rel="stylesheet" media="screen">
+        <link href="/css/template/flexslider.css" rel="stylesheet" media="screen">
+        <link href="/css/template/fancySelect.css" rel="stylesheet" media="screen">
+        <link href="/css/template/responsive.css" rel="stylesheet" media="screen">
+
+        <!--== Google Fonts ==-->
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Belgrano' rel='stylesheet' type='text/css'>
+
+    </head>
+    <body>
+        <header id="header">
+            <div id="menu" class="header-menu fixed">
+                <div class="container box">
+                    <div class="row">
+                        <nav role="navigation" class="col-sm-12">
+                            <div class="navbar-header">
+                                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+
+                                <!--== Logo ==-->
+                                <span class="navbar-brand logo">
+                                    <img src="/images/shaker.png" style="margin-top:-10px" alt="Soft-Shake"/>soft-shake 2014
+                                </span>
+
+                            </div>
+                            <div class="navbar-collapse collapse">
+
+                                <!--== Navigation Menu ==-->
+                                <ul class="nav navbar-nav">
+                                    <li class="current"><a href="#header">Home</a></li>
+                                    <li><a href="#sessions">Sessions</a></li>
+                                    <li><a href="#speakers">Speakers</a></li>
+                                    <li><a href="#faq">FAQ</a></li>
+                                    <li><a href="#partners">Partners</a></li>
+                                </ul>
+
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+
+            <!--== Site Description ==-->
+            <div class="header-cta">
+                <div class="container">
+                    <div class="row">
+                        <div class="blk">
+                            <h1>The Soft-Shake<br/>Conference</h1>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="blk">
+                            <!--<input type="submit" value="Submit your talk" name="submit" id="goregister">-->
+                            <h2>Call for papers will open soon. Follow our upcoming announcements <a href="http://twitter.com/softshakeevent" class="fa fa-twitter"></a></h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="header-bg">
+                <div id="preloader">
+                    <div class="preloader"></div>
+                </div>
+                <div class="main-slider" id="main-slider">
+
+                    <!--== Main Slider ==-->
+                    <ul class="slides">
+                        <li><img src="/images/template/demo/bg-slide-01.jpg" alt="Slide Image"/></li>
+                        <li><img src="/images/template/demo/bg-slide-02.jpg" alt="Slide Image 2"/></li>
+                    </ul>
+
+                </div>
+            </div>
+        </header>
+
+        <div class="content">
+            <div class="container box">
+
+
+                <!--===============================-->
+                <!--== Features ===================-->
+                <!--===============================-->
+                <section id="features" class="row">
+                    <div class="col-md-3 col-xs-6">
+                        <div class="event-info">
+                            <div class="icon fa fa-map-marker"></div>
+                            <div class="info">
+                                <h3>@HEPIA</h3>
+                                <span>Geneva, Switzerland</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-xs-6">
+                        <div class="event-info">
+                            <div class="icon fa fa-calendar"></div>
+                            <div class="info">
+                                <h3>23 & 24 October</h3>
+                                <span>This year, of course.</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-xs-6">
+                        <div class="event-info">
+                            <div class="icon fa fa-microphone"></div>
+                            <div class="info">
+                                <h3>Over 60 Speakers</h3>
+                                <span>Only the best</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-xs-6">
+                        <div class="event-info">
+                            <div class="icon fa fa-users"></div>
+                            <div class="info">
+                                <h3>300 Seats</h3>
+                                <span>Registration will open this summer</span>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!--==========-->
+
+                <section id="About" class="row">
+                    <div class="col-sm-12">
+                        <div class="section-header text-left">
+                            <h2>About the conference</h2>
+                        </div>
+                        
+                        <h4>After the success of the previous editions, Softshake is back for the 4rd edition. 
+                            Softshake 2014 will take place on thursday 23th and friday 24th octobre, in Geneva, Switzerland.
+                            The conference will be hosted at Haute Ecole du Paysage, d'Ingénierie et d'Architecture de Genève (<a href="http://hepia.hesge.ch/">hepia</a>)</h4>
+                    </div>
+                    <div class="col-md-6 col-sm-12">
+                        <h3>Facts</h3>
+                        <ul>
+                            <li>2 days</li>
+                            <li>~100 sessions</li>
+                            <li>~10 main topics</li>
+                            <li>Over 50 speakers</li>
+                            <li>Sessions in French and English</li>
+                        </ul>
+                        <p>One more thing: 2013 was a success. We're going to keep it that way...</p>
+                    </div>
+                    <div class="col-md-6 col-sm-12">
+                        <p>The conference is brought to you by a team of passionated developers and software professionals from local area with the help of local developer communities:</p>
+                        <ul>
+                            <li>Geneva JUG</li>
+                            <li>Agile Geneva</li>
+                            <li>The group of iPhone developers of Romand Switzerland</li>
+                        </ul>
+
+                        <p>Have a look at our previous editions:</p>
+                        <ul>
+                            <li><a href="/2011/en/">2011</a></li>
+                            <li><a href="/2013/en/">2013</a></li>
+                        </ul>
+                    </div>
+                </section>
+
+                <!--===============================-->
+                <!--== Sessions ===================-->
+                <!--===============================-->
+                 <section id="sessions" class="row">
+                    <div class="col-sm-12">
+                        <div class="section-header text-right">
+                            <h2>Sessions</h2>
+                            <h4>What is it about? What you will see at the conference?</h4>
+                        </div>
+                        <p>Softshake is a multi-disciplinary conference offering a varied range of tracks and topics. Past year we grouped all talk in more than 10 tracks. We will try to bing your this year the same mix of techologies, concepts and ideas</p>
+                    </div>
+                    <div class="col-sm-4">
+                        <ul>
+                            <li><p>Agile</p></li>
+                            <li><p>Java</p></li>
+                            <li><p>Microsoft</p></li>
+                            <li><p>Web technologies</p></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-4">
+                        <ul>
+                            <li><p>Mobile development</p></li>
+                            <li><p>Big Data &amp; no SQL</p></li>
+                            <li><p>Functional programming</p></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-4">
+                        <ul>
+                            <li><p>Ruby</p></li>
+                            <li><p>Gamification</p></li>
+                            <li><p>AI/Robotics</p></li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-12">
+                        <p>And there is the higly appreciated <strong>Incubator</strong> track that kept anything that doesn't fit well in any of these topics.</p>
+                        <p>Check out the <a href="/2013/fr/conference/sessions.html">sessions from Soft-Shake 2013</a>. You'll get the sense of what is waiting for you at the conference. We're sure you will like it this year too...</p>
+                    </div>
+                </section>
+
+                <!--===============================-->
+                <!--== Speakers ===================-->
+                <!--===============================-->
+                <section id="speakers" class="row separated">
+                    <div class="col-sm-12">
+                        <div class="section-header text-center">
+                            <h2>Speakers</h2>
+                            <h4>Get ready, Call for Papers will start soon...</h4>
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <div class="speaker">
+                            <div class="speaker-info">
+                                <div class="speaker-photo">
+                                    <img src="/images/template/demo/speakers/speaker-01.jpg" alt="You, the speaker">
+                                </div>                              
+                                <div class="speaker-contacts">
+                                    <a href="#" class="contact pull-left fa fa-facebook"></a>
+                                    <a href="#" class="contact pull-right fa fa-twitter"></a>
+                                </div>
+                            </div>
+                            <h3>You, the Speaker</h3>
+                            <p>Want to see your name here? Follow our upcoming announcements or <a href="mailto:orga@soft-shake.ch">get in touch</a></p>
+                        </div>
+                    </div>
+                    <h4 class="text-center">Until then you can check the <a href="http://soft-shake.ch/2013/fr/conference/speakers.html">list speakers of 2013 edition.</a></h4>
+                </section>
+                <!--==========-->
+
+
+
+                <!--===============================-->
+                <!--== FAQ ========================-->
+                <!--===============================-->
+                <section id="faq" class="row">
+                    <div class="col-sm-12">
+                        <div class="section-header text-right">
+                            <h2>F.A.Q</h2>
+                            <h4>Have a question? Drop us <a href="mailto:orga@soft-shake.ch">an email</a>.</h4>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <ul class="accordion-group">
+                            <li class="accordion">
+                                <a class="accordion-heading">
+                                    <h4 class="accordion-title">Where ?</h4>
+                                    <span class="fa fa-plus-circle pull-right"></span>
+                                </a>
+                                <div class="accordion-body">
+                                    <h3><a href="http://hepia.hesge.ch/">@hepia</a>, <a href="https://maps.google.ch/maps?q=Rue+de+la+Prairie+4,+1202+Gen%C3%A8ve&ie=UTF8&hnear=Rue+de+la+Prairie+4,+Grottes+-+Saint-Gervais,+1202+Gen%C3%A8ve&gl=ch&t=h&z=16">Rue de la Prairie 4, 1202 Genève</a></h3>
+                                    <p>
+                                        Only 500m / 7 min by foot / 2 bus stop from CFF/TGV railstation of Genève Cornavin. And only 1 train station and 7 minutes away from Geneva Cointrin International Airport. Check <a href="http://hepia.hesge.ch/fr/pratique/acces/">Hepia's access plan.</a>
+                                    </p>
+                                    <h3>More details</h3>
+                                    <p>
+                                        <a href="/2013/resources/acces/sos13-plan.pdf">Instructions to come by plane, car, bus, by foot</a>. Maps and photos: <a href="/2013/resources/acces/sos13-plan-photos.pdf">low definition (2 Mo)</a> or <a href="/2013/resources/acces/sos13-plan-photos-hd.pdf">high definition (54 Mo, pour read maps)</a>
+                                    </p>
+                                </div>
+                            </li>
+                            <li class="accordion">
+                                <a class="accordion-heading">
+                                    <h4 class="accordion-title">I want to speak!</h4>
+                                    <span class="fa fa-plus-circle pull-right"></span>
+                                </a>
+                                <div class="accordion-body">
+                                    <p>Prepare your talk! Watch closely our announcements, send us your ideas when call for papers will be open</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-6">
+                        <ul class="accordion-group">
+                            <li class="accordion">
+                                <a class="accordion-heading">
+                                    <h4 class="accordion-title">Who can be a speaker ?</h4>
+                                    <span class="fa fa-plus-circle pull-right"></span>
+                                </a>
+                                <div class="accordion-body">
+                                    <p>Just anyone. Have something to show, present your talk idea nicely and you'll surely have your chance to become a speaker.</p>
+                                </div>
+                            </li>
+                            <li class="accordion">
+                                <a class="accordion-heading">
+                                    <h4 class="accordion-title">How are talks selected?</h4>
+                                    <span class="fa fa-plus-circle pull-right"></span>
+                                </a>
+                                <div class="accordion-body">
+                                    <p><strike>We're rolling the dice.</strike><strike>Magic unico</strike></p>
+                                    <p>It's complicated and definitely, not easy.</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </section>
+                <!--==========-->
+
+                <!--===============================-->
+                <!--== Carousel ===================-->
+                <!--===============================-->
+                <section id="partners" class="row">
+                    <div class="col-sm-12">
+                        <div class="section-header text-center">
+                            <h2>Sponsors</h2>
+                            <h4>We'll not be able to make it without our dear sponsors</h4>
+                        </div>
+                    </div>
+                    <h4>We need Your help. We'll help You to pass your message to our audience. <a href="mailto:orga@soft-shake.ch">Get in touch</a></h4>
+                    <p>Want to see who helped us last time? Check the <a href="/2013/en/sponsor/index.html">list of sponsors of 2013 edition</a>.</p>
+<!--                     <div class="col-sm-12">
+                        <div id="carousel" class="owl-carousel">
+                            <div class="item"><img src="/images/template/demo/partners/logo-01.png" alt="Logo 1"></div>
+                            <div class="item"><img src="/images/template/demo/partners/logo-02.png" alt="Logo 2"></div>
+                            <div class="item"><img src="/images/template/demo/partners/logo-03.png" alt="Logo 3"></div>
+                            <div class="item"><img src="/images/template/demo/partners/logo-04.png" alt="Logo 4"></div>
+                            <div class="item"><img src="/images/template/demo/partners/logo-05.png" alt="Logo 5"></div>
+                            <div class="item"><img src="/images/template/demo/partners/logo-06.png" alt="Logo 6"></div>
+                        </div>
+                        <div class="owl-carousel-navigation">
+                            <a class="owl-btn prev fa fa-angle-left"></a>
+                            <a class="owl-btn next fa fa-angle-right"></a>
+                        </div>
+                    </div>""
+ -->                </section>
+                <!--==========-->
+
+
+
+                <!--===============================-->
+                <!--== Pricing Tables =============-->
+                <!--===============================-->
+<!--                 <section id="prices" class="row">
+                    <div class="col-sm-12">
+                        <div class="section-header text-left">
+                            <h2>Pricing Tables</h2>
+                            <h4>Awesome section description goes here.</h4>
+                        </div>
+                    </div>
+                    <ul class="col-sm-3 pricing-features">
+                        <li>Seat</li>
+                        <li>Coffe Break</li>
+                        <li>Certificate</li>
+                    </ul>
+                    <div class="col-md-3 col-sm-4">
+                        <div class="pricing-table">
+                            <h3 class="table-title">Silver</h3>
+                            <div class="table-price">$99</div>
+                            <ul class="table-features">
+                                <li class="fa fa-check-circle"><span>Seat</span></li>
+                                <li class="fa fa-minus-circle"><span>Coffe Break</span></li>
+                                <li class="fa fa-minus-circle"><span>Certificate</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-4">
+                        <div class="pricing-table">
+                            <h3 class="table-title">Gold</h3>
+                            <div class="table-price">$199</div>
+                            <ul class="table-features">
+                                <li class="fa fa-check-circle"><span>Seat</span></li>
+                                <li class="fa fa-check-circle"><span>Coffe Break</span></li>
+                                <li class="fa fa-minus-circle"><span>Certificate</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-4">
+                        <div class="pricing-table">
+                            <h3 class="table-title">Platinum</h3>
+                            <div class="table-price">$299</div>
+                            <ul class="table-features">
+                                <li class="fa fa-check-circle"><span>Seat</span></li>
+                                <li class="fa fa-check-circle"><span>Coffe Break</span></li>
+                                <li class="fa fa-check-circle"><span>Certificate</span></li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+ -->                <!--==========-->
+
+
+                <!--===============================-->
+                <!--== Register ===================-->
+                <!--===============================-->
+<!--                 <section id="register" class="row">
+                    <div class="col-sm-12">
+                        <div class="section-header text-center">
+                            <h2>Register</h2>
+                            <h4>Awesome section description goes here.</h4>
+                        </div>
+                    </div>
+                    <div class="col-sm-12">
+                        <form id="register-form" method="post" class="form">
+                            <div class="col-md-2 col-sm-6">
+                                <input name="name" id="name" type="text" placeholder="Name" required>
+                            </div>
+                            <div class="col-md-3 col-sm-6">
+                                <input name="email" id="email" type="email" placeholder="Email" required>
+                            </div>
+                            <div class="col-md-2 col-sm-6">
+                                <input name="telephone" id="telephone" type="tel" placeholder="Telephone">
+                            </div>
+                            <div class="col-md-2 col-sm-6">
+                                <select name="ticket" id="ticket">
+                                    <option value="Silver">Silver</option>
+                                    <option value="Gold">Gold</option>
+                                    <option value="Platinum">Platinum</option>
+                                </select>
+                            </div>
+                            <div class="col-md-3 col-sm-12">
+                                <input type="submit" value="Register" name="submit">
+                            </div>
+                            <p class="form-notification" style="display: none;">Registration Complete</p>
+                        </form>
+                    </div>
+                </section>
+ -->                <!--==========-->
+
+                <div id="gotop" class="gotop fa fa-arrow-up"></div>
+            </div>
         </div>
-    </div>
-</div>
-{% include footer.html %}
-</body>
+        <footer id="footer">
+            <div id="map_canvas"></div>
+            
+            <div class="footer">
+                <div class="container box">
+
+                    <section id="info" class="row">
+                        <div class="col-sm-8">
+
+                            <!--== Social Icons ==-->
+                            <ul class="social-icons">
+                                <li><a href="http://twitter.com/softshakeevent" class="fa fa-twitter"></a></li>
+                                <li><a href="https://www.facebook.com/SoftShakeEvent" class="fa fa-facebook"></a></li>
+                            </ul>
+
+                        </div>
+                        <div class="col-sm-4 text-right">
+                            <div class="copyrights">
+                                All Rights Reserved. © Soft-Shake 2014
+                            </div>
+                        </div>
+                    </section>
+
+                </div>
+            </div>
+        </footer>
+
+        <!--== Javascript Files ==-->
+        <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+        <script src="/js/template/jquery-2.1.0.min.js"></script>
+        <script src="/js/template/bootstrap.min.js"></script>
+        <script src="/js/template/jquery.scrollTo.js"></script>
+        <script src="/js/template/jquery.nav.js"></script>
+        <script src="/js/template/owl.carousel.min.js"></script>
+        <script src="/js/template/jquery.flexslider.js"></script>
+        <script src="/js/template/jquery.accordion.js"></script>
+        <script src="/js/template/jquery.placeholder.js"></script>
+        <script src="/js/template/jquery.fitvids.js"></script>
+        <script src="/js/template/gmap3.js"></script>
+        <script src="/js/template/fancySelect.js"></script>
+        <script src="/js/template/main.js"></script>
+
+    </body>
 </html>
