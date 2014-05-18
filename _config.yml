@@ -6,6 +6,8 @@ exclude: ["vendor"]
 
 markdown: kramdown
 
+encoding: utf-8
+
 tracks2013:
     13_agile: Agile
     13_bigdata: BigData / noSQL
