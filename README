@@ -34,6 +34,11 @@ It is HTML compliant :
 * Or both.
 
 
+h2. kramdown
+
+$ sudo gem install kramdown
+
+
 h2. Jekyll
 
 As Github Pages uses Jekyll (a blog engine), our website too :
