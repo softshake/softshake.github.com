@@ -1,7 +1,144 @@
----
-layout: 2014_default_fr
----
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Soft-Shake</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>  
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-<div id="main_container">
-    {{content}}
-</div>
+        <!--== CSS Files ==-->
+        <link href="/css/template/bootstrap.css" rel="stylesheet" media="screen">
+        <link href="/css/template/style.css" rel="stylesheet" media="screen">
+        <link href="/css/template/animate.min.css" rel="stylesheet" media="screen">
+        <link href="/css/template/font-awesome.css" rel="stylesheet" media="screen">
+        <link href="/css/template/owl.carousel.css" rel="stylesheet" media="screen">
+        <link href="/css/template/flexslider.css" rel="stylesheet" media="screen">
+        <link href="/css/template/fancySelect.css" rel="stylesheet" media="screen">
+        <link href="/css/template/responsive.css" rel="stylesheet" media="screen">
+
+        <!--== Google Fonts ==-->
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Belgrano' rel='stylesheet' type='text/css'>
+
+    </head>
+    <body>
+        <header id="header">
+            <div id="menu" class="header-menu fixed">
+                <div class="container box">
+                    <div class="row">
+                        <nav role="navigation" class="col-sm-12">
+                            <div class="navbar-header">
+                                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                                    <span class="sr-only">Toggle navigation</span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                    <span class="icon-bar"></span>
+                                </button>
+
+                                <!--== Logo ==-->
+                                <a href="/">
+	                                <span class="navbar-brand logo">
+	                                    <img src="/images/shaker.png" style="margin-top:-10px" alt="Soft-Shake"/>soft-shake'14
+	                                </span>
+                                </a>
+
+                            </div>
+                            <div class="navbar-collapse collapse">
+
+                                <!--== Navigation Menu ==-->
+                                <ul class="nav navbar-nav">
+                                    <li class="current"><a href="#header">Home</a></li>
+                                    <li><a href="#sessions">Sessions</a></li>
+                                    <li><a href="#speakers">Speakers</a></li>
+                                    <li><a href="#faq">FAQ</a></li>
+                                    <li><a href="#partners">Partners</a></li>
+                                    <li><a href="/2014/en/" class="global-nav">EN</a></li>
+                                </ul>
+
+                            </div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+
+            <!--== Site Description ==-->
+            <div class="header-cta">
+                <div class="container">
+                    <div class="row">
+                        <div class="blk">
+                            <h1>The Soft-Shake<br/>Conference</h1>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="blk">
+                            <!--<input type="submit" value="Submit your talk" name="submit" id="goregister">-->
+                            <h2>Call for papers will open soon. Follow our upcoming announcements <a href="http://twitter.com/softshakeevent" class="fa fa-twitter"></a></h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="header-bg">
+                <div id="preloader">
+                    <div class="preloader"></div>
+                </div>
+                <div class="main-slider" id="main-slider">
+
+                    <!--== Main Slider ==-->
+                    <ul class="slides">
+                        <li><img src="/images/template/demo/bg-slide-01.jpg" alt="Slide Image"/></li>
+                        <li><img src="/images/template/demo/bg-slide-02.jpg" alt="Slide Image 2"/></li>
+                    </ul>
+
+                </div>
+            </div>
+        </header>
+
+        <div class="content">
+            <div class="container box">
+                {{content}}
+            </div>
+        </div>
+        <footer id="footer">
+            <div id="map_canvas"></div>
+            
+            <div class="footer">
+                <div class="container box">
+
+                    <section id="info" class="row">
+                        <div class="col-sm-8">
+
+                            <!--== Social Icons ==-->
+                            <ul class="social-icons">
+                                <li><a href="http://twitter.com/softshakeevent" class="fa fa-twitter"></a></li>
+                                <li><a href="https://www.facebook.com/SoftShakeEvent" class="fa fa-facebook"></a></li>
+                            </ul>
+
+                        </div>
+                        <div class="col-sm-4 text-right">
+                            <div class="copyrights">
+                                All Rights Reserved. © Soft-Shake 2014
+                            </div>
+                        </div>
+                    </section>
+
+                </div>
+            </div>
+        </footer>
+
+        <!--== Javascript Files ==-->
+        <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+        <script src="/js/template/jquery-2.1.0.min.js"></script>
+        <script src="/js/template/bootstrap.min.js"></script>
+        <script src="/js/template/jquery.scrollTo.js"></script>
+        <script src="/js/template/jquery.nav.js"></script>
+        <script src="/js/template/owl.carousel.min.js"></script>
+        <script src="/js/template/jquery.flexslider.js"></script>
+        <script src="/js/template/jquery.accordion.js"></script>
+        <script src="/js/template/jquery.placeholder.js"></script>
+        <script src="/js/template/jquery.fitvids.js"></script>
+        <script src="/js/template/gmap3.js"></script>
+        <script src="/js/template/fancySelect.js"></script>
+        <script src="/js/template/main.js"></script>
+
+    </body>
+</html>
