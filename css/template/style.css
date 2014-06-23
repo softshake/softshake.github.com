@@ -335,6 +335,11 @@ Header CTA ========*/
 	line-height: 1.2em;
 }
 
+.header-cta h2 {
+	margin: 0;
+	color: #bbbac0;
+}
+
 .header-cta input[type="submit"] {
 	margin: 0;
 }
