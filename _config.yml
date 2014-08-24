@@ -1,7 +1,6 @@
 #
 # Jekyll configuration
 #
-auto:        true
 exclude: ["vendor"]
 
 markdown: kramdown
