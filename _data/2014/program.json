@@ -1,0 +1,926 @@
+[
+  {
+    "speakerName": "Alexandre BOUTIN",
+    "sessionTitle": "The Big Payoff",
+    "sessionTags": [
+      "Agile"
+    ],
+    "sessionFileName": "the-big-payoff.md",
+    "scheduleDay": "1",
+    "scheduleOrder": "4",
+    "scheduleRoom": "A101"
+  },
+  {
+    "speakerName": "Egor Sviridenko",
+    "sessionTitle": "Seeing Power - Introduction to Visual Management",
+    "sessionTags": [
+      "Agile"
+    ],
+    "sessionFileName": "seeing-power---introduction-to-visual-management.md",
+    "scheduleDay": "2",
+    "scheduleOrder": "1",
+    "scheduleRoom": "BS30"
+  },
+  {
+    "speakerName": "Romain Couturier",
+    "sessionTitle": "Kanban pour tous",
+    "sessionTags": [
+      "Agile"
+    ],
+    "sessionFileName": "kanban-pour-tous.md",
+    "scheduleDay": "1",
+    "scheduleOrder": "1",
+    "scheduleRoom": "A102"
+  },
+  {
+    "speakerName": "Thierry CROS",
+    "sessionTitle": "Et donc je suis associé de ma SCOP",
+    "sessionTags": [
+      "Agile"
+    ],
+    "sessionFileName": "et-donc-je-suis-associé-de-ma-scop.md",
+    "scheduleDay": "2",
+    "scheduleOrder": "4",
+    "scheduleRoom": "BE29"
+  },
+  {
+    "speakerName": "Vincent Daviet",
+    "sessionTitle": "Le T-shirt du Leader agile",
+    "sessionTags": [
+      "Agile"
+    ],
+    "sessionFileName": "le-t-shirt-du-leader-agile.md",
+    "scheduleDay": "2",
+    "scheduleOrder": "5",
+    "scheduleRoom": "A101"
+  },
+  {
+    "speakerName": "Guillaume Vial",
+    "sessionTitle": "Team Leader",
+    "sessionTags": [
+      "Agile"
+    ],
+    "sessionFileName": "team-leader.md",
+    "scheduleDay": "1",
+    "scheduleOrder": "4",
+    "scheduleRoom": "BE29"
+  },
+  {
+    "speakerName": "Johnny Graber",
+    "sessionTitle": "Xanpan: When Kanban Meets XP",
+    "sessionTags": [
+      "Agile"
+    ],
+    "sessionFileName": "xanpan--when-kanban-meets-xp.md",
+    "scheduleDay": "2",
+    "scheduleOrder": "3",
+    "scheduleRoom": "BE29"
+  },
+  {
+    "speakerName": "johan martinsson",
+    "sessionTitle": "Refactorer legacy, même pas peur!",
+    "sessionTags": [
+      "Agile"
+    ],
+    "sessionFileName": "refactorer-legacy--même-pas-peur-.md",
+    "scheduleDay": "1",
+    "scheduleOrder": "6",
+    "scheduleRoom": "A106"
+  },
+  {
+    "speakerName": "Tim Macfarlane",
+    "sessionTitle": "Automated Testing: An Experience Report",
+    "sessionTags": [
+      "Agile"
+    ],
+    "sessionFileName": "automated-testing--an-experience-report.md",
+    "scheduleDay": "2",
+    "scheduleOrder": "2",
+    "scheduleRoom": "A102"
+  },
+  {
+    "speakerName": "Tremeur Balbous",
+    "sessionTitle": "Immunothérapie pour le changement",
+    "sessionTags": [
+      "Agile"
+    ],
+    "sessionFileName": "immunothérapie-pour-le-changement.md",
+    "scheduleDay": "1",
+    "scheduleOrder": "2",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Nedjma SAIDANI",
+    "sessionTitle": "Comportements dysfonctionnels d'une équipe agile",
+    "sessionTags": [
+      "Agile"
+    ],
+    "sessionFileName": "comportements-dysfonctionnels-d-une-équipe-agile.md",
+    "scheduleDay": "1",
+    "scheduleOrder": "5",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "François Helg",
+    "sessionTitle": "Les Business Analysts face à l'agilité : de nouveau challenges à relever",
+    "sessionTags": [
+      "Agile"
+    ],
+    "sessionFileName": "les-business-analysts-face-à-l-agilité---de-nouveau-challenges-à-relever.md",
+    "scheduleDay": "2",
+    "scheduleOrder": "5",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Houssam FAKIH",
+    "sessionTitle": "Full Pair Programming : Nightmares & Dreams",
+    "sessionTags": [
+      "Agile"
+    ],
+    "sessionFileName": "full-pair-programming---nightmares---dreams.md",
+    "scheduleDay": "1",
+    "scheduleOrder": "3",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "David Pilato",
+    "sessionTitle": "Advanced search for your legacy application",
+    "sessionTags": [
+      "Big Data"
+    ],
+    "sessionFileName": "advanced-search-for-your-legacy-application.md",
+    "scheduleDay": "1",
+    "scheduleOrder": "5",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "DuyHai DOAN",
+    "sessionTitle": "Achilles, le meilleur compagne de Cassandra",
+    "sessionTags": [
+      "Big Data"
+    ],
+    "sessionFileName": "achilles--le-meilleur-compagne-de-cassandra.md",
+    "scheduleDay": "1",
+    "scheduleOrder": "3",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Philippe Kernevez",
+    "sessionTitle": "Améliorer votre activité grace à la mise en œuvre d'Hadoop et R. Retour d'experience d'un projet d'optimisation de campagnes publicitaires",
+    "sessionTags": [
+      "Big Data"
+    ],
+    "sessionFileName": "améliorer-votre-activité-grace-à-la-mise-en-œuvre-d-hadoop-et-r--retour-d-experience-d-un-projet-d-optimisation-de-campagnes-publicitaires.md",
+    "scheduleDay": "2",
+    "scheduleOrder": "5",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Patrick Baumgartner",
+    "sessionTitle": "Graph Databases - Only a Tool or a Data Store?",
+    "sessionTags": [
+      "Big Data"
+    ],
+    "sessionFileName": "graph-databases---only-a-tool-or-a-data-store-.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Tugdual Grall",
+    "sessionTitle": "MongoDB Document Design: \"Drop your Table\"",
+    "sessionTags": [
+      "Big Data"
+    ],
+    "sessionFileName": "mongodb-document-design---drop-your-table-.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Philippe Morignot",
+    "sessionTitle": "Programmation par contraintes : théorie et pratique",
+    "sessionTags": [
+      "IA / Robotique"
+    ],
+    "sessionFileName": "programmation-par-contraintes---théorie-et-pratique.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Marc-Philippe Huget",
+    "sessionTitle": "Le machine learning au service des entreprises",
+    "sessionTags": [
+      "IA / Robotique"
+    ],
+    "sessionFileName": "le-machine-learning-au-service-des-entreprises.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Jean-François Poilprêt",
+    "sessionTitle": "Arduino B.A.-BA",
+    "sessionTags": [
+      "IA / Robotique"
+    ],
+    "sessionFileName": "arduino-b-a--ba.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Géraud de Laval",
+    "sessionTitle": "What is UX?",
+    "sessionTags": [
+      "Incubateur"
+    ],
+    "sessionFileName": "what-is-ux-.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Jean-Philippe Briend",
+    "sessionTitle": "L'université de la performance",
+    "sessionTags": [
+      "Incubateur"
+    ],
+    "sessionFileName": "l-université-de-la-performance.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Thierry Wasylczenko",
+    "sessionTitle": "#Polyglotisme: une autre manière de développer une application",
+    "sessionTags": [
+      "Incubateur"
+    ],
+    "sessionFileName": "-polyglotisme--une-autre-manière-de-développer-une-application.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Marcelo Ancelmo",
+    "sessionTitle": "DevOps@Enterprise - Lessons from the Trenches",
+    "sessionTags": [
+      "Incubateur"
+    ],
+    "sessionFileName": "devops-enterprise---lessons-from-the-trenches.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "pierre-yves ritschard",
+    "sessionTitle": "Cyanite: timeseries storage at scale",
+    "sessionTags": [
+      "Incubateur"
+    ],
+    "sessionFileName": "cyanite--timeseries-storage-at-scale.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Gilles Gravier",
+    "sessionTitle": "La Cryptographie Quantique pour une sécurité à l'épreuve du futur",
+    "sessionTags": [
+      "Incubateur"
+    ],
+    "sessionFileName": "la-cryptographie-quantique-pour-une-sécurité-à-l-épreuve-du-futur.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Tim Bell",
+    "sessionTitle": "Agile Infrastructure at CERN",
+    "sessionTags": [
+      "Incubateur"
+    ],
+    "sessionFileName": "agile-infrastructure-at-cern.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Florian Dudouet",
+    "sessionTitle": "Introduction to Docker",
+    "sessionTags": [
+      "Incubateur"
+    ],
+    "sessionFileName": "introduction-to-docker.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Romain FELDEN",
+    "sessionTitle": "DevOps: mission [im]possible ?",
+    "sessionTags": [
+      "Incubateur"
+    ],
+    "sessionFileName": "devops--mission--im-possible--.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Dominique BROEGLIN",
+    "sessionTitle": " Automating your infrastructure with Puppet",
+    "sessionTags": [
+      "Incubateur"
+    ],
+    "sessionFileName": "-automating-your-infrastructure-with-puppet.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Guillaume Scheibel",
+    "sessionTitle": "Why documentation should be a pain in my ass ?",
+    "sessionTags": [
+      "Incubateur"
+    ],
+    "sessionFileName": "why-documentation-should-be-a-pain-in-my-ass--.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Vincent Guigui",
+    "sessionTitle": "Devenir créateur d'expériences immersives",
+    "sessionTags": [
+      "Incubateur"
+    ],
+    "sessionFileName": "devenir-créateur-d-expériences-immersives.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Quentin ADAM",
+    "sessionTitle": "How to scale ?",
+    "sessionTags": [
+      "Incubateur"
+    ],
+    "sessionFileName": "how-to-scale--.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Ivan Hristov",
+    "sessionTitle": "Bringing together Docker, Grunt & Maven",
+    "sessionTags": [
+      "Java"
+    ],
+    "sessionFileName": "bringing-together-docker--grunt---maven.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Brice LEPORINI",
+    "sessionTitle": "JDBC / JPA / Hibernate: Sans maîtrise la puissance n'est rien",
+    "sessionTags": [
+      "Java"
+    ],
+    "sessionFileName": "jdbc---jpa---hibernate--sans-maîtrise-la-puissance-n-est-rien.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Guillaume EHRET",
+    "sessionTitle": "Le bon testeur il teste.... et le mauvais testeur il teste aussi...",
+    "sessionTags": [
+      "Java"
+    ],
+    "sessionFileName": "le-bon-testeur-il-teste-----et-le-mauvais-testeur-il-teste-aussi---.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Thierry WASYLCZENKO",
+    "sessionTitle": "Construire une application JavaFX 8 avec gradle",
+    "sessionTags": [
+      "Java"
+    ],
+    "sessionFileName": "construire-une-application-javafx-8-avec-gradle.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Lukas Eder",
+    "sessionTitle": "Get Back in Control of Your SQL with jOOQ",
+    "sessionTags": [
+      "Java"
+    ],
+    "sessionFileName": "get-back-in-control-of-your-sql-with-jooq.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Mandrikov Evgeny",
+    "sessionTitle": "Java Benchmarking",
+    "sessionTags": [
+      "Java"
+    ],
+    "sessionFileName": "java-benchmarking.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Emmanuel Hugonnet",
+    "sessionTitle": "You’re pretty fly for a WildFly ",
+    "sessionTags": [
+      "Java"
+    ],
+    "sessionFileName": "you-re-pretty-fly-for-a-wildfly-.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Alexis Hassler",
+    "sessionTitle": "Avec Java EE, fais ce que tu veux",
+    "sessionTags": [
+      "Java"
+    ],
+    "sessionFileName": "avec-java-ee--fais-ce-que-tu-veux.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Aurélien Broszniowski",
+    "sessionTitle": "Write your own performance framework easily!",
+    "sessionTags": [
+      "Java"
+    ],
+    "sessionFileName": "write-your-own-performance-framework-easily-.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Maarten Balliauw",
+    "sessionTitle": "Using NuGet the way you should",
+    "sessionTags": [
+      "Microsoft"
+    ],
+    "sessionFileName": "using-nuget-the-way-you-should.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Johnny Graber",
+    "sessionTitle": "Metrics Based Decisions",
+    "sessionTags": [
+      "Microsoft"
+    ],
+    "sessionFileName": "metrics-based-decisions.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Thibaud Desodt",
+    "sessionTitle": "Dependency Injection, the right way",
+    "sessionTags": [
+      "Microsoft"
+    ],
+    "sessionFileName": "dependency-injection--the-right-way.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Nicolas CLERC",
+    "sessionTitle": "KinHarp … transformer le Kinect en instrument de musique",
+    "sessionTags": [
+      "Microsoft"
+    ],
+    "sessionFileName": "kinharp---transformer-le-kinect-en-instrument-de-musique.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Nicolas CLERC",
+    "sessionTitle": "Project \"Orleans\" ... la haute disponibilité à la demande dans le Cloud",
+    "sessionTags": [
+      "Microsoft"
+    ],
+    "sessionFileName": "project--orleans------la-haute-disponibilité-à-la-demande-dans-le-cloud.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Dinesh Bolkensteyn",
+    "sessionTitle": "Roslyn: Meet the new brain of Visual Studio",
+    "sessionTags": [
+      "Microsoft"
+    ],
+    "sessionFileName": "roslyn--meet-the-new-brain-of-visual-studio.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Ronnie Saurenmann",
+    "sessionTitle": "Building a XAML/C# app that runs on desktops, tablets and phones using the new Universal template",
+    "sessionTags": [
+      "Microsoft"
+    ],
+    "sessionFileName": "building-a-xaml-c--app-that-runs-on-desktops--tablets-and-phones-using-the-new-universal-template.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Marius Constantinescu",
+    "sessionTitle": "Create Azure-hosted modern Cloud Business web apps for Office 365",
+    "sessionTags": [
+      "Microsoft"
+    ],
+    "sessionFileName": "create-azure-hosted-modern-cloud-business-web-apps-for-office-365.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Atif Aziz",
+    "sessionTitle": "F# for C# Programmers: The Good, the Bad and the Ugly",
+    "sessionTags": [
+      "Microsoft"
+    ],
+    "sessionFileName": "f--for-c--programmers--the-good--the-bad-and-the-ugly.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Atif Aziz",
+    "sessionTitle": "Confessions of a .NET Open Source Programmer",
+    "sessionTags": [
+      "Microsoft"
+    ],
+    "sessionFileName": "confessions-of-a--net-open-source-programmer.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Duncan Mole",
+    "sessionTitle": "The obviousness and power of Rx",
+    "sessionTags": [
+      "Microsoft"
+    ],
+    "sessionFileName": "the-obviousness-and-power-of-rx.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Corinne Krych",
+    "sessionTitle": "Get ready: Switch to Swift!",
+    "sessionTags": [
+      "Mobilité"
+    ],
+    "sessionFileName": "get-ready--switch-to-swift-.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Erik Jan de Wit",
+    "sessionTitle": "Cordova and AeroGear API",
+    "sessionTags": [
+      "Mobilité"
+    ],
+    "sessionFileName": "cordova-and-aerogear-api.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Noé Beuret",
+    "sessionTitle": "Secure your Apps",
+    "sessionTags": [
+      "Mobilité"
+    ],
+    "sessionFileName": "secure-your-apps.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Corinne Krych",
+    "sessionTitle": "OAuth2 made easy",
+    "sessionTags": [
+      "Mobilité"
+    ],
+    "sessionFileName": "oauth2-made-easy.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Keerthan Muthurasa",
+    "sessionTitle": "Do you have a “mobile” moment ? ",
+    "sessionTags": [
+      "Mobilité"
+    ],
+    "sessionFileName": "do-you-have-a--mobile--moment---.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Ken Casada",
+    "sessionTitle": "Building cross-platform applications with Azure Mobile Services",
+    "sessionTags": [
+      "Mobilité"
+    ],
+    "sessionFileName": "building-cross-platform-applications-with-azure-mobile-services.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Mike Bluestein",
+    "sessionTitle": "Cross-platform Mobile Development with Xamarin",
+    "sessionTags": [
+      "Mobilité"
+    ],
+    "sessionFileName": "cross-platform-mobile-development-with-xamarin.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Damian Mehers",
+    "sessionTitle": "What is it like to build for Wearable devices?",
+    "sessionTags": [
+      "Mobilité"
+    ],
+    "sessionFileName": "what-is-it-like-to-build-for-wearable-devices-.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Alain Regnier",
+    "sessionTitle": "the Google Glass Revolution",
+    "sessionTags": [
+      "Mobilité"
+    ],
+    "sessionFileName": "the-google-glass-revolution.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Cédric Champeau",
+    "sessionTitle": "Android et Groovy : le couple gagnant",
+    "sessionTags": [
+      "Mobilité"
+    ],
+    "sessionFileName": "android-et-groovy---le-couple-gagnant.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Rob Branchat",
+    "sessionTitle": "(into clojure)",
+    "sessionTags": [
+      "Prog. Fonctionnelle"
+    ],
+    "sessionFileName": "-into-clojure-.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Carlo Jelmini",
+    "sessionTitle": "Introduction à la programmation fonctionnelle",
+    "sessionTags": [
+      "Prog. Fonctionnelle"
+    ],
+    "sessionFileName": "introduction-à-la-programmation-fonctionnelle.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Mirco Dotta",
+    "sessionTitle": "Go Reactive: Event-driven, Scalable, Resilient and Responsive Systems",
+    "sessionTags": [
+      "Prog. Fonctionnelle"
+    ],
+    "sessionFileName": "go-reactive--event-driven--scalable--resilient-and-responsive-systems.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Luc Bourlier",
+    "sessionTitle": "De simple à réactive, transformation d'un webapp",
+    "sessionTags": [
+      "Prog. Fonctionnelle"
+    ],
+    "sessionFileName": "de-simple-à-réactive--transformation-d-un-webapp.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Christophe Pache",
+    "sessionTitle": "Comment utiliser la programmation fonctionnelle pour simplifier une solution d'intégration",
+    "sessionTags": [
+      "Prog. Fonctionnelle"
+    ],
+    "sessionFileName": "comment-utiliser-la-programmation-fonctionnelle-pour-simplifier-une-solution-d-intégration.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Marc-Antoine Galilée",
+    "sessionTitle": "Gamedev with Scala",
+    "sessionTags": [
+      "Prog. Fonctionnelle"
+    ],
+    "sessionFileName": "gamedev-with-scala.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Alois Cochard",
+    "sessionTitle": "The Promises of Purely Functional Programming.",
+    "sessionTags": [
+      "Prog. Fonctionnelle"
+    ],
+    "sessionFileName": "the-promises-of-purely-functional-programming-.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Trond Bjerkestrand",
+    "sessionTitle": "Putting Akka cluster to work",
+    "sessionTags": [
+      "Prog. Fonctionnelle"
+    ],
+    "sessionFileName": "putting-akka-cluster-to-work.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "François Garillot",
+    "sessionTitle": "Scala Collections : Java 8 on Steroids",
+    "sessionTags": [
+      "Prog. Fonctionnelle"
+    ],
+    "sessionFileName": "scala-collections---java-8-on-steroids.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Philippe Charriere",
+    "sessionTitle": "Soyons prêts pour ES6",
+    "sessionTags": [
+      "Web"
+    ],
+    "sessionFileName": "soyons-prêts-pour-es6.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Xavier Carpentier",
+    "sessionTitle": "#Restful, really ?",
+    "sessionTags": [
+      "Web"
+    ],
+    "sessionFileName": "-restful--really--.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Marc Friederich",
+    "sessionTitle": "Dynamic Style Guides – Retour sur expérience",
+    "sessionTags": [
+      "Web"
+    ],
+    "sessionFileName": "dynamic-style-guides---retour-sur-expérience.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Yann Gouffon",
+    "sessionTitle": "Modular first",
+    "sessionTags": [
+      "Web"
+    ],
+    "sessionFileName": "modular-first.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Toni Fisler",
+    "sessionTitle": "Yeoman de A à Z",
+    "sessionTags": [
+      "Web"
+    ],
+    "sessionFileName": "yeoman-de-a-à-z.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Nicolas Seriot",
+    "sessionTitle": "I � UTF-8",
+    "sessionTags": [
+      "Web"
+    ],
+    "sessionFileName": "i---utf-8.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Micha Roon",
+    "sessionTitle": "applications web réactives avec meteor",
+    "sessionTags": [
+      "Web"
+    ],
+    "sessionFileName": "applications-web-réactives-avec-meteor.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Cedric Moullet",
+    "sessionTitle": "L'histoire du redesign et de la réécriture de map.geo.admin.ch",
+    "sessionTags": [
+      "Web"
+    ],
+    "sessionFileName": "l-histoire-du-redesign-et-de-la-réécriture-de-map-geo-admin-ch.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Audrey Lièvremont",
+    "sessionTitle": "HTML : why content is important",
+    "sessionTags": [
+      "Web"
+    ],
+    "sessionFileName": "html---why-content-is-important.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Matthieu Lux",
+    "sessionTitle": "Angular From Scratch",
+    "sessionTags": [
+      "Web"
+    ],
+    "sessionFileName": "angular-from-scratch.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  },
+  {
+    "speakerName": "Renault John Lecoultre",
+    "sessionTitle": "Deep HTML crawling for testing - or how to implement automated functional tests that cover hundreds or thousands of pages.",
+    "sessionTags": [
+      "Web"
+    ],
+    "sessionFileName": "deep-html-crawling-for-testing---or-how-to-implement-automated-functional-tests-that-cover-hundreds-or-thousands-of-pages-.md",
+    "scheduleDay": "?",
+    "scheduleOrder": "?",
+    "scheduleRoom": "?"
+  }
+]
