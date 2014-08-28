@@ -1,0 +1,35 @@
+---
+layout: 2014_default_en
+speakerName: 'Alois Cochard'
+sessionTitle: 'The Promises of Purely Functional Programming.'
+speakerEmail: alois.cochard@gmail.com
+speakerBio: 'Passionate Hacker'
+speakerAddress: 'London, UK'
+speakerTitle: ""
+speakerOrganization: ""
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/5fd58f622fd5fae841f8d78a07eb8328?size=200'
+sessionCategory: Présentation
+sessionLevel: 'Ha (intermédiaire), Ri (avancé)'
+sessionTopic: 'Concurrency and Effects'
+sessionTags:
+  - 'Prog. Fonctionnelle'
+scheduleDay: '?'
+scheduleOrder: '?'
+scheduleRoom: '?'
+---
+
+Most programmers nowadays are familiar with some functional programming principles.
+
+There are a number of programming languages which are integrating features such as lambda functions,
+or even encouraging the usage of immutable data-structure.
+ 
+But that's just the tip of the iceberg!
+In fact, applying those techniques without any form of effect tracking reduces their power massively.
+ 
+In this talk I'll explain why "mostly functional programming" [1] is not practical,
+and I will demonstrate how Haskell, a general-purpose purely functional language, can help you in solving modern software challenges in a principled way.
+ 
+I'll put a strong emphasis on the benefit of non-strict evaluation and effect-tracking for concurrent programming.
+ 
+[1] Erik Meijer: The Curse of the Excluded Middle: http://queue.acm.org/detail.cfm?id=2611829
+

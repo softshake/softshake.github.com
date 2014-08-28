@@ -5,7 +5,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "the-big-payoff.md",
+    "sessionFileName": "the-big-payoff",
     "scheduleDay": "1",
     "scheduleOrder": "4",
     "scheduleRoom": "A101"
@@ -16,7 +16,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "seeing-power---introduction-to-visual-management.md",
+    "sessionFileName": "seeing-power---introduction-to-visual-management",
     "scheduleDay": "2",
     "scheduleOrder": "1",
     "scheduleRoom": "BS30"
@@ -27,7 +27,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "kanban-pour-tous.md",
+    "sessionFileName": "kanban-pour-tous",
     "scheduleDay": "1",
     "scheduleOrder": "1",
     "scheduleRoom": "A102"
@@ -38,7 +38,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "et-donc-je-suis-associé-de-ma-scop.md",
+    "sessionFileName": "et-donc-je-suis-associé-de-ma-scop",
     "scheduleDay": "2",
     "scheduleOrder": "4",
     "scheduleRoom": "BE29"
@@ -49,7 +49,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "le-t-shirt-du-leader-agile.md",
+    "sessionFileName": "le-t-shirt-du-leader-agile",
     "scheduleDay": "2",
     "scheduleOrder": "5",
     "scheduleRoom": "A101"
@@ -60,7 +60,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "team-leader.md",
+    "sessionFileName": "team-leader",
     "scheduleDay": "1",
     "scheduleOrder": "4",
     "scheduleRoom": "BE29"
@@ -71,7 +71,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "xanpan--when-kanban-meets-xp.md",
+    "sessionFileName": "xanpan--when-kanban-meets-xp",
     "scheduleDay": "2",
     "scheduleOrder": "3",
     "scheduleRoom": "BE29"
@@ -82,7 +82,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "refactorer-legacy--même-pas-peur-.md",
+    "sessionFileName": "refactorer-legacy--même-pas-peur-",
     "scheduleDay": "1",
     "scheduleOrder": "6",
     "scheduleRoom": "A106"
@@ -93,7 +93,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "automated-testing--an-experience-report.md",
+    "sessionFileName": "automated-testing--an-experience-report",
     "scheduleDay": "2",
     "scheduleOrder": "2",
     "scheduleRoom": "A102"
@@ -104,7 +104,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "immunothérapie-pour-le-changement.md",
+    "sessionFileName": "immunothérapie-pour-le-changement",
     "scheduleDay": "1",
     "scheduleOrder": "2",
     "scheduleRoom": "?"
@@ -115,7 +115,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "comportements-dysfonctionnels-d-une-équipe-agile.md",
+    "sessionFileName": "comportements-dysfonctionnels-d-une-équipe-agile",
     "scheduleDay": "1",
     "scheduleOrder": "5",
     "scheduleRoom": "?"
@@ -126,7 +126,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "les-business-analysts-face-à-l-agilité---de-nouveau-challenges-à-relever.md",
+    "sessionFileName": "les-business-analysts-face-à-l-agilité---de-nouveau-challenges-à-relever",
     "scheduleDay": "2",
     "scheduleOrder": "5",
     "scheduleRoom": "?"
@@ -137,7 +137,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "full-pair-programming---nightmares---dreams.md",
+    "sessionFileName": "full-pair-programming---nightmares---dreams",
     "scheduleDay": "1",
     "scheduleOrder": "3",
     "scheduleRoom": "?"
@@ -148,7 +148,7 @@
     "sessionTags": [
       "Big Data"
     ],
-    "sessionFileName": "advanced-search-for-your-legacy-application.md",
+    "sessionFileName": "advanced-search-for-your-legacy-application",
     "scheduleDay": "1",
     "scheduleOrder": "5",
     "scheduleRoom": "?"
@@ -159,7 +159,7 @@
     "sessionTags": [
       "Big Data"
     ],
-    "sessionFileName": "achilles--le-meilleur-compagne-de-cassandra.md",
+    "sessionFileName": "achilles--le-meilleur-compagne-de-cassandra",
     "scheduleDay": "1",
     "scheduleOrder": "3",
     "scheduleRoom": "?"
@@ -170,7 +170,7 @@
     "sessionTags": [
       "Big Data"
     ],
-    "sessionFileName": "améliorer-votre-activité-grace-à-la-mise-en-œuvre-d-hadoop-et-r--retour-d-experience-d-un-projet-d-optimisation-de-campagnes-publicitaires.md",
+    "sessionFileName": "améliorer-votre-activité-grace-à-la-mise-en-œuvre-d-hadoop-et-r--retour-d-experience-d-un-projet-d-optimisation-de-campagnes-publicitaires",
     "scheduleDay": "2",
     "scheduleOrder": "5",
     "scheduleRoom": "?"
@@ -181,7 +181,7 @@
     "sessionTags": [
       "Big Data"
     ],
-    "sessionFileName": "graph-databases---only-a-tool-or-a-data-store-.md",
+    "sessionFileName": "graph-databases---only-a-tool-or-a-data-store-",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -192,7 +192,7 @@
     "sessionTags": [
       "Big Data"
     ],
-    "sessionFileName": "mongodb-document-design---drop-your-table-.md",
+    "sessionFileName": "mongodb-document-design---drop-your-table-",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -203,7 +203,7 @@
     "sessionTags": [
       "IA / Robotique"
     ],
-    "sessionFileName": "programmation-par-contraintes---théorie-et-pratique.md",
+    "sessionFileName": "programmation-par-contraintes---théorie-et-pratique",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -214,7 +214,7 @@
     "sessionTags": [
       "IA / Robotique"
     ],
-    "sessionFileName": "le-machine-learning-au-service-des-entreprises.md",
+    "sessionFileName": "le-machine-learning-au-service-des-entreprises",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -225,7 +225,7 @@
     "sessionTags": [
       "IA / Robotique"
     ],
-    "sessionFileName": "arduino-b-a--ba.md",
+    "sessionFileName": "arduino-b-a--ba",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -236,7 +236,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "what-is-ux-.md",
+    "sessionFileName": "what-is-ux-",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -247,7 +247,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "l-université-de-la-performance.md",
+    "sessionFileName": "l-université-de-la-performance",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -258,7 +258,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "-polyglotisme--une-autre-manière-de-développer-une-application.md",
+    "sessionFileName": "-polyglotisme--une-autre-manière-de-développer-une-application",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -269,7 +269,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "devops-enterprise---lessons-from-the-trenches.md",
+    "sessionFileName": "devops-enterprise---lessons-from-the-trenches",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -280,7 +280,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "cyanite--timeseries-storage-at-scale.md",
+    "sessionFileName": "cyanite--timeseries-storage-at-scale",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -291,7 +291,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "la-cryptographie-quantique-pour-une-sécurité-à-l-épreuve-du-futur.md",
+    "sessionFileName": "la-cryptographie-quantique-pour-une-sécurité-à-l-épreuve-du-futur",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -302,7 +302,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "agile-infrastructure-at-cern.md",
+    "sessionFileName": "agile-infrastructure-at-cern",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -313,7 +313,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "introduction-to-docker.md",
+    "sessionFileName": "introduction-to-docker",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -324,7 +324,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "devops--mission--im-possible--.md",
+    "sessionFileName": "devops--mission--im-possible--",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -335,7 +335,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "-automating-your-infrastructure-with-puppet.md",
+    "sessionFileName": "-automating-your-infrastructure-with-puppet",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -346,7 +346,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "why-documentation-should-be-a-pain-in-my-ass--.md",
+    "sessionFileName": "why-documentation-should-be-a-pain-in-my-ass--",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -357,7 +357,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "devenir-créateur-d-expériences-immersives.md",
+    "sessionFileName": "devenir-créateur-d-expériences-immersives",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -368,7 +368,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "how-to-scale--.md",
+    "sessionFileName": "how-to-scale--",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -379,7 +379,7 @@
     "sessionTags": [
       "Java"
     ],
-    "sessionFileName": "bringing-together-docker--grunt---maven.md",
+    "sessionFileName": "bringing-together-docker--grunt---maven",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -390,7 +390,7 @@
     "sessionTags": [
       "Java"
     ],
-    "sessionFileName": "jdbc---jpa---hibernate--sans-maîtrise-la-puissance-n-est-rien.md",
+    "sessionFileName": "jdbc---jpa---hibernate--sans-maîtrise-la-puissance-n-est-rien",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -401,7 +401,7 @@
     "sessionTags": [
       "Java"
     ],
-    "sessionFileName": "le-bon-testeur-il-teste-----et-le-mauvais-testeur-il-teste-aussi---.md",
+    "sessionFileName": "le-bon-testeur-il-teste-----et-le-mauvais-testeur-il-teste-aussi---",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -412,7 +412,7 @@
     "sessionTags": [
       "Java"
     ],
-    "sessionFileName": "construire-une-application-javafx-8-avec-gradle.md",
+    "sessionFileName": "construire-une-application-javafx-8-avec-gradle",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -423,7 +423,7 @@
     "sessionTags": [
       "Java"
     ],
-    "sessionFileName": "get-back-in-control-of-your-sql-with-jooq.md",
+    "sessionFileName": "get-back-in-control-of-your-sql-with-jooq",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -434,7 +434,7 @@
     "sessionTags": [
       "Java"
     ],
-    "sessionFileName": "java-benchmarking.md",
+    "sessionFileName": "java-benchmarking",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -445,7 +445,7 @@
     "sessionTags": [
       "Java"
     ],
-    "sessionFileName": "you-re-pretty-fly-for-a-wildfly-.md",
+    "sessionFileName": "you-re-pretty-fly-for-a-wildfly-",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -456,7 +456,7 @@
     "sessionTags": [
       "Java"
     ],
-    "sessionFileName": "avec-java-ee--fais-ce-que-tu-veux.md",
+    "sessionFileName": "avec-java-ee--fais-ce-que-tu-veux",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -467,7 +467,7 @@
     "sessionTags": [
       "Java"
     ],
-    "sessionFileName": "write-your-own-performance-framework-easily-.md",
+    "sessionFileName": "write-your-own-performance-framework-easily-",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -478,7 +478,7 @@
     "sessionTags": [
       "Microsoft"
     ],
-    "sessionFileName": "using-nuget-the-way-you-should.md",
+    "sessionFileName": "using-nuget-the-way-you-should",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -489,7 +489,7 @@
     "sessionTags": [
       "Microsoft"
     ],
-    "sessionFileName": "metrics-based-decisions.md",
+    "sessionFileName": "metrics-based-decisions",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -500,7 +500,7 @@
     "sessionTags": [
       "Microsoft"
     ],
-    "sessionFileName": "dependency-injection--the-right-way.md",
+    "sessionFileName": "dependency-injection--the-right-way",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -511,7 +511,7 @@
     "sessionTags": [
       "Microsoft"
     ],
-    "sessionFileName": "kinharp---transformer-le-kinect-en-instrument-de-musique.md",
+    "sessionFileName": "kinharp---transformer-le-kinect-en-instrument-de-musique",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -522,7 +522,7 @@
     "sessionTags": [
       "Microsoft"
     ],
-    "sessionFileName": "project--orleans------la-haute-disponibilité-à-la-demande-dans-le-cloud.md",
+    "sessionFileName": "project--orleans------la-haute-disponibilité-à-la-demande-dans-le-cloud",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -533,7 +533,7 @@
     "sessionTags": [
       "Microsoft"
     ],
-    "sessionFileName": "roslyn--meet-the-new-brain-of-visual-studio.md",
+    "sessionFileName": "roslyn--meet-the-new-brain-of-visual-studio",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -544,7 +544,7 @@
     "sessionTags": [
       "Microsoft"
     ],
-    "sessionFileName": "building-a-xaml-c--app-that-runs-on-desktops--tablets-and-phones-using-the-new-universal-template.md",
+    "sessionFileName": "building-a-xaml-c--app-that-runs-on-desktops--tablets-and-phones-using-the-new-universal-template",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -555,7 +555,7 @@
     "sessionTags": [
       "Microsoft"
     ],
-    "sessionFileName": "create-azure-hosted-modern-cloud-business-web-apps-for-office-365.md",
+    "sessionFileName": "create-azure-hosted-modern-cloud-business-web-apps-for-office-365",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -566,7 +566,7 @@
     "sessionTags": [
       "Microsoft"
     ],
-    "sessionFileName": "f--for-c--programmers--the-good--the-bad-and-the-ugly.md",
+    "sessionFileName": "f--for-c--programmers--the-good--the-bad-and-the-ugly",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -577,7 +577,7 @@
     "sessionTags": [
       "Microsoft"
     ],
-    "sessionFileName": "confessions-of-a--net-open-source-programmer.md",
+    "sessionFileName": "confessions-of-a--net-open-source-programmer",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -588,7 +588,7 @@
     "sessionTags": [
       "Microsoft"
     ],
-    "sessionFileName": "the-obviousness-and-power-of-rx.md",
+    "sessionFileName": "the-obviousness-and-power-of-rx",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -599,7 +599,7 @@
     "sessionTags": [
       "Mobilité"
     ],
-    "sessionFileName": "get-ready--switch-to-swift-.md",
+    "sessionFileName": "get-ready--switch-to-swift-",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -610,7 +610,7 @@
     "sessionTags": [
       "Mobilité"
     ],
-    "sessionFileName": "cordova-and-aerogear-api.md",
+    "sessionFileName": "cordova-and-aerogear-api",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -621,7 +621,7 @@
     "sessionTags": [
       "Mobilité"
     ],
-    "sessionFileName": "secure-your-apps.md",
+    "sessionFileName": "secure-your-apps",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -632,7 +632,7 @@
     "sessionTags": [
       "Mobilité"
     ],
-    "sessionFileName": "oauth2-made-easy.md",
+    "sessionFileName": "oauth2-made-easy",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -643,7 +643,7 @@
     "sessionTags": [
       "Mobilité"
     ],
-    "sessionFileName": "do-you-have-a--mobile--moment---.md",
+    "sessionFileName": "do-you-have-a--mobile--moment---",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -654,7 +654,7 @@
     "sessionTags": [
       "Mobilité"
     ],
-    "sessionFileName": "building-cross-platform-applications-with-azure-mobile-services.md",
+    "sessionFileName": "building-cross-platform-applications-with-azure-mobile-services",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -665,7 +665,7 @@
     "sessionTags": [
       "Mobilité"
     ],
-    "sessionFileName": "cross-platform-mobile-development-with-xamarin.md",
+    "sessionFileName": "cross-platform-mobile-development-with-xamarin",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -676,7 +676,7 @@
     "sessionTags": [
       "Mobilité"
     ],
-    "sessionFileName": "what-is-it-like-to-build-for-wearable-devices-.md",
+    "sessionFileName": "what-is-it-like-to-build-for-wearable-devices-",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -687,7 +687,7 @@
     "sessionTags": [
       "Mobilité"
     ],
-    "sessionFileName": "the-google-glass-revolution.md",
+    "sessionFileName": "the-google-glass-revolution",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -698,7 +698,7 @@
     "sessionTags": [
       "Mobilité"
     ],
-    "sessionFileName": "android-et-groovy---le-couple-gagnant.md",
+    "sessionFileName": "android-et-groovy---le-couple-gagnant",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -709,7 +709,7 @@
     "sessionTags": [
       "Prog. Fonctionnelle"
     ],
-    "sessionFileName": "-into-clojure-.md",
+    "sessionFileName": "-into-clojure-",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -720,7 +720,7 @@
     "sessionTags": [
       "Prog. Fonctionnelle"
     ],
-    "sessionFileName": "introduction-à-la-programmation-fonctionnelle.md",
+    "sessionFileName": "introduction-à-la-programmation-fonctionnelle",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -731,7 +731,7 @@
     "sessionTags": [
       "Prog. Fonctionnelle"
     ],
-    "sessionFileName": "go-reactive--event-driven--scalable--resilient-and-responsive-systems.md",
+    "sessionFileName": "go-reactive--event-driven--scalable--resilient-and-responsive-systems",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -742,7 +742,7 @@
     "sessionTags": [
       "Prog. Fonctionnelle"
     ],
-    "sessionFileName": "de-simple-à-réactive--transformation-d-un-webapp.md",
+    "sessionFileName": "de-simple-à-réactive--transformation-d-un-webapp",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -753,7 +753,7 @@
     "sessionTags": [
       "Prog. Fonctionnelle"
     ],
-    "sessionFileName": "comment-utiliser-la-programmation-fonctionnelle-pour-simplifier-une-solution-d-intégration.md",
+    "sessionFileName": "comment-utiliser-la-programmation-fonctionnelle-pour-simplifier-une-solution-d-intégration",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -764,7 +764,7 @@
     "sessionTags": [
       "Prog. Fonctionnelle"
     ],
-    "sessionFileName": "gamedev-with-scala.md",
+    "sessionFileName": "gamedev-with-scala",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -775,7 +775,7 @@
     "sessionTags": [
       "Prog. Fonctionnelle"
     ],
-    "sessionFileName": "the-promises-of-purely-functional-programming-.md",
+    "sessionFileName": "the-promises-of-purely-functional-programming-",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -786,7 +786,7 @@
     "sessionTags": [
       "Prog. Fonctionnelle"
     ],
-    "sessionFileName": "putting-akka-cluster-to-work.md",
+    "sessionFileName": "putting-akka-cluster-to-work",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -797,7 +797,7 @@
     "sessionTags": [
       "Prog. Fonctionnelle"
     ],
-    "sessionFileName": "scala-collections---java-8-on-steroids.md",
+    "sessionFileName": "scala-collections---java-8-on-steroids",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -808,7 +808,7 @@
     "sessionTags": [
       "Web"
     ],
-    "sessionFileName": "soyons-prêts-pour-es6.md",
+    "sessionFileName": "soyons-prêts-pour-es6",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -819,7 +819,7 @@
     "sessionTags": [
       "Web"
     ],
-    "sessionFileName": "-restful--really--.md",
+    "sessionFileName": "-restful--really--",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -830,7 +830,7 @@
     "sessionTags": [
       "Web"
     ],
-    "sessionFileName": "dynamic-style-guides---retour-sur-expérience.md",
+    "sessionFileName": "dynamic-style-guides---retour-sur-expérience",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -841,7 +841,7 @@
     "sessionTags": [
       "Web"
     ],
-    "sessionFileName": "modular-first.md",
+    "sessionFileName": "modular-first",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -852,7 +852,7 @@
     "sessionTags": [
       "Web"
     ],
-    "sessionFileName": "yeoman-de-a-à-z.md",
+    "sessionFileName": "yeoman-de-a-à-z",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -863,7 +863,7 @@
     "sessionTags": [
       "Web"
     ],
-    "sessionFileName": "i---utf-8.md",
+    "sessionFileName": "i---utf-8",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -874,7 +874,7 @@
     "sessionTags": [
       "Web"
     ],
-    "sessionFileName": "applications-web-réactives-avec-meteor.md",
+    "sessionFileName": "applications-web-réactives-avec-meteor",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -885,7 +885,7 @@
     "sessionTags": [
       "Web"
     ],
-    "sessionFileName": "l-histoire-du-redesign-et-de-la-réécriture-de-map-geo-admin-ch.md",
+    "sessionFileName": "l-histoire-du-redesign-et-de-la-réécriture-de-map-geo-admin-ch",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -896,7 +896,7 @@
     "sessionTags": [
       "Web"
     ],
-    "sessionFileName": "html---why-content-is-important.md",
+    "sessionFileName": "html---why-content-is-important",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -907,7 +907,7 @@
     "sessionTags": [
       "Web"
     ],
-    "sessionFileName": "angular-from-scratch.md",
+    "sessionFileName": "angular-from-scratch",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -918,7 +918,7 @@
     "sessionTags": [
       "Web"
     ],
-    "sessionFileName": "deep-html-crawling-for-testing---or-how-to-implement-automated-functional-tests-that-cover-hundreds-or-thousands-of-pages-.md",
+    "sessionFileName": "deep-html-crawling-for-testing---or-how-to-implement-automated-functional-tests-that-cover-hundreds-or-thousands-of-pages-",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"

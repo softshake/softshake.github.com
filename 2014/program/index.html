@@ -15,7 +15,7 @@ layout: 2014_default_en
 
 		{% assign day1talks = site.data.2014.program | where: "scheduleDay", "1" | sort: "scheduleOrder" %}
 		{% for talk in day1talks %}
-			<h4>{{ talk.scheduleOrder }} - {{ talk.sessionTitle }} by {{ talk.speakerName }}</h4>
+			<h4>{{ talk.scheduleOrder }} - <a href="/2014/program/sessions/{{ talk.sessionFileName }}.html">{{ talk.sessionTitle }} by {{ talk.speakerName }}</a></h4>
 		{% endfor %}
 
 	</div>
