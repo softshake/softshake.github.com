@@ -1,0 +1,6 @@
+<div>
+	{% assign dayTalks = site.data.2014.program | where: "scheduleDay", include.day | sort: "scheduleOrder" %}
+	{% for talk in dayTalks %}
+		<h4>{{ talk.scheduleOrder }} <strong>{{ talk.scheduleRoom }}</strong> | <a href="/2014/program/sessions/{{ talk.sessionFileName }}.html">{{ talk.sessionTitle }} by {{ talk.speakerName }}</a></h4>
+	{% endfor %}
+</div>

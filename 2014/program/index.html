@@ -12,31 +12,20 @@ layout: 2014_default_en
 <section class="row">
 	<div class="col-sm-12">
 		<h1><a name="day1">Day 1</a></h1>
-
-		{% assign day1talks = site.data.2014.program | where: "scheduleDay", "1" | sort: "scheduleOrder" %}
-		{% for talk in day1talks %}
-			<h4>{{ talk.scheduleOrder }} - <a href="/2014/program/sessions/{{ talk.sessionFileName }}.html">{{ talk.sessionTitle }} by {{ talk.speakerName }}</a></h4>
-		{% endfor %}
-
+		{% include 2014_day_talks.html day="1" %}
 	</div>
 </section>
 
 <section class="row">
 	<div class="col-sm-12">
 		<h1><a name="day2">Day 2</a></h1>
-		{% assign day2talks = site.data.2014.program | where: "scheduleDay", "2" | sort: "scheduleOrder" %}
-		{% for session in day2talks %}
-			<h4>{{ session.scheduleOrder }} - {{ session.sessionTitle }} by {{ session.speakerName }}</h4>
-		{% endfor %}
+		{% include 2014_day_talks.html day="2" %}
 	</div>
 </section>
 
 <section class="row">
 	<div class="col-sm-12">
 		<h1><a name="unschedulled">Unschedulled</a></h1>
-		{% assign unschedulled_talks = site.data.2014.program | where: "scheduleDay", "" %}
-		{% for session in unschedulled_talks %}
-			<h4>{{ session.scheduleOrder }} - {{ session.sessionTitle }} by {{ session.speakerName }}</h4>
-		{% endfor %}
+		{% include 2014_day_talks.html day="?" %}
 	</div>
 </section>
