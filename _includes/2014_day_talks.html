@@ -1,6 +1,23 @@
 <div>
 	{% assign dayTalks = site.data.2014.program | where: "scheduleDay", include.day | sort: "scheduleOrder" %}
-	{% for talk in dayTalks %}
-		<h4>{{ talk.scheduleOrder }} <strong>{{ talk.scheduleRoom }}</strong> | <a href="/2014/program/sessions/{{ talk.sessionFileName }}.html">{{ talk.sessionTitle }} by {{ talk.speakerName }}</a></h4>
+	{% assign talksByOrder = dayTalks | group_by: "scheduleOrder" %}
+	{% for talkGroup in talksByOrder | sort: "name" %}
+		<h2>Slot {{ talkGroup.name }}</h2>
+		{% for talk in talkGroup.items %}
+		<div class="col-md-12 col-sm-12">
+			<div class="col-md-1 col-sm-12">
+				<h3><strong>{{ talk.scheduleRoom }}</strong></h3>
+			</div>
+
+			<div class="col-md-9 col-sm-12">
+				<h4><a href="/2014/program/sessions/{{ talk.sessionFileName }}.html">{{ talk.sessionTitle }}</a></h4>
+				<p>{{ talk.speakerName }}</p>
+			</div>
+
+			<div class="col-md-2 col-sm-12">
+				<h4>{{ talk.sessionTags }}</h4>
+			</div>
+		</div>
+		{% endfor %}
 	{% endfor %}
 </div>
