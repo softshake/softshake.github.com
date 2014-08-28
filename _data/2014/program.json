@@ -16,7 +16,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "seeing-power---introduction-to-visual-management",
+    "sessionFileName": "seeing-power-introduction-to-visual-management",
     "scheduleDay": "2",
     "scheduleOrder": "1",
     "scheduleRoom": "BS30"
@@ -38,7 +38,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "et-donc-je-suis-associé-de-ma-scop",
+    "sessionFileName": "et-donc-je-suis-associe-de-ma-scop",
     "scheduleDay": "2",
     "scheduleOrder": "4",
     "scheduleRoom": "BE29"
@@ -71,7 +71,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "xanpan--when-kanban-meets-xp",
+    "sessionFileName": "xanpan-when-kanban-meets-xp",
     "scheduleDay": "2",
     "scheduleOrder": "3",
     "scheduleRoom": "BE29"
@@ -82,7 +82,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "refactorer-legacy--même-pas-peur-",
+    "sessionFileName": "refactorer-legacy-meme-pas-peur",
     "scheduleDay": "1",
     "scheduleOrder": "6",
     "scheduleRoom": "A106"
@@ -93,7 +93,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "automated-testing--an-experience-report",
+    "sessionFileName": "automated-testing-an-experience-report",
     "scheduleDay": "2",
     "scheduleOrder": "2",
     "scheduleRoom": "A102"
@@ -104,7 +104,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "immunothérapie-pour-le-changement",
+    "sessionFileName": "immunotherapie-pour-le-changement",
     "scheduleDay": "1",
     "scheduleOrder": "2",
     "scheduleRoom": "?"
@@ -115,7 +115,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "comportements-dysfonctionnels-d-une-équipe-agile",
+    "sessionFileName": "comportements-dysfonctionnels-d-une-equipe-agile",
     "scheduleDay": "1",
     "scheduleOrder": "5",
     "scheduleRoom": "?"
@@ -126,7 +126,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "les-business-analysts-face-à-l-agilité---de-nouveau-challenges-à-relever",
+    "sessionFileName": "les-business-analysts-face-a-l-agilite-de-nouveau-challenges-a-relever",
     "scheduleDay": "2",
     "scheduleOrder": "5",
     "scheduleRoom": "?"
@@ -137,7 +137,7 @@
     "sessionTags": [
       "Agile"
     ],
-    "sessionFileName": "full-pair-programming---nightmares---dreams",
+    "sessionFileName": "full-pair-programming-nightmares-dreams",
     "scheduleDay": "1",
     "scheduleOrder": "3",
     "scheduleRoom": "?"
@@ -159,7 +159,7 @@
     "sessionTags": [
       "Big Data"
     ],
-    "sessionFileName": "achilles--le-meilleur-compagne-de-cassandra",
+    "sessionFileName": "achilles-le-meilleur-compagne-de-cassandra",
     "scheduleDay": "1",
     "scheduleOrder": "3",
     "scheduleRoom": "?"
@@ -170,7 +170,7 @@
     "sessionTags": [
       "Big Data"
     ],
-    "sessionFileName": "améliorer-votre-activité-grace-à-la-mise-en-œuvre-d-hadoop-et-r--retour-d-experience-d-un-projet-d-optimisation-de-campagnes-publicitaires",
+    "sessionFileName": "ameliorer-votre-activite-grace-a-la-mise-en-oeuvre-d-hadoop-et-r-retour-d-experience-d-un-projet-d-optimisation-de-campagnes-publicitaires",
     "scheduleDay": "2",
     "scheduleOrder": "5",
     "scheduleRoom": "?"
@@ -181,7 +181,7 @@
     "sessionTags": [
       "Big Data"
     ],
-    "sessionFileName": "graph-databases---only-a-tool-or-a-data-store-",
+    "sessionFileName": "graph-databases-only-a-tool-or-a-data-store",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -192,7 +192,7 @@
     "sessionTags": [
       "Big Data"
     ],
-    "sessionFileName": "mongodb-document-design---drop-your-table-",
+    "sessionFileName": "mongodb-document-design-drop-your-table",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -203,7 +203,7 @@
     "sessionTags": [
       "IA / Robotique"
     ],
-    "sessionFileName": "programmation-par-contraintes---théorie-et-pratique",
+    "sessionFileName": "programmation-par-contraintes-theorie-et-pratique",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -225,7 +225,7 @@
     "sessionTags": [
       "IA / Robotique"
     ],
-    "sessionFileName": "arduino-b-a--ba",
+    "sessionFileName": "arduino-b-a-ba",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -236,7 +236,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "what-is-ux-",
+    "sessionFileName": "what-is-ux",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -247,7 +247,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "l-université-de-la-performance",
+    "sessionFileName": "l-universite-de-la-performance",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -258,7 +258,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "-polyglotisme--une-autre-manière-de-développer-une-application",
+    "sessionFileName": "polyglotisme-une-autre-maniere-de-developper-une-application",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -269,7 +269,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "devops-enterprise---lessons-from-the-trenches",
+    "sessionFileName": "devops-enterprise-lessons-from-the-trenches",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -280,7 +280,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "cyanite--timeseries-storage-at-scale",
+    "sessionFileName": "cyanite-timeseries-storage-at-scale",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -291,7 +291,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "la-cryptographie-quantique-pour-une-sécurité-à-l-épreuve-du-futur",
+    "sessionFileName": "la-cryptographie-quantique-pour-une-securite-a-l-epreuve-du-futur",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -324,7 +324,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "devops--mission--im-possible--",
+    "sessionFileName": "devops-mission-im-possible",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -335,7 +335,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "-automating-your-infrastructure-with-puppet",
+    "sessionFileName": "automating-your-infrastructure-with-puppet",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -346,7 +346,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "why-documentation-should-be-a-pain-in-my-ass--",
+    "sessionFileName": "why-documentation-should-be-a-pain-in-my-ass",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -357,7 +357,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "devenir-créateur-d-expériences-immersives",
+    "sessionFileName": "devenir-createur-d-experiences-immersives",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -368,7 +368,7 @@
     "sessionTags": [
       "Incubateur"
     ],
-    "sessionFileName": "how-to-scale--",
+    "sessionFileName": "how-to-scale",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -379,7 +379,7 @@
     "sessionTags": [
       "Java"
     ],
-    "sessionFileName": "bringing-together-docker--grunt---maven",
+    "sessionFileName": "bringing-together-docker-grunt-maven",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -390,7 +390,7 @@
     "sessionTags": [
       "Java"
     ],
-    "sessionFileName": "jdbc---jpa---hibernate--sans-maîtrise-la-puissance-n-est-rien",
+    "sessionFileName": "jdbc-jpa-hibernate-sans-maitrise-la-puissance-n-est-rien",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -401,7 +401,7 @@
     "sessionTags": [
       "Java"
     ],
-    "sessionFileName": "le-bon-testeur-il-teste-----et-le-mauvais-testeur-il-teste-aussi---",
+    "sessionFileName": "le-bon-testeur-il-teste-et-le-mauvais-testeur-il-teste-aussi",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -445,7 +445,7 @@
     "sessionTags": [
       "Java"
     ],
-    "sessionFileName": "you-re-pretty-fly-for-a-wildfly-",
+    "sessionFileName": "you-re-pretty-fly-for-a-wildfly",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -456,7 +456,7 @@
     "sessionTags": [
       "Java"
     ],
-    "sessionFileName": "avec-java-ee--fais-ce-que-tu-veux",
+    "sessionFileName": "avec-java-ee-fais-ce-que-tu-veux",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -467,7 +467,7 @@
     "sessionTags": [
       "Java"
     ],
-    "sessionFileName": "write-your-own-performance-framework-easily-",
+    "sessionFileName": "write-your-own-performance-framework-easily",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -500,7 +500,7 @@
     "sessionTags": [
       "Microsoft"
     ],
-    "sessionFileName": "dependency-injection--the-right-way",
+    "sessionFileName": "dependency-injection-the-right-way",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -511,7 +511,7 @@
     "sessionTags": [
       "Microsoft"
     ],
-    "sessionFileName": "kinharp---transformer-le-kinect-en-instrument-de-musique",
+    "sessionFileName": "kinharp-transformer-le-kinect-en-instrument-de-musique",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -522,7 +522,7 @@
     "sessionTags": [
       "Microsoft"
     ],
-    "sessionFileName": "project--orleans------la-haute-disponibilité-à-la-demande-dans-le-cloud",
+    "sessionFileName": "project-orleans-la-haute-disponibilite-a-la-demande-dans-le-cloud",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -533,7 +533,7 @@
     "sessionTags": [
       "Microsoft"
     ],
-    "sessionFileName": "roslyn--meet-the-new-brain-of-visual-studio",
+    "sessionFileName": "roslyn-meet-the-new-brain-of-visual-studio",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -544,7 +544,7 @@
     "sessionTags": [
       "Microsoft"
     ],
-    "sessionFileName": "building-a-xaml-c--app-that-runs-on-desktops--tablets-and-phones-using-the-new-universal-template",
+    "sessionFileName": "building-a-xaml-c-app-that-runs-on-desktops-tablets-and-phones-using-the-new-universal-template",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -566,7 +566,7 @@
     "sessionTags": [
       "Microsoft"
     ],
-    "sessionFileName": "f--for-c--programmers--the-good--the-bad-and-the-ugly",
+    "sessionFileName": "f-for-c-programmers-the-good-the-bad-and-the-ugly",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -577,7 +577,7 @@
     "sessionTags": [
       "Microsoft"
     ],
-    "sessionFileName": "confessions-of-a--net-open-source-programmer",
+    "sessionFileName": "confessions-of-a-net-open-source-programmer",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -599,7 +599,7 @@
     "sessionTags": [
       "Mobilité"
     ],
-    "sessionFileName": "get-ready--switch-to-swift-",
+    "sessionFileName": "get-ready-switch-to-swift",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -643,7 +643,7 @@
     "sessionTags": [
       "Mobilité"
     ],
-    "sessionFileName": "do-you-have-a--mobile--moment---",
+    "sessionFileName": "do-you-have-a-mobile-moment",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -676,7 +676,7 @@
     "sessionTags": [
       "Mobilité"
     ],
-    "sessionFileName": "what-is-it-like-to-build-for-wearable-devices-",
+    "sessionFileName": "what-is-it-like-to-build-for-wearable-devices",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -698,7 +698,7 @@
     "sessionTags": [
       "Mobilité"
     ],
-    "sessionFileName": "android-et-groovy---le-couple-gagnant",
+    "sessionFileName": "android-et-groovy-le-couple-gagnant",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -709,7 +709,7 @@
     "sessionTags": [
       "Prog. Fonctionnelle"
     ],
-    "sessionFileName": "-into-clojure-",
+    "sessionFileName": "into-clojure",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -720,7 +720,7 @@
     "sessionTags": [
       "Prog. Fonctionnelle"
     ],
-    "sessionFileName": "introduction-à-la-programmation-fonctionnelle",
+    "sessionFileName": "introduction-a-la-programmation-fonctionnelle",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -731,7 +731,7 @@
     "sessionTags": [
       "Prog. Fonctionnelle"
     ],
-    "sessionFileName": "go-reactive--event-driven--scalable--resilient-and-responsive-systems",
+    "sessionFileName": "go-reactive-event-driven-scalable-resilient-and-responsive-systems",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -742,7 +742,7 @@
     "sessionTags": [
       "Prog. Fonctionnelle"
     ],
-    "sessionFileName": "de-simple-à-réactive--transformation-d-un-webapp",
+    "sessionFileName": "de-simple-a-reactive-transformation-d-un-webapp",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -753,7 +753,7 @@
     "sessionTags": [
       "Prog. Fonctionnelle"
     ],
-    "sessionFileName": "comment-utiliser-la-programmation-fonctionnelle-pour-simplifier-une-solution-d-intégration",
+    "sessionFileName": "comment-utiliser-la-programmation-fonctionnelle-pour-simplifier-une-solution-d-integration",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -775,7 +775,7 @@
     "sessionTags": [
       "Prog. Fonctionnelle"
     ],
-    "sessionFileName": "the-promises-of-purely-functional-programming-",
+    "sessionFileName": "the-promises-of-purely-functional-programming",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -797,7 +797,7 @@
     "sessionTags": [
       "Prog. Fonctionnelle"
     ],
-    "sessionFileName": "scala-collections---java-8-on-steroids",
+    "sessionFileName": "scala-collections-java-8-on-steroids",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -808,7 +808,7 @@
     "sessionTags": [
       "Web"
     ],
-    "sessionFileName": "soyons-prêts-pour-es6",
+    "sessionFileName": "soyons-prets-pour-es6",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -819,7 +819,7 @@
     "sessionTags": [
       "Web"
     ],
-    "sessionFileName": "-restful--really--",
+    "sessionFileName": "restful-really",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -830,7 +830,7 @@
     "sessionTags": [
       "Web"
     ],
-    "sessionFileName": "dynamic-style-guides---retour-sur-expérience",
+    "sessionFileName": "dynamic-style-guides-retour-sur-experience",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -852,7 +852,7 @@
     "sessionTags": [
       "Web"
     ],
-    "sessionFileName": "yeoman-de-a-à-z",
+    "sessionFileName": "yeoman-de-a-a-z",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -863,7 +863,7 @@
     "sessionTags": [
       "Web"
     ],
-    "sessionFileName": "i---utf-8",
+    "sessionFileName": "i-utf-8",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -874,7 +874,7 @@
     "sessionTags": [
       "Web"
     ],
-    "sessionFileName": "applications-web-réactives-avec-meteor",
+    "sessionFileName": "applications-web-reactives-avec-meteor",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -885,7 +885,7 @@
     "sessionTags": [
       "Web"
     ],
-    "sessionFileName": "l-histoire-du-redesign-et-de-la-réécriture-de-map-geo-admin-ch",
+    "sessionFileName": "l-histoire-du-redesign-et-de-la-reecriture-de-map-geo-admin-ch",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -896,7 +896,7 @@
     "sessionTags": [
       "Web"
     ],
-    "sessionFileName": "html---why-content-is-important",
+    "sessionFileName": "html-why-content-is-important",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
@@ -918,7 +918,7 @@
     "sessionTags": [
       "Web"
     ],
-    "sessionFileName": "deep-html-crawling-for-testing---or-how-to-implement-automated-functional-tests-that-cover-hundreds-or-thousands-of-pages-",
+    "sessionFileName": "deep-html-crawling-for-testing-or-how-to-implement-automated-functional-tests-that-cover-hundreds-or-thousands-of-pages",
     "scheduleDay": "?",
     "scheduleOrder": "?",
     "scheduleRoom": "?"
