@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Toni Fisler'
 sessionTitle: 'Yeoman de A à Z'
 speakerEmail: toni@antistatique.net
@@ -7,7 +7,7 @@ speakerBio: 'Passionné par le monde du développement frontend, je m''intéress
 speakerAddress: 'Lausanne, Suisse'
 speakerTitle: 'Frontend Developer'
 speakerOrganization: Antistatique
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/c73f1e67050c58748fae7114320de7f2?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/c73f1e67050c58748fae7114320de7f2?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Web frontend like a pro'

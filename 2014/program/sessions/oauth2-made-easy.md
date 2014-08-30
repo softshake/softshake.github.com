@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Corinne Krych'
 sessionTitle: 'OAuth2 made easy'
 speakerEmail: corinnekrych@gmail.com
@@ -7,7 +7,7 @@ speakerBio: ""
 speakerAddress: Grasse
 speakerTitle: 'iOS tech lead'
 speakerOrganization: 'Red Hat'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/20a907ee0ab0e4756e19727209d0ac64?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/20a907ee0ab0e4756e19727209d0ac64?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'iOS mobile OAuth2'

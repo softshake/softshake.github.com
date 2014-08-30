@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Mike Bluestein'
 sessionTitle: 'Cross-platform Mobile Development with Xamarin'
 speakerEmail: mikeb@xamarin.com
@@ -7,7 +7,7 @@ speakerBio: 'Michael Bluestein is a developer evangelist for Xamarin. He is the 
 speakerAddress: 'Boston, United States'
 speakerTitle: ""
 speakerOrganization: ""
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/2247c11525900ee385a3958c5e22f0eb?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/2247c11525900ee385a3958c5e22f0eb?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: ""
 sessionTopic: 'Mobile Development'

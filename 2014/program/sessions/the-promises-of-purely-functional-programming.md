@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Alois Cochard'
 sessionTitle: 'The Promises of Purely Functional Programming.'
 speakerEmail: alois.cochard@gmail.com
@@ -7,7 +7,7 @@ speakerBio: 'Passionate Hacker'
 speakerAddress: 'London, UK'
 speakerTitle: ""
 speakerOrganization: ""
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/5fd58f622fd5fae841f8d78a07eb8328?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/5fd58f622fd5fae841f8d78a07eb8328?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Concurrency and Effects'

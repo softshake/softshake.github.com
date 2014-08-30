@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Guillaume Vial'
 sessionTitle: 'Team Leader'
 speakerEmail: guillaume@vial.io
@@ -7,7 +7,7 @@ speakerBio: "Je gère des projets et des équipes de développement depuis maint
 speakerAddress: 'Lausanne, Suisse'
 speakerTitle: 'Team Leader'
 speakerOrganization: Nespresso
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/3c1a9e9c4c48a4222e893958d1b979f4?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/3c1a9e9c4c48a4222e893958d1b979f4?size=200&default=mm'
 sessionCategory: Atelier
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Agile à large échelle : une illusion ?'

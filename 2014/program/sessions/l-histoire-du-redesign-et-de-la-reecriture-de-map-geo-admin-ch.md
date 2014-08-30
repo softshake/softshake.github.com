@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Cedric Moullet'
 sessionTitle: 'L''histoire du redesign et de la réécriture de map.geo.admin.ch'
 speakerEmail: cedric.moullet@swisstopo.ch
@@ -7,7 +7,7 @@ speakerBio: 'Venez découvrir les secrets d une application qui a reçu 4 awards
 speakerAddress: Wabern
 speakerTitle: 'Responsable de l''infrastructure fédérale de données géographiques '
 speakerOrganization: Swisstopo
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/455b4edd76e356cd8df5f245ee765705?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/455b4edd76e356cd8df5f245ee765705?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: 'Html5, Css3, agile, 3D, continuous deployment'

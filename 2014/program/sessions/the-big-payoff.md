@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Alexandre BOUTIN'
 sessionTitle: 'The Big Payoff'
 speakerEmail: a.boutin@agiletoyou.com
@@ -7,7 +7,7 @@ speakerBio: "Diplômé de l’Ensimag en 1989, Alexandre découvre l’Agilité 
 speakerAddress: 'Claix, France'
 speakerTitle: 'Formateur & Coach''agile'
 speakerOrganization: AGILETOYOU
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/5ca832c4941c23a218c7c73210aafedb?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/5ca832c4941c23a218c7c73210aafedb?size=200&default=mm'
 sessionCategory: Atelier
 sessionLevel: 'Shu (débutant)'
 sessionTopic: Jeu

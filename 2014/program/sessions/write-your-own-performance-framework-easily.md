@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Aurélien Broszniowski'
 sessionTitle: 'Write your own performance framework easily!'
 speakerEmail: aurbrsz@gmail.com
@@ -7,7 +7,7 @@ speakerBio: "Coder since he was a teenager, currently Lead Engineer at Terracott
 speakerAddress: Paris
 speakerTitle: 'Lead Engineer'
 speakerOrganization: 'Terracotta/Software AG'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/cf1a4340cff9364091aa52dcf5c9813a?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/cf1a4340cff9364091aa52dcf5c9813a?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Performance testing'

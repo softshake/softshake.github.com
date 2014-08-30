@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Géraud de Laval'
 sessionTitle: 'What is UX?'
 speakerEmail: gerauddelaval@gmail.com
@@ -7,7 +7,7 @@ speakerBio: "Géraud a commencé à développer sur son iPhone durant l’été 
 speakerAddress: Lausanne
 speakerTitle: 'Senior UX Developer'
 speakerOrganization: Sysmosoft
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/42028a3fd6ab08cad96900e7e7b67af0?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/42028a3fd6ab08cad96900e7e7b67af0?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Discover the wonderful world of User Experience'

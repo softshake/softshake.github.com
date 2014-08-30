@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Philippe Morignot'
 sessionTitle: 'Programmation par contraintes : théorie et pratique'
 speakerEmail: pmorignot@yahoo.fr
@@ -7,7 +7,7 @@ speakerBio: 'Philippe Morignot est chercheur à INRIA Rocquencourt dans l’équ
 speakerAddress: Paris
 speakerTitle: Chercheur
 speakerOrganization: 'INRIA Rocquencourt'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/2d64c8b6358be0ceffa5d9422f070a0a?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/2d64c8b6358be0ceffa5d9422f070a0a?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ri (avancé)'
 sessionTopic: I.A.

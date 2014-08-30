@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Johnny Graber'
 sessionTitle: 'Xanpan: When Kanban Meets XP'
 speakerEmail: JG@JGraber.ch
@@ -7,7 +7,7 @@ speakerBio: 'Johnny Graber has many years of experience in desktop and web devel
 speakerAddress: 'Berne, Suisse'
 speakerTitle: 'Software Developer'
 speakerOrganization: FMH
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/fd2bd6ebacb744ce20c57a9e4cbb252d?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/fd2bd6ebacb744ce20c57a9e4cbb252d?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Combining the strengths of XP and Kanban to deliver better software.'

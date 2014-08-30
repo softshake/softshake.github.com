@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Christophe Pache'
 sessionTitle: 'Comment utiliser la programmation fonctionnelle pour simplifier une solution d''intégration'
 speakerEmail: christophe.pache@crossing-tech.com
@@ -7,7 +7,7 @@ speakerBio: "Je suis un ingénieur en informatique (R&D) dans une compagnie spé
 speakerAddress: 'Lausanne, Suisse'
 speakerTitle: 'Software engineer'
 speakerOrganization: Crossing-Tech
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/7e50c75e401064a3678eb1dbd7b1450a?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/7e50c75e401064a3678eb1dbd7b1450a?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Programmation fonctionnelle abordable'

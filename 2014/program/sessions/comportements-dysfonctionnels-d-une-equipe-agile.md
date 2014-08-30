@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Nedjma SAIDANI'
 sessionTitle: 'Comportements dysfonctionnels d''une équipe agile'
 speakerEmail: nsaidani@pyxis-tech.com
@@ -7,7 +7,7 @@ speakerBio: 'Ingénieur en informatique de formation, ma passion pour l’agilit
 speakerAddress: Suisse
 speakerTitle: 'Scrum master'
 speakerOrganization: Pyxis
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/6197fe85773c29f61ba9059f22d08f30?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/6197fe85773c29f61ba9059f22d08f30?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: Agile

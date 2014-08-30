@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Marc-Antoine Galilée'
 sessionTitle: 'Gamedev with Scala'
 speakerEmail: marc-antoine.galilee@mines-nancy.org
@@ -7,7 +7,7 @@ speakerBio: "Passionné de sciences et technologies depuis toujours, ingénieur 
 speakerAddress: 'genève, suisse'
 speakerTitle: Ingénieur
 speakerOrganization: freelancer
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/640b5c227fa6dde10e4017574b524189?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/640b5c227fa6dde10e4017574b524189?size=200&default=mm'
 sessionCategory: 'Retour d''expérience '
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Gamedev with Scala'

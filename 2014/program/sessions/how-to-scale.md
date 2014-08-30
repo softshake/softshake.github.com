@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Quentin ADAM'
 sessionTitle: 'How to scale ?'
 speakerEmail: quentin.adam@clever-cloud.com
@@ -7,7 +7,7 @@ speakerBio: "Quentin ADAM is the CEO of Clever Cloud : a Platform as a Service c
 speakerAddress: 'Nantes, FRANCE'
 speakerTitle: CEO
 speakerOrganization: 'Clever Cloud'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/1a616a1b0ab4fe6ea72cc8d00c8ba4ec?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/1a616a1b0ab4fe6ea72cc8d00c8ba4ec?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'The end of server management : hosting have to become a commodity'

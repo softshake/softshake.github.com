@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Philippe Kernevez'
 sessionTitle: 'Améliorer votre activité grace à la mise en œuvre d''Hadoop et R. Retour d''experience d''un projet d''optimisation de campagnes publicitaires'
 speakerEmail: pkernevez@octo.com
@@ -7,7 +7,7 @@ speakerBio: "Philippe a démarré sa carrière dans le développement logiciel e
 speakerAddress: Lausanne
 speakerTitle: ""
 speakerOrganization: ""
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/50e0343d61a25dc2e8f524cc91350fd8?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/50e0343d61a25dc2e8f524cc91350fd8?size=200&default=mm'
 sessionCategory: 'Retour d''expérience '
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Hadoop, R et machine learning'

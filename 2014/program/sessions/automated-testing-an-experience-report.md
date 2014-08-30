@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Tim Macfarlane'
 sessionTitle: 'Automated Testing: An Experience Report'
 speakerEmail: tim@featurist.co.uk
@@ -7,7 +7,7 @@ speakerBio: 'Tim Macfarlane has been in the programming game since he was just a
 speakerAddress: France
 speakerTitle: Developer
 speakerOrganization: Featurist
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/c822e961e905c52e9fe1694193ede342?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/c822e961e905c52e9fe1694193ede342?size=200&default=mm'
 sessionCategory: 'Retour d''expérience '
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Automated Testing'

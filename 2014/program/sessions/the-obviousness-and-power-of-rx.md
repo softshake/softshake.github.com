@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Duncan Mole'
 sessionTitle: 'The obviousness and power of Rx'
 speakerEmail: duncanmole@gmail.com
@@ -7,7 +7,7 @@ speakerBio: 'Long experience in high finance, creating low-latency, compute inte
 speakerAddress: Geneve
 speakerTitle: 'Senior Developer'
 speakerOrganization: Cargill
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/b75739306b32d00bd323641c92daa820?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/b75739306b32d00bd323641c92daa820?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'The duality with IEnumerable'

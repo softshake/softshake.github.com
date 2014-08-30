@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Thierry Wasylczenko'
 sessionTitle: '#Polyglotisme: une autre manière de développer une application'
 speakerEmail: thierry.wasylczenko@gmail.com
@@ -7,7 +7,7 @@ speakerBio: 'Thierry est développeur Java depuis plusieurs années chez General
 speakerAddress: 'Strasbourg, France'
 speakerTitle: 'Software engineer'
 speakerOrganization: 'General Electric Healthcare'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/03e607aa378b2e5f2333001152e8da80?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/03e607aa378b2e5f2333001152e8da80?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Méthodologie / Pratique de développement'

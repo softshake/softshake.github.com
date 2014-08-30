@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Romain Couturier'
 sessionTitle: 'Kanban pour tous'
 speakerEmail: couturier.romain@gmail.com
@@ -7,7 +7,7 @@ speakerBio: "Romain Couturier est coach agile, facilitateur graphique et formate
 speakerAddress: 'Lyon, France'
 speakerTitle: 'Coach agile'
 speakerOrganization: 'Terre d''Agile'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/918e67363e4361447d7a01c11da8a767?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/918e67363e4361447d7a01c11da8a767?size=200&default=mm'
 sessionCategory: 'Retour d''expérience '
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Gestion de flux'

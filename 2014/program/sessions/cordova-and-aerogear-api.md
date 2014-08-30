@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Erik Jan de Wit'
 sessionTitle: 'Cordova and AeroGear API'
 speakerEmail: edewit@redhat.com
@@ -7,7 +7,7 @@ speakerBio: 'Erik Jan de Wit is a Senior Engineer at JBoss by Red Hat and a resp
 speakerAddress: Zufikon
 speakerTitle: Developer
 speakerOrganization: 'Red Hat'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/3047883b5158cee74d40533bd285994b?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/3047883b5158cee74d40533bd285994b?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant)'
 sessionTopic: development

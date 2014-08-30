@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'David Pilato'
 sessionTitle: 'Advanced search for your legacy application'
 speakerEmail: david@pilato.fr
@@ -7,7 +7,7 @@ speakerBio: "David Pilato is Technical Advocate at Elasticsearch and the creator
 speakerAddress: CERGY
 speakerTitle: developer
 speakerOrganization: Elasticsearch
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/20049a614b7f6838dc87b4bc39c42079?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/20049a614b7f6838dc87b4bc39c42079?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: 'Adding NoSQL search to SQL world'

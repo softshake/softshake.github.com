@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Dominique BROEGLIN'
 sessionTitle: ' Automating your infrastructure with Puppet'
 speakerEmail: dominique.broeglin@gmail.com
@@ -7,7 +7,7 @@ speakerBio: "\nArchitecte logiciel découvreur de solutions, Dominique Broeglin 
 speakerAddress: COPPONEX
 speakerTitle: Architecte
 speakerOrganization: 'Cambridge Technology Partners'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/005516573123125106964ea71c3c7395?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/005516573123125106964ea71c3c7395?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: DevOps

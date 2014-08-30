@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Carlo Jelmini'
 sessionTitle: 'Introduction à la programmation fonctionnelle'
 speakerEmail: carlo.jelmini@crossing-tech.com
@@ -7,7 +7,7 @@ speakerBio: 'Software engineer chez Crossing-Tech. A passé plus de 10 ans à te
 speakerAddress: 'Lausanne, Suisse'
 speakerTitle: 'Software engineer'
 speakerOrganization: Crossing-Tech
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/c34aab297a2c56f64449b5ac375305b7?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/c34aab297a2c56f64449b5ac375305b7?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Programmation Fonctionnelle'

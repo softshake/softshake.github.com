@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Marius Constantinescu'
 sessionTitle: 'Create Azure-hosted modern Cloud Business web apps for Office 365'
 speakerEmail: marius.constantinescu@b-i.com
@@ -7,7 +7,7 @@ speakerBio: 'With 13+ years of experience in building and architecture of web so
 speakerAddress: Geneva
 speakerTitle: 'Managing Consultant'
 speakerOrganization: blue-infinity
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/22f52da8f1b6268254b871ab8f3e5348?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/22f52da8f1b6268254b871ab8f3e5348?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Development of Web apps in the Cloud (using Office 365 and Azure)'

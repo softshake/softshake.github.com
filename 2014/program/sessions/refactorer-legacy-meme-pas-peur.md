@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'johan martinsson'
 sessionTitle: 'Refactorer legacy, même pas peur!'
 speakerEmail: martinsson.johan@gmail.com
@@ -7,7 +7,7 @@ speakerBio: "Johan Martinsson is a freelance developer that is passionate, among
 speakerAddress: 'GRENOBLE, FRANCE'
 speakerTitle: Developer
 speakerOrganization: ChangIT
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/3771a70b46d12cb049e7be561ae69116?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/3771a70b46d12cb049e7be561ae69116?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Tests pour refactoring'

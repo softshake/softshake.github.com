@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Egor Sviridenko'
 sessionTitle: 'Seeing Power - Introduction to Visual Management'
 speakerEmail: egor@targetprocess.com
@@ -7,7 +7,7 @@ speakerBio: "Egor is a business developer and a passionate researcher in informa
 speakerAddress: 'Berlin, Allemagne'
 speakerTitle: 'Business Developer'
 speakerOrganization: Targetprocess
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/6402e83e1b2b02dd2de35d5ac70c4a2a?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/6402e83e1b2b02dd2de35d5ac70c4a2a?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Visual Management'

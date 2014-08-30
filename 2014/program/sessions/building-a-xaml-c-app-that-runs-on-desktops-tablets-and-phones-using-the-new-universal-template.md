@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Ronnie Saurenmann'
 sessionTitle: 'Building a XAML/C# app that runs on desktops, tablets and phones using the new Universal template'
 speakerEmail: ronnies@microsoft.com
@@ -7,7 +7,7 @@ speakerBio: 'Ronnie is a specialist in software and software architecture. He is
 speakerAddress: Wallisellen
 speakerTitle: 'Technical Evangelist'
 speakerOrganization: 'Microsoft Switzerland'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/73fbec85fc483716c29b9844550f5412?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/73fbec85fc483716c29b9844550f5412?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: 'Mobile Dev'

@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Keerthan Muthurasa'
 sessionTitle: 'Do you have a “mobile” moment ? '
 speakerEmail: muthurasa.keerthan@gmail.com
@@ -7,7 +7,7 @@ speakerBio: 'With more than 8 years experiences working in multiple countries an
 speakerAddress: 'Blonay, Switzerland'
 speakerTitle: 'Mobile Solution Architect'
 speakerOrganization: Nespresso
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/4c0d8f67a6ff0a0cb0bb6ea0a6f8c556?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/4c0d8f67a6ff0a0cb0bb6ea0a6f8c556?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Mobile Moment'

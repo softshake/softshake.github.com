@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Yann Gouffon'
 sessionTitle: 'Modular first'
 speakerEmail: yann@antistatique.net
@@ -7,7 +7,7 @@ speakerBio: 'Toujours à la recherche de l''outil ultime pour simplifier mon tra
 speakerAddress: 'Lausanne, Suisse'
 speakerTitle: 'Frontend Developer'
 speakerOrganization: Antistatique
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/590c2c70b333ed5d36e8667c8aa3e2d3?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/590c2c70b333ed5d36e8667c8aa3e2d3?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'La modularité des éléments de leur conception au développement'

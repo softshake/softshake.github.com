@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Gilles Gravier'
 sessionTitle: 'La Cryptographie Quantique pour une sécurité à l''épreuve du futur'
 speakerEmail: gilles.gravier@idquantique.com
@@ -7,7 +7,7 @@ speakerBio: "Gilles is a security and open source specialist. Before joining ID 
 speakerAddress: 'Carouge, Suisse'
 speakerTitle: 'Director Product Management'
 speakerOrganization: 'ID Quantique'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/2ad0620c3fbbefc5cab9b45ff9d139a4?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/2ad0620c3fbbefc5cab9b45ff9d139a4?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Cryptographie Quantique'

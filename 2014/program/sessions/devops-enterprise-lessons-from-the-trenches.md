@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Marcelo Ancelmo'
 sessionTitle: 'DevOps@Enterprise - Lessons from the Trenches'
 speakerEmail: marceloancelmo@gmail.com
@@ -7,7 +7,7 @@ speakerBio: 'Marcelo S. Ancelmo is currently a Senior IT Specialist with IBM, de
 speakerAddress: 'Brasilia, Brazil'
 speakerTitle: 'Senior IT Specialist'
 speakerOrganization: IBM
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/888a790272c808315b15b39c1857bfd7?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/888a790272c808315b15b39c1857bfd7?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire), Ri (avancé)'
 sessionTopic: DevOps

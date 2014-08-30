@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Thierry CROS'
 sessionTitle: 'Et donc je suis associé de ma SCOP'
 speakerEmail: tco@thierrycros.net
@@ -7,7 +7,7 @@ speakerBio: 'Salarié, fondateur d''entreprises, indépendant, entrepreneur-sala
 speakerAddress: 'Castans, France'
 speakerTitle: 'Coach agile'
 speakerOrganization: 'SCOP Maison de l''Initiative'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/53a108bd77daa806cc8828e2fd38e7ce?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/53a108bd77daa806cc8828e2fd38e7ce?size=200&default=mm'
 sessionCategory: 'Retour d''expérience '
 sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Création d''entreprise, retour d''expérience sur la vie d''indépendant'

@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Tugdual Grall'
 sessionTitle: 'MongoDB Document Design: "Drop your Table"'
 speakerEmail: tug@gmail.com
@@ -7,7 +7,7 @@ speakerBio: "Tugdual Grall is a Technical Evangelist at MongoDB, an open source 
 speakerAddress: 'Nantes,France'
 speakerTitle: 'Technical Evangelist'
 speakerOrganization: MongoDB
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/af3678ea9437400718bcf36798d89ac0?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/af3678ea9437400718bcf36798d89ac0?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Document Design'

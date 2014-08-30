@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Philippe Charriere'
 sessionTitle: 'Soyons prêts pour ES6'
 speakerEmail: ph.charriere@gmail.com
@@ -7,7 +7,7 @@ speakerBio: ""
 speakerAddress: LYON
 speakerTitle: 'enterprise advocate'
 speakerOrganization: 'sqli-enterprise lyon'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/03c0a459fd631e867bade2cc95517a4f?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/03c0a459fd631e867bade2cc95517a4f?size=200&default=mm'
 sessionCategory: Atelier
 sessionLevel: 'Shu (débutant), Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'javascript next'

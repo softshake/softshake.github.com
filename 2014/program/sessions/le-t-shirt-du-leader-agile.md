@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Vincent Daviet'
 sessionTitle: 'Le T-shirt du Leader agile'
 speakerEmail: vincent.daviet.pro@gmail.com
@@ -7,7 +7,7 @@ speakerBio: 'Vincent Daviet est Consultant Coach Agile chez Zenika et Rupture(21
 speakerAddress: 'Lyon, France'
 speakerTitle: 'Consultant Agile'
 speakerOrganization: Zenika
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/5320948275e14a08565d1a23e0f84d3f?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/5320948275e14a08565d1a23e0f84d3f?size=200&default=mm'
 sessionCategory: Atelier
 sessionLevel: 'Shu (débutant), Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Le leadership agile'

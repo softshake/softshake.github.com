@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Thibaud Desodt'
 sessionTitle: 'Dependency Injection, the right way'
 speakerEmail: tibo.desodt@gmail.com
@@ -7,7 +7,7 @@ speakerBio: "Thibaud is a French .NET developer living in Belgium. He is current
 speakerAddress: 'Bruxelles, Belgique'
 speakerTitle: 'Software Engineer'
 speakerOrganization: 'Direction Générale du Trésor'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/fe1107337ed72ea046de03287921eade?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/fe1107337ed72ea046de03287921eade?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Dependency Injection, SOLID principles'

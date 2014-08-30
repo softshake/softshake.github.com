@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Ken Casada'
 sessionTitle: 'Building cross-platform applications with Azure Mobile Services'
 speakerEmail: kcasada@microsoft.com
@@ -7,7 +7,7 @@ speakerBio: 'Ken Casada is a Technical Evangelist by Microsoft Switzerland and s
 speakerAddress: '8304'
 speakerTitle: 'Technical Evangelist'
 speakerOrganization: Microsoft
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/000fc47e72bbcbcec6814a8a449329d1?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/000fc47e72bbcbcec6814a8a449329d1?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Azure Mobile Services'

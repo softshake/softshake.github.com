@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Cédric Champeau'
 sessionTitle: 'Android et Groovy : le couple gagnant'
 speakerEmail: cedric.champeau@gmail.com
@@ -7,7 +7,7 @@ speakerBio: 'Cédric Champeau est committer sur Groovy Core. Il a rejoint Pivota
 speakerAddress: 'Saint Hilaire de Loulay, France'
 speakerTitle: 'Senior Software Engineer'
 speakerOrganization: Pivotal
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/f929f5d80ef8a23b67ad8ac6f08416cd?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/f929f5d80ef8a23b67ad8ac6f08416cd?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Développement Android'

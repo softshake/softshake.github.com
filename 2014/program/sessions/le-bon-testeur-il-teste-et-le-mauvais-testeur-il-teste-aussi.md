@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Guillaume EHRET'
 sessionTitle: 'Le bon testeur il teste.... et le mauvais testeur il teste aussi...'
 speakerEmail: guillaume.ehret.java@gmail.com
@@ -7,7 +7,7 @@ speakerBio: 'Développeur agile depuis plus de 10 ans je suis passé par différ
 speakerAddress: 'ST ETIENNE'
 speakerTitle: 'Développeur agile'
 speakerOrganization: JavaMind
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/a7ef977589f6718b060eb390250e090c?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/a7ef977589f6718b060eb390250e090c?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Tests unitaires'

@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'pierre-yves ritschard'
 sessionTitle: 'Cyanite: timeseries storage at scale'
 speakerEmail: pyr@spootnik.org
@@ -7,7 +7,7 @@ speakerBio: "Pierre-Yves is CTO at exoscale where he is responsible for architec
 speakerAddress: ecublens
 speakerTitle: CTO
 speakerOrganization: exoscale
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/2fcc875f98607b3007909fe4be99160d?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/2fcc875f98607b3007909fe4be99160d?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: Monitoring

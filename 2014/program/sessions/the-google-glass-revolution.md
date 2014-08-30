@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Alain Regnier'
 sessionTitle: 'the Google Glass Revolution'
 speakerEmail: alain@altolabs.com
@@ -7,7 +7,7 @@ speakerBio: "Alain Regnier is a Technical Architect and Entrepreneur passionate 
 speakerAddress: 'Paris, France'
 speakerTitle: CTO
 speakerOrganization: 'Alto Labs'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/233a1616f404dccbc3a7b40f02281e57?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/233a1616f404dccbc3a7b40f02281e57?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Google Glass'

@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Alexis Hassler'
 sessionTitle: 'Avec Java EE, fais ce que tu veux'
 speakerEmail: alexis.hassler@gmail.com
@@ -7,7 +7,7 @@ speakerBio: "Alexis Hassler est développeur Java depuis une douzaine d'années.
 speakerAddress: 'Chamelet, France'
 speakerTitle: Développeur
 speakerOrganization: Sewatech
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/f7492d8d0f081c29d84b684d5a04acf4?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/f7492d8d0f081c29d84b684d5a04acf4?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ri (avancé)'
 sessionTopic: 'Extensions JavaEE'

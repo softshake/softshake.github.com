@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'François Helg'
 sessionTitle: 'Les Business Analysts face à l''agilité : de nouveau challenges à relever'
 speakerEmail: fhelg@octo.com
@@ -7,7 +7,7 @@ speakerBio: "François Helg est actuellement architecte logiciel et coach agile 
 speakerAddress: Lausanne
 speakerTitle: 'Architecte logiciel'
 speakerOrganization: OCTO
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/e3b5076acc81f017cc2da650fa66c9af?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/e3b5076acc81f017cc2da650fa66c9af?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Business analyse, Définition de produit agile'

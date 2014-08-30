@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Brice LEPORINI'
 sessionTitle: 'JDBC / JPA / Hibernate: Sans maîtrise la puissance n''est rien'
 speakerEmail: bleporini@gmail.com
@@ -7,7 +7,7 @@ speakerBio: 'Brice est un développeur sénior qui totalise plus de quinze ans d
 speakerAddress: 'Le Plessis Trévise'
 speakerTitle: ""
 speakerOrganization: ""
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/d1ca3b32357d99b6db6a91d5aa5babd9?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/d1ca3b32357d99b6db6a91d5aa5babd9?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'JPA ORM JDBC'

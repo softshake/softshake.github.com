@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Matthieu Lux'
 sessionTitle: 'Angular From Scratch'
 speakerEmail: matthieu.lux@gmail.com
@@ -7,7 +7,7 @@ speakerBio: "Développeur et formateur JavaScript et Java au sein de l'agence ly
 speakerAddress: 'Lyon, France'
 speakerTitle: 'Développeur / Formateur'
 speakerOrganization: Zenika
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/27bd774790e70807a5489b31f668a71e?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/27bd774790e70807a5489b31f668a71e?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: 'Développement d’application Web en JavaScript'

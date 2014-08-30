@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Patrick Baumgartner'
 sessionTitle: 'Graph Databases - Only a Tool or a Data Store?'
 speakerEmail: patrick.baumgartner@42talents.com
@@ -7,7 +7,7 @@ speakerBio: "Patrick Baumgartner works as a passionate software craftsman at 42t
 speakerAddress: Zürich
 speakerTitle: 'Software Craftsman'
 speakerOrganization: '42Talents GmbH'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/a0bd486fe121b10ca7b9be218242c9a6?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/a0bd486fe121b10ca7b9be218242c9a6?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Graph Database'

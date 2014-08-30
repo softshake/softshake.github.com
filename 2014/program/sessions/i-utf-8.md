@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Nicolas Seriot'
 sessionTitle: 'I � UTF-8'
 speakerEmail: nicolas@seriot.ch
@@ -7,7 +7,7 @@ speakerBio: "Nicolas participe aux réunions CocoaHeads Lausanne et publie régu
 speakerAddress: '1058 Villars-Tiercelin'
 speakerTitle: 'Mobile Platforms Manager'
 speakerOrganization: Swissquote
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/148882c63b0e3a81f07c57476950641f?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/148882c63b0e3a81f07c57476950641f?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Encodages de caractères'

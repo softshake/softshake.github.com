@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Jean-François Poilprêt'
 sessionTitle: 'Arduino B.A.-BA'
 speakerEmail: jfpoilpret@gmail.com
@@ -7,7 +7,7 @@ speakerBio: "Actuellement Senior Manager à ELCA SA, ingénieur en informatique 
 speakerAddress: 'Lausanne, Suisse'
 speakerTitle: 'Senior Manager'
 speakerOrganization: 'ELCA SA'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/f0793deecf9fde4ba4d196831f4a60f8?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/f0793deecf9fde4ba4d196831f4a60f8?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Bien démarrer avec Arduino'

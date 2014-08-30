@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Vincent Guigui'
 sessionTitle: 'Devenir créateur d''expériences immersives'
 speakerEmail: vguigui@octo.com
@@ -7,7 +7,7 @@ speakerBio: "De la 1ère bulle internet à aujourd’hui, Du Cobol à HTML 5, De
 speakerAddress: 'PARIS, FRANCE'
 speakerTitle: 'Consultant en Technologies Innovantes'
 speakerOrganization: 'OCTO Technology'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/1daeada4984e4b648571dbb1e9429a91?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/1daeada4984e4b648571dbb1e9429a91?size=200&default=mm'
 sessionCategory: 'Retour d''expérience '
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Interfaces Naturelles'

@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Guillaume Scheibel'
 sessionTitle: 'Why documentation should be a pain in my ass ?'
 speakerEmail: guillaume.scheibel@gmail.com
@@ -7,7 +7,7 @@ speakerBio: "Guillaume est développeur chez Expeida à Londres et a travaillé 
 speakerAddress: Londres
 speakerTitle: 'Software Engineer'
 speakerOrganization: Expedia.com
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/0d82c7c12dbc0a5f96e098d3e13b16c3?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/0d82c7c12dbc0a5f96e098d3e13b16c3?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Documentation, outils'

@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Audrey Lièvremont'
 sessionTitle: 'HTML : why content is important'
 speakerEmail: audrey.lievremont@gmail.com
@@ -7,7 +7,7 @@ speakerBio: "Audrey est développeuse chez AIM. Elle a 8 ans d’expérience dan
 speakerAddress: 'Saint Genis Pouilly, France'
 speakerTitle: 'Artisan logiciel'
 speakerOrganization: AIM
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/794853297d5b3bae672c4531d53dc8bc?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/794853297d5b3bae672c4531d53dc8bc?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Bonnes pratiques de développement HTML'

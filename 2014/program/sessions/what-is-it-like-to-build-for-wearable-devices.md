@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Damian Mehers'
 sessionTitle: 'What is it like to build for Wearable devices?'
 speakerEmail: damian@mehers.com
@@ -7,7 +7,7 @@ speakerBio: 'Damian Mehers works for Evernote, currently focused on Wearable tec
 speakerAddress: Crans-pres-Celigny
 speakerTitle: 'Senior Software Engineer'
 speakerOrganization: Evernote
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/d77613f4e20bfcae401a6bf0018a83d1?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/d77613f4e20bfcae401a6bf0018a83d1?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: ""
 sessionTopic: 'Wearable devices'

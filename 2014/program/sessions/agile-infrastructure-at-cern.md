@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Tim Bell'
 sessionTitle: 'Agile Infrastructure at CERN'
 speakerEmail: tim.bell@cern.ch
@@ -7,7 +7,7 @@ speakerBio: 'Tim Bell is responsible for the CERN IT Infrastructure Group which 
 speakerAddress: 'CH-1211 Genève 23'
 speakerTitle: 'Infrastructure Manager'
 speakerOrganization: CERN
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/3d116cd41660755949bc4ba15ac2a131?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/3d116cd41660755949bc4ba15ac2a131?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: Cloud

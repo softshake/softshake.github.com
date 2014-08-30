@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'François Garillot'
 sessionTitle: 'Scala Collections : Java 8 on Steroids'
 speakerEmail: francois.garillot@typesafe.com
@@ -7,7 +7,7 @@ speakerBio: 'François Garillot a rejoint Typesafe en 2011, mais une vie antéri
 speakerAddress: 'Lausanne, Suisse'
 speakerTitle: 'Software Developer'
 speakerOrganization: Typesafe
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/c31408f16d316853d483d2742635ab04?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/c31408f16d316853d483d2742635ab04?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Java Streams & Scala Collections : what to use when, and why ?'

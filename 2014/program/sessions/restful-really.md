@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Xavier Carpentier'
 sessionTitle: '#Restful, really ?'
 speakerEmail: contact@xavier-carpentier.com
@@ -7,7 +7,7 @@ speakerBio: "Xavier est développeur depuis 7 ans et il est maintenant indépend
 speakerAddress: Schwindratzheim
 speakerTitle: 'Développeur indépendant'
 speakerOrganization: 'Développeur indépendant'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/4db82aafe08cb41729e97de527250b9b?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/4db82aafe08cb41729e97de527250b9b?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire), Ri (avancé)'
 sessionTopic: Rest

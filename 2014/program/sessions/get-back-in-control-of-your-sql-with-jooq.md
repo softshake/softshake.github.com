@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Lukas Eder'
 sessionTitle: 'Get Back in Control of Your SQL with jOOQ'
 speakerEmail: lukas.eder@datageekery.com
@@ -7,7 +7,7 @@ speakerBio: "I am the founder and CEO of Data Geekery GmbH, located in Zurich, S
 speakerAddress: 'Zürich, Switzerland'
 speakerTitle: CEO
 speakerOrganization: 'Data Geekery GmbH'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/1155be1ed8e9c17511be9479582238e1?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/1155be1ed8e9c17511be9479582238e1?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: 'The Java and SQL Interface - beyond JDBC and JPA'

@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Luc Bourlier'
 sessionTitle: 'De simple à réactive, transformation d''un webapp'
 speakerEmail: lb@skyluc.org
@@ -7,7 +7,7 @@ speakerBio: "Luc has been part of the Eclipse Debug Team at IBM for the releases
 speakerAddress: Lausanne
 speakerTitle: 'Senior Software Developer'
 speakerOrganization: Typesafe
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/c79da409770cc9c154a0387112c14c46?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/c79da409770cc9c154a0387112c14c46?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: 'programmation réactive'

@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Marc Friederich'
 sessionTitle: 'Dynamic Style Guides – Retour sur expérience'
 speakerEmail: marc@antistatique.net
@@ -7,7 +7,7 @@ speakerBio: "Actif dans le développement et le design d'applications web depuis
 speakerAddress: 'Lausanne, Suisse'
 speakerTitle: 'Software designer'
 speakerOrganization: Antistatique
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/8fd79f86d6fca3b01ac7f8077ca7f16f?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/8fd79f86d6fca3b01ac7f8077ca7f16f?size=200&default=mm'
 sessionCategory: 'Retour d''expérience '
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Processus, HTML/CSS/JS, Développement web'

@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Emmanuel Hugonnet'
 sessionTitle: 'You’re pretty fly for a WildFly '
 speakerEmail: ehugonne@redhat.com
@@ -7,7 +7,7 @@ speakerBio: ""
 speakerAddress: 'Barraux, France'
 speakerTitle: Développeur
 speakerOrganization: 'Red Hat'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/a15b9135c214b138712332193bbfd5bb?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/a15b9135c214b138712332193bbfd5bb?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Java JEE7'

@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Nicolas CLERC'
 sessionTitle: 'Project "Orleans" ... la haute disponibilité à la demande dans le Cloud'
 speakerEmail: nclerc@quidmind.com
@@ -7,7 +7,7 @@ speakerBio: "Consultant, Expert technique, passionné et Geek ... à proportion 
 speakerAddress: 'LYON, France'
 speakerTitle: 'Innovativ Software Architect'
 speakerOrganization: QuidMind
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/b550a250192f5ab860a8a53225a7e078?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/b550a250192f5ab860a8a53225a7e078?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Cloud, HA, Actor model'

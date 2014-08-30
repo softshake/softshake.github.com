@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Micha Roon'
 sessionTitle: 'applications web réactives avec meteor'
 speakerEmail: micha.roon@managination.com
@@ -7,7 +7,7 @@ speakerBio: "Micha est un développeur senior et un passioné de nouvelles techn
 speakerAddress: Lausanne
 speakerTitle: 'Développeur /CEO'
 speakerOrganization: managination
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/adbcd371bddebb473a47eee4d6902773?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/adbcd371bddebb473a47eee4d6902773?size=200&default=mm'
 sessionCategory: Atelier
 sessionLevel: 'Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Framework JavaScript'

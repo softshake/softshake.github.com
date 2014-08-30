@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'DuyHai DOAN'
 sessionTitle: 'Achilles, le meilleur compagne de Cassandra'
 speakerEmail: doanduyhai@gmail.com
@@ -7,7 +7,7 @@ speakerBio: "Développeur Java depuis toujours, je me suis passionné pour le do
 speakerAddress: 'Paris, FRANCE'
 speakerTitle: 'Consultant Freelance Cassandra'
 speakerOrganization: 'ARCHINNOV INFO'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/ffa96040bb4211cad1c66f385d8cb77b?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/ffa96040bb4211cad1c66f385d8cb77b?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant)'
 sessionTopic: 'NoSQL, Cassandra, Open Source'

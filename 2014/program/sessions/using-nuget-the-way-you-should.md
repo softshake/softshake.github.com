@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Maarten Balliauw'
 sessionTitle: 'Using NuGet the way you should'
 speakerEmail: maarten@balliauw.be
@@ -7,7 +7,7 @@ speakerBio: 'Maarten Balliauw is a Technical Evangelist at JetBrains. His intere
 speakerAddress: 'Antwerp, Belgium'
 speakerTitle: 'Technical Evangelist'
 speakerOrganization: JetBrains
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/f62ebe822f6b351538e68cb2bbadefe9?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/f62ebe822f6b351538e68cb2bbadefe9?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: NuGet

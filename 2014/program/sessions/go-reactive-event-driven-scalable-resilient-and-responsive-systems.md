@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Mirco Dotta'
 sessionTitle: 'Go Reactive: Event-driven, Scalable, Resilient and Responsive Systems'
 speakerEmail: mirco.dotta@typesafe.com
@@ -7,7 +7,7 @@ speakerBio: 'Mirco Dotta is EMEA Professional Services Manager at Typesafe and a
 speakerAddress: Lausanne
 speakerTitle: 'EMEA Professional Services Manager'
 speakerOrganization: Typesafe
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/a20e94bcdbd6613506c752e72209b584?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/a20e94bcdbd6613506c752e72209b584?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: Reactive

@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Jean-Philippe Briend'
 sessionTitle: 'L''université de la performance'
 speakerEmail: jpbriend@octo.com
@@ -7,7 +7,7 @@ speakerBio: "Depuis près de 10 ans, Jean-Philippe accompagne les DSI dans la r�
 speakerAddress: Paris
 speakerTitle: Architect
 speakerOrganization: 'OCTO Technology'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/953938858914a04b5204914c929f0b73?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/953938858914a04b5204914c929f0b73?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Test de performance'

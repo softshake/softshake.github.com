@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Johnny Graber'
 sessionTitle: 'Metrics Based Decisions'
 speakerEmail: JG@JGraber.ch
@@ -7,7 +7,7 @@ speakerBio: ""
 speakerAddress: 'Berne, Suisse'
 speakerTitle: 'Software Developer'
 speakerOrganization: FMH
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/fd2bd6ebacb744ce20c57a9e4cbb252d?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/fd2bd6ebacb744ce20c57a9e4cbb252d?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Do you want to know what happens inside your application?'

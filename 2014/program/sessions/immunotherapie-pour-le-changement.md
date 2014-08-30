@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Tremeur Balbous'
 sessionTitle: 'Immunothérapie pour le changement'
 speakerEmail: tbalbous@pyxis-tech.com
@@ -7,7 +7,7 @@ speakerBio: "Coach en développement intégral certifié New Ventures West, Prof
 speakerAddress: 'Saint-Sixt (74, France'
 speakerTitle: 'Coach Agile, Immunity to Change Facilitator'
 speakerOrganization: 'Pyxis Suisse S.A.'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/a7ad9ed7770799a3fc967a266c831d94?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/a7ad9ed7770799a3fc967a266c831d94?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Développement personnel, coaching'

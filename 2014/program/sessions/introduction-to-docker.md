@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Florian Dudouet'
 sessionTitle: 'Introduction to Docker'
 speakerEmail: florian.dudouet@gmail.com
@@ -7,7 +7,7 @@ speakerBio: "Florian Dudouet is a researcher at the ICCLAB with a focus on perfo
 speakerAddress: Winterthur
 speakerTitle: Researcher
 speakerOrganization: 'ZHAW ICCLab'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/1387101ca021f211419c6b5481be22eb?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/1387101ca021f211419c6b5481be22eb?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Container Management'

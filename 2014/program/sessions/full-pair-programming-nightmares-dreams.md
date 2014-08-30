@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Houssam FAKIH'
 sessionTitle: 'Full Pair Programming : Nightmares & Dreams'
 speakerEmail: houssam.fakih@gmail.com
@@ -7,7 +7,7 @@ speakerBio: 'https://www.linkedin.com/in/hfakih'
 speakerAddress: 'Paris, France'
 speakerTitle: 'Software Engineer'
 speakerOrganization: Arolla
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/8eeff5f2419045e1eb39f10ad6f1567d?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/8eeff5f2419045e1eb39f10ad6f1567d?size=200&default=mm'
 sessionCategory: 'Retour d''expérience '
 sessionLevel: 'Shu (débutant), Ha (intermédiaire), Ri (avancé)'
 sessionTopic: Pair-Programming

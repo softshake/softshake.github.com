@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Romain FELDEN'
 sessionTitle: 'DevOps: mission [im]possible ?'
 speakerEmail: rfelden@octo.com
@@ -7,7 +7,7 @@ speakerBio: "Diplômé de l’ENSEEIHT en 2007, spécialisation Informatique et 
 speakerAddress: 'Lausanne, Suisse'
 speakerTitle: 'IT Consultant'
 speakerOrganization: 'OCTO Technology'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/5f832e3877538418db8b13979a9be634?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/5f832e3877538418db8b13979a9be634?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant)'
 sessionTopic: DevOps

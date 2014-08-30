@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Noé Beuret'
 sessionTitle: 'Secure your Apps'
 speakerEmail: noe.beuret@sysmosoft.com
@@ -7,7 +7,7 @@ speakerBio: 'Noé travaille depuis plus de deux ans chez Sysmosoft en tant que d
 speakerAddress: Neuchâtel
 speakerTitle: 'Ingénieur HES en informatique'
 speakerOrganization: Sysmosoft
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/db6172d06729fae755e7f0f0058ae692?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/db6172d06729fae755e7f0f0058ae692?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Sécurité sur mobile'

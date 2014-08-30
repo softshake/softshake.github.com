@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Trond Bjerkestrand'
 sessionTitle: 'Putting Akka cluster to work'
 speakerEmail: trond@groosker.com
@@ -7,7 +7,7 @@ speakerBio: 'Trond is a entrepreneur and part-time Scala teacher and consultant.
 speakerAddress: 'Lausanne, Suisse'
 speakerTitle: 'Entrepreneur / Developer'
 speakerOrganization: Groosker
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/4c7c2907587f16b16a5057eacfff33c1?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/4c7c2907587f16b16a5057eacfff33c1?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: 'Akka scala actors'

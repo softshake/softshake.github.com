@@ -1,5 +1,5 @@
 ---
-layout: 2014_default_en
+layout: 2014_session
 speakerName: 'Mandrikov Evgeny'
 sessionTitle: 'Java Benchmarking'
 speakerEmail: mandrikov@gmail.com
@@ -7,7 +7,7 @@ speakerBio: 'Software Gardener, addicted to open source and code quality, hired 
 speakerAddress: 'La Roche sur Foron, France'
 speakerTitle: 'Software Gardener'
 speakerOrganization: SonarSource
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/cf0ce44e342943d56f115165b7d78bdd?size=200'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/cf0ce44e342943d56f115165b7d78bdd?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Java Microbenchmark Harness (JMH)'
