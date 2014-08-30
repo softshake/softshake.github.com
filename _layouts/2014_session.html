@@ -3,34 +3,51 @@ layout: 2014_default_en
 ---
 
 <section class="row">
-	<h1>{{ page.sessionTitle }}</h1>
 	
-	{{ content }}
+	<div class="col-sm-12">
+		<h1>{{ page.sessionTitle }}</h1>
+
+		<ul class="list-inline">
+			{% for tag in page.sessionTags %}
+				<li><span class="label label-info">{{ tag }}</span></li>
+			{% endfor %}
+		</ul>
+
+		{{ content }}
+
+		<ul class="list-unstyled">
+			<li><p><strong>Level: </strong>{{ page.sessionLevel }}</p></li>
+			<li><p><strong>Topic: </strong>{{ page.sessionTopic }}</p></li>
+		</ul>
+
+	</div>
 
 </section>
 
 <section class="row">
-	<h2>About speaker</h2>
-	
-	<div class="col-sm-3">
-		<div class="speaker">
-			<div class="speaker-info">
-				<div class="speaker-photo">
-					<img src="{{ page.speakerAvatarUrl }}" alt="{{ page.speakerName }}">
-				</div>                   
-				<!--           
-				<div class="speaker-contacts">
-					<a href="#" class="contact pull-left fa fa-facebook"></a>
-					<a href="#" class="contact pull-right fa fa-twitter"></a>
+	<div class="col-sm-12">
+		<h2>About speaker</h2>
+		
+		<div class="col-sm-3">
+			<div class="speaker">
+				<div class="speaker-info">
+					<div class="speaker-photo">
+						<img src="{{ page.speakerAvatarUrl }}" alt="{{ page.speakerName }}">
+					</div>                   
+					<!--           
+					<div class="speaker-contacts">
+						<a href="#" class="contact pull-left fa fa-facebook"></a>
+						<a href="#" class="contact pull-right fa fa-twitter"></a>
+					</div>
+					-->
 				</div>
-				-->
 			</div>
 		</div>
-	</div>
-	<div class="col-sm-9">
-		<h3>{{ page.speakerName }} ({{ page.speakerAddress }})</h3>
-		<h5>{{ page.speakerTitle }}, {{ page.speakerOrganization }}</h5>
-		<br>
-		<p>{{ page.speakerBio }}</p>
+		<div class="col-sm-9">
+			<h3>{{ page.speakerName }} ({{ page.speakerAddress }})</h3>
+			<h5>{{ page.speakerTitle }}, {{ page.speakerOrganization }}</h5>
+			<br>
+			<p>{{ page.speakerBio }}</p>
+		</div>
 	</div>
 </section>

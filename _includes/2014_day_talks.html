@@ -1,4 +1,6 @@
 <div>
+	<h2>Keynotes</h2>
+	<p>To be announced...</p>
 	{% assign dayTalks = site.data.2014.program | where: "scheduleDay", include.day | sort: "scheduleOrder" %}
 	{% assign talksByOrder = dayTalks | group_by: "scheduleOrder" %}
 	{% for talkGroup in talksByOrder | sort: "name" %}
