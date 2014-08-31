@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Web frontend like a pro'
 sessionTags:
   - Web
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '3'
+scheduleRoom: BS30
 ---
 
 Créer ou trouver des recettes pour tous les types de projets permet de gagner un temps précieux au démarrage. Yeoman est un outil formidablement efficace et gagne à être connu de tous les développeurs qui touchent de près ou de loin au développement frontend

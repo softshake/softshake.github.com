@@ -15,7 +15,7 @@ sessionTags:
   - Agile
 scheduleDay: '2'
 scheduleOrder: '5'
-scheduleRoom: '?'
+scheduleRoom: A104
 ---
 
 Le business analyst (BA) joue un rôle crucial dans nos organisations. Lien essentiel entre les opérationnels et l’informatique, il identifie, analyse, valide et documente les besoins métiers et participe à la mise en place de solutions. 

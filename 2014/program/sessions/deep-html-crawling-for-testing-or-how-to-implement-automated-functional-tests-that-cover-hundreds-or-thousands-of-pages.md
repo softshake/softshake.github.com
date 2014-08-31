@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Functional testing'
 sessionTags:
   - Web
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '6'
+scheduleRoom: BE29
 ---
 
 I will explain how we built a deep HTML crawler with a real browser, and developed a rich, event driven API to implement functional tests that can cover websites with large amounts of content, bringing automated testing to an all new level of coverage.

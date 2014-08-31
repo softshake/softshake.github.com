@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Bien démarrer avec Arduino'
 sessionTags:
   - 'IA / Robotique'
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '3'
+scheduleRoom: BS31
 ---
 
 Grâce à des prix abordables et des outils simples, Arduino met l'électronique numérique et l'"Internet des Choses" à portée de tous.

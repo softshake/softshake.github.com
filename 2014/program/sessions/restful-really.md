@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant), Ha (intermédiaire), Ri (avancé)'
 sessionTopic: Rest
 sessionTags:
   - Web
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '4'
+scheduleRoom: BS30
 ---
 
 Faire une architecture de type Rest, que cela implique-t-il vraiment ?

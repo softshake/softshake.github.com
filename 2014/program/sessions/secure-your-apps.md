@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Sécurité sur mobile'
 sessionTags:
   - Mobilité
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '5'
+scheduleRoom: A104
 ---
 
 Qui ne possède pas un smartphone de nos jours? Qui n'utilise pas son smartphone pour communiquer, stocker des informations et partager ses activités? Et quand est il des données professionnelles ?

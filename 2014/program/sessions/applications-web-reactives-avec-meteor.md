@@ -13,9 +13,9 @@ sessionLevel: 'Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Framework JavaScript'
 sessionTags:
   - Web
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '5'
+scheduleRoom: BS31
 ---
 
 Meteor (meteor.com) est une framework qui lie les données à l'écran directement avec les champs de la base de données. Tout est synchronisé de manière presque magique. 

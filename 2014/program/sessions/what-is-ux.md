@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Discover the wonderful world of User Experience'
 sessionTags:
   - Incubateur
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '2'
+scheduleRoom: BE29
 ---
 
 Can you give me a definition of the "User Experience"? I don't! And the Internet neither. User Experience is a really broad domain from analytics to psychology to interface design.

@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant), Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'javascript next'
 sessionTags:
   - Web
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '5'
+scheduleRoom: BS30
 ---
 
 Depuis le temps que l'on nous parle d'ES6 (Ecmascript 6 ou la future version de javascript) il serait peut-être temps de s'y mettre pour se préparer à l'avenir. Il est d'ores et déjà possible de "coder en ES6" avec des "shims" et autre "polyfills" et le transpiler traceur. Je vous propose un tour d' ES6 "les mains dans le cambouis" en réalisant ensemble un "mini" framework MVC (ou MVVM) tout en ES6 donc. Cela nous permettra d'aborder les modules, les classes, collections, maps, etc. ...

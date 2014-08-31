@@ -13,9 +13,9 @@ sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: 'Mobile Dev'
 sessionTags:
   - Microsoft
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '5'
+scheduleRoom: BE29
 ---
 
 We will then show you how the convergence of the Windows and Windows Phone developer platform enables to easily reuse UI, code and business logic in apps that run on everything, from the smallest Windows smartphone device up to the largest desktop PC. Basically enabling you to create a single solution that runs on most Windows devices reducing dev cost and improving reach.

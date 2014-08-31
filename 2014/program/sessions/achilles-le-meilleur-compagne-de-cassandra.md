@@ -15,7 +15,7 @@ sessionTags:
   - 'Big Data'
 scheduleDay: '1'
 scheduleOrder: '3'
-scheduleRoom: '?'
+scheduleRoom: A102
 ---
 
 Avec l'arrivée du language de requêtage CQL3, Cassandra a rendu son modèle de développement plus accessible aux développeurs.

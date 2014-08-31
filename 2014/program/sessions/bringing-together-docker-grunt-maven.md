@@ -13,9 +13,9 @@ sessionLevel: ""
 sessionTopic: Docker
 sessionTags:
   - Java
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '4'
+scheduleRoom: A104
 ---
 
 Come and see how you can orchestrate Maven, Grunt & Docker to build an application based on (among others): Guice, Jersey, EmberJS & MongoDB 

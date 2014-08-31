@@ -13,9 +13,9 @@ sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: 'The Java and SQL Interface - beyond JDBC and JPA'
 sessionTags:
   - Java
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '3'
+scheduleRoom: A105
 ---
 
 SQL is a powerful and highly expressive language for queries against relational databases. SQL is established, standardised and hardly challenged by alternative querying languages. Nonetheless, in the Java ecosystem, there had been few relevant steps forward since JDBC to better integrate SQL into Java. All attention was given to object-relational mapping and language abstractions on a higher level, such as OQL, HQL, JPQL, CriteriaQuery. In the meantime, these abstractions have become almost as complex as SQL itself, regardless of the headaches they’re giving to DBAs who can no longer patch the generated SQL.

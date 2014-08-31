@@ -13,9 +13,9 @@ sessionLevel: ""
 sessionTopic: 'Wearable devices'
 sessionTags:
   - Mobilité
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '4'
+scheduleRoom: A105
 ---
 
 In this presentation I'll share an overview of my experience building Evernote apps for a range of wearables: what worked, what didn't, what would I do differently.  

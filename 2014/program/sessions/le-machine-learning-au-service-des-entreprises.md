@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Apprentissage automatique'
 sessionTags:
   - 'IA / Robotique'
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '5'
+scheduleRoom: A105
 ---
 
 L'apprentissage automatique (ou machine learning) est une discipline de l'Intelligence Artificielle qui a pour but de laisser l'ordinateur se "débrouiller" pour apprendre de nouveaux concepts ou aider l'être humain dans ses choix. Les exemples les plus classiques sont les réseaux de neurones qui permettent de décoder les adresses manuscriptes sur les enveloppes et plus récemment le deep learning en traitement des images et en analyse prédictive. Nous pouvons aussi évoquer les différents algorithmes existants pour le regroupement (cluster), la classification et la recommandation qui ont tous un apport dans le monde de l'entreprise : 

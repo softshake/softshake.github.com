@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Processus, HTML/CSS/JS, Développement web'
 sessionTags:
   - Web
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '1'
+scheduleRoom: BE29
 ---
 
 Avec l'émergence des styles modulaires, le style guide est devenu un outil indispensable pour documenter et organiser le travail du frontend développeur.

@@ -6,9 +6,9 @@
       "Agile"
     ],
     "sessionFileName": "the-big-payoff",
-    "scheduleDay": "1",
-    "scheduleOrder": "4",
-    "scheduleRoom": "A101"
+    "scheduleDay": "2",
+    "scheduleOrder": "1",
+    "scheduleRoom": "A102"
   },
   {
     "speakerName": "Egor Sviridenko",
@@ -52,7 +52,7 @@
     "sessionFileName": "le-t-shirt-du-leader-agile",
     "scheduleDay": "2",
     "scheduleOrder": "5",
-    "scheduleRoom": "A101"
+    "scheduleRoom": "BS30"
   },
   {
     "speakerName": "Guillaume Vial",
@@ -107,7 +107,7 @@
     "sessionFileName": "immunotherapie-pour-le-changement",
     "scheduleDay": "1",
     "scheduleOrder": "2",
-    "scheduleRoom": "?"
+    "scheduleRoom": "BS27"
   },
   {
     "speakerName": "Nedjma SAIDANI",
@@ -118,7 +118,7 @@
     "sessionFileName": "comportements-dysfonctionnels-d-une-equipe-agile",
     "scheduleDay": "1",
     "scheduleOrder": "5",
-    "scheduleRoom": "?"
+    "scheduleRoom": "BS31"
   },
   {
     "speakerName": "François Helg",
@@ -129,7 +129,7 @@
     "sessionFileName": "les-business-analysts-face-a-l-agilite-de-nouveau-challenges-a-relever",
     "scheduleDay": "2",
     "scheduleOrder": "5",
-    "scheduleRoom": "?"
+    "scheduleRoom": "A104"
   },
   {
     "speakerName": "Houssam FAKIH",
@@ -140,7 +140,7 @@
     "sessionFileName": "full-pair-programming-nightmares-dreams",
     "scheduleDay": "1",
     "scheduleOrder": "3",
-    "scheduleRoom": "?"
+    "scheduleRoom": "BS27"
   },
   {
     "speakerName": "David Pilato",
@@ -151,7 +151,7 @@
     "sessionFileName": "advanced-search-for-your-legacy-application",
     "scheduleDay": "1",
     "scheduleOrder": "5",
-    "scheduleRoom": "?"
+    "scheduleRoom": "A106"
   },
   {
     "speakerName": "DuyHai DOAN",
@@ -162,7 +162,7 @@
     "sessionFileName": "achilles-le-meilleur-compagne-de-cassandra",
     "scheduleDay": "1",
     "scheduleOrder": "3",
-    "scheduleRoom": "?"
+    "scheduleRoom": "A102"
   },
   {
     "speakerName": "Philippe Kernevez",
@@ -173,7 +173,7 @@
     "sessionFileName": "ameliorer-votre-activite-grace-a-la-mise-en-oeuvre-d-hadoop-et-r-retour-d-experience-d-un-projet-d-optimisation-de-campagnes-publicitaires",
     "scheduleDay": "2",
     "scheduleOrder": "5",
-    "scheduleRoom": "?"
+    "scheduleRoom": "BE29"
   },
   {
     "speakerName": "Patrick Baumgartner",
@@ -182,9 +182,9 @@
       "Big Data"
     ],
     "sessionFileName": "graph-databases-only-a-tool-or-a-data-store",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "1",
+    "scheduleRoom": "A105"
   },
   {
     "speakerName": "Tugdual Grall",
@@ -193,9 +193,9 @@
       "Big Data"
     ],
     "sessionFileName": "mongodb-document-design-drop-your-table",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "4",
+    "scheduleRoom": "BS27"
   },
   {
     "speakerName": "Philippe Morignot",
@@ -204,9 +204,9 @@
       "IA / Robotique"
     ],
     "sessionFileName": "programmation-par-contraintes-theorie-et-pratique",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "2",
+    "scheduleRoom": "A104"
   },
   {
     "speakerName": "Marc-Philippe Huget",
@@ -215,9 +215,9 @@
       "IA / Robotique"
     ],
     "sessionFileName": "le-machine-learning-au-service-des-entreprises",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "5",
+    "scheduleRoom": "A105"
   },
   {
     "speakerName": "Jean-François Poilprêt",
@@ -226,9 +226,9 @@
       "IA / Robotique"
     ],
     "sessionFileName": "arduino-b-a-ba",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "3",
+    "scheduleRoom": "BS31"
   },
   {
     "speakerName": "Géraud de Laval",
@@ -237,9 +237,9 @@
       "Incubateur"
     ],
     "sessionFileName": "what-is-ux",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "2",
+    "scheduleRoom": "BE29"
   },
   {
     "speakerName": "Jean-Philippe Briend",
@@ -248,9 +248,9 @@
       "Incubateur"
     ],
     "sessionFileName": "l-universite-de-la-performance",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "6",
+    "scheduleRoom": "BS31"
   },
   {
     "speakerName": "Thierry Wasylczenko",
@@ -259,9 +259,9 @@
       "Incubateur"
     ],
     "sessionFileName": "polyglotisme-une-autre-maniere-de-developper-une-application",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "1",
+    "scheduleRoom": "BE29"
   },
   {
     "speakerName": "Marcelo Ancelmo",
@@ -270,9 +270,9 @@
       "Incubateur"
     ],
     "sessionFileName": "devops-enterprise-lessons-from-the-trenches",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "3",
+    "scheduleRoom": "BE29"
   },
   {
     "speakerName": "pierre-yves ritschard",
@@ -281,9 +281,9 @@
       "Incubateur"
     ],
     "sessionFileName": "cyanite-timeseries-storage-at-scale",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "2",
+    "scheduleRoom": "BS30"
   },
   {
     "speakerName": "Gilles Gravier",
@@ -292,9 +292,9 @@
       "Incubateur"
     ],
     "sessionFileName": "la-cryptographie-quantique-pour-une-securite-a-l-epreuve-du-futur",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "5",
+    "scheduleRoom": "A105"
   },
   {
     "speakerName": "Tim Bell",
@@ -303,9 +303,9 @@
       "Incubateur"
     ],
     "sessionFileName": "agile-infrastructure-at-cern",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "3",
+    "scheduleRoom": "A106"
   },
   {
     "speakerName": "Florian Dudouet",
@@ -314,9 +314,9 @@
       "Incubateur"
     ],
     "sessionFileName": "introduction-to-docker",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "1",
+    "scheduleRoom": "A106"
   },
   {
     "speakerName": "Romain FELDEN",
@@ -325,9 +325,9 @@
       "Incubateur"
     ],
     "sessionFileName": "devops-mission-im-possible",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "4",
+    "scheduleRoom": "A102"
   },
   {
     "speakerName": "Dominique BROEGLIN",
@@ -336,9 +336,9 @@
       "Incubateur"
     ],
     "sessionFileName": "automating-your-infrastructure-with-puppet",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "1",
+    "scheduleRoom": "BS31"
   },
   {
     "speakerName": "Guillaume Scheibel",
@@ -347,9 +347,9 @@
       "Incubateur"
     ],
     "sessionFileName": "why-documentation-should-be-a-pain-in-my-ass",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "4",
+    "scheduleRoom": "BS30"
   },
   {
     "speakerName": "Vincent Guigui",
@@ -358,9 +358,9 @@
       "Incubateur"
     ],
     "sessionFileName": "devenir-createur-d-experiences-immersives",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "6",
+    "scheduleRoom": "BS30"
   },
   {
     "speakerName": "Quentin ADAM",
@@ -369,9 +369,9 @@
       "Incubateur"
     ],
     "sessionFileName": "how-to-scale",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "2",
+    "scheduleRoom": "A105"
   },
   {
     "speakerName": "Ivan Hristov",
@@ -380,9 +380,9 @@
       "Java"
     ],
     "sessionFileName": "bringing-together-docker-grunt-maven",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "4",
+    "scheduleRoom": "A104"
   },
   {
     "speakerName": "Brice LEPORINI",
@@ -391,9 +391,9 @@
       "Java"
     ],
     "sessionFileName": "jdbc-jpa-hibernate-sans-maitrise-la-puissance-n-est-rien",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "6",
+    "scheduleRoom": "BS27"
   },
   {
     "speakerName": "Guillaume EHRET",
@@ -402,9 +402,9 @@
       "Java"
     ],
     "sessionFileName": "le-bon-testeur-il-teste-et-le-mauvais-testeur-il-teste-aussi",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "3",
+    "scheduleRoom": "A105"
   },
   {
     "speakerName": "Thierry WASYLCZENKO",
@@ -413,9 +413,9 @@
       "Java"
     ],
     "sessionFileName": "construire-une-application-javafx-8-avec-gradle",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "2",
+    "scheduleRoom": "BS30"
   },
   {
     "speakerName": "Lukas Eder",
@@ -424,9 +424,9 @@
       "Java"
     ],
     "sessionFileName": "get-back-in-control-of-your-sql-with-jooq",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "3",
+    "scheduleRoom": "A105"
   },
   {
     "speakerName": "Mandrikov Evgeny",
@@ -435,9 +435,9 @@
       "Java"
     ],
     "sessionFileName": "java-benchmarking",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "4",
+    "scheduleRoom": "BS27"
   },
   {
     "speakerName": "Emmanuel Hugonnet",
@@ -446,9 +446,9 @@
       "Java"
     ],
     "sessionFileName": "you-re-pretty-fly-for-a-wildfly",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "5",
+    "scheduleRoom": "BS27"
   },
   {
     "speakerName": "Alexis Hassler",
@@ -457,9 +457,9 @@
       "Java"
     ],
     "sessionFileName": "avec-java-ee-fais-ce-que-tu-veux",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "2",
+    "scheduleRoom": "A104"
   },
   {
     "speakerName": "Aurélien Broszniowski",
@@ -468,9 +468,9 @@
       "Java"
     ],
     "sessionFileName": "write-your-own-performance-framework-easily",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "1",
+    "scheduleRoom": "BS30"
   },
   {
     "speakerName": "Maarten Balliauw",
@@ -479,9 +479,9 @@
       "Microsoft"
     ],
     "sessionFileName": "using-nuget-the-way-you-should",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "4",
+    "scheduleRoom": "A104"
   },
   {
     "speakerName": "Johnny Graber",
@@ -490,9 +490,9 @@
       "Microsoft"
     ],
     "sessionFileName": "metrics-based-decisions",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "1",
+    "scheduleRoom": "BS31"
   },
   {
     "speakerName": "Thibaud Desodt",
@@ -501,9 +501,9 @@
       "Microsoft"
     ],
     "sessionFileName": "dependency-injection-the-right-way",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "1",
+    "scheduleRoom": "A104"
   },
   {
     "speakerName": "Nicolas CLERC",
@@ -512,9 +512,9 @@
       "Microsoft"
     ],
     "sessionFileName": "kinharp-transformer-le-kinect-en-instrument-de-musique",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "5",
+    "scheduleRoom": "A106"
   },
   {
     "speakerName": "Nicolas CLERC",
@@ -523,9 +523,9 @@
       "Microsoft"
     ],
     "sessionFileName": "project-orleans-la-haute-disponibilite-a-la-demande-dans-le-cloud",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "3",
+    "scheduleRoom": "A104"
   },
   {
     "speakerName": "Dinesh Bolkensteyn",
@@ -534,9 +534,9 @@
       "Microsoft"
     ],
     "sessionFileName": "roslyn-meet-the-new-brain-of-visual-studio",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "4",
+    "scheduleRoom": "A106"
   },
   {
     "speakerName": "Ronnie Saurenmann",
@@ -545,9 +545,9 @@
       "Microsoft"
     ],
     "sessionFileName": "building-a-xaml-c-app-that-runs-on-desktops-tablets-and-phones-using-the-new-universal-template",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "5",
+    "scheduleRoom": "BE29"
   },
   {
     "speakerName": "Marius Constantinescu",
@@ -556,9 +556,9 @@
       "Microsoft"
     ],
     "sessionFileName": "create-azure-hosted-modern-cloud-business-web-apps-for-office-365",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "5",
+    "scheduleRoom": "BS27"
   },
   {
     "speakerName": "Atif Aziz",
@@ -567,9 +567,9 @@
       "Microsoft"
     ],
     "sessionFileName": "f-for-c-programmers-the-good-the-bad-and-the-ugly",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "2",
+    "scheduleRoom": "BS31"
   },
   {
     "speakerName": "Atif Aziz",
@@ -578,9 +578,9 @@
       "Microsoft"
     ],
     "sessionFileName": "confessions-of-a-net-open-source-programmer",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "3",
+    "scheduleRoom": "BS31"
   },
   {
     "speakerName": "Duncan Mole",
@@ -589,9 +589,9 @@
       "Microsoft"
     ],
     "sessionFileName": "the-obviousness-and-power-of-rx",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "6",
+    "scheduleRoom": "A102"
   },
   {
     "speakerName": "Corinne Krych",
@@ -600,9 +600,9 @@
       "Mobilité"
     ],
     "sessionFileName": "get-ready-switch-to-swift",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "3",
+    "scheduleRoom": "A106"
   },
   {
     "speakerName": "Erik Jan de Wit",
@@ -611,9 +611,9 @@
       "Mobilité"
     ],
     "sessionFileName": "cordova-and-aerogear-api",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "2",
+    "scheduleRoom": "BE29"
   },
   {
     "speakerName": "Noé Beuret",
@@ -622,9 +622,9 @@
       "Mobilité"
     ],
     "sessionFileName": "secure-your-apps",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "5",
+    "scheduleRoom": "A104"
   },
   {
     "speakerName": "Corinne Krych",
@@ -633,9 +633,9 @@
       "Mobilité"
     ],
     "sessionFileName": "oauth2-made-easy",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "4",
+    "scheduleRoom": "A105"
   },
   {
     "speakerName": "Keerthan Muthurasa",
@@ -644,9 +644,9 @@
       "Mobilité"
     ],
     "sessionFileName": "do-you-have-a-mobile-moment",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "6",
+    "scheduleRoom": "A105"
   },
   {
     "speakerName": "Ken Casada",
@@ -655,9 +655,9 @@
       "Mobilité"
     ],
     "sessionFileName": "building-cross-platform-applications-with-azure-mobile-services",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "2",
+    "scheduleRoom": "BS31"
   },
   {
     "speakerName": "Mike Bluestein",
@@ -666,9 +666,9 @@
       "Mobilité"
     ],
     "sessionFileName": "cross-platform-mobile-development-with-xamarin",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "5",
+    "scheduleRoom": "A102"
   },
   {
     "speakerName": "Damian Mehers",
@@ -677,9 +677,9 @@
       "Mobilité"
     ],
     "sessionFileName": "what-is-it-like-to-build-for-wearable-devices",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "4",
+    "scheduleRoom": "A105"
   },
   {
     "speakerName": "Alain Regnier",
@@ -688,9 +688,9 @@
       "Mobilité"
     ],
     "sessionFileName": "the-google-glass-revolution",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "1",
+    "scheduleRoom": "BS27"
   },
   {
     "speakerName": "Cédric Champeau",
@@ -699,9 +699,9 @@
       "Mobilité"
     ],
     "sessionFileName": "android-et-groovy-le-couple-gagnant",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "1",
+    "scheduleRoom": "BS27"
   },
   {
     "speakerName": "Rob Branchat",
@@ -710,9 +710,9 @@
       "Prog. Fonctionnelle"
     ],
     "sessionFileName": "into-clojure",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "1",
+    "scheduleRoom": "A104"
   },
   {
     "speakerName": "Carlo Jelmini",
@@ -721,9 +721,9 @@
       "Prog. Fonctionnelle"
     ],
     "sessionFileName": "introduction-a-la-programmation-fonctionnelle",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "3",
+    "scheduleRoom": "A102"
   },
   {
     "speakerName": "Mirco Dotta",
@@ -732,9 +732,9 @@
       "Prog. Fonctionnelle"
     ],
     "sessionFileName": "go-reactive-event-driven-scalable-resilient-and-responsive-systems",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "1",
+    "scheduleRoom": "A106"
   },
   {
     "speakerName": "Luc Bourlier",
@@ -743,9 +743,9 @@
       "Prog. Fonctionnelle"
     ],
     "sessionFileName": "de-simple-a-reactive-transformation-d-un-webapp",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "2",
+    "scheduleRoom": "A105"
   },
   {
     "speakerName": "Christophe Pache",
@@ -754,9 +754,9 @@
       "Prog. Fonctionnelle"
     ],
     "sessionFileName": "comment-utiliser-la-programmation-fonctionnelle-pour-simplifier-une-solution-d-integration",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "6",
+    "scheduleRoom": "A104"
   },
   {
     "speakerName": "Marc-Antoine Galilée",
@@ -765,9 +765,9 @@
       "Prog. Fonctionnelle"
     ],
     "sessionFileName": "gamedev-with-scala",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "5",
+    "scheduleRoom": "A102"
   },
   {
     "speakerName": "Alois Cochard",
@@ -776,9 +776,9 @@
       "Prog. Fonctionnelle"
     ],
     "sessionFileName": "the-promises-of-purely-functional-programming",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "2",
+    "scheduleRoom": "A106"
   },
   {
     "speakerName": "Trond Bjerkestrand",
@@ -787,9 +787,9 @@
       "Prog. Fonctionnelle"
     ],
     "sessionFileName": "putting-akka-cluster-to-work",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "3",
+    "scheduleRoom": "A104"
   },
   {
     "speakerName": "François Garillot",
@@ -798,9 +798,9 @@
       "Prog. Fonctionnelle"
     ],
     "sessionFileName": "scala-collections-java-8-on-steroids",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "4",
+    "scheduleRoom": "A106"
   },
   {
     "speakerName": "Philippe Charriere",
@@ -809,9 +809,9 @@
       "Web"
     ],
     "sessionFileName": "soyons-prets-pour-es6",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "5",
+    "scheduleRoom": "BS30"
   },
   {
     "speakerName": "Xavier Carpentier",
@@ -820,9 +820,9 @@
       "Web"
     ],
     "sessionFileName": "restful-really",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "4",
+    "scheduleRoom": "BS30"
   },
   {
     "speakerName": "Marc Friederich",
@@ -831,9 +831,9 @@
       "Web"
     ],
     "sessionFileName": "dynamic-style-guides-retour-sur-experience",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "1",
+    "scheduleRoom": "BE29"
   },
   {
     "speakerName": "Yann Gouffon",
@@ -842,9 +842,9 @@
       "Web"
     ],
     "sessionFileName": "modular-first",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "1",
+    "scheduleRoom": "A105"
   },
   {
     "speakerName": "Toni Fisler",
@@ -853,20 +853,20 @@
       "Web"
     ],
     "sessionFileName": "yeoman-de-a-a-z",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "3",
+    "scheduleRoom": "BS30"
   },
   {
     "speakerName": "Nicolas Seriot",
-    "sessionTitle": "I � UTF-8",
+    "sessionTitle": "I � Unicode",
     "sessionTags": [
       "Web"
     ],
-    "sessionFileName": "i-utf-8",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "sessionFileName": "i-unicode",
+    "scheduleDay": "2",
+    "scheduleOrder": "3",
+    "scheduleRoom": "BS30"
   },
   {
     "speakerName": "Micha Roon",
@@ -875,20 +875,9 @@
       "Web"
     ],
     "sessionFileName": "applications-web-reactives-avec-meteor",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
-  },
-  {
-    "speakerName": "Cedric Moullet",
-    "sessionTitle": "L'histoire du redesign et de la réécriture de map.geo.admin.ch",
-    "sessionTags": [
-      "Web"
-    ],
-    "sessionFileName": "l-histoire-du-redesign-et-de-la-reecriture-de-map-geo-admin-ch",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "5",
+    "scheduleRoom": "BS31"
   },
   {
     "speakerName": "Audrey Lièvremont",
@@ -897,9 +886,9 @@
       "Web"
     ],
     "sessionFileName": "html-why-content-is-important",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "2",
+    "scheduleRoom": "A102"
   },
   {
     "speakerName": "Matthieu Lux",
@@ -908,9 +897,9 @@
       "Web"
     ],
     "sessionFileName": "angular-from-scratch",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "2",
+    "scheduleOrder": "2",
+    "scheduleRoom": "BS27"
   },
   {
     "speakerName": "Renault John Lecoultre",
@@ -919,8 +908,19 @@
       "Web"
     ],
     "sessionFileName": "deep-html-crawling-for-testing-or-how-to-implement-automated-functional-tests-that-cover-hundreds-or-thousands-of-pages",
-    "scheduleDay": "?",
-    "scheduleOrder": "?",
-    "scheduleRoom": "?"
+    "scheduleDay": "1",
+    "scheduleOrder": "6",
+    "scheduleRoom": "BE29"
+  },
+  {
+    "speakerName": "Fabrice Jumel",
+    "sessionTitle": "Comment les middlewares informatique ont changé la robotique",
+    "sessionTags": [
+      "IA / Robotique"
+    ],
+    "sessionFileName": "comment-les-middlewares-informatique-ont-change-la-robotique",
+    "scheduleDay": "2",
+    "scheduleOrder": "4",
+    "scheduleRoom": "BS31"
   }
 ]

@@ -15,7 +15,7 @@ sessionTags:
   - Agile
 scheduleDay: '1'
 scheduleOrder: '3'
-scheduleRoom: '?'
+scheduleRoom: BS27
 ---
 
 Full Pair Programming : Nightmares & Dreams

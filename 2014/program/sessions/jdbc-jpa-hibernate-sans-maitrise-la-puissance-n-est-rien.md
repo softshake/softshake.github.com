@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'JPA ORM JDBC'
 sessionTags:
   - Java
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '6'
+scheduleRoom: BS27
 ---
 
 Si vous développez en Java et que vous exploitez une base de données relationnelle, vous connaissez JPA et son implémentation la plus répandue Hibernate. L'expérience montre que la performance des applications basées sur une architecture n-tiers réside dans la maîtrise de la couche de persistance. 

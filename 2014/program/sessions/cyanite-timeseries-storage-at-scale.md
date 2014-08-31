@@ -13,9 +13,9 @@ sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: Monitoring
 sessionTags:
   - Incubateur
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '2'
+scheduleRoom: BS30
 ---
 
 Graphite is the go-to tool of sysadmins everywhere to store and retrieve timeseries data. It fits in a category of tools essential to web developers to gain insight on their application state                                                    

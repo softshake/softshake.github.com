@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'La modularité des éléments de leur conception au développement'
 sessionTags:
   - Web
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '1'
+scheduleRoom: A105
 ---
 
 L’approche modulaire, ou la création d'éléments autonomes, est devenue incontournable dans le design et l'intégration d'une application web. La présentation explique les concepts de modularité, comment les appliquer et quels sont leur avantages

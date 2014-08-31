@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'The end of server management : hosting have to become a commodity'
 sessionTags:
   - Incubateur
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '2'
+scheduleRoom: A105
 ---
 
 There is a lot of trending words about hosting and clouds theres years, but just a few focused on the essential : how to make the process and the production of hosting really neat and without problems. We have to focus about industrialization like we did about electricity a century ago : produce stable standard with a high quality of service and availability, and develop the ecosystem of consumer. So, how the PaaS, the cloud and good process will end the server management ?

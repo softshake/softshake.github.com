@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Java JEE7'
 sessionTags:
   - Java
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '5'
+scheduleRoom: BS27
 ---
 
 WildFly 8 (anciennement JBoss Application Server) est le serveur d'application JEE7 open source de Red Hat. Il se compose d'implémentatiosn solides des différentes spécifications JEE7 parmi lesquelles on notera WebSocket, Batch, JSON, Concurrency, JMS2, JAX-RS 2, CDI 1.1.

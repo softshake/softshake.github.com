@@ -13,9 +13,9 @@ sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: DevOps
 sessionTags:
   - Incubateur
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '1'
+scheduleRoom: BS31
 ---
 
 An introduction to the Puppet configuration management system. We will explore how Puppet can be used to setup software environments. From a simple development environment setup on Windows for new hires we will move to an enterprise wide Linux server farm of several thousand virtual machines.

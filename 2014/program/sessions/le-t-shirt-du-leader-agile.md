@@ -15,7 +15,7 @@ sessionTags:
   - Agile
 scheduleDay: '2'
 scheduleOrder: '5'
-scheduleRoom: A101
+scheduleRoom: BS30
 ---
 
 On entend souvent dire “Dans l’agilité il n’y a pas de chef”, Scrum conforte cette idée avec les 3 rôles sans chef et notamment cette fameuse équipe organisée. Le rôle du manager lui aussi évolue et est remis de plus en plus au centre des préoccupations : “manager-coach”, “manager-leader”. Le PO aussi peut être un leader.

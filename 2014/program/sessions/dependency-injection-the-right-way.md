@@ -13,9 +13,9 @@ sessionLevel: 'Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Dependency Injection, SOLID principles'
 sessionTags:
   - Microsoft
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '1'
+scheduleRoom: A104
 ---
 
 "Program to an interface, not an implementation" they[1] say … 

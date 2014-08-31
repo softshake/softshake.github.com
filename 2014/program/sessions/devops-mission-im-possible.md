@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant)'
 sessionTopic: DevOps
 sessionTags:
   - Incubateur
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '4'
+scheduleRoom: A102
 ---
 
 Dans un contexte d'entreprise souvent perçu comme rigide, envisager des changements techniques et organisationnels peut sembler impossible.

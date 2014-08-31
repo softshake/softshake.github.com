@@ -13,9 +13,9 @@ sessionLevel: 'Ri (avancé)'
 sessionTopic: I.A.
 sessionTags:
   - 'IA / Robotique'
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '2'
+scheduleRoom: A104
 ---
 
 Je propose une session d'1H sur la programmation par contraintes, tiré d'un cours que je fais à EPITA et Télécom ParisTech.

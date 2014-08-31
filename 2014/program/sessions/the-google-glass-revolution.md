@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Google Glass'
 sessionTags:
   - Mobilité
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '1'
+scheduleRoom: BS27
 ---
 
 This presentation will introduce the Google Glass but will focus on what this revolutionary device means for developers. We’ll cover the various ways to program for Glass, how to design Glasswares and we’ll review existing applications and interesting concepts for Glass.

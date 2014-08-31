@@ -13,9 +13,9 @@ sessionLevel: 'Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Test de performance'
 sessionTags:
   - Incubateur
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '6'
+scheduleRoom: BS31
 ---
 
 L'université de la performance vous fera découvrir comment concevoir la plus grosse fonctionnalité implicite d'une application: Sa performance.

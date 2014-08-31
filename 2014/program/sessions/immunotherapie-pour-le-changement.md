@@ -15,7 +15,7 @@ sessionTags:
   - Agile
 scheduleDay: '1'
 scheduleOrder: '2'
-scheduleRoom: '?'
+scheduleRoom: BS27
 ---
 
 « Immunity to Change »* est une dynamique mentale, un cercle vicieux, qui nous est invisible et qui nous empêche de changer. Cette dynamique cachée est consacrée à la préservation de notre façon d’interpréter le monde, de donner du sens à nos perceptions.

@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant), Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Java Microbenchmark Harness (JMH)'
 sessionTags:
   - Java
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '4'
+scheduleRoom: BS27
 ---
 
 Benchmarking - it is so simple! Twice System.nanoTime(), took the difference, and done, let's do optimization. Certainly not!

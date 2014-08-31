@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Container Management'
 sessionTags:
   - Incubateur
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '1'
+scheduleRoom: A106
 ---
 
 This session will give an introduction to Docker as a Container Manager, going from the inital principles and goals of the Docker technology to actual demonstration of the technology. It will also briefly describe Docker orchestration framework Fig and discuss the integration of Docker in OpenStack. 

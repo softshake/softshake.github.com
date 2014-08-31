@@ -13,9 +13,9 @@ sessionLevel: 'Ri (avancé)'
 sessionTopic: 'Extensions JavaEE'
 sessionTags:
   - Java
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '2'
+scheduleRoom: A104
 ---
 
 Le temps est révolu où Java EE ne serait qu'à développer des applications de mise à jour de données, avec JSF / EJB / JPA. Aujourd'hui JavaEE s'est assoupli et s'est ouvert sur le monde, avec CDI comme clé de voute et a repoussé nos limites grâce à des capacités d'extension puissantes et faciles d'utilisation comme JCA.

@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant), Ha (intermédiaire), Ri (avancé)'
 sessionTopic: DevOps
 sessionTags:
   - Incubateur
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '3'
+scheduleRoom: BE29
 ---
 
 The tricky part to implement a DevOps strategy is that there is no manual telling you exactly how to do it, and hence we have to experiment and continuously adapt the strategy until it suits your specific needs. This situation looks even worse on the Enterprise, where different departments need to collaborate, be aware and informed of whats going on. This presentation aims to show how to establish the strategy, identify key stakeholders, disseminate the culture and implement a continuous improvement process on the Enterprise, even better, we will give you a detailed view of how the DevOps strategy on one of the majors banks in Brazil evolved from Continuous Integration to a fully-fledged DevOps environment.

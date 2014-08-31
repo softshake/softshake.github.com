@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Do you want to know what happens inside your application?'
 sessionTags:
   - Microsoft
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '1'
+scheduleRoom: BS31
 ---
 
 Did you ever build a feature that no one used? Or where so sure about your assumptions that you didn’t bother to check if they are correct? Most likely the outcome was unexpected, but from there it’s a small step towards a disaster. All you would need to prevent this is the right data and a helpful metric. 

@@ -13,9 +13,9 @@ sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: 'Kinect, Windows 8, NUI, Midi, musique'
 sessionTags:
   - Microsoft
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '5'
+scheduleRoom: A106
 ---
 
 Le Kinect n'est pas qu'une simple camera de profondeur. Il ouvre la porte à des usages beaucoup plus vaste que le simple bowling sur console :)

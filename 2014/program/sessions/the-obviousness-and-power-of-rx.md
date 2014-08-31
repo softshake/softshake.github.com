@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant), Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'The duality with IEnumerable'
 sessionTags:
   - Microsoft
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '6'
+scheduleRoom: A102
 ---
 
 This talk is given in C# but there are Rx ports to a great many languages including Java. A few points may reference C#'s compiler tricks. We will also touch on stream processing which is kind of a Big Data theme. Not too sure that this talk belongs too a single track.

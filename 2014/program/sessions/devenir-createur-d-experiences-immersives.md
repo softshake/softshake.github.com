@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Interfaces Naturelles'
 sessionTags:
   - Incubateur
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '6'
+scheduleRoom: BS30
 ---
 
 Les interfaces sont en pleine explosion: interfaces naturelles, objets connectés, capteurs de mouvements, capteurs gestuelles (Kinect, LeapMotion...), réalité augmentée, Google Glass, casque d'immersion (Oculus Rift),...

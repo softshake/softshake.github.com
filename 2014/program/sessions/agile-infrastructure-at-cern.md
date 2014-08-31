@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: Cloud
 sessionTags:
   - Incubateur
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '3'
+scheduleRoom: A106
 ---
 
 CERN is the European Centre for Particle Physics based in Geneva. The home of the Large Hadron Collider and the birth place of the world wide web is expanding its computing resources with a second data centre to process over 35PB/year from one of the largest scientific experiments ever constructed.

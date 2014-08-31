@@ -13,9 +13,9 @@ sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: 'programmation réactive'
 sessionTags:
   - 'Prog. Fonctionnelle'
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '2'
+scheduleRoom: A105
 ---
 
 La programmation réactive est un terme de plus en plus utilisé pour décrire les applications modernes.

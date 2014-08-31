@@ -15,7 +15,7 @@ sessionTags:
   - 'Big Data'
 scheduleDay: '2'
 scheduleOrder: '5'
-scheduleRoom: '?'
+scheduleRoom: BE29
 ---
 
 Spree7 est une société qui opère pour ses clients des campagnes publicitaires sur le web à travers une plateforme d'enchère. Une campagne comporte un grand nombre de variables, dont l'ajustement est complexe et partiellement empirique, ce qui a conduit à la mise en place une plateforme de machine learning pour essayer d'assister les opérateurs dans ce paramètrage.

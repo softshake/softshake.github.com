@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Documentation, outils'
 sessionTags:
   - Incubateur
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '4'
+scheduleRoom: BS30
 ---
 
 “Est-ce que la doc est à jour ?”, “Qu’est ce qu’il y a dans la version précédente ?”, “C’est fatiguant de recréer à la main le PDF à chaque nouvelle version de l’application !”, "Comment je génère la table des matières dans cette m**!", " C'est quoi le style pour les titres?", “Arf Word m’a encore pété mes listes numérotés !”

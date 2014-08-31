@@ -13,9 +13,9 @@ sessionLevel: 'Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Performance testing'
 sessionTags:
   - Java
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '1'
+scheduleRoom: BS30
 ---
 
 Performance testing is a crucial part of developing an application, however it often happens at a late stage, if at all. Even though there are many testing tools, many have one or more limitations. First they are often specialised in specific areas of performance testing. Second, they use independent components that can not really be integrated in the test and build lifecycle. Finally, performance testing requires specific experience with tackling writing meaningful test scenarios, executing them and building reports.

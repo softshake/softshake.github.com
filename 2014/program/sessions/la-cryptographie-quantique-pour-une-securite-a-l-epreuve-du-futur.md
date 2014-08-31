@@ -13,9 +13,9 @@ sessionLevel: 'Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Cryptographie Quantique'
 sessionTags:
   - Incubateur
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '5'
+scheduleRoom: A105
 ---
 
 Maintenant que l'on sait que certains organismes comme la NSA enregistrent tous nos échanges de données afin de pouvoir les analyser plus tard, quand les progrès des ordinateurs quantiques leur permettront de déchiffrer les échanges utilisant des algorithmes traditionnels comme RSA pour les échanges de clés, l'industrie cherche de nouvelles solutions dites de cryptographie post-quantique.

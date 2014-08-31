@@ -15,7 +15,7 @@ sessionTags:
   - 'Big Data'
 scheduleDay: '1'
 scheduleOrder: '5'
-scheduleRoom: '?'
+scheduleRoom: A106
 ---
 
 How do you mix SQL and NoSQL worlds without starting a messy revolution?

@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Java Streams & Scala Collections : what to use when, and why ?'
 sessionTags:
   - 'Prog. Fonctionnelle'
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '4'
+scheduleRoom: A106
 ---
 
 Qui n'a pas, au moins au début, été frustré par un message quand a l'énigmatique "CanBuildFrom" ? Et avec l'arrivée de Java 8 et de ses streams , n'est-ce pas le moment de se demander quelle approche choisir ?

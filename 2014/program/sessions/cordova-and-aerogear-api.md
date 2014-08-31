@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant)'
 sessionTopic: development
 sessionTags:
   - Mobilité
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '2'
+scheduleRoom: BE29
 ---
 
 Mobile devices are increasingly important as a platform. The number of different devices on the market increases every day. This posses a challenge, how do we support all of them. Every new device comes with it's own paradigms and programming language. Wouldn't it be great if we could create one application that could support all platforms. With Cordova and AeroGear you can.

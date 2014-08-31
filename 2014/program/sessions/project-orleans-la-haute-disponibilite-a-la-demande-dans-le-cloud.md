@@ -13,9 +13,9 @@ sessionLevel: 'Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Cloud, HA, Actor model'
 sessionTags:
   - Microsoft
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '3'
+scheduleRoom: A104
 ---
 
 Venez découvrir la mise en œuvre  du projet "Orleans", Framework développez par Microsoft Research et destiner au déploiement d'application à très forte montée en charge dans Azure.

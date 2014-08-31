@@ -13,9 +13,9 @@ sessionLevel: ""
 sessionTopic: .NET
 sessionTags:
   - Microsoft
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '3'
+scheduleRoom: BS31
 ---
 
 Atif shares his experiences as an open source, mere mortal, programmer on the Microsoft .NET platform for nearly a decade. What do success and failure look like? What's a good candidate project? What works and equally important, what doesn't? Should your next project be open source? What license to choose? How about just contributing?

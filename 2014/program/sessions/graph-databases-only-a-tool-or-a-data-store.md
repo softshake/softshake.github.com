@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Graph Database'
 sessionTags:
   - 'Big Data'
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '1'
+scheduleRoom: A105
 ---
 
 Graph databases provide a modern and efficient solution to store graph-oriented data structures naturally. Many structured and associated data are stored schema free in vertices (nodes) and edges (relations) without using an index to query. With the known algorithms from graph theory, we can succeed to answer our questions on the connected data.

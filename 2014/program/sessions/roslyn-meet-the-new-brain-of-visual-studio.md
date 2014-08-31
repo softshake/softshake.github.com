@@ -13,9 +13,9 @@ sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: '?'
 sessionTags:
   - Microsoft
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '4'
+scheduleRoom: A106
 ---
 
 Roslyn is the brain of Visual Studio "14": It powers the build, IntelliSense, refactorings, and ... it is open source!

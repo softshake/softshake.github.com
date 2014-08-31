@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant), Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Tests unitaires'
 sessionTags:
   - Java
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '3'
+scheduleRoom: A105
 ---
 
 Quelle est la différence entre un bon et un mauvais testeur ? Le bon testeur il teste.... et le mauvais testeur il teste aussi ! Pourquoi proposer une nouvelle conférence sur les tests ? Il est toujours bon de rappeler certains principes et de refaire un peu d’évangélisation sur les tests.

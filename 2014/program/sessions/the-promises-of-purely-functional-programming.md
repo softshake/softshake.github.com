@@ -13,9 +13,9 @@ sessionLevel: 'Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Concurrency and Effects'
 sessionTags:
   - 'Prog. Fonctionnelle'
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '2'
+scheduleRoom: A106
 ---
 
 Most programmers nowadays are familiar with some functional programming principles.

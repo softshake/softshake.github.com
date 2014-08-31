@@ -13,9 +13,9 @@ sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: 'Développement d’application Web en JavaScript'
 sessionTags:
   - Web
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '2'
+scheduleRoom: BS27
 ---
 
 On a tous vu une présentation d’AngularJS montrant la magie des bindings et des directives. Oui, mais comment ça marche ?

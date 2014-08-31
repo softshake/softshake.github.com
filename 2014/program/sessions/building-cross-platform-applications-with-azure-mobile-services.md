@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Azure Mobile Services'
 sessionTags:
   - Mobilité
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '2'
+scheduleRoom: BS31
 ---
 
 Today's data-driven apps are all powered by a backend. In this session we will explore the core features of one such easy-to-use backend: Azure Mobile Services. We will show you how any type of front-end client be it a mobile device, a tablet or a web application on multiple platform (iOS, Android, Windows 8, Phone, Xamarin, ...) can connect to this restful API based backend (built using Node.js or .NET) and benefit from authentication, push notifications and other great out of the box capabilities.

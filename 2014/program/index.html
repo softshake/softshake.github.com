@@ -5,9 +5,19 @@ layout: 2014_default_en
 <section class="row">
 	<div class="col-sm-12">
 		<h1>Program 2014</h1>
-		<h3><a href="#day1">Day 1</a>, <a href="#day2">Day 2</a>, <a href="#unschedulled">Unschedulled</a></h3>
+		<h3><a href="#day1">Day 1</a>, <a href="#day2">Day 2</a></h3>
 	</div>
 </section>
+
+{% assign unschedulledTalks = site.data.2014.program | where: "scheduleDay", "?" %}
+{% if unschedulledTalks != empty %}
+<section id="unschedulled" class="row">
+	<div class="col-sm-12">
+		<div class="section-header text-center"><h1>Unschedulled</h1></div>
+		{% include 2014_day_talks.html day="?" %}
+	</div>
+</section>
+{% endif %}
 
 <section id="day1" class="row">
 	<div class="col-sm-12">
@@ -23,9 +33,3 @@ layout: 2014_default_en
 	</div>
 </section>
 
-<section id="unschedulled" class="row">
-	<div class="col-sm-12">
-		<div class="section-header text-center"><h1>Unschedulled</h1></div>
-		{% include 2014_day_talks.html day="?" %}
-	</div>
-</section>

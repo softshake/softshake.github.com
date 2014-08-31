@@ -15,7 +15,7 @@ sessionTags:
   - Agile
 scheduleDay: '1'
 scheduleOrder: '5'
-scheduleRoom: '?'
+scheduleRoom: BS31
 ---
 
 Suite à plusieurs observations sur le terrain, dans cette présentation, je souhaite partager avec vous quelques cas de comportements dysfonctionnels au sein des équipes agiles et dans leur organisation. Mon but est d'échanger sur ces cas, leur impacts sur la santé du projet et celle de l'équipe.

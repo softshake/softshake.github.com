@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Programmation Fonctionnelle'
 sessionTags:
   - 'Prog. Fonctionnelle'
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '3'
+scheduleRoom: A102
 ---
 
 Tout le monde parle de la Programmation Fonctionnelle ces derniers temps. Les langages fonctionnels comme Scala, Clojure, Erlang, etc. ont le vent en poupe. Java 8 aussi essaie de s'y mettre... SoftShake a même un track dédié! Mais c'est quoi au juste, la Programmation Fonctionnelle?

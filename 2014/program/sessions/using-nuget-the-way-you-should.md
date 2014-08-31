@@ -13,9 +13,9 @@ sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: NuGet
 sessionTags:
   - Microsoft
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '4'
+scheduleRoom: A104
 ---
 
 A nice and blunt title! Consuming NuGet packages, that’s what everyone does. Open source projects create NuGet packages and post them on NuGet.org. Meanwhile, all of us are still working with shared projects and fighting relative paths, versioning and so on. In this talk, we’ll use Visual Studio, NuGet and TeamCity to work with NuGet the way you should. Project references must die! Add Package Reference is everything you will ever need. 

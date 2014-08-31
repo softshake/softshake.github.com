@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Mobile Moment'
 sessionTags:
   - Mobilité
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '6'
+scheduleRoom: A105
 ---
 
 	From a customer’s perspective, what if I tell you that instead of you asking for something you need, I tell you that by better understanding your habits I will be able to provide you with exactly what you need at the right time at the right place in a given context ? What if from a business perspective, I tell you that instead of you chasing for customers they become addicted to your services and get back to you to ask for more ?  This is what mobile moment is all about, during this session we like to tell you few words on this topic and go through couple of successful implementation of this concepts in the industry. Also we will spend a bit of time, speaking about the way we need to think about mobile experience when creating application.

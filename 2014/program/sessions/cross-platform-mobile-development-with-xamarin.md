@@ -13,9 +13,9 @@ sessionLevel: ""
 sessionTopic: 'Mobile Development'
 sessionTags:
   - Mobilité
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '2'
+scheduleOrder: '5'
+scheduleRoom: A102
 ---
 
 This session will cover how  to get started building iOS and Android applications with C# and .NET using Xamarin. We'll discuss the fundamentals of mobile development on each platform and how Xamarin fits in. Then, we'll discuss how Xamarin works to produce native iOS and Android applications, and walk through an example showing how to build an application that reuses C# code.

@@ -13,9 +13,9 @@ sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: 'Akka scala actors'
 sessionTags:
   - 'Prog. Fonctionnelle'
-scheduleDay: '?'
-scheduleOrder: '?'
-scheduleRoom: '?'
+scheduleDay: '1'
+scheduleOrder: '3'
+scheduleRoom: A104
 ---
 
 In this presentation we will see how Akka remoting and Akka cluster can be used to bridge different components of an actor system. We will in particular see how this setup can reduce complexity and communication overhead while maintaining security and permitting to upgrade the different system components without downtime.
