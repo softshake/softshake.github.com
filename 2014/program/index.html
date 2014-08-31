@@ -2,12 +2,9 @@
 layout: 2014_default_en
 ---
 
-<section class="row">
-	<div class="col-sm-12">
-		<h1>Program 2014</h1>
-		<h3><a href="#day1">Day 1</a>, <a href="#day2">Day 2</a></h3>
-	</div>
-</section>
+<div class="row col-sm-12">
+	<h1>Program 2014</h1>
+</div>
 
 {% assign unschedulledTalks = site.data.2014.program | where: "scheduleDay", "?" %}
 {% if unschedulledTalks != empty %}
@@ -19,17 +16,19 @@ layout: 2014_default_en
 </section>
 {% endif %}
 
-<section id="day1" class="row">
+<section class="row">
 	<div class="col-sm-12">
-		<div class="section-header text-center"><h1>Day 1</h1></div>
-		{% include 2014_day_talks.html day="1" %}
+		<ul class="nav nav-tabs nav-justified" role="tablist">
+			<li class="active"><a data-toggle="tab" href="#day1">Day 1</a></li>
+			<li><a data-toggle="tab" href="#day2">Day 2</a></li>
+		</ul>
+		<div class="tab-content">
+			<div class="tab-pane active" id="day1">
+				{% include 2014_day_talks.html day="1" %}
+			</div>
+			<div class="tab-pane" id="day2">
+				{% include 2014_day_talks.html day="2" %}
+			</div>
+		</div>
 	</div>
 </section>
-
-<section id="day2" class="row">
-	<div class="col-sm-12">
-		<div class="section-header text-center"><h1>Day 2</h1></div>
-		{% include 2014_day_talks.html day="2" %}
-	</div>
-</section>
-
