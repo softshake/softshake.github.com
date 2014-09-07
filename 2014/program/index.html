@@ -6,7 +6,7 @@ layout: 2014_default_en
 	<h1>Le programme 2014</h1>
 </div>
 
-{% assign unschedulledTalks = site.data.2014.program | where: "scheduleDay", "?" %}
+{% assign unschedulledTalks = site.2014_program | where: "scheduleDay", "?" %}
 {% if unschedulledTalks != empty %}
 <section id="unschedulled" class="row">
 	<div class="col-sm-12">

@@ -7,6 +7,11 @@ markdown: kramdown
 
 encoding: utf-8
 
+collections:
+    2014_program:
+            output: true
+            permalink: /2014/program/sessions/:path:output_ext
+
 tracks2013:
     13_agile: Agile
     13_bigdata: BigData / noSQL

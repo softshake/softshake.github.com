@@ -1,13 +1,13 @@
 <div>
 	<h2>Keynotes</h2>
 	<p>To be announced...</p>
-	{% assign dayTalks = site.data.2014.program | where: "scheduleDay", include.day | sort: "scheduleOrder" %}
+	{% assign dayTalks = site.2014_program | where: "scheduleDay", include.day | sort: "scheduleOrder" %}
 	{% assign talksByOrder = dayTalks | group_by: "scheduleOrder" %}
 	{% for talkGroup in talksByOrder | sort: "name" %}
 		<h2>Slot {{ talkGroup.name }}</h2>
 		<div class="list-group col-md-12 col-sm-12">
 		{% for talk in talkGroup.items %}
-		<a href="/2014/program/sessions/{{ talk.sessionFileName }}.html" class="list-group-item">
+		<a href="{{ talk.url }}" class="list-group-item">
 			<div class="row">
 				<div class="pull-left col-md-1">
 					<h3><strong>{{ talk.scheduleRoom }}</strong></h3>
