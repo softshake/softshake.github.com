@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Nedjma SAIDANI'
 sessionTitle: 'Comportements dysfonctionnels d''une équipe agile'
+speakerName: 'Nedjma SAIDANI'
 speakerEmail: nsaidani@pyxis-tech.com
 speakerBio: 'Ingénieur en informatique de formation, ma passion pour l’agilité a débuté en 2007 en découvrant un peu par hasard les pratiques d’Extreme Programming. J’ai d’abord commencé à m’intéresser aux aspects techniques (TDD, refactoring, intégration continue…) et à essayer le maximum de pratiques sur mes projets, puis finalement aux valeurs et principes véhiculés dans le manifeste agile, et depuis je ne veux plus travailler sur un projet non agile ! ScrumMaster depuis 2010, j’interviens chez différents clients, où j’ai toujours le plaisir d’accompagner des équipes à adopter l’agilité et mettre en place Scrum/XP.'
 speakerAddress: Suisse

@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Thierry Wasylczenko'
 sessionTitle: '#Polyglotisme: une autre manière de développer une application'
+speakerName: 'Thierry Wasylczenko'
 speakerEmail: thierry.wasylczenko@gmail.com
 speakerBio: 'Thierry est développeur Java depuis plusieurs années chez General Electric Healthcare en France et se passionne pour l''architecture des projets, JavaFX et les nouveaux outils qui facilitent la vie d''un développeur. Il est également auteur pour RebelLabs de ZeroTurnaround et l''un des leader de l''ElsassJUG, le JUG de Strasbourg en France. Suivez le sur LinkedIn ou sur Twitter @twasyl.'
 speakerAddress: 'Strasbourg, France'

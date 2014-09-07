@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Philippe Kernevez'
 sessionTitle: 'Améliorer votre activité grace à la mise en œuvre d''Hadoop et R. Retour d''experience d''un projet d''optimisation de campagnes publicitaires'
+speakerName: 'Philippe Kernevez'
 speakerEmail: pkernevez@octo.com
 speakerBio: "Philippe a démarré sa carrière dans le développement logiciel en 1995 sur des technologies clients/serveurs (L4G Natstar, forté) avant de prendre un virage (radical) vers Java en 1998 puis de s'orienter vers le conseil en architecture chez OCTO Technology.\nPhilippe a eu l'occasion de participer à un large spectre de projets, d'équipes et de contextes. \nIl participe à plusieurs projets Open Source (Maven, JMonitoring), il est membre de l'OSSGTP ( http://www.ossgtp.org/ ) et aime découvrir de nouveaux langages et paradigmes.\n"
 speakerAddress: Lausanne

@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Duncan Mole'
 sessionTitle: 'The obviousness and power of Rx'
+speakerName: 'Duncan Mole'
 speakerEmail: duncanmole@gmail.com
 speakerBio: 'Long experience in high finance, creating low-latency, compute intensive solutions. Rx fanboy and long time user (since before the public beta when it was leaked with the Silverlight Control test suite), Credited on http://www.introtorx.com/ and Reactive Manifesto subscriber.'
 speakerAddress: Geneve

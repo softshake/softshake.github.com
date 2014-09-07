@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Micha Roon'
 sessionTitle: 'applications web réactives avec meteor'
+speakerName: 'Micha Roon'
 speakerEmail: micha.roon@managination.com
 speakerBio: "Micha est un développeur senior et un passioné de nouvelles technologies. Il a écrit plusieurs applications Web avec JQuery et un back-end java et depuis 2012 client et serveur en JavaScript avec node.js et express et aussi avec meteor.\n\nEvangeliste de la nécessité de créer des tests automatiques, Micha cultive les approches BDD et TDD dans ses développements. "
 speakerAddress: Lausanne

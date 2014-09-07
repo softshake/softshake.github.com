@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'DuyHai DOAN'
 sessionTitle: 'Achilles, le meilleur compagne de Cassandra'
+speakerName: 'DuyHai DOAN'
 speakerEmail: doanduyhai@gmail.com
 speakerBio: "Développeur Java depuis toujours, je me suis passionné pour le domaine du Big Data et plus particulièrement pour Cassandra depuis plusieurs années. Je fais régulièrement des présentations pour vulgariser l'utilisation de Cassandra au plus grand nombre.\n\nLa journée, je participe au projet Libon, le Viber/WhatsApp du groupe Orange en utilisant Cassandra comme solution NoSQL. \n\nLe soir, je code sur Achilles, un object mapper pour rendre le développement sur Cassandra encore plus aisé et productif (approche TDD,  génération du schéma, request tracing ...)"
 speakerAddress: 'Paris, FRANCE'

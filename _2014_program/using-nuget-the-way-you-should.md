@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Maarten Balliauw'
 sessionTitle: 'Using NuGet the way you should'
+speakerName: 'Maarten Balliauw'
 speakerEmail: maarten@balliauw.be
 speakerBio: 'Maarten Balliauw is a Technical Evangelist at JetBrains. His interests are all web: ASP.NET MVC, PHP and Windows Azure. Maarten also co-founded MyGet, hosting private NuGet feeds for teams. He''s a Microsoft Most Valuable Professional (MVP) for Windows Azure and an ASPInsider. He has published many articles in both PHP and .NET literature such as MSDN magazine and PHP architect. Maarten is a frequent speaker at various national and international events such as MIX (Las Vegas), TechDays, DPC, ... His blog can be found at http://blog.maartenballiauw.be.'
 speakerAddress: 'Antwerp, Belgium'

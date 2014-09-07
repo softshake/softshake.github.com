@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Atif Aziz'
 sessionTitle: 'F# for C# Programmers: The Good, the Bad and the Ugly'
+speakerName: 'Atif Aziz'
 speakerEmail: azizatif@gmail.com
 speakerBio: 'Atif has over 20 years of professional software development experience on the Microsoft Windows platform & has been contributing open source libraries for nearly a decade.'
 speakerAddress: 'Nyon, Suisse'

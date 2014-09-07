@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Houssam FAKIH'
 sessionTitle: 'Full Pair Programming : Nightmares & Dreams'
+speakerName: 'Houssam FAKIH'
 speakerEmail: houssam.fakih@gmail.com
 speakerBio: 'https://www.linkedin.com/in/hfakih'
 speakerAddress: 'Paris, France'

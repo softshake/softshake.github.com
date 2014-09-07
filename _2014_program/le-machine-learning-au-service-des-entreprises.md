@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Marc-Philippe Huget'
 sessionTitle: 'Le machine learning au service des entreprises'
+speakerName: 'Marc-Philippe Huget'
 speakerEmail: Marc-Philippe.Huget@univ-savoie.fr
 speakerBio: 'Je suis maître de conférences à l''université de Savoie (France). J''ai obtenu ma thèse en informatique en 2001 sur un thèse portant sur la communication entre agents. Je travaille sur l''IA et plus particulièrement les systèmes multi-agents depuis 1997.'
 speakerAddress: 'Annecy, France'

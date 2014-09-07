@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Audrey Lièvremont'
 sessionTitle: 'HTML : why content is important'
+speakerName: 'Audrey Lièvremont'
 speakerEmail: audrey.lievremont@gmail.com
 speakerBio: "Audrey est développeuse chez AIM. Elle a 8 ans d’expérience dans les projets Web à Belfort, Grenoble et Genève.\n\nGeekette, mariée à un geek et mère de deux enfants (futurs geeks ?), elle est passionnée par le développement et participe aux soirées du GenevaJUGs et des Human Talks.\n\nEn 2012 elle a co-fondé jDuchess Swiss, une organisation qui a comme but d’attirer et donner de la visibilité aux femmes dans le monde du développement."
 speakerAddress: 'Saint Genis Pouilly, France'

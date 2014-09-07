@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Géraud de Laval'
 sessionTitle: 'What is UX?'
+speakerName: 'Géraud de Laval'
 speakerEmail: gerauddelaval@gmail.com
 speakerBio: "Géraud a commencé à développer sur son iPhone durant l’été 2008 pour le compte d’un laboratoire de l’EPFL. Le SDK a évolué, l’iPad est arrivé et au travers de ses différentes projets de développement, Géraud a découvert le fabuleux domaine de l’expérience utilisateur, finalement : à quoi sert le plus beau code du monde si il n’est jamais utilisé?\n\nAujourd’hui, chez Sysmosoft, Géraud participe au développement d’une plateforme mobile de sécurité. Il s’occupe de l’expérience utilisateur et développe les applications iOS. "
 speakerAddress: Lausanne

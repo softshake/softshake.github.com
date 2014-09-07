@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Guillaume Vial'
 sessionTitle: 'Team Leader'
+speakerName: 'Guillaume Vial'
 speakerEmail: guillaume@vial.io
 speakerBio: "Je gère des projets et des équipes de développement depuis maintenant une dizaine d'année. Ayant évolué dans le secteur financier et plus récemment dans l'industrie et le luxe, j'ai travaillé sur différents projets impliquant des gros systèmes backoffice et frontaux.\nDurant ces années, j'ai pu expérimenter diverses approches de management de projets. A chaque fois, j'ai constaté que le développement logiciel revêt une grande part d'imprédictibilité. Plutôt que de nier, minimiser ou lutter contre cet état de fait, je pense que le bon choix pour une organisation est aujourd'hui d'augmenter sa capacité à gérer l'impondérable."
 speakerAddress: 'Lausanne, Suisse'

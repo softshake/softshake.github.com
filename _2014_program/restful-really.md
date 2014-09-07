@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Xavier Carpentier'
 sessionTitle: '#Restful, really ?'
+speakerName: 'Xavier Carpentier'
 speakerEmail: contact@xavier-carpentier.com
 speakerBio: "Xavier est développeur depuis 7 ans et il est maintenant indépendant dans les domaines du web et du mobile.\n\nC’est un adepte des frameworks conventionnés (Play Scala et Ruby On Rails) ainsi que des innovations côté client comme les nouveaux frameworks MVC JavaScript du type AngularJS.\n\nBref, il se passionne pour tout ce qui gravite autour du vaste monde de la toile et par conséquent pour le style d’architecture Rest."
 speakerAddress: Schwindratzheim

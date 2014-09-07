@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Tremeur Balbous'
 sessionTitle: 'Immunothérapie pour le changement'
+speakerName: 'Tremeur Balbous'
 speakerEmail: tbalbous@pyxis-tech.com
 speakerBio: "Coach en développement intégral certifié New Ventures West, Professional Scrum Trainer certifié par Scrum.org, facilitateur Immunity to Change, conférencier, à Pyxis Suisse, Tremeur Balbous accompagne les équipes et les dirigeants d'organisations dans leur transition Agile. \nIl se définit comme le catalyseur d'une vie intentionnellement accomplie."
 speakerAddress: 'Saint-Sixt (74, France'

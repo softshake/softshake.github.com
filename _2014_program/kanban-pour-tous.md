@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Romain Couturier'
 sessionTitle: 'Kanban pour tous'
+speakerName: 'Romain Couturier'
 speakerEmail: couturier.romain@gmail.com
 speakerBio: "Romain Couturier est coach agile, facilitateur graphique et formateur. En tant qu’artisan du changement, il accompagne les équipes et les organisations dans leur transition et évolution vers l’agilité. Il travaille à développer la valeur ajoutée des produits avec les responsables métier, unifier les équipes, et soutenir les managers dans le déploiement de contextes d'amélioration continue\nIl est passé indépendant avec Terre d’Agile en 2012 après 10 années d’apprentissage dans les mondes de l’édition logicielle, startup et SSII.\n\t\nIl contribue à la communauté agile en tant que membre du CARA Lyon, co-fondateur de la conférence Mix-IT et membre de la Fédération Agile. \n"
 speakerAddress: 'Lyon, France'

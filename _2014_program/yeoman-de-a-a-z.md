@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Toni Fisler'
 sessionTitle: 'Yeoman de A à Z'
+speakerName: 'Toni Fisler'
 speakerEmail: toni@antistatique.net
 speakerBio: 'Passionné par le monde du développement frontend, je m''intéresse tout particulièrement aux nouvelles méthodes nées dans la communauté Javascript. Utilisateur de la stack Bower, Yeoman, Grunt et Gulp depuis plus d''une année j''aimerai vous transmettre ma passion pour l''efficacité de ces outils.'
 speakerAddress: 'Lausanne, Suisse'

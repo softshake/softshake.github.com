@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Noé Beuret'
 sessionTitle: 'Secure your Apps'
+speakerName: 'Noé Beuret'
 speakerEmail: noe.beuret@sysmosoft.com
 speakerBio: 'Noé travaille depuis plus de deux ans chez Sysmosoft en tant que développeur Android où il développe SENSE: une plateforme de sécurité dédiée aux développeurs d’applications mobiles.'
 speakerAddress: Neuchâtel
@@ -13,6 +13,12 @@ sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Sécurité sur mobile'
 sessionTags:
   - Mobilité
+secondSpeakerName: 'Marc-Henri Primault'
+secondSpeakerEmail: marc-henri.primault@sysmosoft.com
+secondSpeakerBio: 'Voilà presque deux ans que Marc-Henri travaille chez Sysmosoft comme développeur iOS où il développe SENSE: une plateforme de sécurité dédiée aux développeurs d’applications mobiles.'
+secondSpeakerTitle: 'Ingénieur HES en informatique'
+secondSpeakerOrganization: Sysmosoft
+secondSpeakerAvatarUrl: 'http://www.gravatar.com/avatar/514b64d8e2ce95f08503c1c5f6594faa?size=200&default=mm'
 scheduleDay: '1'
 scheduleOrder: '5'
 scheduleRoom: A104

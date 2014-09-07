@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Mirco Dotta'
 sessionTitle: 'Go Reactive: Event-driven, Scalable, Resilient and Responsive Systems'
+speakerName: 'Mirco Dotta'
 speakerEmail: mirco.dotta@typesafe.com
 speakerBio: 'Mirco Dotta is EMEA Professional Services Manager at Typesafe and a long-standing contributor to the Scala IDE for Eclipse. His interests include concurrency, both OO and functional programming, software design, and testing. Mirco enjoys tweeting as @mircodotta. In his freetime, you''ll often see him next to a foosball table.'
 speakerAddress: Lausanne

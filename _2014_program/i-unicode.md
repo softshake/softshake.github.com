@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Nicolas Seriot'
 sessionTitle: 'I � Unicode'
+speakerName: 'Nicolas Seriot'
 speakerEmail: nicolas@seriot.ch
 speakerBio: "Nicolas participe aux réunions CocoaHeads Lausanne et publie régulièrement son code sur GitHub. Il s’est notamment intéressé aux APIs privées sur iOS, aux données personnelles accessibles par les applications distribués sur l’App Store, au runtime Objective-C, au format Mach-O et à la sécurité de l’API Twitter. Nicolas a présenté son travail dans des conférences telles que BlackHat, NSConference et Hack In The Box et bien sûr SoftShake.\n\nNicolas a d’abord travaillé sur divers projets à Sen:te avant de s’occuper des applications iOS chez Swissquote, où il gère maintenant une équipe de huit développeurs mobile. Il est titulaire d’un diplôme d’ingénieur HES (Yverdon) en informatique logiciel et d’un Master of Advanced Studies en Lutte contre la criminalité économique (Neuchâtel)."
 speakerAddress: '1058 Villars-Tiercelin'

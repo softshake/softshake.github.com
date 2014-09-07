@@ -14,7 +14,13 @@
 				</div>
 				<div class="col-md-9">
 					<h4 class="list-group-item-heading">{{ talk.sessionTitle }}</h4>
-					<p class="list-group-item-text">{{ talk.speakerName }}</p>
+					<p class="list-group-item-text">
+						{% if talk.secondSpeakerName %}
+							{{ talk.speakerName }}, {{ talk.secondSpeakerName }}
+						{% else %}
+							{{ talk.speakerName }}
+						{% endif %}
+					</p>
 				</div>
 				<div class="pull-right col-md-2">
 					{% for tag in talk.sessionTags %}

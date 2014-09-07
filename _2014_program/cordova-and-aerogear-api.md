@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Erik Jan de Wit'
 sessionTitle: 'Cordova and AeroGear API'
+speakerName: 'Erik Jan de Wit'
 speakerEmail: edewit@redhat.com
 speakerBio: 'Erik Jan de Wit is a Senior Engineer at JBoss by Red Hat and a responsible for mobile development. Erik Jan created mobile games that used cordova and now uses that know how to support cordova for AeroGear.'
 speakerAddress: Zufikon

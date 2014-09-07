@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Alexis Hassler'
 sessionTitle: 'Avec Java EE, fais ce que tu veux'
+speakerName: 'Alexis Hassler'
 speakerEmail: alexis.hassler@gmail.com
 speakerBio: "Alexis Hassler est développeur Java depuis une douzaine d'années. Il exerce son métier comme indépendant, en codant, mais aussi en accompagnant ou formant les entreprises pour les aider à améliorer leur façon de développer et de déployer leurs applications Java. \n\nIl est co-leader du LyonJUG (lyonjug.org) et aide à l’organisation de Mix-IT (mix-it.fr), l'excellente conférence annuelle à Lyon.\n"
 speakerAddress: 'Chamelet, France'

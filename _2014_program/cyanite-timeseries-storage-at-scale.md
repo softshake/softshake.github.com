@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'pierre-yves ritschard'
 sessionTitle: 'Cyanite: timeseries storage at scale'
+speakerName: 'pierre-yves ritschard'
 speakerEmail: pyr@spootnik.org
 speakerBio: "Pierre-Yves is CTO at exoscale where he is responsible for architecture and strategic technology choices, relying on experience in the architecture of very large corporate system as well as technical product design in several startups.\n\nPierre-Yves is an active member of the open-source community with key contributions to OpenBSD, collectd and riemann amongst others."
 speakerAddress: ecublens

@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Jean-François Poilprêt'
 sessionTitle: 'Arduino B.A.-BA'
+speakerName: 'Jean-François Poilprêt'
 speakerEmail: jfpoilpret@gmail.com
 speakerBio: "Actuellement Senior Manager à ELCA SA, ingénieur en informatique depuis 25 ans, Jean-François a travaillé au fil des ans à tous les postes du développement logiciel: développeur, analyste, testeur, architecte, chef de projet. Jean-François est un fan de technique et aime toujours \"mettre les mains dans le cambouis\" en particulier quand il s'agit de: développer en Java, Python ou C++, ou bien mettre en place des outils de tests automatiques.\n\nAprès avoir découvert Arduino en 2012, il est redevenu un hobbyiste passionné d'électronique, convaincu que l'électronique pour tous va voir naître une nouvelle catégorie de techies: après les Geeks, les Makers.\n"
 speakerAddress: 'Lausanne, Suisse'

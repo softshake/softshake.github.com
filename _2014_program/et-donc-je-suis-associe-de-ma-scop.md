@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Thierry CROS'
 sessionTitle: 'Et donc je suis associé de ma SCOP'
+speakerName: 'Thierry CROS'
 speakerEmail: tco@thierrycros.net
 speakerBio: 'Salarié, fondateur d''entreprises, indépendant, entrepreneur-salarié d''une SCOP d''emploi'
 speakerAddress: 'Castans, France'

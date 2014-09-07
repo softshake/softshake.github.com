@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Carlo Jelmini'
 sessionTitle: 'Introduction à la programmation fonctionnelle'
+speakerName: 'Carlo Jelmini'
 speakerEmail: carlo.jelmini@crossing-tech.com
 speakerBio: 'Software engineer chez Crossing-Tech. A passé plus de 10 ans à tenter de faire du design Orienté Object avec Java. Il se soigne maintenant depuis 3 ans avec Scala et la Programmation Fonctionnelle, mais le chemin vers la guérison est long...'
 speakerAddress: 'Lausanne, Suisse'

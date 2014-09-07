@@ -25,9 +25,12 @@ layout: 2014_default_en
 </section>
 
 <section class="row">
+	{% if page.secondSpeakerName %}
+	<h2>About speakers</h2>
+	{% else %}
+	<h2>About speaker</h2>
+	{% endif %}
 	<div class="col-sm-12">
-		<h2>About speaker</h2>
-		
 		<div class="col-sm-3">
 			<div class="speaker">
 				<div class="speaker-info">
@@ -50,4 +53,30 @@ layout: 2014_default_en
 			<p>{{ page.speakerBio }}</p>
 		</div>
 	</div>
+
+	{% if page.secondSpeakerName %}
+		<div class="col-sm-12">
+				<div class="col-sm-3">
+					<div class="speaker">
+						<div class="speaker-info">
+							<div class="speaker-photo">
+								<img src="{{ page.secondSpeakerAvatarUrl }}" alt="{{ page.secondSpeakerName }}">
+							</div>                   
+							<!--           
+							<div class="speaker-contacts">
+								<a href="#" class="contact pull-left fa fa-facebook"></a>
+								<a href="#" class="contact pull-right fa fa-twitter"></a>
+							</div>
+							-->
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-9">
+					<h3>{{ page.secondSpeakerName }}</h3>
+					<h5>{{ page.secondSpeakerTitle }}, {{ page.secondSpeakerOrganization }}</h5>
+					<br>
+					<p>{{ page.secondSpeakerBio }}</p>
+				</div>
+		</div>
+	{% endif %}
 </section>

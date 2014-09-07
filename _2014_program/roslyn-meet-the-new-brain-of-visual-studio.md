@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Dinesh Bolkensteyn'
 sessionTitle: 'Roslyn: Meet the new brain of Visual Studio'
+speakerName: 'Dinesh Bolkensteyn'
 speakerEmail: dinesh@dinsoft.net
 speakerBio: 'Dinesh is leading the development of the .NET plugins for SonarQube at SonarSource.'
 speakerAddress: 'Morges, Suisse'

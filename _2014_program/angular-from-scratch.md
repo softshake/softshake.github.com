@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Matthieu Lux'
 sessionTitle: 'Angular From Scratch'
+speakerName: 'Matthieu Lux'
 speakerEmail: matthieu.lux@gmail.com
 speakerBio: "Développeur et formateur JavaScript et Java au sein de l'agence lyonnaise de Zenika. (@Swiip & http://swiip.github.com/)\n\nMa contribution technique à de nombreux projets Web m’a permis d'être expert à la fois dans les technologies du Web (JavaScript, AngularJS, NodeJS, Gulp...) et les architectures Java EE (Spring, Hibernate, JPA ...).\n\nPassionné de JavaScript, je suis également administrateur du Lyon JS et contributeur OpenSource pour un générateur Yeoman Gulp Angular (https://github.com/Swiip/generator-gulp-angular)."
 speakerAddress: 'Lyon, France'

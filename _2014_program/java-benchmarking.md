@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Mandrikov Evgeny'
 sessionTitle: 'Java Benchmarking'
+speakerName: 'Mandrikov Evgeny'
 speakerEmail: mandrikov@gmail.com
 speakerBio: 'Software Gardener, addicted to open source and code quality, hired by SonarSource after creation of improved open source analogs of their commercial products. Currently working as a technical leader of Language team, responsible for development of source code analyzers for languages like Java, C/C++, C#, JavaScript, Python, COBOL, PL/SQL; implementator of cross project duplication detection. In a spare time working on other projects like for example JaCoCo.'
 speakerAddress: 'La Roche sur Foron, France'

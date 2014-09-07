@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Johnny Graber'
 sessionTitle: 'Metrics Based Decisions'
+speakerName: 'Johnny Graber'
 speakerEmail: JG@JGraber.ch
 speakerBio: ""
 speakerAddress: 'Berne, Suisse'

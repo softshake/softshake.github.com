@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Tim Bell'
 sessionTitle: 'Agile Infrastructure at CERN'
+speakerName: 'Tim Bell'
 speakerEmail: tim.bell@cern.ch
 speakerBio: 'Tim Bell is responsible for the CERN IT Infrastructure Group which supports Windows, Mac and Linux across the site along with virtualisation, E-mail and web services. These systems are used by over 11,000 scientists researching fundamental physics, finding out what the Universe is made of and how it works. Prior to working at CERN, Tim worked for Deutsche Bank managing private banking infrastructure in Europe and for IBM as a Unix kernel developer and deploying large scale technical computing solutions.'
 speakerAddress: 'CH-1211 Genève 23'

@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Alain Regnier'
 sessionTitle: 'the Google Glass Revolution'
+speakerName: 'Alain Regnier'
 speakerEmail: alain@altolabs.com
 speakerBio: "Alain Regnier is a Technical Architect and Entrepreneur passionate about innovation and new technologies. He has spent 10 years in Silicon Valley working for startups and large companies, where he co-authored various standards about Web Services and Connected Devices.\n\nHe became the first Glass Explorer and developer on Google Glass in France in may 2013.\n"
 speakerAddress: 'Paris, France'

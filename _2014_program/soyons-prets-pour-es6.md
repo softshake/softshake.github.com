@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Philippe Charriere'
 sessionTitle: 'Soyons prêts pour ES6'
+speakerName: 'Philippe Charriere'
 speakerEmail: ph.charriere@gmail.com
 speakerBio: ""
 speakerAddress: LYON

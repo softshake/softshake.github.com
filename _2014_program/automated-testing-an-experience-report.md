@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Tim Macfarlane'
 sessionTitle: 'Automated Testing: An Experience Report'
+speakerName: 'Tim Macfarlane'
 speakerEmail: tim@featurist.co.uk
 speakerBio: 'Tim Macfarlane has been in the programming game since he was just a wee tacker writing adventure games in BASIC when he was 10 using only IF statements. Since then he has come to appreciate the finer points of polymorphism, functional programming and automated testing, and has become addicted to writing programming languages and grumbling about agile project management tools.'
 speakerAddress: France

@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Trond Bjerkestrand'
 sessionTitle: 'Putting Akka cluster to work'
+speakerName: 'Trond Bjerkestrand'
 speakerEmail: trond@groosker.com
 speakerBio: 'Trond is a entrepreneur and part-time Scala teacher and consultant. He is one of the organisers of the Geneva Scala enthusiasts group. He previously taught developers how to take advantage of the Scala language, Akka, Slick and Play as a Typesafe trainer.'
 speakerAddress: 'Lausanne, Suisse'

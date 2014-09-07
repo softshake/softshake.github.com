@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Aurélien Broszniowski'
 sessionTitle: 'Write your own performance framework easily!'
+speakerName: 'Aurélien Broszniowski'
 speakerEmail: aurbrsz@gmail.com
 speakerBio: "Coder since he was a teenager, currently Lead Engineer at Terracotta/Software AG, the company behind Ehcache, Bigmemory and Quartz, Aurelien has worked as a freelancer for many years in the java ecosystem. \nHe has also worked on several open source projects, the latest being Rainfall, a java performance testing framework."
 speakerAddress: Paris

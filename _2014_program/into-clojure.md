@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Rob Branchat'
 sessionTitle: '(into clojure)'
+speakerName: 'Rob Branchat'
 speakerEmail: rob@sixsq.com
 speakerBio: ""
 speakerAddress: Zürich

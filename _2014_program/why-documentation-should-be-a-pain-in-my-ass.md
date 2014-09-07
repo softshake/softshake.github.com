@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Guillaume Scheibel'
 sessionTitle: 'Why documentation should be a pain in my ass ?'
+speakerName: 'Guillaume Scheibel'
 speakerEmail: guillaume.scheibel@gmail.com
 speakerBio: "Guillaume est développeur chez Expeida à Londres et a travaillé durant quelques années en France pour une grosse société de services. Il a également co-créé le JUG pour la région de Strasbourg (ElsassJUG) et contribue à 2 projets open-sources (Hibernate OGM et Infinispan). \nDe temps en temps, il parle à différentes conférences (Soft-Shake, Devoxx FR et BE) ou JUGs. "
 speakerAddress: Londres

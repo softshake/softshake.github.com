@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Damian Mehers'
 sessionTitle: 'What is it like to build for Wearable devices?'
+speakerName: 'Damian Mehers'
 speakerEmail: damian@mehers.com
 speakerBio: 'Damian Mehers works for Evernote, currently focused on Wearable technology. He created the Evernote apps for the Samsung Galaxy Gear, the Pebble, and for Android Wear.  He lives in Crans-pres-Celigny, near Nyon and speaks both French and English.'
 speakerAddress: Crans-pres-Celigny

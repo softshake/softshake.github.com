@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Marc-Antoine Galilée'
 sessionTitle: 'Gamedev with Scala'
+speakerName: 'Marc-Antoine Galilée'
 speakerEmail: marc-antoine.galilee@mines-nancy.org
 speakerBio: "Passionné de sciences et technologies depuis toujours, ingénieur de formation, puis consultant en software development. Mon job ne me donnant que rarement pleine satisfaction, j'ai toujours gardé une activité IT 'pour le fun' en dehors des heures de bureau, traitant de sujets dont j'avais envie avec les technos dont j'avais envie.\nAinsi, j'ai récemment décidé d'étendre mon expérience fonctionnelle avec Scala dans mon domaine préféré, le jeu vidéo."
 speakerAddress: 'genève, suisse'

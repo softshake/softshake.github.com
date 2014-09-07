@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Thibaud Desodt'
 sessionTitle: 'Dependency Injection, the right way'
+speakerName: 'Thibaud Desodt'
 speakerEmail: tibo.desodt@gmail.com
 speakerBio: "Thibaud is a French .NET developer living in Belgium. He is currently working for the French Government in a Scrum team based in Brussels, where he builds web applications. \n\nHe is slightly obsessed with topics such as TDD, object-oriented design the SOLID way and enjoys deleting dead code nearly as much as writing new one.\n\nWhen at home, he spends most of his time taking care of his daughter, playing or listening to music, or reading the internet ... in no particular order.\n"
 speakerAddress: 'Bruxelles, Belgique'

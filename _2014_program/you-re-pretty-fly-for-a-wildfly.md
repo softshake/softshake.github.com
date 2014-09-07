@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Emmanuel Hugonnet'
 sessionTitle: 'You’re pretty fly for a WildFly '
+speakerName: 'Emmanuel Hugonnet'
 speakerEmail: ehugonne@redhat.com
 speakerBio: ""
 speakerAddress: 'Barraux, France'

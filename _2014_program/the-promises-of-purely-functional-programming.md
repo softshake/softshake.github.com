@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Alois Cochard'
 sessionTitle: 'The Promises of Purely Functional Programming.'
+speakerName: 'Alois Cochard'
 speakerEmail: alois.cochard@gmail.com
 speakerBio: 'Passionate Hacker'
 speakerAddress: 'London, UK'

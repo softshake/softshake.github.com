@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Corinne Krych'
 sessionTitle: 'OAuth2 made easy'
+speakerName: 'Corinne Krych'
 speakerEmail: corinnekrych@gmail.com
 speakerBio: ""
 speakerAddress: Grasse

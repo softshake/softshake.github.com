@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Marcelo Ancelmo'
 sessionTitle: 'DevOps@Enterprise - Lessons from the Trenches'
+speakerName: 'Marcelo Ancelmo'
 speakerEmail: marceloancelmo@gmail.com
 speakerBio: 'Marcelo S. Ancelmo is currently a Senior IT Specialist with IBM, delivering to customers in Brazil tangible solutions with a specific focus on software architecture, middleware platforms, performance management and DevOps. In his twelve years of practical IT field experience, Marcelo has assisted, supported, mentored, and enabled teams with their IT application infrastructure, architecture, development, implementation, and operations challenges. A frequent conference speaker on software development, architecture and DevOps, with an active presence on the software community in Brazil and a Hackathon aficionado.'
 speakerAddress: 'Brasilia, Brazil'

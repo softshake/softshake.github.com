@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Quentin ADAM'
 sessionTitle: 'How to scale ?'
+speakerName: 'Quentin ADAM'
 speakerEmail: quentin.adam@clever-cloud.com
 speakerBio: "Quentin ADAM is the CEO of Clever Cloud : a Platform as a Service company allowing you to run java, scala, ruby, node.js, php, python or go applications, with auto scaling and auto healing features. This position allow him to study lots of applications, code, practice, and extract some talks and advises. Regular speaker at various tech conference, he’s focused to help developers to deliver quickly and happily good applications.\n"
 speakerAddress: 'Nantes, FRANCE'

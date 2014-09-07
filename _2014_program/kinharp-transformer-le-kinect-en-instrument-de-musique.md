@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Nicolas CLERC'
 sessionTitle: 'KinHarp … transformer le Kinect en instrument de musique'
+speakerName: 'Nicolas CLERC'
 speakerEmail: nclerc@quidmind.com
 speakerBio: "Consultant, Expert technique, passionné et Geek ... à proportion idéale, secouer le shaker ... saupoudrez de plus de 15ans d'expérience profession sur les technologies Microsoft; vous obtenez un Microsoft Regional Director apte à vous accompagner dans la mise en œuvre de vos projets de développement applicatif (Cloud, Mobilité, Client riche/web, IoT)\nLa tête dans l'Azure et le Cloud, mais les mains sur le clavier; les pieds sur terre mais expert en mobilité C#/.Net, n'hésitez pas à venir me parler de vos projets et problématiques, nous ne pourrons que trouver une solution.\n"
 speakerAddress: 'LYON, France'

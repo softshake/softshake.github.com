@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Yann Gouffon'
 sessionTitle: 'Modular first'
+speakerName: 'Yann Gouffon'
 speakerEmail: yann@antistatique.net
 speakerBio: 'Toujours à la recherche de l''outil ultime pour simplifier mon travail, j’aime me former sur de nouvelles méthodes et découvrir des technologies permettant de réduire au maximum la marge entre conceptualisation et réalisation.'
 speakerAddress: 'Lausanne, Suisse'

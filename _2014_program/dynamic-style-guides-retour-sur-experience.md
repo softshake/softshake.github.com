@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Marc Friederich'
 sessionTitle: 'Dynamic Style Guides – Retour sur expérience'
+speakerName: 'Marc Friederich'
 speakerEmail: marc@antistatique.net
 speakerBio: "Actif dans le développement et le design d'applications web depuis plus de 10 ans, j'aime optimiser et améliorer l'expérience des utilisateurs finaux. Une bonne architecture, une compréhension du métier, un visuel et surtout du fonctionnel font la recette des applications réussies. \nLes webstyleguides ou chartes des éléments d'une application web nous permettent d'optimiser notre processus de réalisation et rendent les projets durables. Voilà une excellente raison de vous en parler."
 speakerAddress: 'Lausanne, Suisse'

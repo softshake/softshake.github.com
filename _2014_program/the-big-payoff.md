@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Alexandre BOUTIN'
 sessionTitle: 'The Big Payoff'
+speakerName: 'Alexandre BOUTIN'
 speakerEmail: a.boutin@agiletoyou.com
 speakerBio: "Diplômé de l’Ensimag en 1989, Alexandre découvre l’Agilité en 2004 et prend en charge la promotion de l’Agilité en Europe, Asie et Inde pour Yahoo International de 2005 à 2009.\nDébut 2009, Alexandre décide de créer la société AGILETOYOU pour former et accompagner de nombreux clients désireux de devenir \"Agile\" (Orange, EDF, Total, Samse, BBC, HP, Schneider …) et depuis 2012, Alexandre déploie l'agilité en dehors de l'IT.\nAlexandre est de plus un orateur régulier des conférences nationales et est vice-président du CARA (Club Agile Rhône Alpes).\n"
 speakerAddress: 'Claix, France'

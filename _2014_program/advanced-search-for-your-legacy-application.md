@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'David Pilato'
 sessionTitle: 'Advanced search for your legacy application'
+speakerName: 'David Pilato'
 speakerEmail: david@pilato.fr
 speakerBio: "David Pilato is Technical Advocate at Elasticsearch and the creator of the Elasticsearch French Speakers User Group. He is a a frequent speaker about all things Elasticsearch, including previous editions of Devoxx (Belgium 2013 plus France 2012 & 2013). In his free time, he enjoys coding and DJs four times per year, just for fun. He lives with his family in Cergy, France.\n"
 speakerAddress: CERGY

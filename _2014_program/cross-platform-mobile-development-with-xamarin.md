@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Mike Bluestein'
 sessionTitle: 'Cross-platform Mobile Development with Xamarin'
+speakerName: 'Mike Bluestein'
 speakerEmail: mikeb@xamarin.com
 speakerBio: 'Michael Bluestein is a developer evangelist for Xamarin. He is the author of Learning MonoTouch, A Hands-On Guide to Building iOS Applications with C# and .NET and wrote many of the articles found on developer.xamarin.com. A former Principal Software Engineer at Dassault Systèmes Solidworks Corporation, he has developed software professionally since the early 90s. Michael is also the founder of the Boston Mobile C# Developers'' Group.'
 speakerAddress: 'Boston, United States'

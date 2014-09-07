@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Patrick Baumgartner'
 sessionTitle: 'Graph Databases - Only a Tool or a Data Store?'
+speakerName: 'Patrick Baumgartner'
 speakerEmail: patrick.baumgartner@42talents.com
 speakerBio: "Patrick Baumgartner works as a passionate software craftsman at 42talents and builds software with Java/JEE, Spring Framework, OSGi, NoSQL databases and other open source technologies. Since he got in touch with Neo4j a few years ago, he sees the whole world as one big connected graph and loves to talk about it.\n\nPatrick is a host of the Neo4j Zurich and the Software Craftsmanship Zurich Meetup group and is engaged in the agile community in Switzerland.\n\nTwitter: @patbaumgartner, @42talents\n"
 speakerAddress: Zürich

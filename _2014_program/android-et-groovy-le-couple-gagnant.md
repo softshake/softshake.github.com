@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Cédric Champeau'
 sessionTitle: 'Android et Groovy : le couple gagnant'
+speakerName: 'Cédric Champeau'
 speakerEmail: cedric.champeau@gmail.com
 speakerBio: 'Cédric Champeau est committer sur Groovy Core. Il a rejoint Pivotal afin de participer au développement du langage après avoir passé plusieurs années à l''exploiter de manière industrielle chez un éditeur logiciel, Lingway, dans de multiples contextes (TALN, DSL, scripting, workflows, ...). Il a notamment développé le type checker et le compilateur statique qui ont fait leur apparition dans Groovy 2.'
 speakerAddress: 'Saint Hilaire de Loulay, France'

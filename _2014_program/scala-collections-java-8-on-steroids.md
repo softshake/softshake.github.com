@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'François Garillot'
 sessionTitle: 'Scala Collections : Java 8 on Steroids'
+speakerName: 'François Garillot'
 speakerEmail: francois.garillot@typesafe.com
 speakerBio: 'François Garillot a rejoint Typesafe en 2011, mais une vie antérieure dans le domaine de la recherche lui a permis de découvrir Scala depuis 2006. Entre les deux, il a travaillé sur les systèmes de types de différents langages de programmation fonctionnels, avec un intérêt particulier pour la programmation générique. Chez Typesafe, il s''intéresse particulèrement aux interfaces entre le compilateur et les outils interactifs comme ScalaIDE.'
 speakerAddress: 'Lausanne, Suisse'

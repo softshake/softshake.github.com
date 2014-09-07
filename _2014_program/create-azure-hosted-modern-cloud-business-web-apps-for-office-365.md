@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Marius Constantinescu'
 sessionTitle: 'Create Azure-hosted modern Cloud Business web apps for Office 365'
+speakerName: 'Marius Constantinescu'
 speakerEmail: marius.constantinescu@b-i.com
 speakerBio: 'With 13+ years of experience in building and architecture of web solutions, Marius is also MVP SharePoint, taking up the role of Managing Consultant with blue-infinity. As consultant he focuses particularly on SharePoint and/or Office 365 based solutions, around enterprise search, content management and collaboration, business process automation, frequently involved in information architecture and governance planning or ERP/CRM integration solutions. As Senior Architect, his main areas of expertise include Microsoft SharePoint, Office 365 and enterprise web solutions. He is a Microsoft Certified Trainer (MCT) for more than 5 years, holding a number of professional certifications (MCSE, MCITP, MCSD, and more...) for the business applications listed above.'
 speakerAddress: Geneva

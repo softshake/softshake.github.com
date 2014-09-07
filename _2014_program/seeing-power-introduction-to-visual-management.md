@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Egor Sviridenko'
 sessionTitle: 'Seeing Power - Introduction to Visual Management'
+speakerName: 'Egor Sviridenko'
 speakerEmail: egor@targetprocess.com
 speakerBio: "Egor is a business developer and a passionate researcher in information visualisation.\nHe developed for 10 years product and marketing strategies for several software companies in Europe. Stepping out of IT for 2 years he was a master of tea ceremonies at his own tea-house in Berlin. By chance he discovered that not all software companies are run by command and control and rigid planning. He joined targetprocess - an active software innovator in visual project management, and immersed straight into the epicenter of Lean and Agile ideas and project experience. \nHe is now one of enthusiasts of data visualisation and an active member of several European agile communities and user groups."
 speakerAddress: 'Berlin, Allemagne'

@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Tugdual Grall'
 sessionTitle: 'MongoDB Document Design: "Drop your Table"'
+speakerName: 'Tugdual Grall'
 speakerEmail: tug@gmail.com
 speakerBio: "Tugdual Grall is a Technical Evangelist at MongoDB, an open source advocate and a passionate developer. He currently works with the European developer communities and Mongo Partners to ease the NoSQL adoption.\n\nBefore joining MongoDB, Tug was working as Technical Evangelist at Couchbase. Earlier Tug was CTO of eXo the company behind the revolutionary online development tools Cloud-IDE and the open source social platform eXo Platform. Earlier Tugdual has work as Product Manager and Developer on the Oracle Middleware focusing on Java EE platform.\n\nTugdual is Co-Founder of the Nantes JUG (Java User Group) that holds since 2008 monthly meeting about Java ecosystem. Tugdual also writes a blog available at http://tugdualgrall.blogspot.com and available @tgrall"
 speakerAddress: 'Nantes,France'

@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Dominique BROEGLIN'
 sessionTitle: ' Automating your infrastructure with Puppet'
+speakerName: 'Dominique BROEGLIN'
 speakerEmail: dominique.broeglin@gmail.com
 speakerBio: "\nArchitecte logiciel découvreur de solutions, Dominique Broeglin développe depuis plus de 15 ans des applications Java et Ruby dans des domaines d’activités variées allant des télécommunications aux transports en passant par la presse et le commerce en ligne.\nAprès avoir découvert l’Agile à la fin des années 90, il en est devenu adepte. Son expérience lui a montré l’importance de la pratique des techniques de programmation. Il organise notamment des Coding Dojo pour permettre aux développeurs de perfectionner ces techniques."
 speakerAddress: COPPONEX

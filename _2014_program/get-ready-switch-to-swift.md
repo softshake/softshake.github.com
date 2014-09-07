@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
-speakerName: 'Corinne Krych'
 sessionTitle: 'Get ready: Switch to Swift!'
+speakerName: 'Corinne Krych'
 speakerEmail: corinnekrych@gmail.com
 speakerBio: " Dev for over 15 years (when you like it you don't really count), I never go too far from coding.\n Polyglot by heart (going beyond the JVM) and addicted to clean code, I like to share and exchange ideas in \nuser groups or conferences. Those days, mobile is my playground, AeroGear my open source family and iOS my platform by heart."
 speakerAddress: Grasse
