@@ -7,7 +7,7 @@ speakerBio: 'Brice est un développeur sénior qui totalise plus de quinze ans d
 speakerAddress: 'Le Plessis Trévise'
 speakerTitle: ""
 speakerOrganization: ""
-speakerAvatarUrl: '/2014/speakers/brice_leporini.png'
+speakerAvatarUrl: '/images/2014/speakers/brice_leporini.png'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'JPA ORM JDBC'
