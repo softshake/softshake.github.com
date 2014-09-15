@@ -24,7 +24,7 @@ Workflow:
 You can also use the Github app : http://mac.github.com/ (or http://windows.github.com/)
 
 
-## Markdowm (Text Templating)
+## Markdown (Text Templating)
 
 Github Pages supporting Markdown as default text templating engine to facilitate development.
 
@@ -35,25 +35,18 @@ It is HTML compliant :
  - Or both.
 
 
-## kramdown
+## How to run the site locally
 
-	$ sudo gem install kramdown
-
-
-## Jekyll
-
-As Github Pages uses Jekyll (a blog engine), our website too :
+As Github Pages uses Jekyll (a blog engine).
 
 How run locally (to test for example) :
 
  - Install Ruby on rails
- - `gem install jekyll`
+ - `gem install github-pages`
  - `jekyll serve` (from the softshake root source directory)
  - `localhost:4000` (from your favorite browser)
 
-GitHub uses **version 2.2.0** of Jekyll (see [this page](https://pages.github.com/versions/) for the version that is currently running. To install this version:
-
-	gem install jekyll -v 2.2.0
+GitHub uses **version 2.2.0** of Jekyll (see [this page](https://pages.github.com/versions/) for the version that is currently running. To keep up to date run `gem update github-pages`.
 
 Configuration file: `_config.yml`.
 
