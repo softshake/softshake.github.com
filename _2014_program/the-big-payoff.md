@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant)'
 sessionTopic: Jeu
 sessionTags:
   - Agile
-scheduleDay: '2'
-scheduleOrder: '1'
-scheduleRoom: A102
+scheduleDay: 'x'
+scheduleOrder: 'x'
+scheduleRoom: canceled
 ---
 
 Vous êtes un directeur important et, avec vos homologues, vous avez été réunis par le PDG pour préparer la future roadmap de la société. Il y a beaucoup de projets potentiels très intéressants, voir même un peu trop, mais par chance, les estimations en terme de coût de réalisation et de revenus potentiels sont fiables. 

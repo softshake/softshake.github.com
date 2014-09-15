@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Développement personnel, coaching'
 sessionTags:
   - Agile
-scheduleDay: '1'
-scheduleOrder: '2'
-scheduleRoom: BS27
+scheduleDay: '2'
+scheduleOrder: '1'
+scheduleRoom: A102
 ---
 
 « Immunity to Change »* est une dynamique mentale, un cercle vicieux, qui nous est invisible et qui nous empêche de changer. Cette dynamique cachée est consacrée à la préservation de notre façon d’interpréter le monde, de donner du sens à nos perceptions.
