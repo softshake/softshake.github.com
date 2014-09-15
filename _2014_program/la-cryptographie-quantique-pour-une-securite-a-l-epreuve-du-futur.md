@@ -1,7 +1,7 @@
 ---
 layout: 2014_session
 sessionTitle: 'La Cryptographie Quantique pour une sécurité à l''épreuve du futur'
-speakerName: 'Gilles Gravier'
+speakerName: 'Hugo Zbinden'
 speakerEmail: gilles.gravier@idquantique.com
 speakerBio: "Professeur Hugo Zbinden du laboratoire Group of Applied Physics de l’Université de Genève, et co-fondateur de ID Quantique."
 speakerAddress: 'Carouge, Suisse'
