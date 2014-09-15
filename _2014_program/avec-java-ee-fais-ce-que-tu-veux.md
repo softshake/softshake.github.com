@@ -13,8 +13,8 @@ sessionLevel: 'Ri (avancé)'
 sessionTopic: 'Extensions JavaEE'
 sessionTags:
   - Java
-scheduleDay: '1'
-scheduleOrder: '2'
+scheduleDay: '2'
+scheduleOrder: '4'
 scheduleRoom: A104
 ---
 

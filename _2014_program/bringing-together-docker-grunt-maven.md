@@ -13,8 +13,8 @@ sessionLevel: ""
 sessionTopic: Docker
 sessionTags:
   - Java
-scheduleDay: '2'
-scheduleOrder: '4'
+scheduleDay: '1'
+scheduleOrder: '2'
 scheduleRoom: A104
 ---
 
