@@ -7,7 +7,7 @@ speakerBio: "Je gère des projets et des équipes de développement depuis maint
 speakerAddress: 'Lausanne, Suisse'
 speakerTitle: 'Team Leader'
 speakerOrganization: Nespresso
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/3c1a9e9c4c48a4222e893958d1b979f4?size=200&default=mm'
+speakerAvatarUrl: '/images/2014/speakers/guillaume_vial.jpg'
 sessionCategory: Atelier
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Scaled Agile'
