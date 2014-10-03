@@ -1,13 +1,13 @@
 ---
 layout: 2014_session
 sessionTitle: 'Building cross-platform applications with Azure Mobile Services'
-speakerName: 'Ken Casada'
-speakerEmail: kcasada@microsoft.com
-speakerBio: 'Ken Casada is a Technical Evangelist by Microsoft Switzerland and since more than 10 years he is supporting medium and large  companies in the software development on the Microsoft Platform. Before joining MS he was a developer in a bank and in a MS partner company.'
+speakerName: 'Mikhail Chatillon'
+speakerEmail: mikhail.chatillon@microsoft.com
+speakerBio: "Originaire de Genève, j'ai eu mon bachelor en science informatique à l'université de Genève en 2009, suivi par un master de la même discipline a l'école polytechnique fédérale de Zurich. J'ai ensuite travaillé pendant un an dans le département d'architecture IT d'une grande banque avant de rejoindre Microsoft en tant que technical evangelist. Je suis un passionné de jeux vidéos depuis ma plus tendre enfance et je me suis intéressé a leur développement dès la démocratisation des outils de développement."
 speakerAddress: '8304'
 speakerTitle: 'Technical Evangelist'
 speakerOrganization: Microsoft
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/000fc47e72bbcbcec6814a8a449329d1?size=200&default=mm'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/5d0ba39fd9533641faef7f3ceeff7893?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Azure Mobile Services'
