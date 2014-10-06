@@ -13,9 +13,9 @@ sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Document Design'
 sessionTags:
   - 'Big Data'
-scheduleDay: '2'
-scheduleOrder: '4'
-scheduleRoom: BS27
+scheduleDay: '1'
+scheduleOrder: '5'
+scheduleRoom: A106
 ---
 
 MongoDB's basic unit of storage is a document. Documents can represent rich, schema-free data structures, meaning that we have several viable alternatives to the normalized, relational model. In this talk, we'll discuss the tradeoff of various data modeling strategies in MongoDB using various example. You will learn how to work with documents, evolve your schema, and common schema design patterns.

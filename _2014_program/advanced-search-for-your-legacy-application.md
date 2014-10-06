@@ -13,9 +13,9 @@ sessionLevel: 'Ha (intermédiaire)'
 sessionTopic: 'Adding NoSQL search to SQL world'
 sessionTags:
   - 'Big Data'
-scheduleDay: '1'
-scheduleOrder: '5'
-scheduleRoom: A106
+scheduleDay: '2'
+scheduleOrder: '4'
+scheduleRoom: BS27
 ---
 
 How do you mix SQL and NoSQL worlds without starting a messy revolution?
