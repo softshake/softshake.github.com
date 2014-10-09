@@ -4,7 +4,7 @@
 	{% assign dayTalks = site.2014_program | where: "scheduleDay", include.day | sort: "scheduleOrder" %}
 	{% assign talksByOrder = dayTalks | group_by: "scheduleOrder" %}
 	{% for talkGroup in talksByOrder | sort: "name" %}
-		<h2>Slot {{ talkGroup.name }}</h2>
+		<h2>Slot {{ talkGroup.name }} ({{ site.schedule2014[forloop.index0] }})</h2>
 		<div class="list-group col-md-12 col-sm-12">
 		{% for talk in talkGroup.items %}
 		<a href="{{ talk.url }}" class="list-group-item">
