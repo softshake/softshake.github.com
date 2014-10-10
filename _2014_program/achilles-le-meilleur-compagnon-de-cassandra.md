@@ -5,8 +5,8 @@ speakerName: 'DuyHai DOAN'
 speakerEmail: doanduyhai@gmail.com
 speakerBio: "DuyHai travaille en tant qu'évangéliste technique pour Datastax, l'entreprise commerciale derrière la base de données open-source Apache Cassandra. Il partage son temps entre donner des présentations/meetups/talks sur Cassandra, développer sur des projets open-source pour la communauté et aider les projets utilisant Cassandra. Avant Datastax, DuyHai a été développeur freelance Java/Cassandra"
 speakerAddress: 'Paris, FRANCE'
-speakerTitle: 'Technical Evengelist, Datastax'
-speakerOrganization: 'ARCHINNOV INFO'
+speakerTitle: 'Technical Evengelist'
+speakerOrganization: 'Datastax'
 speakerAvatarUrl: 'http://www.gravatar.com/avatar/ffa96040bb4211cad1c66f385d8cb77b?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant)'
