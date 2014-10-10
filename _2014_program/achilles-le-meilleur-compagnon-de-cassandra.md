@@ -3,9 +3,9 @@ layout: 2014_session
 sessionTitle: 'Achilles, le meilleur compagnon de Cassandra'
 speakerName: 'DuyHai DOAN'
 speakerEmail: doanduyhai@gmail.com
-speakerBio: "Développeur Java depuis toujours, je me suis passionné pour le domaine du Big Data et plus particulièrement pour Cassandra depuis plusieurs années. Je fais régulièrement des présentations pour vulgariser l'utilisation de Cassandra au plus grand nombre.\n\nLa journée, je participe au projet Libon, le Viber/WhatsApp du groupe Orange en utilisant Cassandra comme solution NoSQL. \n\nLe soir, je code sur Achilles, un object mapper pour rendre le développement sur Cassandra encore plus aisé et productif (approche TDD,  génération du schéma, request tracing ...)"
+speakerBio: "DuyHai travaille en tant qu'évangéliste technique pour Datastax, l'entreprise commerciale derrière la base de données open-source Apache Cassandra. Il partage son temps entre donner des présentations/meetups/talks sur Cassandra, développer sur des projets open-source pour la communauté et aider les projets utilisant Cassandra. Avant Datastax, DuyHai a été développeur freelance Java/Cassandra"
 speakerAddress: 'Paris, FRANCE'
-speakerTitle: 'Consultant Freelance Cassandra'
+speakerTitle: 'Technical Evengelist, Datastax'
 speakerOrganization: 'ARCHINNOV INFO'
 speakerAvatarUrl: 'http://www.gravatar.com/avatar/ffa96040bb4211cad1c66f385d8cb77b?size=200&default=mm'
 sessionCategory: Présentation
