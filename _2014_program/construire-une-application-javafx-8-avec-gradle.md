@@ -7,7 +7,7 @@ speakerBio: 'Thierry est développeur Java depuis plusieurs années chez General
 speakerAddress: 'Strasbourg, France'
 speakerTitle: 'Software engineer'
 speakerOrganization: 'General Electric Healthcare'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/03e607aa378b2e5f2333001152e8da80?size=200&default=mm'
+speakerAvatarUrl: '/images/2014/speakers/thierry_wasylczenko.jpg'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: Développement
