@@ -7,7 +7,7 @@ speakerBio: "Passionné de l'Agilité et tout particulièrement de Scrum, j'appr
 speakerAddress: Suisse
 speakerTitle: 'Consultant Agile / Scrum Master'
 speakerOrganization: 'Pyxis Suisse'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/6a7c0e7f30362fa8d7e177b570257dbc?size=200&default=mm'
+speakerAvatarUrl: '/images/2014/speakers/romain_trocherie.jpg'
 sessionCategory: Atelier
 sessionLevel: 'Shu (débutant), Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Agilisation et découverte par le jeu'
