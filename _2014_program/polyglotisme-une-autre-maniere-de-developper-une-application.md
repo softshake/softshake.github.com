@@ -7,7 +7,7 @@ speakerBio: 'Thierry est développeur Java depuis plusieurs années chez General
 speakerAddress: 'Strasbourg, France'
 speakerTitle: 'Software engineer'
 speakerOrganization: 'General Electric Healthcare'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/03e607aa378b2e5f2333001152e8da80?size=200&default=mm'
+speakerAvatarUrl: '/images/2014/speakers/thierry_wasylczenko.jpg'
 sessionCategory: Présentation
 sessionLevel: 'Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Méthodologie / Pratique de développement'
@@ -18,4 +18,4 @@ scheduleOrder: '1'
 scheduleRoom: BE29
 ---
 
-#Polyglot, le buzz word dont tout le monde parle. On le voit partout: serveur d'application polyglot, IDE polyglot, outil polyglot, application polyglotte et même conférence polyglotte. Mais quels en sont les avantages et inconvénients? Pourquoi développer une application de manière polyglotte? Durant cette session je vous exposerai, au travers d'un retour d'expérience, pourquoi le polyglotisme est une autre manière intelligente de développer une application, tout de même vieille de 20 ans. Et qu'aujourd'hui plus que jamais vous devriez la prendre en considération lors de vos choix architecturaux pour être tournés vers l'avenir. Et nous nous permettrons aussi de rêver quelque peu.
+\#Polyglot, le buzz word dont tout le monde parle. On le voit partout: serveur d'application polyglot, IDE polyglot, outil polyglot, application polyglotte et même conférence polyglotte. Mais quels en sont les avantages et inconvénients? Pourquoi développer une application de manière polyglotte? Durant cette session je vous exposerai, au travers d'un retour d'expérience, pourquoi le polyglotisme est une autre manière intelligente de développer une application, tout de même vieille de 20 ans. Et qu'aujourd'hui plus que jamais vous devriez la prendre en considération lors de vos choix architecturaux pour être tournés vers l'avenir. Et nous nous permettrons aussi de rêver quelque peu.

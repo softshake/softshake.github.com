@@ -3,7 +3,7 @@ layout: 2014_session
 sessionTitle: 'Construire une application JavaFX 8 avec gradle'
 speakerName: 'Thierry WASYLCZENKO'
 speakerEmail: thierry.wasylczenko@gmail.com
-speakerBio: 'Thierry est développeur Java depuis plusieurs années chez General Electric Healthcare en France et se passionne pour l''architecture des projets, JavaFX et les nouveaux outils qui facilitent la vie d''un développeur. Il est également auteur pour RebelLabs de ZeroTurnaround et l''un des leader de l''ElsassJUG, le JUG de Strasbourg en France. Suivez le sur LinkedIn ou sur Twitter @twasyl.'
+speakerBio: "Thierry est développeur Java depuis plusieurs années chez General Electric Healthcare en France et se passionne pour l'architecture des projets, JavaFX et les nouveaux outils qui facilitent la vie d'un développeur. Il est également auteur pour RebelLabs de ZeroTurnaround et l'un des leader de l'ElsassJUG, le JUG de Strasbourg en France. Suivez le sur LinkedIn ou sur Twitter @twasyl."
 speakerAddress: 'Strasbourg, France'
 speakerTitle: 'Software engineer'
 speakerOrganization: 'General Electric Healthcare'
