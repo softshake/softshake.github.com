@@ -19,9 +19,9 @@ secondSpeakerBio: 'Jacques Saraydaryan holds a Master’s Degree in Telecoms and
 secondSpeakerTitle: 'Enseignant Chercheur'
 secondSpeakerOrganization: 'CPE Lyon'
 secondSpeakerAvatarUrl: 'http://www.gravatar.com/avatar/cb731611f2c512db064be8ad6f4d7c27?size=200&default=mm'
-scheduleDay: '2'
-scheduleOrder: '4'
-scheduleRoom: BS31
+scheduleDay: '1'
+scheduleOrder: '2'
+scheduleRoom: A106
 ---
 
 Présentation d'un état des lieux de la robotique de services
