@@ -7,7 +7,7 @@ speakerBio: 'Développeur agile depuis plus de 10 ans je suis passé par différ
 speakerAddress: 'ST ETIENNE'
 speakerTitle: 'Développeur agile'
 speakerOrganization: JavaMind
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/a7ef977589f6718b060eb390250e090c?size=200&default=mm'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/aa4d47d1016e45c23b6af05ec11c0a9c.png'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire), Ri (avancé)'
 sessionTopic: 'Tests unitaires'
