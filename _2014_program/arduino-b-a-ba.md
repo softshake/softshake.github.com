@@ -7,7 +7,9 @@ speakerBio: "Actuellement Senior Manager à ELCA SA, ingénieur en informatique 
 speakerAddress: 'Lausanne, Suisse'
 speakerTitle: 'Senior Manager'
 speakerOrganization: 'ELCA SA'
-speakerAvatarUrl: '/images/2014/speakers/jean_françois_poilpret.jpg'
+speakerAvatarUrl: '/images/2014/speakers/jean_francois_poilpret.jpg'
+speakerAvatarUrl: '/images/2014/speakers/thierry_wasylczenko.jpg'
+
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant)'
 sessionTopic: 'Bien démarrer avec Arduino'
