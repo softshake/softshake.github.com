@@ -1,13 +1,15 @@
 ---
 layout: 2014_session
 sessionTitle: 'Les Business Analysts face à l''agilité : de nouveau challenges à relever'
-speakerName: 'François Helg'
-speakerEmail: fhelg@octo.com
-speakerBio: "François Helg est actuellement architecte logiciel et coach agile chez OCTO Technology. Il intervient aussi bien sur des missions d'audit et de conseil que sur des missions de développement et d’accompagnement\n\nIl s’est convaincu du bien-fondé des méthodes agiles en les appliquant lui-même sur des projets où il est  notamment intervenu comme technical leader d’équipes de développement et comme Scrum Master d’un important projet de refonte dans le domaine des assurances sociales en Suisse romande.\n\nEn parallèle de ces activités, il dispense des cours sur les méthodes agiles à l'EPFL et pour les étudiants en Master de la HES-SO et préside le Java User Group de Lausanne\n\nIl est diplômé de l’EPFL en obtenant un Bachelor et un Master en Informatique ainsi qu'un Mineur en Management de la Technologie"
+speakerName: 'Joseph Glorieux'
+speakerEmail: jglorieux@octo.com
+speakerBio: "De formation ingénieur, Joseph dispose de plus de 10 années d’expérience sur les systèmes d’Information.
+En parallèle de ses activités de management, il accompagne ses clients dans le cadre de missions de conseil stratégiques ou de coaching.
+Joseph travaille sur les méthodes agiles et le Lean depuis 5 ans avec une volonté toujours exprimée d'étendre les champs d'actions de ces pratiques à toute l'entreprise.\nIl est professeur vacataire pour l’université Paris Dauphine et Paris Descartes."
 speakerAddress: Lausanne
-speakerTitle: 'Architecte logiciel'
-speakerOrganization: OCTO
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/e3b5076acc81f017cc2da650fa66c9af?size=200&default=mm'
+speakerTitle: 'Directeur Général'
+speakerOrganization: 'OCTO Technology'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/01f5b61e735767cd2e876a7c8c4ce186?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Business analyse, Définition de produit agile'
