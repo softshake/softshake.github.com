@@ -1,13 +1,15 @@
 ---
 layout: 2014_session
 sessionTitle: 'Comment les middlewares informatique ont changé la robotique'
-speakerName: 'Fabrice Jumel'
-speakerEmail: fabrice.jumel@cpe.fr
-speakerBio: 'Fabrice Jumel is associate professor in computer science and robotic of service at the CPE Lyon Engineering School. He received its Ph.D. degree from "Mines de Nancy" Engineering School and the INRIA (TRIO team) in 2003. Its dissertation was about "quality of service of control systems". His researches focus on biomedical systems, domotic systems and robotics. He is a the head of the robot forum initiative of CPE Lyon in which they build, improve and work on a smart experimentation area. This area includes a lot of robotic solutions, Human Machine Interfaces, cameras, depth cameras, light, heat controllers and biomedical devices.'
+speakerName: 'Raphael Leber'
+speakerEmail: raphael.leber@cpe.fr
+was: 'Fabrice Jumel fabrice.jumel@cpe.fr'
+speakerBio: 'Raphael Leber holds a Master’s Degree in Embedded Electronics from the University of Technology of Belfort-Montbéliard - France in 2010.
+His professional carrier had been marked by different experiences. Among them he worked in a Korean Robotic Laboratory, in a French Robotic Company and in a Company specialized in embedded systems. Strong of a short but relevant experience, he became recently associate professor in embedded systems and robotics of services at the CPE Lyon Engineering School.'
 speakerAddress: 'Lyon, France'
 speakerTitle: 'Enseignant Chercheur'
 speakerOrganization: 'CPE Lyon'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/e177a88a8c4c488013406e5b739b6c6d?size=200&default=mm'
+speakerAvatarUrl: ''
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Robotique de Service'
