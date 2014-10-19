@@ -1,6 +1,6 @@
 ---
 layout: 2014_session
-sessionTitle: 'Programmation par contraintes : théorie (1/2)'
+sessionTitle: 'Programmation par contraintes : pratique (2/2)'
 speakerName: 'Philippe Morignot'
 speakerEmail: pmorignot@yahoo.fr
 speakerBio: 'Philippe Morignot est chercheur à INRIA Rocquencourt dans l’équipe-projet IMARA. Centralien, docteur en informatique, il a effectué 5 années de recherche postdoctorale à l’université de Stanford (Californie), à INRIA Grand Est (Nancy), à l’ICS FORTH (Grèce) et au Fraunhofer Institute (Allemagne) sur des thématiques de planification d’actions et d’architectures d’agents autonomes appliquées à la robotique mobile. Il a développé des applications de l’optimisation combinatoire pendant 11 ans dans l’industrie. Il a également été ingénieur-chercheur au laboratoire de robotique du CEA LIST et est membre du conseil d’administration de l’Association Française d’I.A. depuis 10 ans.'
@@ -14,10 +14,10 @@ sessionTopic: I.A.
 sessionTags:
   - 'IA / Robotique'
 scheduleDay: '2'
-scheduleOrder: '2'
+scheduleOrder: '3'
 scheduleRoom: A104
 ---
 
-Je propose une session d'1H sur la programmation par contraintes, tiré d'un cours que je fais à EPITA et Télécom ParisTech.
+Suite de la session précédente.
 
-Puis une session d'1H de travaux pratiques avec le langage minizinc, tiré la encore d'un T.P. que je donne dans ces 2 Ecoles d'Ingénieurs parisiennes. Cette seconde session suppose que les participants ont une machine chacun.
+Cette session d'1H de travaux pratiques avec le langage minizinc, tiré la encore d'un T.P. que je donne à l'EPITA et Télécom ParisTech, suppose que les participants ont une machine chacun.

@@ -14,7 +14,7 @@ sessionTopic: 'Bien démarrer avec Arduino'
 sessionTags:
   - 'IA / Robotique'
 scheduleDay: '2'
-scheduleOrder: '3'
+scheduleOrder: '4'
 scheduleRoom: BS31
 ---
 

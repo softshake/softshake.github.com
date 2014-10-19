@@ -15,7 +15,7 @@ sessionTags:
   - Microsoft
 scheduleDay: '2'
 scheduleOrder: '3'
-scheduleRoom: A104
+scheduleRoom: BS31
 ---
 
 Venez découvrir la mise en œuvre  du projet "Orleans", Framework développez par Microsoft Research et destiner au déploiement d'application à très forte montée en charge dans Azure.

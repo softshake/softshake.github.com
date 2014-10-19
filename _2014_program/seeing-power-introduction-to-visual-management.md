@@ -14,8 +14,8 @@ sessionTopic: 'Visual Management'
 sessionTags:
   - Agile
 scheduleDay: '2'
-scheduleOrder: '1'
-scheduleRoom: BS30
+scheduleOrder: '4'
+scheduleRoom: BS29
 ---
 
 We live in an interesting age of many opportunities and risks (don’t we?). Some of us may even happen to face the challenge of trying to apply agile methods and culture in the context of large and complex structures. Whatever the context - we don’t have to let the growing data-flow and work complexity overwhelm us - we can be smarter, we can hit back. 

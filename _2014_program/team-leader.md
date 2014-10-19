@@ -14,8 +14,8 @@ sessionTopic: 'Scaled Agile'
 sessionTags:
   - Agile
 scheduleDay: '1'
-scheduleOrder: '4'
-scheduleRoom: BE29
+scheduleOrder: '2'
+scheduleRoom: BE27
 ---
 
 Je commencerai par vous présenter un exemple d'organisation "Scaled Agile" de taille moyenne (50-80 développeurs, multi sites). Cette organisation permettra de contextualiser les débats et les questions qui suivront : quels sont les problèmes d'une telle organisation ? quelles sont les pistes d'amélioration ? J'illustrerai mes réponses avec certaines anecdotes, certains mythes tenaces auxquels je suis régulièrement confronté dans ma pratique.
