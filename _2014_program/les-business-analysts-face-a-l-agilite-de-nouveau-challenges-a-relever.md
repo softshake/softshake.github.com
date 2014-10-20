@@ -9,7 +9,7 @@ Joseph travaille sur les méthodes agiles et le Lean depuis 5 ans avec une volon
 speakerAddress: Lausanne
 speakerTitle: 'Directeur Général'
 speakerOrganization: 'OCTO Technology'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/01f5b61e735767cd2e876a7c8c4ce186?size=200&default=mm'
+speakerAvatarUrl: '/images/2014/speakers/joseph_glorieux.jpg'
 sessionCategory: Présentation
 sessionLevel: 'Shu (débutant), Ha (intermédiaire)'
 sessionTopic: 'Business analyse, Définition de produit agile'
