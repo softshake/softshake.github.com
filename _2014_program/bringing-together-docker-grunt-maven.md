@@ -7,7 +7,7 @@ speakerBio: 'Ivan chairs the Geneva MongoDB User Group (http://genevamug.ch/) an
 speakerAddress: Morges
 speakerTitle: 'Tech Lead'
 speakerOrganization: 'Hortis GRC'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/a2c3c073bf19ec5829c9cb48c153b5f0?size=200&default=mm'
+speakerAvatarUrl: '/images/2014/speakers/ivan_hristov.jpg'
 sessionCategory: Présentation
 sessionLevel: ""
 sessionTopic: Docker
