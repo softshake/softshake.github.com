@@ -1,28 +1,21 @@
 ---
 layout: 2014_session
-sessionTitle: 'Arduino B.A.-BA'
-speakerName: 'Jean-François Poilprêt'
-speakerEmail: jfpoilpret@gmail.com
-speakerBio: "Actuellement Senior Manager à ELCA SA, ingénieur en informatique depuis 25 ans, Jean-François a travaillé au fil des ans à tous les postes du développement logiciel: développeur, analyste, testeur, architecte, chef de projet. Jean-François est un fan de technique et aime toujours \"mettre les mains dans le cambouis\" en particulier quand il s'agit de: développer en Java, Python ou C++, ou bien mettre en place des outils de tests automatiques.\n\nAprès avoir découvert Arduino en 2012, il est redevenu un hobbyiste passionné d'électronique, convaincu que l'électronique pour tous va voir naître une nouvelle catégorie de techies: après les Geeks, les Makers.\n"
+sessionTitle: 'Disparition programmée'
+speakerName: 'Yves Bolognini'
+speakerEmail: yves.bolognini@memoires-informatiques.org
+speakerBio: "Yves Bolognini est ingénieur informaticien, chef de projet et chef d'équipe à Camptocamp SA (Innovation Park, EPFL). Depuis près de vingt ans, il se passionne pour l'histoire de l'informatique. Il commence par collectionner les ordinateurs, est rapidement rejoint par d'autres passionnés et fonde en 2002 le Musée Bolo, première exposition permanente du genre en Suisse. Il est aujourd'hui le président de la fondation Mémoires Informatiques, qui gère le musée et travaille de concert avec l'association des amis du musée, l'association aBCM."
 speakerAddress: 'Lausanne, Suisse'
-speakerTitle: 'Senior Manager'
-speakerOrganization: 'ELCA SA'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/f0793deecf9fde4ba4d196831f4a60f8?size=200&default=mm'
-sessionCategory: Présentation
+speakerTitle: ''
+speakerOrganization: 'Musée Bolo'
+speakerAvatarUrl: ''
+sessionCategory: Keynote
 sessionLevel: 'Shu (débutant)'
-sessionTopic: 'Bien démarrer avec Arduino'
+sessionTopic: 'Keynote'
 sessionTags:
-  - 'IA / Robotique'
-scheduleDay: '2'
+  - 'Keynote'
+scheduleDay: '1'
 scheduleOrder: '3'
-scheduleRoom: BS31
+scheduleRoom: AULA
 ---
 
-Grâce à des prix abordables et des outils simples, Arduino met l'électronique numérique et l'"Internet des Choses" à portée de tous.
-Pour bien démarrer avec Arduino il est toutefois important de connaître quelques "trucs" bien utiles. C'est l'objet de cette session.
-
-La session introduit Arduino auprès des participants en répondant aux questions de base et en progressant peu à peu vers le minimum indispensable pour aller plus loin. 
-
-Les thèmes abordés concernent le matériel et le logiciel, l'électronique (de base) et la programmation avec des expériences pratiques.
-
-Le limites d'Arduino sont aussi abordées ainsi que les moyens de les contourner.
+C'est un mystère. L'ordinateur, machine d'abord gigantesque mais peu visible car cachée dans des salles fermées au public, est devenu omniprésent dès les années 1980. Mais alors que tout tourne autour de lui, voilà qu'il se met à disparaître. Il devient minuscule, se camoufle, se fait oublier, se dématérialise et finalement se prend pour l'homme. Le paradoxe est total : l'informatique est partout et nulle part. Ce constat mérite bien une enquête. Les experts du Musée Bolo, le musée de l'ordinateur installé à l'EPFL, ont suivi toutes ces pistes, interrogé les témoins, analysé les indices, décortiqué les preuves. D'abord simple collection, puis association, musée et fondation, le Musée Bolo est aujourd'hui une institution reconnue qui se bat pour préserver l'histoire de l'informatique et imaginer le futur à la lumière du passé. S'il venait à disparaître à son tour, qui pourrait encore témoigner de cette fulgurante évolution qui a bouleversé nos vies ?
