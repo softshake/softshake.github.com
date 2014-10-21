@@ -7,9 +7,11 @@ layout: 2014_default_en
 	<div class="col-sm-12">
 		<h1>{{ page.sessionTitle }}</h1>
 
+		{% assign when = page.scheduleOrder | minus:1 %}
+		<h4>Salle {{ page.scheduleRoom }}, {{ site.schedule2014[when] }}</h4>
 		<ul class="list-inline">
 			{% for tag in page.sessionTags %}
-				<li><span class="label label-info">{{ tag }}</span></li>
+				<li><h4><span class="label label-info">{{ tag }}</span></h4></li>
 			{% endfor %}
 		</ul>
 
