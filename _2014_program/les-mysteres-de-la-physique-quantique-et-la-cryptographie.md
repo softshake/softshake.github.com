@@ -7,7 +7,7 @@ speakerBio: "Professeur Hugo Zbinden du laboratoire Group of Applied Physics de 
 speakerAddress: 'Carouge, Suisse'
 speakerTitle: ''
 speakerOrganization: 'ID Quantique'
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/2ad0620c3fbbefc5cab9b45ff9d139a4?size=200&default=mm'
+speakerAvatarUrl: 'http://www.gravatar.com/avatar/?size=200&default=mm'
 sessionCategory: Présentation
 sessionLevel: ''
 sessionTopic: 'Cryptographie Quantique'
