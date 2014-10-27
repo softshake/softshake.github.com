@@ -16,6 +16,11 @@ sessionTags:
 scheduleDay: '1'
 scheduleOrder: '1'
 scheduleRoom: A104
+sessionLinks:
+  - title: Slides
+    url: http://www.slideshare.net/ThibaudDesodt/dependency-injection-the-right-way
+  - title: 'Code (GitHub)'
+    url: https://github.com/tsimbalar/DependencyInjectionTheRightWay
 ---
 
 "Program to an interface, not an implementation" they[1] say … 
