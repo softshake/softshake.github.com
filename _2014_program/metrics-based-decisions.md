@@ -16,6 +16,13 @@ sessionTags:
 scheduleDay: '2'
 scheduleOrder: '1'
 scheduleRoom: BS31
+sessionLinks:
+  - title: 'Blog post'
+    url: http://improveandrepeat.com/?p=525
+  - title: Slides
+    url: https://speakerdeck.com/jgraber/metrics-based-decisions-at-softshake-2014
+  - title: 'Code (GitHub)'
+    url: https://github.com/jgraber/SoftShake14_Metrics
 ---
 
 Did you ever build a feature that no one used? Or where so sure about your assumptions that you didn’t bother to check if they are correct? Most likely the outcome was unexpected, but from there it’s a small step towards a disaster. All you would need to prevent this is the right data and a helpful metric. 

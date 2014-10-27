@@ -26,6 +26,23 @@ layout: 2014_default_en
 
 </section>
 
+{% if page.sessionLinks %}
+	<section class="row">
+		<div class="col-sm-12">
+			<h2>Slides, code &amp; other materials provided by speaker</h2>
+			<ul>
+				{% for item in page.sessionLinks %}
+					{% assign title = item.title %}
+					{% if title == null %}
+					{% assign title = item.url %}
+					{% endif %}
+					<li><a href="{{ item.url }}" target="_blank">{{ title }}</a></li>
+				{% endfor %}
+			</ul>
+		</div>	
+	</section>
+{% endif %}
+
 <section class="row">
 	{% if page.secondSpeakerName %}
 	<h2>About speakers</h2>
