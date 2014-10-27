@@ -16,6 +16,9 @@ sessionTags:
 scheduleDay: '2'
 scheduleOrder: '1'
 scheduleRoom: BS27
+sessionLinks:
+  - title: Slides
+    url: https://speakerdeck.com/melix/groovy-et-android-le-couple-gagnant
 ---
 
 Depuis 10 ans, Groovy a considérablement amélioré la productivité des développeurs Java. Avec des fonctionnalités uniques comme les closures, les builders, les transformations d'AST, les traits, la compilation statique et bien d'autres, Groovy est devenu un langage extrêmemement compétitif sur la JVM. Comparé à d'autres langages de la JVM, ce dernier a l'avantage d'une interopérabilité sans faille avec Java, tout en ayant une syntaxe proche et concise.
