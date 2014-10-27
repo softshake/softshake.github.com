@@ -16,6 +16,11 @@ sessionTags:
 scheduleDay: '2'
 scheduleOrder: '3'
 scheduleRoom: BS30
+sessionLinks:
+  - title: Slides
+    url: http://seriot.ch/resources/talks_papers/i_love_unicode_softshake.pdf
+  - title: 'HackerNews discussion'
+    url: https://news.ycombinator.com/item?id=8511403
 ---
 
 Quel programmeur ne s'est jamais arraché les cheveux sur un problème d'encodage de caractères ? Cette présentation vous propose de lever le mystère sur une partie de l'informatique omniprésente et pourtant trop souvent mal comprise. Attention, nous n'hésiterons pas à descendre en dessous du niveau de la mer pour plonger dans les octets les plus obscurs.
