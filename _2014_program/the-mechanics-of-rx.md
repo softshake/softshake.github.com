@@ -16,6 +16,11 @@ sessionTags:
 scheduleDay: '1'
 scheduleOrder: '6'
 scheduleRoom: A102
+sessionLinks:
+  - title: 'Script and supporting code (GitHub)'
+    url: https://github.com/dunkymole/MechanicsOfRx
+  - title: "Conference AI demo code"
+    url: https://gist.github.com/dunkymole/c6c0726b97cab51669c4
 ---
 
 This talk is given in C# but there are Rx ports to a great many languages including Java. A few points may reference C#’s compiler tricks. We will also touch on stream processing which is kind of a Big Data theme.
