@@ -16,6 +16,9 @@ sessionTags:
 scheduleDay: '1'
 scheduleOrder: '3'
 scheduleRoom: A106
+sessionLinks:
+  - title: XCode Playground
+    url: https://github.com/corinnekrych/swift
 ---
 
 June 2nd 2014 at WWDC, Apple gave birth to Swift: a brand new language for developing iOS and Mac apps! Much ink has been spilled since then, comparing Swift to other languages. And yes, there is some family resemblance. Statically typed, its cool type inference looks similar to ..., I love its sugar syntax like in ... And Woah Closure!
