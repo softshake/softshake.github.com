@@ -16,6 +16,9 @@ sessionTags:
 scheduleDay: '1'
 scheduleOrder: '1'
 scheduleRoom: A102
+sessionLinks:
+  - title: Slides
+    url: https://www.dropbox.com/s/i3ngn28m6fmd1bf/Kanban%20pour%20tous_softshake.pdf
 ---
 
 Pour toutes celles et ceux qui entendent parler de Kanban ou qui découvrent, je vous propose une compilation de retours d’expériences de mise en place de Kanban dans plusieurs environnements dont certains n’ont rien à voir avec l’agilité.
