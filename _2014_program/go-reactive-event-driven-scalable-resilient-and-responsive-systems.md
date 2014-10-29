@@ -16,6 +16,9 @@ sessionTags:
 scheduleDay: '1'
 scheduleOrder: '1'
 scheduleRoom: A106
+sessionLinks:
+  - title: Slides
+    url: http://www.slideshare.net/mircodotta/go-reactive-eventdriven-scalable-resilient-responsive-systems
 ---
 
 The demands and expectations for applications have changed dramatically in recent years. Applications today are deployed on a wide range of infrastructure; from mobile devices up to thousands of nodes running in the cloud—all powered by multi-core processors. They need to be rich and collaborative, have a real-time feel with millisecond response time and should never stop running. Additionally, modern applications are a mashup of external services that need﻿ to be consumed and composed to provide the features at hand.
