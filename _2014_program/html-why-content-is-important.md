@@ -16,6 +16,9 @@ sessionTags:
 scheduleDay: '1'
 scheduleOrder: '2'
 scheduleRoom: A102
+sessionLinks:
+  - title: Slides
+    url: http://www.slideshare.net/AudreyLivremont/softshake
 ---
 
 Dans une vaste majorité d'application Web notre principal outil de rendu est le HTML. Or, cet outil est souvent sous-utilisé: on fait un peu ce qu'on veut pour présenter correctement nos données, sans vraiment chercher à en tirer parti. Cela s'est d'autant plus compliqué avec l'avènement de la pile "HTML5" (HTML, Javascript, CSS3) qui, en cherchant à simplifier les choses, a multiplié le nombre de possibilités.
