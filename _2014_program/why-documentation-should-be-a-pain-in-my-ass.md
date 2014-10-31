@@ -16,6 +16,9 @@ sessionTags:
 scheduleDay: '1'
 scheduleOrder: '4'
 scheduleRoom: BS30
+sessionLinks:
+  - title: Slides
+    url: https://github.com/gscheibel/presentations/tree/master/asciidoctor
 ---
 
 “Est-ce que la doc est à jour ?”, “Qu’est ce qu’il y a dans la version précédente ?”, “C’est fatiguant de recréer à la main le PDF à chaque nouvelle version de l’application !”, "Comment je génère la table des matières dans cette m**!", " C'est quoi le style pour les titres?", “Arf Word m’a encore pété mes listes numérotés !”
