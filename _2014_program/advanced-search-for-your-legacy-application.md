@@ -16,6 +16,9 @@ sessionTags:
 scheduleDay: '2'
 scheduleOrder: '4'
 scheduleRoom: BS27
+sessionLinks:
+  - title: Slides
+    url: https://speakerdeck.com/elasticsearch/advanced-search-for-your-legacy-application-3
 ---
 
 How do you mix SQL and NoSQL worlds without starting a messy revolution?
