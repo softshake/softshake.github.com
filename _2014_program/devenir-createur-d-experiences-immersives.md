@@ -22,6 +22,9 @@ secondSpeakerAvatarUrl: 'http://www.gravatar.com/avatar/10c5d512666d531263e997f6
 scheduleDay: '1'
 scheduleOrder: '6'
 scheduleRoom: BS30
+sessionLinks:
+  - title: Slides
+    url: http://www.slideshare.net/gcrao78/softshake-2014-cration-dexpriences-immersives
 ---
 
 Les interfaces sont en pleine explosion: interfaces naturelles, objets connectés, capteurs de mouvements, capteurs gestuelles (Kinect, LeapMotion...), réalité augmentée, Google Glass, casque d'immersion (Oculus Rift),...
