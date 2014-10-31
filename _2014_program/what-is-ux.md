@@ -16,6 +16,9 @@ sessionTags:
 scheduleDay: '2'
 scheduleOrder: '2'
 scheduleRoom: BE29
+sessionLinks:
+  - title: Slides
+    url: http://www.slideshare.net/GrauddeLAVAL/what-is-ux-40754952
 ---
 
 Can you give me a definition of the "User Experience"? I don't! And the Internet neither. User Experience is a really broad domain from analytics to psychology to interface design.
