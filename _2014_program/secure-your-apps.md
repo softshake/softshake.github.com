@@ -22,6 +22,9 @@ secondSpeakerAvatarUrl: 'http://www.gravatar.com/avatar/514b64d8e2ce95f08503c1c5
 scheduleDay: '1'
 scheduleOrder: '5'
 scheduleRoom: A104
+sessionLinks:
+  - title: Slides
+    url: http://fr.slideshare.net/primomh/secure-your-mobile-app
 ---
 
 Qui ne possède pas un smartphone de nos jours? Qui n'utilise pas son smartphone pour communiquer, stocker des informations et partager ses activités? Et quand est il des données professionnelles ?
