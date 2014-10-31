@@ -16,6 +16,9 @@ sessionTags:
 scheduleDay: '2'
 scheduleOrder: '2'
 scheduleRoom: BS27
+sessionLinks:
+  - title: Slides & Code
+    url: https://github.com/Swiip/angular-from-scratch
 ---
 
 On a tous vu une présentation d’AngularJS montrant la magie des bindings et des directives. Oui, mais comment ça marche ?
