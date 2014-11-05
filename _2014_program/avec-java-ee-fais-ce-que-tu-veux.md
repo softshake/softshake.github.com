@@ -16,6 +16,9 @@ sessionTags:
 scheduleDay: '2'
 scheduleOrder: '4'
 scheduleRoom: A104
+sessionLinks:
+  - title: Slides
+    url: http://fr.slideshare.net/sewatech/softshake-2014-java-ee
 ---
 
 Le temps est révolu où Java EE ne serait qu'à développer des applications de mise à jour de données, avec JSF / EJB / JPA. Aujourd'hui JavaEE s'est assoupli et s'est ouvert sur le monde, avec CDI comme clé de voute et a repoussé nos limites grâce à des capacités d'extension puissantes et faciles d'utilisation comme JCA.
