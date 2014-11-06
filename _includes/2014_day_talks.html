@@ -12,7 +12,12 @@
 					<h3><strong>{{ talk.scheduleRoom }}</strong></h3>
 				</div>
 				<div class="col-md-9">
-					<h4 class="list-group-item-heading">{{ talk.sessionTitle }}</h4>
+					<h4 class="list-group-item-heading">
+						{% if talk.sessionLinks %}
+						<span class="badge badge-success">+</span>
+						{% endif %}
+						<span>{{ talk.sessionTitle }}</span> 
+					</h4>
 					<p class="list-group-item-text">
 						{% if talk.secondSpeakerName %}
 							{{ talk.speakerName }}, {{ talk.secondSpeakerName }}
