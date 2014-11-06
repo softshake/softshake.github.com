@@ -16,6 +16,9 @@ sessionTags:
 scheduleDay: '1'
 scheduleOrder: '3'
 scheduleRoom: BS27
+sessionLinks:
+  - title: Slides
+    url: https://speakerdeck.com/fakih/full-time-pair-programming-nighmares-and-dreams
 ---
 
 Full Pair Programming : Nightmares & Dreams
