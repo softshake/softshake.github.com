@@ -16,6 +16,9 @@ sessionTags:
 scheduleDay: '2'
 scheduleOrder: '4'
 scheduleRoom: A105
+sessionLinks:
+  - title: Slides
+    url: https://www.dropbox.com/s/bicezutp85isidk/OAuth2%20SoftShake.pdf?dl=0
 ---
 
 Do you want to build a cool iOS app to share your photos on Twitter, Facebook or Google+? If so, you will need to authenticate through OAuth2. Instead of using their own authentication schemes, most providers choose to implement OAuth2, the latest revision of the OAuth protocol. It gives users a secure way to talk to their services, but more importantly, allows users to safely authorize access to their data from third-party services without giving them their credentials.
