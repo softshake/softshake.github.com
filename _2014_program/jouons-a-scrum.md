@@ -16,6 +16,9 @@ sessionTags:
 scheduleDay: '1'
 scheduleOrder: '4'
 scheduleRoom: A102
+sessionLinks:
+  - title: Slides
+    url: http://fr.slideshare.net/romaintrocherie/jouons-scrum-softshake-20141023-romain-trocherie
 ---
 
 Vous souhaitez démarrer votre premier projet selon Scrum? Vous avez des doutes sur son adhérence à travers votre équipe et souhaitez repartir d'un bon pied? Vous voulez un support de formation fun?
