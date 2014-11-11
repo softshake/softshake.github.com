@@ -16,6 +16,9 @@ sessionTags:
 scheduleDay: '2'
 scheduleOrder: '1'
 scheduleRoom: BS30
+sessionLinks:
+  - title: Slides
+    url: https://dl.dropboxusercontent.com/u/3516407/Immunothérapie%20pour%20le%20changement%20-%20Tremeur%20Balbous%20-%20SoftShake%20Genève%20%20-%2024%20octobre%202014.pdf
 ---
 
 « Immunity to Change »* est une dynamique mentale, un cercle vicieux, qui nous est invisible et qui nous empêche de changer. Cette dynamique cachée est consacrée à la préservation de notre façon d’interpréter le monde, de donner du sens à nos perceptions.
