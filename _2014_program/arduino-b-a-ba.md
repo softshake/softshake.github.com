@@ -16,6 +16,9 @@ sessionTags:
 scheduleDay: '2'
 scheduleOrder: '4'
 scheduleRoom: BS31
+sessionLinks:
+  - title: Slides & Code
+    url: https://github.com/jfpoilpret/arduino-talks/tree/master/Arduino-ABC
 ---
 
 Grâce à des prix abordables et des outils simples, Arduino met l'électronique numérique et l'"Internet des Choses" à portée de tous.
