@@ -16,6 +16,9 @@ sessionTags:
 scheduleDay: '2'
 scheduleOrder: '4'
 scheduleRoom: BS30
+sessionLinks:
+  - title: Slides
+    url: https://www.dropbox.com/s/rbp6uhzpfcv7zy8/GE%20-%20Restful%20Really.pdf?dl=0
 ---
 
 Faire une architecture de type Rest, que cela implique-t-il vraiment ?
