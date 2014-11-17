@@ -16,6 +16,11 @@ sessionTags:
 scheduleDay: '2'
 scheduleOrder: '3'
 scheduleRoom: BE29
+sessionLinks:
+  - title: Slides
+    url: https://speakerdeck.com/jgraber/xanpan-at-softshake-2014
+  - title: Blog
+    url: http://improveandrepeat.com/2014/10/soft-shake-2014-presenting-xanpan-and-metrics-based-decisions/
 ---
 
 Xanpan is a combination of Kanban and XP that was first suggested by Allan Kelly. While Kanban is a great tool to organise your work you may miss some software specific principles and practices. That’s the strength of XP which was not that much in the spotlight for years. As it turns out combining Kanban and XP gives you a highly flexible system that puts the focus on delivering high quality software. 
