@@ -16,6 +16,9 @@ sessionTags:
 scheduleDay: '2'
 scheduleOrder: '2'
 scheduleRoom: A106
+sessionLinks:
+  - title: Slides
+    url: https://docs.google.com/presentation/d/1SkAH3mn2DQ01dWMpbKbqmjD7inYa9KQ57l3S-KE-wdk/pub
 ---
 
 Most programmers nowadays are familiar with some functional programming principles.
