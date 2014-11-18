@@ -16,6 +16,9 @@ sessionTags:
 scheduleDay: '1'
 scheduleOrder: '3'
 scheduleRoom: A102
+sessionLinks:
+  - title: Slides
+    url: http://www.slideshare.net/doanduyhai/achilles-presentation 
 ---
 
 Avec l'arrivée du language de requêtage CQL3, Cassandra a rendu son modèle de développement plus accessible aux développeurs.
