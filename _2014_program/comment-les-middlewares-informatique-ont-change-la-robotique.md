@@ -24,6 +24,9 @@ secondSpeakerAvatarUrl: 'http://www.gravatar.com/avatar/cb731611f2c512db064be8ad
 scheduleDay: '1'
 scheduleOrder: '2'
 scheduleRoom: A106
+sessionLinks:
+  - title: Slides
+    url: https://www.dropbox.com/s/e531e10132fbef5/SoftShake-ROS.pdf?dl=0
 ---
 
 Présentation d'un état des lieux de la robotique de services
