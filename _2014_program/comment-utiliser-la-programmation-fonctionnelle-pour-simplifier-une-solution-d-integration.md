@@ -16,6 +16,13 @@ sessionTags:
 scheduleDay: '1'
 scheduleOrder: '6'
 scheduleRoom: A104
+sessionLinks:
+  - title: Slides
+    url: http://chpache.github.io/babel/soft-shake.html#1
+  - title: Doc
+    url: http://crossing-tech.github.io/babel/
+  - title: Code
+    url: https://github.com/crossing-tech/babel
 ---
 
 Babel est une API qui simplifie et consolide l'utilisation de frameworks d'intégration, principalement Apache Camel. Fortement inspiré par Scala, Babel tire partie de la programmation fonctionnelle sans être dogmatique. Dès le départ basé sur l'API Java existante, Babel vous propose un mélange optimal pour une meilleur expérience avec ces frameworks.
