@@ -16,6 +16,9 @@ sessionTags:
 scheduleDay: '1'
 scheduleOrder: '5'
 scheduleRoom: A102
+sessionLinks:
+  - title: Slides
+    url: https://www.dropbox.com/s/i5ybi0vi7xeay2g/gamedev_withscala.pdf?dl=0
 ---
 
 Scala is a fun language to code with and already has a strong ecosystem of libraries and tools, on top of Java's. What about game development? Can we make OpenGL games 'scala style'? How about using Akka, or developing for Android?
