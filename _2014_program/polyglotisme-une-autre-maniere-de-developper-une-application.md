@@ -16,6 +16,9 @@ sessionTags:
 scheduleDay: '1'
 scheduleOrder: '1'
 scheduleRoom: BE29
+sessionLinks:
+  - title: Slides
+    url: http://www.slideshare.net/twasyl/polyglottisme-une-autre-manire-de-dvelopper-une-application
 ---
 
 \#Polyglot, le buzz word dont tout le monde parle. On le voit partout: serveur d'application polyglot, IDE polyglot, outil polyglot, application polyglotte et même conférence polyglotte. Mais quels en sont les avantages et inconvénients? Pourquoi développer une application de manière polyglotte? Durant cette session je vous exposerai, au travers d'un retour d'expérience, pourquoi le polyglotisme est une autre manière intelligente de développer une application, tout de même vieille de 20 ans. Et qu'aujourd'hui plus que jamais vous devriez la prendre en considération lors de vos choix architecturaux pour être tournés vers l'avenir. Et nous nous permettrons aussi de rêver quelque peu.
