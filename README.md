@@ -50,3 +50,23 @@ GitHub uses **version 2.2.0** of Jekyll (see [this page](https://pages.github.co
 
 Configuration file: `_config.yml`.
 
+# Structure
+The web site is based on the [themeforest-6269713-eventify-one-page-conference-html5-template](http://themeforest.net/item/eventify-one-page-conference-html5-template/full_screen_preview/6269713)
+## Site generation
+The site is generated using layout and is structured as following:  
+
+* index.html
+* * _layout/2015_layout.html `<head> and script/css import`
+* * * _layout/2015_home_en.html `navigation bar, intro section, contact and footer `
+* * * * 2015/en/index.html `venue, speakers, .....`
+
+## Files
+All the files related to the template for the 2015 site is now grouped under `/templates/tf/`      
+
+## Set map location
+The location is set in the file [custom.js](templates/tf/js/custom.js) and search for `// Change this to your desired latitude and longitude`  
+The location is set in two spots, first right after the comment and then in the `$('#map_canvas').gmap().bind('init', function ()`  
+The text is already set in this function.
+
+## Mail encryption
+The mail for orga has been encoreypted using [this website](http://www.the-art-of-web.com/javascript/mailto/#output)
