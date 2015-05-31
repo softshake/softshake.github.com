@@ -35,7 +35,10 @@
 		
 		<!-- Specific font for Softshake -->
 		<style>
-		@font-face { font-family: DINPro; src: url('DINPro-Light.ttf'); } 
+		@font-face {
+			font-family: "DINPro";
+			src: local("DINPro"), local("DINPro"), url("/DINPro-Light.ttf") format("truetype");
+		}
 		body, h1, h2 {
 		    font-family: DINPro;
 		  }
