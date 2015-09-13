@@ -1,0 +1,60 @@
+
+	{% assign dayTalks = site.2015_program | where: "scheduleDay", include.day | sort: "scheduleOrder" %}
+	{% assign talksByOrder = dayTalks | group_by: "scheduleOrder" %}
+	{% for talkGroup in talksByOrder | sort: "name" %}
+	<article class="event">
+    <div class="timeline-icon">
+      <div class="timeline-icon-container"><i class="iconf-ok"></i> </div>
+    </div>
+    <div class="time-box">
+      <time>{{ site.schedule2015[forloop.index0] }}</time>
+    </div>
+
+        <div class="timeline-content">
+              <div class="event-content">
+                <div class="toggle-item-title event-title" data-count="1">
+                  <h3>Sessions <span>Slot {{ talkGroup.name }}</span></h3>
+                </div>
+        <div class="toggle-item-body" style="display: none;">
+		{% for talk in talkGroup.items %}
+		<div class="entry-content">
+		              <h4>
+		                {{ talk.sessionTitle }}
+		              </h4>
+		              <h4 class="label label-warning">{{ talk.scheduleRoom }}</h4>
+		              <h5>{% if talk.secondSpeakerName %}
+							{{ talk.speakerName }}, {{ talk.secondSpeakerName }}
+						{% else %}
+							{{ talk.speakerName }}
+						{% endif %}
+						{% for tag in talk.sessionTags %}
+							<span class="label badge">{{ tag }}</span>
+						{% endfor %}
+					</h5>
+					  <p>{{ talk.description }}</p>
+		            </div>
+		{% endfor %}
+		</div>
+	</article>
+	{% if forloop.index0 == 1 %}
+		<article class="event">
+	    <div class="timeline-icon">
+	      <div class="timeline-icon-container"><i class="iconf-coffee"></i> </div>
+	    </div>
+	    <div class="time-box">
+	      <time>12:15</time>
+	    </div>
+
+	        <div class="timeline-content">
+	              <div class="event-content">
+	                <div class="toggle-item-title event-title" data-count="1">
+	                  <h3>Lunch <span>and networking</span></h3>
+	                </div>
+	        <div class="toggle-item-body" style="display: none;">
+			<div class="entry-content">
+						  <p>Enjoy the delicious Lunch provided by the HEPIA</p>
+			            </div>
+			</div>
+		</article>	
+	{% endif %}
+	{% endfor %}

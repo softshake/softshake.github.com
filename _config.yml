@@ -1,7 +1,7 @@
 #
 # Jekyll configuration
 #
-exclude: ["vendor"]
+exclude: ["vendor", "2010", "2011", "2012", "2013"]
 
 markdown: kramdown
 
@@ -9,6 +9,9 @@ encoding: utf-8
 
 collections:
     2014_program:
+            output: true
+            permalink: /2014/program/sessions/:path:output_ext
+    2015_program:
             output: true
             permalink: /2014/program/sessions/:path:output_ext
 
@@ -72,3 +75,11 @@ schedule2014:
     - "14:45 - 15:30"
     - "16:00 - 16:45"
     - "17:00 - 17:45"
+
+schedule2015:
+    - "10:30"
+    - "11:30"
+    - "13:45"
+    - "14:45"
+    - "16:00"
+    - "17:00"
