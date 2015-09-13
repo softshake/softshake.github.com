@@ -15,6 +15,7 @@ sessionDescription: 'Today’s business web apps require more than a backend dat
 sessionTags:
     - Microsoft
 day: '1'
+scheduleOrder: 1
 ---
 
 undefined

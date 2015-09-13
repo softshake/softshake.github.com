@@ -15,6 +15,7 @@ sessionDescription: 'Découvrez les secrets de la JVM pour permettre la rédacti
 sessionTags:
     - Java
 day: '2'
+scheduleOrder: 4
 ---
 
 undefined

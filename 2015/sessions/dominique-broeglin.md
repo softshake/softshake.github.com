@@ -15,6 +15,7 @@ sessionDescription: "Applications without tests (legacy applications) present pa
 sessionTags:
     - Java
 day: '2'
+scheduleOrder: 0
 ---
 
 undefined

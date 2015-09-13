@@ -15,6 +15,7 @@ sessionDescription: "Je vais essayer de vous expliquer en 50 minutes pourquoi et
 sessionTags:
     - Web
 day: '1'
+scheduleOrder: 1
 ---
 
 undefined

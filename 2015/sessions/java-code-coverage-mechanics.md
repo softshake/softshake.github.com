@@ -15,6 +15,7 @@ sessionDescription: 'Java Code Coverage with JaCoCo ( http://www.jacoco.org/ ). 
 sessionTags:
     - Java
 day: '1'
+scheduleOrder: 5
 ---
 
 undefined

@@ -21,6 +21,7 @@ secondSpeakerTitle: 'Team Leader'
 secondSpeakerOrganization: Bi-SAM
 secondSpeakerAvatarUrl: '//www.gravatar.com/avatar/6575b4924dc9ca7cf6bb9d37674bbd59?size=200&default=mm'
 day: '1'
+scheduleOrder: 5
 ---
 
 undefined

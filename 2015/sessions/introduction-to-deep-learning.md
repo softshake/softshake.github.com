@@ -15,6 +15,7 @@ sessionDescription: ""
 sessionTags:
     - IA/Robotique/IoT
 day: '2'
+scheduleOrder: 3
 ---
 
 undefined

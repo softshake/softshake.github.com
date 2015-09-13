@@ -15,6 +15,7 @@ sessionDescription: "Durant de la WWDC 2015, Apple a dévoilé UI Testing! Enfin
 sessionTags:
     - Mobilité
 day: '1'
+scheduleOrder: 3
 ---
 
 undefined

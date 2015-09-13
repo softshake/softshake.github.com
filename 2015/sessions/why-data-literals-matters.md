@@ -15,6 +15,7 @@ sessionDescription: "Why Data Literals Matters?\n\nLe succès de JSON comme lang
 sessionTags:
     - 'Prog. Fonctionnelle'
 day: '1'
+scheduleOrder: 2
 ---
 
 undefined

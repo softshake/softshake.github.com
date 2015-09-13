@@ -15,6 +15,7 @@ sessionDescription: "Real time means you can control a quadcopter or a machine t
 sessionTags:
     - 'IA / Robotique / IoT'
 day: '2'
+scheduleOrder: 1
 ---
 
 undefined

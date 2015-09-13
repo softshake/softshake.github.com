@@ -15,6 +15,7 @@ sessionDescription: "La soumission d’une app iOS reste une tâche rébarbative
 sessionTags:
     - Mobilité
 day: '1'
+scheduleOrder: 5
 ---
 
 undefined

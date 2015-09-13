@@ -15,6 +15,7 @@ sessionDescription: "Test-Driven Development is widely accepted as good practice
 sessionTags:
     - 'Prog. Fonctionnelle'
 day: '1'
+scheduleOrder: 5
 ---
 
 undefined

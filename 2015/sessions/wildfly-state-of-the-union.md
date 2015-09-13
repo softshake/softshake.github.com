@@ -15,6 +15,7 @@ sessionDescription: "WildFly is the project once called the JBoss Application Se
 sessionTags:
     - Java
 day: '2'
+scheduleOrder: 2
 ---
 
 undefined

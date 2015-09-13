@@ -15,6 +15,7 @@ sessionDescription: "Avec le web et les APIs, les patterns de concurrence léger
 sessionTags:
     - 'Prog. Fonctionnelle'
 day: '1'
+scheduleOrder: 3
 ---
 
 undefined

@@ -15,6 +15,7 @@ sessionDescription: "This talk will present how to use Apache Lyo to connect via
 sessionTags:
     - Incubateur
 day: '1'
+scheduleOrder: 2
 ---
 
 undefined

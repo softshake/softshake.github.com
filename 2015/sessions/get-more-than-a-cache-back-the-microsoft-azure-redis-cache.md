@@ -15,6 +15,7 @@ sessionDescription: "The Microsoft Azure Redis Cache must be the fourth or fifth
 sessionTags:
     - Microsoft
 day: '2'
+scheduleOrder: 0
 ---
 
 undefined

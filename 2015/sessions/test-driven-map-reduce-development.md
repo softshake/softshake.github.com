@@ -15,6 +15,7 @@ sessionDescription: "L’écriture de job Map/Reduce s’appuie fréquemment sur
 sessionTags:
     - 'Big Data'
 day: '2'
+scheduleOrder: 0
 ---
 
 undefined

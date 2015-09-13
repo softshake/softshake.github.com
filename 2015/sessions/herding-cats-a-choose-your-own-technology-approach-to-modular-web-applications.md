@@ -21,6 +21,7 @@ secondSpeakerTitle: 'Software Developer'
 secondSpeakerOrganization: 'aixigo AG'
 secondSpeakerAvatarUrl: '//www.gravatar.com/avatar/e4f48942b4bd9d6132006a332396bfa8?size=200&default=mm'
 day: '2'
+scheduleOrder: 1
 ---
 
 undefined

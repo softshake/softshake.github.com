@@ -15,6 +15,7 @@ sessionDescription: "Why is Paris so beautiful? Netflix so scalable ? and REST n
 sessionTags:
     - Web
 day: '2'
+scheduleOrder: 4
 ---
 
 undefined

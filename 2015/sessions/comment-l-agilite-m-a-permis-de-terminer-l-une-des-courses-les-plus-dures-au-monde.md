@@ -15,6 +15,7 @@ sessionDescription: "Il y a quelques années, je me suis lancé un défi personn
 sessionTags:
     - Agile
 day: '1'
+scheduleOrder: 2
 ---
 
 undefined

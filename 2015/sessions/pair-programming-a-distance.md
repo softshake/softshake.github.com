@@ -15,6 +15,7 @@ sessionDescription: "C’est depuis un an que des Coding Dojo sont organisés en
 sessionTags:
     - Agile
 day: '2'
+scheduleOrder: 3
 ---
 
 undefined
