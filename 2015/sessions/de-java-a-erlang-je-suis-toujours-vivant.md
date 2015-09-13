@@ -15,6 +15,7 @@ sessionDescription: "Il y a quelques mois j'ai eu l'occasion de me brutaliser en
 sessionTags:
     - 'Prog. Fonctionnelle'
 day: '2'
+scheduleOrder: 1
 ---
 
 undefined

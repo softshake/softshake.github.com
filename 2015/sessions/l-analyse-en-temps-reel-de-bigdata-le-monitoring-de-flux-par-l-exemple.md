@@ -15,6 +15,7 @@ sessionDescription: "Tous les projets stratégiques ont besoin de gestion et de 
 sessionTags:
     - 'Big Data'
 day: '1'
+scheduleOrder: 1
 ---
 
 undefined

@@ -15,6 +15,7 @@ sessionDescription: "- Latence applicative humaine (geste & parole) et le foncti
 sessionTags:
     - Mobilité
 day: '2'
+scheduleOrder: 4
 ---
 
 undefined

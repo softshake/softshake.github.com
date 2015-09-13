@@ -15,6 +15,7 @@ sessionDescription: "Stream Processing is a concept used to create a high-perfor
 sessionTags:
     - 'Big Data'
 day: '1'
+scheduleOrder: 2
 ---
 
 undefined

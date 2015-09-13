@@ -15,6 +15,7 @@ sessionDescription: "Les modèles d’entretien techniques surtout les modèles 
 sessionTags:
     - Incubateur
 day: '2'
+scheduleOrder: 2
 ---
 
 undefined

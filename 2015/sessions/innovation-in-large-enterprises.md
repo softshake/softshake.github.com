@@ -15,6 +15,7 @@ sessionDescription: "The presentation is mostly based on my professional experie
 sessionTags:
     - Incubateur
 day: '1'
+scheduleOrder: 3
 ---
 
 undefined

@@ -15,6 +15,7 @@ sessionDescription: "Hands-on discovery of the Clojure programming language for 
 sessionTags:
     - 'Prog. Fonctionnelle'
 day: '2'
+scheduleOrder: 2
 ---
 
 undefined

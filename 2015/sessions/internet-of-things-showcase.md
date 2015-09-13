@@ -15,6 +15,7 @@ sessionDescription: "L'objectif de cet exposé est de démystifier l'Internet de
 sessionTags:
     - 'IA / Robotique / IoT'
 day: '1'
+scheduleOrder: 0
 ---
 
 undefined

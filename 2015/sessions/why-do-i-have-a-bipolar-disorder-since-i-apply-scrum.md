@@ -15,6 +15,7 @@ sessionDescription: "Since I joined Raise Partner as the 6th employee and the on
 sessionTags:
     - Agile
 day: '2'
+scheduleOrder: 3
 ---
 
 undefined

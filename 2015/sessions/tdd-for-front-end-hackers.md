@@ -15,6 +15,7 @@ sessionDescription: "Most websites start off with a little bit of this in them:\
 sessionTags:
     - Web
 day: '1'
+scheduleOrder: 5
 ---
 
 undefined

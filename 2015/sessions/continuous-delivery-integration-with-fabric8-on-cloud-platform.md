@@ -15,6 +15,7 @@ sessionDescription: "The cost of a change within an IT project impacts all the d
 sessionTags:
     - Java
 day: '2'
+scheduleOrder: 3
 ---
 
 undefined

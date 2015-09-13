@@ -21,6 +21,7 @@ secondSpeakerTitle: Architect
 secondSpeakerOrganization: LesFurets.com
 secondSpeakerAvatarUrl: '//www.gravatar.com/avatar/8e131a345518c1b383e2815edd2714d7?size=200&default=mm'
 day: '1'
+scheduleOrder: 2
 ---
 
 undefined

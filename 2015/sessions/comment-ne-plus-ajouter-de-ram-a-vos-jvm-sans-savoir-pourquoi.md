@@ -15,6 +15,7 @@ sessionDescription: "Les applications Java (et les autres langages de la JVM) co
 sessionTags:
     - Java
 day: '1'
+scheduleOrder: 3
 ---
 
 undefined

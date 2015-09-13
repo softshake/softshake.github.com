@@ -15,6 +15,7 @@ sessionDescription: 'Scala, Apache Spark, The PlayFramework, Docker and Platform
 sessionTags:
     - 'Big Data'
 day: '1'
+scheduleOrder: 0
 ---
 
 undefined

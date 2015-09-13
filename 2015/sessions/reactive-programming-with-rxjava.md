@@ -15,6 +15,7 @@ sessionDescription: 'RxJava is a library for composing asynchronous and event-ba
 sessionTags:
     - 'Prog. Fonctionnelle'
 day: '2'
+scheduleOrder: 0
 ---
 
 undefined

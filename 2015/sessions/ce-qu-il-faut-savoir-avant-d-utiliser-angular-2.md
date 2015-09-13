@@ -15,6 +15,7 @@ sessionDescription: "Tout le monde connait AngularJS et nous sommes tous persuad
 sessionTags:
     - Web
 day: '2'
+scheduleOrder: 0
 ---
 
 undefined

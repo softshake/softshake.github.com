@@ -15,6 +15,7 @@ sessionDescription: "Tout le monde est persuadé que l’ancêtre de SkyNet, est
 sessionTags:
     - 'IA / Robotique / IoT'
 day: '1'
+scheduleOrder: 1
 ---
 
 undefined

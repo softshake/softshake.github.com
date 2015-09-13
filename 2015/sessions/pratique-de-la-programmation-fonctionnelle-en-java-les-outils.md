@@ -15,6 +15,7 @@ sessionDescription: "Après une rapide intro de la programmation fonctionnelle e
 sessionTags:
     - 'Prog. Fonctionnelle'
 day: '2'
+scheduleOrder: 2
 ---
 
 undefined

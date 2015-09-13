@@ -15,6 +15,7 @@ sessionDescription: "Let’s discuss together about what is a product. How is it
 sessionTags:
     - Incubateur
 day: '1'
+scheduleOrder: 2
 ---
 
 undefined

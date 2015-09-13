@@ -15,6 +15,7 @@ sessionDescription: "Vous désirez requéter un très gros volume de données, s
 sessionTags:
     - 'Big Data'
 day: '1'
+scheduleOrder: 1
 ---
 
 undefined

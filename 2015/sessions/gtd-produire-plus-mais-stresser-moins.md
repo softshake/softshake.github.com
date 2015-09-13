@@ -15,6 +15,7 @@ sessionDescription: "Tout le monde le dit, notre vie s'accélère. L'homme moder
 sessionTags:
     - Incubateur
 day: '1'
+scheduleOrder: 4
 ---
 
 undefined

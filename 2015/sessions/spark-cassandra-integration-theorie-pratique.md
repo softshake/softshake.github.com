@@ -15,6 +15,7 @@ sessionDescription: 'Apache Spark est un framework de traitement de données Big
 sessionTags:
     - 'Big Data'
 day: '2'
+scheduleOrder: 0
 ---
 
 undefined

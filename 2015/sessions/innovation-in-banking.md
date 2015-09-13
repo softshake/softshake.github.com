@@ -15,6 +15,7 @@ sessionDescription: "During the past 8 months, after finishing my 1st book “Ba
 sessionTags:
     - 'IA / Robotique / IoT'
 day: '1'
+scheduleOrder: 4
 ---
 
 undefined

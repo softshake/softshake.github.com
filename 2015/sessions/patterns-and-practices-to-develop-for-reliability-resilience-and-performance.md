@@ -15,6 +15,7 @@ sessionDescription: 'This session will walk the audience on the best practices t
 sessionTags:
     - Incubateur
 day: '2'
+scheduleOrder: 3
 ---
 
 undefined

@@ -15,6 +15,7 @@ sessionDescription: "Vert.x 3 is a toolkit to create reactive applications on th
 sessionTags:
     - Java
 day: '2'
+scheduleOrder: 3
 ---
 
 undefined

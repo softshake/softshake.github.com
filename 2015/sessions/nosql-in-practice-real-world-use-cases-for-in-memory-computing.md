@@ -15,6 +15,7 @@ sessionDescription: "NoSQL is not just about different storage alternatives such
 sessionTags:
     - 'Big Data'
 day: '2'
+scheduleOrder: 0
 ---
 
 undefined

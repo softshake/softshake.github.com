@@ -15,6 +15,7 @@ sessionDescription: 'De nombreuses équipes se contentent de remplacer leur gest
 sessionTags:
     - Agile
 day: '1'
+scheduleOrder: 3
 ---
 
 undefined

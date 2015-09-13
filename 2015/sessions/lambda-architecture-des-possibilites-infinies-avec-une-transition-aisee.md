@@ -15,6 +15,7 @@ sessionDescription: "Lorsque l'on parle de BigData, de programmation réactive o
 sessionTags:
     - 'Big Data'
 day: '1'
+scheduleOrder: 4
 ---
 
 undefined
