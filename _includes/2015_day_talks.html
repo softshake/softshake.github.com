@@ -1,5 +1,5 @@
 
-	{% assign dayTalks = site.2015_program | where: "scheduleDay", include.day | sort: "scheduleOrder" %}
+	{% assign dayTalks = site.2015_program | where: "day", include.day | sort: "scheduleOrder" %}
 	{% assign talksByOrder = dayTalks | group_by: "scheduleOrder" %}
 	{% for talkGroup in talksByOrder | sort: "name" %}
 	<article class="event">
@@ -31,7 +31,7 @@
 							<span class="label badge">{{ tag }}</span>
 						{% endfor %}
 					</h5>
-					  <p>{{ talk.description }}</p>
+					  <p>{{ talk.sessionDescription }}</p>
 		            </div>
 		{% endfor %}
 		</div>

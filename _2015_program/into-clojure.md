@@ -1,21 +1,20 @@
 ---
-layout: 2014_session
+layout: 2015_session
 sessionTitle: '(into clojure)'
 speakerName: 'Rob Branchat'
 speakerEmail: rob@sixsq.com
 speakerBio: ""
 speakerAddress: Zürich
-speakerTitle: 'Software Engineer'
+speakerTitle: '(into clojure)'
 speakerOrganization: SixSq
-speakerAvatarUrl: 'http://www.gravatar.com/avatar/b7eb3b1483a36824d26ba035ccc3ea4f?size=200&default=mm'
-sessionCategory: Atelier
-sessionLevel: 'Shu (débutant)'
-sessionTopic: 'Introduction à Clojure.'
+speakerAvatarUrl: '//www.gravatar.com/avatar/b7eb3b1483a36824d26ba035ccc3ea4f?size=200&default=mm'
+sessionCategory: 'Développeur # Developer'
+sessionLevel: 'Shu (débutant # beginner)'
+sessionTopic: 'Intro to Clojure'
+sessionDescription: "Hands-on discovery of the Clojure programming language for developers, i.e. REPL instead of slides. No previous knowledge of the language is required. A second session to extend the content is also possible (see point 2. in \"further comments\").\n\n"
 sessionTags:
-  - 'Prog. Fonctionnelle'
-scheduleDay: '2'
-scheduleOrder: '1'
-scheduleRoom: A104
+    - 'Prog. Fonctionnelle'
+day: '2'
 ---
 
-L'idée c'est de faire un atelier pratique (cf. REPL au lieux de Powerpoint) pour des gens qui n'ont jamais vu Clojure pour leur donner le max d'outils possible (et quelques pointeurs) en une heure pour qu'ils soient capables de continuer à découvrir ce langage de façon autonome plus tard. Après deux ans d'avoir travaillé en production avec Clojure, ça me ferait plaisir de partager mes expériences sur ce langage.
+undefined
