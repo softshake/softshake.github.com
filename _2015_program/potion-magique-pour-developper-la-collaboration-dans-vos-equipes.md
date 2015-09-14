@@ -15,6 +15,7 @@ sessionDescription: "Mieux se connaître soi-même, apprendre à travailler effi
 sessionTags:
     - Agile
 day: '2'
+scheduleOrder: 2
 ---
 
 undefined

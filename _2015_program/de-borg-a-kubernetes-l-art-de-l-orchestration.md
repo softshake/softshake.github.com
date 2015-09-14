@@ -15,6 +15,7 @@ sessionDescription: 'Avec des milliards de conteneurs démarrés tous les mois p
 sessionTags:
     - Web
 day: '1'
+scheduleOrder: 4
 ---
 
 undefined

@@ -15,6 +15,7 @@ sessionDescription: "Years ago, I had a project idea: Develop a robot to automat
 sessionTags:
     - 'IA / Robotique / IoT'
 day: '1'
+scheduleOrder: 3
 ---
 
 undefined

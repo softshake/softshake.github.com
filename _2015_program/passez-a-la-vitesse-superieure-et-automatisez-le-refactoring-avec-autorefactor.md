@@ -15,6 +15,7 @@ sessionDescription: "Le refactoring c’est super, mais comment refactorer tout 
 sessionTags:
     - Java
 day: '1'
+scheduleOrder: 4
 ---
 
 undefined

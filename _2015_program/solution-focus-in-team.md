@@ -15,6 +15,7 @@ sessionDescription: "L’amélioration continue en équipe : utilisez votre équ
 sessionTags:
     - Agile
 day: '1'
+scheduleOrder: 0
 ---
 
 undefined

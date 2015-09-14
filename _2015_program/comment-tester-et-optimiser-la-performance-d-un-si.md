@@ -21,6 +21,7 @@ secondSpeakerTitle: 'Manager équipe performance'
 secondSpeakerOrganization: 'OCTO Technology'
 secondSpeakerAvatarUrl: '//www.gravatar.com/avatar/18252beb7d9c34dfa24b284795ae03b9?size=200&default=mm'
 day: '1'
+scheduleOrder: 0
 ---
 
 undefined

@@ -15,6 +15,7 @@ sessionDescription: 'Retour d’expérience sur l’implémentation, en cours, d
 sessionTags:
     - Incubateur
 day: '1'
+scheduleOrder: 0
 ---
 
 undefined

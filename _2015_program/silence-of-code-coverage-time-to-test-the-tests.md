@@ -15,6 +15,7 @@ sessionDescription: 'Unit tests are guardians for your production code, but "Qui
 sessionTags:
     - Java
 day: '1'
+scheduleOrder: 4
 ---
 
 undefined

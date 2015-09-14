@@ -15,6 +15,7 @@ sessionDescription: "Plus ça va, plus je suis persuadé que le modèle de progr
 sessionTags:
     - Web
 day: '2'
+scheduleOrder: 0
 ---
 
 undefined

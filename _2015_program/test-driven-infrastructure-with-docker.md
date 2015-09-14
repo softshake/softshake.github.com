@@ -15,6 +15,7 @@ sessionDescription: "Le concept de **Infrastructure as Code**, appuyé par des o
 sessionTags:
     - Java
 day: '2'
+scheduleOrder: 1
 ---
 
 undefined

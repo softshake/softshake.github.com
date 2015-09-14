@@ -15,6 +15,7 @@ sessionDescription: 'Ce n’est pas un hasard si 2 des plus grandes companies IT
 sessionTags:
     - Incubateur
 day: '1'
+scheduleOrder: 0
 ---
 
 undefined

@@ -15,6 +15,7 @@ sessionDescription: "Plongeons ensemble dans des concepts architecturaux pour vo
 sessionTags:
     - Java
 day: '2'
+scheduleOrder: 1
 ---
 
 undefined

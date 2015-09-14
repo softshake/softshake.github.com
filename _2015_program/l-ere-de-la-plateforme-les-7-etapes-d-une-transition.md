@@ -15,6 +15,7 @@ sessionDescription: "Le pitch:\nResponsables de produit, équipes marketing, ent
 sessionTags:
     - Incubateur
 day: '2'
+scheduleOrder: 0
 ---
 
 undefined

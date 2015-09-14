@@ -15,6 +15,7 @@ sessionDescription: "Si vous êtes intéressé par le monde du Big Data, vous av
 sessionTags:
     - 'Big Data'
 day: '2'
+scheduleOrder: 1
 ---
 
 undefined

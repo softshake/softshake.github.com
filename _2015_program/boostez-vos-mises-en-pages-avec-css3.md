@@ -15,6 +15,7 @@ sessionDescription: "Faire des mises en pages avancées a toujours été une gag
 sessionTags:
     - Web
 day: '1'
+scheduleOrder: 1
 ---
 
 undefined

@@ -15,6 +15,7 @@ sessionDescription: 'L''analyse statique permet de detecter des bugs et des prob
 sessionTags:
     - Java
 day: '1'
+scheduleOrder: 3
 ---
 
 undefined

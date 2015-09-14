@@ -21,6 +21,7 @@ secondSpeakerTitle: Consultant
 secondSpeakerOrganization: 'OCTO Technology'
 secondSpeakerAvatarUrl: '//www.gravatar.com/avatar/e95541129d82a9e5e975e39c1fcb8710?size=200&default=mm'
 day: '2'
+scheduleOrder: 2
 ---
 
 undefined

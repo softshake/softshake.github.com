@@ -15,6 +15,7 @@ sessionDescription: 'Les interactions avec votre smartphone s’apparentent à u
 sessionTags:
     - Mobilité
 day: '1'
+scheduleOrder: 2
 ---
 
 undefined
