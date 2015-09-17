@@ -1,11 +1,11 @@
 ---
 layout: 2015_session
-sessionTitle: 'Dominique Broeglin'
+sessionTitle: 'Replacing legacy applications using Spray & Scalacheck - a case study'
 speakerName: 'Matthew Farwell'
 speakerEmail: matthew@farwell.co.uk
 speakerBio: "Senior software developer, Nexthink SA. (http://nexthink.com)\n\n25 years of development experience, and enthusiastic for Scala\n\nProject lead on Scalastyle, the style checker for Scala. (http://www.scalastyle.org/)\nCo-author of sbt in action. http://www.manning.com/suereth2/ http://www.se-radio.net/2015/07/se-radio-episode-231-joshua-suereth-and-matthew-farwell-on-sbt-and-software-builds/\nContributor to various open source projects, including JUnit, sbt and Scala IDE."
 speakerAddress: 'Lausanne, Switzerland'
-speakerTitle: 'Dominique Broeglin'
+speakerTitle: 'Replacing legacy applications using Spray & Scalacheck - a case study'
 speakerOrganization: 'Nexthink SA'
 speakerAvatarUrl: '//www.gravatar.com/avatar/01c4bb8048409cf0238a6518b96d8e05?size=200&default=mm'
 sessionCategory: 'Décideur # Decision maker, Architecte # Architect, Développeur # Developer'
@@ -15,7 +15,7 @@ sessionDescription: "Applications without tests (legacy applications) present pa
 sessionTags:
     - Java
 day: '2'
-scheduleOrder: 0
+scheduleOrder: 3
 ---
 
 undefined
