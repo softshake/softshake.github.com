@@ -1,0 +1,12 @@
+No schedule (day,room,order) found: 
+>>>>> Ce qu'il faut savoir avant... d'utiliser Angular 2
+>>>>> Comment l'agilité m'a permis de terminer l'une des courses les plus dures au monde
+>>>>> De borg à kubernetes, l'art de l'orchestration
+>>>>> De Java à Erlang, je suis toujours vivant!
+>>>>> Fowler, Fielding, and Haussman - network-based architectures
+>>>>> Internet of Things showcase
+>>>>> Internet of Things showcase
+>>>>> L'agilité ne suffit pas pour être un bon développeur
+>>>>> NoSQL in Practice – Real World Use Cases for In-Memory Computing
+>>>>> Poppy: Technical presentation
+>>>>> Potion magique pour développer la collaboration dans vos équipes
