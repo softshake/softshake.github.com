@@ -20,6 +20,9 @@ secondSpeakerBio: 'Team Leader and Software Developer'
 secondSpeakerTitle: 'Team Leader'
 secondSpeakerOrganization: Bi-SAM
 secondSpeakerAvatarUrl: '//www.gravatar.com/avatar/6575b4924dc9ca7cf6bb9d37674bbd59?size=200&default=mm'
+scheduleDay: 1
+scheduleOrder: 4
+scheduleRoom: 7
 ---
 
 undefined

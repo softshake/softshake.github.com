@@ -14,6 +14,9 @@ sessionTopic: 'Amélioration continue et développement personnel et collectif'
 sessionDescription: "Mieux se connaître soi-même, apprendre à travailler efficacement en binôme, s’adapter pour réussir un projet d’équipe. Ces compétences professionnelles de base sont à travailler inlassablement, d’autant plus qu’elles sont sous-enseignées dans nos formations étudiantes et professionnelles. \n\nVoici un cocktail frais et vitaminé fait maison. La recette est encore secrète, cependant les ingrédients n’ont rien à cacher : théâtre d’improvisation, coaching, facilitation graphique,  méditation, et peut-être même une pincée de clown pour votre dose quotidienne de fun !\nAteliers bien entendu ouverts à tous, sans pré-requis.\n\nVous êtes invités dans un environnement professionnel, détendu et joyeux, à une dégustation en 3 temps :\n1- Prendre conscience de soi - son corps et son esprit - à travers ses postures, son état neutre, ses émotions, dessiner sa raison d’être.\n2- Développer sa relation à l’autre pour mieux travailler en binôme (soi + 1 autre) : mise en confiance “les yeux fermés”, dessin en duo, jeu de scène en binôme, \n3- Co-construire en équipe (soi + les autres) : “tous en réunion”, tirer ou ne pas tirer sur la corde, clôture visuelle.\n"
 sessionTags:
     - Agile
+scheduleDay: 0
+scheduleOrder: 4
+scheduleRoom: 7
 ---
 
 undefined
