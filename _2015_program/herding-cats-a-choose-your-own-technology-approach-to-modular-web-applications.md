@@ -20,8 +20,9 @@ secondSpeakerBio: 'In web development for 15 years, Michael Kurze is an open-sou
 secondSpeakerTitle: 'Software Developer'
 secondSpeakerOrganization: 'aixigo AG'
 secondSpeakerAvatarUrl: '//www.gravatar.com/avatar/e4f48942b4bd9d6132006a332396bfa8?size=200&default=mm'
-day: '2'
-scheduleOrder: 1
+scheduleDay: 1
+scheduleOrder: 0
+scheduleRoom: 0
 ---
 
 undefined

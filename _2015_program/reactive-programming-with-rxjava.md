@@ -14,8 +14,9 @@ sessionTopic: 'Reactive programming'
 sessionDescription: 'RxJava is a library for composing asynchronous and event-based programs by using observable sequences. RxJava was created by Netflix as a port of the original .Net Rx library. This talk will explain the basic concepts and then show them in use through several examples using Java 8.'
 sessionTags:
     - 'Prog. Fonctionnelle'
-day: '2'
-scheduleOrder: 0
+scheduleDay: 1
+scheduleOrder: 1
+scheduleRoom: 2
 ---
 
 undefined

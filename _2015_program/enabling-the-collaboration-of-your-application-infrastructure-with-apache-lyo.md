@@ -14,8 +14,9 @@ sessionTopic: 'ALM, DevOps, Software Development Infrastrucuture'
 sessionDescription: "This talk will present how to use Apache Lyo to connect via OSLC all your application development infrastructure to enable a better collaboration and communication through all the application lifecycle management (ALM), including the continuous delivery, testing and monitoring of an application, creating an DevOps environment to enable a culture change path.\nWill be presented a solution architecture where Apache Lyo was used to integrate applications, both developed internally and acquired, that are used on a leader company on financial services at different phases of the software development and delivery, showing the best practices, pitfalls and lessons learned."
 sessionTags:
     - Incubateur
-day: '1'
-scheduleOrder: 2
+scheduleDay: 0
+scheduleOrder: 5
+scheduleRoom: 2
 ---
 
 undefined

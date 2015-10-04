@@ -14,8 +14,9 @@ sessionTopic: 'Office 365 Add-Ins'
 sessionDescription: 'Today’s business web apps require more than a backend database, rich business model and services. Successful applications require cloud-ready, multi-tenant capabilities or device agnostic, fluent web interfaces. Join me in this session to learn how Visual Studio LightSwitch CBA provides business agility by reducing development cycles, bridge data stores by integrating line-of-business data (SharePoint, Office 365, REST services, and more) and create modern single-page apps (SPA), future-proof, mobile ready, cloud-hosted web interface. While at it, you’ll learn how to benefit from you apps catalogue and deploy provider-hosted app in Office 365 and Azure.'
 sessionTags:
     - Microsoft
-day: '1'
+scheduleDay: 0
 scheduleOrder: 1
+scheduleRoom: 3
 ---
 
 undefined

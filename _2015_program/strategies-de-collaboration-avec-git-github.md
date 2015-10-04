@@ -14,8 +14,9 @@ sessionTopic: 'Collaboration & devops'
 sessionDescription: 'De nombreuses équipes se contentent de remplacer leur gestionnaire de code source par Git sans vraiment revoir leur mode de collaboration ni exploiter ses possibilités. Il n''y a pas mieux pour se récupérer les contraintes du changement et aucun de ses bénéfices. L''objectif de cette présentation est de passer en revue différents workflows basés sur Git et GitHub, en y incluant des stratégies de code review et des exemples d''outils tiers. Enfin, on verra comment le workflow humain peut se prolonger par un déploiement automatisé bien que pas forcément continu. '
 sessionTags:
     - Agile
-day: '1'
+scheduleDay: 0
 scheduleOrder: 3
+scheduleRoom: 1
 ---
 
 undefined

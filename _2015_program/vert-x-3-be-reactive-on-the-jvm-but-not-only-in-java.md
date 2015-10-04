@@ -14,8 +14,9 @@ sessionTopic: Vert.x
 sessionDescription: "Vert.x 3 is a toolkit to create reactive applications on the Java Virtual Machine. Vert.x 3 takes the JVM to new levels of reactive awesomeness: it lets you build scalable applications transparently distributed in Java, JavaScript, Ruby and Groovy. And, you don’t have to choose a single language, but mix them!\n\nThis talk presents the key concepts of Vert.x and how you can use it to build your next application. This session explains how the simple model promoted by Vert.x enables the construction of concurrent, scalable and efficient micro-service based applications.\n\nSeveral examples are developed during the talk and demonstrates Vert.x features such as the distributed event bus, the high availability, the polyglot aspect and vert.x web. "
 sessionTags:
     - Java
-day: '2'
-scheduleOrder: 3
+scheduleDay: 1
+scheduleOrder: 1
+scheduleRoom: 4
 ---
 
 undefined

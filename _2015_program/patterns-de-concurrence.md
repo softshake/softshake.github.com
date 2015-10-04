@@ -14,8 +14,9 @@ sessionTopic: Concurrence
 sessionDescription: "Avec le web et les APIs, les patterns de concurrence légers, inspirés notamment de la programmation fonctionnelle, sont à la mode: asynchronisme et non-blocage d'un coté (NodeJS, Scala), modèles d'acteurs ou de coroutines de l'autre (Erlang, Go, Scala).\n\nQuels sont ces patterns, d’où viennent-ils et quelles sont leurs forces et leurs faiblesses? Qu'apportent ils par rapport aux désormais classiques processus et threads?\n\nEn fonction des applications, lequel de ces patterns se démarque en termes d'optimisation des ressources système, des temps de traitement, de la réactivité et la tenue en charge des applications, de la lisibilité et la maintenabilité du code obtenu ?\n"
 sessionTags:
     - 'Prog. Fonctionnelle'
-day: '1'
-scheduleOrder: 3
+scheduleDay: 0
+scheduleOrder: 1
+scheduleRoom: 1
 ---
 
 undefined

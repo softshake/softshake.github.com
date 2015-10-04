@@ -20,8 +20,9 @@ secondSpeakerBio: "Après plusieurs années dans le monde de la banque privée, 
 secondSpeakerTitle: Consultant
 secondSpeakerOrganization: 'OCTO Technology'
 secondSpeakerAvatarUrl: '//www.gravatar.com/avatar/e95541129d82a9e5e975e39c1fcb8710?size=200&default=mm'
-day: '2'
-scheduleOrder: 2
+scheduleDay: 1
+scheduleOrder: 1
+scheduleRoom: 3
 ---
 
 undefined

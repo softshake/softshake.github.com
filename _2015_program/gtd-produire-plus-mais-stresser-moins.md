@@ -14,8 +14,9 @@ sessionTopic: Organisation/GTD
 sessionDescription: "Tout le monde le dit, notre vie s'accélère. L'homme moderne est sous une\npression constante et il est important de bien la gérer pour ne pas craquer.\n\nEt si une partie de la solution tenait simplement à s'organiser, ou à\ns'organiser mieux ? Getting Things Done est la solution, là où les Todo List\nont montrées leur limites. Loin d'être nouvelle, cette méthodologie profite\naujourd'hui de technologies récentes tel que le mobile ou le cloud. Cette\nmeilleure organisation vous permet de produire plus mais surtout de façon plus\nsereine !\n\nJe vous propose de vous présenter GTD basé sur mon expérience et en utilisant\nmon système actuel comme support.\n"
 sessionTags:
     - Incubateur
-day: '1'
-scheduleOrder: 4
+scheduleDay: 0
+scheduleOrder: 2
+scheduleRoom: 0
 ---
 
 undefined

@@ -20,8 +20,9 @@ secondSpeakerBio: ""
 secondSpeakerTitle: ""
 secondSpeakerOrganization: ""
 secondSpeakerAvatarUrl: '//www.gravatar.com/avatar/d415f0e30c471dfdd9bc4f827329ef48?size=200&default=mm'
-day: '2'
-scheduleOrder: 3
+scheduleDay: 0
+scheduleOrder: 5
+scheduleRoom: 6
 ---
 
 undefined

@@ -14,8 +14,9 @@ sessionTopic: 'UI & JavaFX'
 sessionDescription: "Plongeons ensemble dans des concepts architecturaux pour voir comment rapidement construire des Interfaces Utilisateurs très évolutive. JRebirth Application Framework est une librairie légère qui permet d'éviter les écueils les plus courants lorsqu'on développe une application avec JavaFX.\nNous découvrirons son motif de conception interne qui fournit des composants interchangeables (Command, Service, Model), un moteur de message (Wave), des améliorations comportementales (Behavior) et une gestion des ressources optimisée.\nEn utilisant JRebirth, votre application ne se bloquera pas et ne ralentira jamais, respectera la mémoire de vos appareils et sera facile à faire évoluer avec des composants connectables à chaud. Pour conclure nous verrons quelques applications de démonstration (Jeu de calcul …)."
 sessionTags:
     - Java
-day: '2'
-scheduleOrder: 1
+scheduleDay: 1
+scheduleOrder: 2
+scheduleRoom: 4
 ---
 
 undefined

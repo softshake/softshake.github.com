@@ -14,8 +14,9 @@ sessionTopic: 'Live coding'
 sessionDescription: "Après une rapide intro de la programmation fonctionnelle et de ses avantages (les participants peu familier avec l'approche sont invité à parcourir mon intro de la prog. fun. : https://goo.gl/F12YuC), nous nous concentrerons sur l'écriture du cœur d'une application (le domaine métier) via une session de live-coding entrecoupée de slides qui permettra d'introduire les concepts et pratique et outils (libraires) utiles à notre tâche:\n- Types de donné algébrique et comment les implémenter en Java,\n- Structural pattern matching en Java.\n- Mise à jour de structures de donnée immutables / persistantes (via lenses)\n- Validation\n- Introduction à une architecture particulièrement adaptée à la programmation fonctionnelle: CQRS + Event sourcing."
 sessionTags:
     - 'Prog. Fonctionnelle'
-day: '2'
-scheduleOrder: 2
+scheduleDay: 1
+scheduleOrder: 0
+scheduleRoom: 3
 ---
 
 undefined

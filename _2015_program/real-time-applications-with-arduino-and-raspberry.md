@@ -14,8 +14,9 @@ sessionTopic: 'Real Time applications'
 sessionDescription: "Real time means you can control a quadcopter or a machine tool. You need a 1ms response time and less than 1000 instructions are required to read sensors and decide for the control values for the next 1ms. It’s easy with a 10 MHz micro, but this suppose to understand the microcontroller, use an oscilloscope to check librairie’s response time and rewrite them when not acceptable. Something like Wirth’s law apply to microcontrollers: when the manufacturer double the clock frequency, its system software gets 2 time larger. Linux is great, but not for real time.\nSolution is to use smart peripherals with their own micro, controlled via an I2C channel. Timing constraints and pedagogical interest will be developed in the presentation.\n"
 sessionTags:
     - 'IA / Robotique / IoT'
-day: '2'
-scheduleOrder: 1
+scheduleDay: 1
+scheduleOrder: 3
+scheduleRoom: 6
 ---
 
 undefined

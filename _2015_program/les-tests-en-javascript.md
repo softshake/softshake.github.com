@@ -14,8 +14,9 @@ sessionTopic: Tests
 sessionDescription: "Je vais essayer de vous expliquer en 50 minutes pourquoi et comment faire des tests unitaires et d'intégration dans une application Javascript. Je vous montrerai sur un exemple simple en live coding comment on peut utiliser Jasmine, Karma et Protractor.\n\nL'application qui sera prise en exemple sera une application Angular JS. Jasmine et Karma peuvent être utilisés quelque soit le framework Javascript alors que Protractor est spécifique aux applicatons Angular."
 sessionTags:
     - Web
-day: '1'
+scheduleDay: 1
 scheduleOrder: 1
+scheduleRoom: 1
 ---
 
 undefined

@@ -14,8 +14,9 @@ sessionTopic: Assembleur
 sessionDescription: 'Retour d’expérience sur l’implémentation, en cours, d’un simulateur MMIX en Java. MMIX est, d’après Donald Knuth, son créateur, un ordinateur destiné à illustrer les aspects de la programmation au niveau machine. Fervent adepte des Coding Dojo, lorsque j’ai voulu améliorer ma pratique du Java bas niveau l’implémentation de MMIX semblait le prétexte rêvé.'
 sessionTags:
     - Incubateur
-day: '1'
-scheduleOrder: 0
+scheduleDay: 0
+scheduleOrder: 3
+scheduleRoom: 3
 ---
 
 undefined

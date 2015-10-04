@@ -20,8 +20,9 @@ secondSpeakerBio: 'Titulaire d''un Bachelor of Sciences obtenu à l''université
 secondSpeakerTitle: 'Agile Project Manager'
 secondSpeakerOrganization: Swissquote
 secondSpeakerAvatarUrl: '//www.gravatar.com/avatar/2b3a1f76380dc34ba76b03f56a940f6d?size=200&default=mm'
-day: '2'
-scheduleOrder: 0
+scheduleDay: 1
+scheduleOrder: 2
+scheduleRoom: 2
 ---
 
 undefined

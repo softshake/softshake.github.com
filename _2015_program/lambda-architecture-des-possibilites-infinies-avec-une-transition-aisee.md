@@ -14,8 +14,9 @@ sessionTopic: 'Lambda Architecture'
 sessionDescription: "Lorsque l'on parle de BigData, de programmation réactive ou d'autres nouvelles\ntechnologies et nouveaux mouvements, les grandes entreprises sont souvent à la\npeine. D'un côté, les DSI perçoivent la valeur de ces nouvelles technologies\net de ces nouveaux designs ; de l'autre, les SI sont sclérosés par des\nprocessus lourds et il est très difficile, voire impossible, d'y faire entrer\nde nouvelles stacks technologiques.\n\nCette présentation introduira le concept de lambda architecture (type\nd'architecture émergeant dans le monde du big data) et montrera que celle-ci\npeut être mise en place de façon simplifiée dans les grandes DSI. Nous verrons\négalement que ces concepts peuvent être repris dans d'autres contextes que\nceux du big data et ouvrent le SI à de nombreuses possibilités et permettent\nd'envisager sereinement la prochaine vague de croissance.\n"
 sessionTags:
     - 'Big Data'
-day: '1'
-scheduleOrder: 4
+scheduleDay: 0
+scheduleOrder: 5
+scheduleRoom: 4
 ---
 
 undefined

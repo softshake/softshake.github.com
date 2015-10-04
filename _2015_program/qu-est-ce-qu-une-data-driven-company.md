@@ -20,8 +20,9 @@ secondSpeakerBio: 'Cyril est consultant chez OCTO Technology. Architecte "tout-t
 secondSpeakerTitle: Consultant
 secondSpeakerOrganization: 'OCTO Technology'
 secondSpeakerAvatarUrl: '//www.gravatar.com/avatar/5f93435c03a6d925b880a3503cf72c56?size=200&default=mm'
-day: '1'
-scheduleOrder: 2
+scheduleDay: 0
+scheduleOrder: 0
+scheduleRoom: 0
 ---
 
 undefined

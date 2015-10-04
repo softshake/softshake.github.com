@@ -14,8 +14,9 @@ sessionTopic: Spark/Zeppelin
 sessionDescription: "Si vous êtes intéressé par le monde du Big Data, vous avez surement entendu parler d'Apache Spark, mais connaissez vous Apache Zeppelin ? Savez vous qu'il est très facile de générer de jolis graphes avec une interface intuitive pour vos RDD ?\n\nDans cette session, je montrerai par l'exemple le projet Apache Zeppelin et son architecture modulaire qui vous permet d'intégrer n'importe quel parseur de commande pour n'importe quelle application back-end.\n"
 sessionTags:
     - 'Big Data'
-day: '2'
-scheduleOrder: 1
+scheduleDay: 1
+scheduleOrder: 2
+scheduleRoom: 0
 ---
 
 undefined

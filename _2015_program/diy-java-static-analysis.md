@@ -14,8 +14,9 @@ sessionTopic: 'Analyse statique en Java'
 sessionDescription: 'L''analyse statique permet de detecter des bugs et des problèmes dans votre code sans l''executer. Cette présentation vous promet, en toute simplicité, d''ecrire votre propre analyseur pour Java basé sur SonarQube. Pour y arriver il faudra comprendre les challenges d''analyse du langage, du parsing à l''execution symbolique,  pour pouvoir coder des vérifications specifiques à vos projets ! '
 sessionTags:
     - Java
-day: '1'
-scheduleOrder: 3
+scheduleDay: 0
+scheduleOrder: 0
+scheduleRoom: 4
 ---
 
 undefined

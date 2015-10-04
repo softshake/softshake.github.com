@@ -14,8 +14,9 @@ sessionTopic: Algorithme
 sessionDescription: 'Découvrez les secrets de la JVM pour permettre la rédaction d''algorithme à haute fréquence. Parcourrons ensemble les quatorze secrets en fouillant dans les sources des librairies et de la JVM.'
 sessionTags:
     - Java
-day: '2'
-scheduleOrder: 4
+scheduleDay: 1
+scheduleOrder: 0
+scheduleRoom: 4
 ---
 
 undefined

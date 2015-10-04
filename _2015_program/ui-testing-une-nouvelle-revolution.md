@@ -14,8 +14,9 @@ sessionTopic: 'Test UI sous iOS'
 sessionDescription: "Durant de la WWDC 2015, Apple a dévoilé UI Testing! Enfin, un framework de test pour les interfaces supporté officiellement.\nQu'apporte ce nouveau framework? Quels sont ces possiblités de test?\n\nCette session présentera UI Testing et mettra en pratique quelques tests pour une application mobile sous iOS. \nEt pourquoi pas se divertir en faisant des tests..."
 sessionTags:
     - Mobilité
-day: '1'
-scheduleOrder: 3
+scheduleDay: 0
+scheduleOrder: 4
+scheduleRoom: 2
 ---
 
 undefined

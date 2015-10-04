@@ -14,8 +14,9 @@ sessionTopic: 'Coaching et Amélioration continue '
 sessionDescription: "L’amélioration continue en équipe : utilisez votre équipe comme un coach !\nVous êtes Manager (de Managers) ou Scrum Master et vous retrouvez bloqué dans la mise en oeuvre d’axes d’améliorations, par exemples définis en rétrospectives. Les obstacles paraissent insurmontables dans votre contexte, \"sur ce projet avec cette équipe ce n’est pas possible\".\nCette session va vous permettre de ré-enclencher des actions concrètes et de gagner en confiance. La session s’adresse aussi à ceux qui ont l’impression de ne plus avoir besoin ni envie de changer quoi que ce soit.\n\nAprès une courte introduction à la posture de coach, je vous présenterai les principaux outils du coach. Ensuite, nous regarderons plus en détail la technique Solution Focus ainsi que ces étapes concrètes avec le partage d’un exemple d’utilisation sur un cas réel.\n\nEnfin, nous mettrons en pratique, à la manière d’un coaching dojo : \n- exposé de la demande \n- clarification (questions ouvertes) \n- le groupe échange sur des solutions possibles, des idées (le demandeur n’intervient pas, il écoute) \n- le demandeur donne un feedback sur ce qui l’a intéressé, ce qu’il pense pouvoir faire.\n"
 sessionTags:
     - Agile
-day: '1'
-scheduleOrder: 0
+scheduleDay: 1
+scheduleOrder: 4
+scheduleRoom: 1
 ---
 
 undefined

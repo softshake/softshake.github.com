@@ -14,8 +14,9 @@ sessionTopic: 'tdd, js, front-end'
 sessionDescription: "Most websites start off with a little bit of this in them:\n\n    $(\"a.register\").on(\"click\", function(e){\n        $(\"#signup\").fadeToggle(750, \"linear\");\n    });\n\nBut that usually grows into something unmentionable, and with bugs. In this session I'll show you how you can write automated tests for browser applications that run very quickly and very reliably in multiple browsers at once, whatever framework you use. And that means you can turn horrible JavaScript into beautiful JavaScript.\n\nWe'll be using JavaScript, Karma and magic. Lots of DOM elements will be harmed in this presentation.\n"
 sessionTags:
     - Web
-day: '1'
-scheduleOrder: 5
+scheduleDay: 0
+scheduleOrder: 4
+scheduleRoom: 1
 ---
 
 undefined

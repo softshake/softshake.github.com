@@ -14,8 +14,9 @@ sessionTopic: 'Azure / Cloud / Caching'
 sessionDescription: "The Microsoft Azure Redis Cache must be the fourth or fifth generation of a hosted cache service on Azure. This time, an open-source solution has been embraced: Redis. In this session, we’ll see that it’s more than just an in-memory cache system we can use in our applications. Let’s explore what Redis is, what the different data types are and why we should care. And once we grasp how Redis stores its stuff, we’ll delve into how we can use it to its fullest extent: searching the key-value store, transactions, pub/sub support and scripting.\n"
 sessionTags:
     - Microsoft
-day: '2'
-scheduleOrder: 0
+scheduleDay: 1
+scheduleOrder: 4
+scheduleRoom: 0
 ---
 
 undefined

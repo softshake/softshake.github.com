@@ -14,8 +14,9 @@ sessionTopic: 'Javascript & IOT'
 sessionDescription: "Tout le monde est persuadé que l’ancêtre de SkyNet, est le Turk (cf. The Sarah Connor Chronicles) … Eh bien non!, C’est B.O.B.! Un robot à roulette (le T-0). Et je vais vous expliquer comment tout à commencé: en devenant un “maker du dimanche”!.\n\nLa genèse de BOB (*):\n\n*: Bot Operative Behaviour\n\n- un thermomètre à leds avec un Arduino et Johnny-Five\n- SAM (j’aime bien donner des petits noms à mes jouets), qui va rendre le Nest obsolète, avec un Raspberry et une GrovePi qui va discuter avec le monde grâce à MQTT\n- BOB, le T-0, avec un Raspberry et une GoPiGo … Et bien sûr BOB et SAM discuteront entre eux\n\nEt tout ça propulsé par du JavaScript! \nIl y aura donc de la démo live avec du hardware.\nJe vous parlerais aussi de l’écosystème “hardware + javascript\"\n\n"
 sessionTags:
     - 'IA / Robotique / IoT'
-day: '1'
-scheduleOrder: 1
+scheduleDay: 0
+scheduleOrder: 2
+scheduleRoom: 6
 ---
 
 undefined

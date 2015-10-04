@@ -14,8 +14,9 @@ sessionTopic: Innovation
 sessionDescription: "The presentation is mostly based on my professional experience in working with both fast growing start-ups and large enterprises.\nThe main topics that I will focus on are the following:\n- From start-up world to Large Enterprise : why the figure of the intrapreneur is so important nowadays.\n- How to grow a culture of innovation : some tips and examples about how innovation can be introduced in any company\n- Battle Dev innovation contests (Swissquote Case Study) : how it was to introduce an internal hackathon contest within a bank\n- Innovation Metrics for Large Enterprises : how innovation differs from regular projects with some examples on how innovation should be measured\n"
 sessionTags:
     - Incubateur
-day: '1'
-scheduleOrder: 3
+scheduleDay: 0
+scheduleOrder: 0
+scheduleRoom: 2
 ---
 
 undefined

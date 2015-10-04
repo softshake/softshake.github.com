@@ -14,8 +14,9 @@ sessionTopic: 'Lessons learned from a Swiss SaaS for selling tickets'
 sessionDescription: "SecuTix is a comprehensive Swiss SaaS solution, written in Java, for managing events and selling tickets. Some of its impressive characteristics include: 24x7 uptime, proven support for large peak loads, Omni-Channel User-Interface, and 50+ interfaces with partners, with more than 1,000 VMs needed to run the system.\nThis talk illustrates how the SecuTix team solved challenges such as 24x7 support, including for the database, low-latency requirements via an asynchronous layer, peak load protection via a waiting room, monitoring, ...\n"
 sessionTags:
     - Java
-day: '2'
-scheduleOrder: 1
+scheduleDay: 1
+scheduleOrder: 4
+scheduleRoom: 6
 ---
 
 undefined

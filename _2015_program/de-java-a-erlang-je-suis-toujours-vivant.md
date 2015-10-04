@@ -14,8 +14,6 @@ sessionTopic: Erlang
 sessionDescription: "Il y a quelques mois j'ai eu l'occasion de me brutaliser en commençant une mission Erlang.\nCe passage a été difficile mais très instructif car Erlang a une philosophie qui en fait vraiment un langage à part. Ce talk donnera donc un  feedback sur ce changement, du point de vue d'un ex-développeur Android/Java.\nAu passage, je vous montrerais le quotidien d'un développeur Erlang et ce qui se passe dans sa tête!"
 sessionTags:
     - 'Prog. Fonctionnelle'
-day: '2'
-scheduleOrder: 1
 ---
 
 undefined

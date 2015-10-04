@@ -14,8 +14,9 @@ sessionTopic: 'AI & Behavioral Finance '
 sessionDescription: "During the past 8 months, after finishing my 1st book “Banks of the Future”, I have continued to collect more information around a combination of topics which I find very interesting. In my new work I will provide an insight into behavioral finance, the value of innovations, mindfulness, and artificial intelligence. \n\n"
 sessionTags:
     - 'IA / Robotique / IoT'
-day: '1'
-scheduleOrder: 4
+scheduleDay: 0
+scheduleOrder: 0
+scheduleRoom: 6
 ---
 
 undefined

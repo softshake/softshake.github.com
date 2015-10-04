@@ -14,8 +14,9 @@ sessionTopic: 'Analyse Dump mémoire JVM'
 sessionDescription: "Les applications Java (et les autres langages de la JVM) consomment de plus en plus de mémoire, dans le même temps les algorithmes de GC (Garbage Collection) ont amélioré leur efficacité et permettent d’allouer toujours plus de mémoire.\nMalheureusement augmenter la RAM pour éviter une OutOfMemoryError sans plus d’investigation conduit souvent à masquer/repousser une fuite mémoire ou un bug applicatif et à générer une nouvelle source d’instabilité pour l’application et la JVM.\nDurant cette session nous verrons comment analyser la consommation mémoire d’une application afin de ne pas systématiquement lui accorder plus de mémoire sans savoir quel usage qui en est fait.\nPour cela, nous commencerons par une rapide présentation du fonctionnement de la mémoire de la JVM puis nous verrons comment analyser la mémoire de vos applications en production. Cette deuxième partie sera faite de façon interactive sur une JVM issue d’un retour d’experience à l’aide de l’outil Eclipse Memory Analyzer.\nNous terminerons avec quelques astuces pour vous aider lors de vos futures investigations."
 sessionTags:
     - Java
-day: '1'
+scheduleDay: 0
 scheduleOrder: 3
+scheduleRoom: 5
 ---
 
 undefined

@@ -20,8 +20,9 @@ secondSpeakerBio: 'Je suis le père de Tom. Je suis spécialisé dans la sécuri
 secondSpeakerTitle: 'Security Engineer'
 secondSpeakerOrganization: ""
 secondSpeakerAvatarUrl: '//www.gravatar.com/avatar/3dada3b7f3bad53daa2684d3bbb842f8?size=200&default=mm'
-day: '1'
-scheduleOrder: 1
+scheduleDay: 0
+scheduleOrder: 4
+scheduleRoom: 3
 ---
 
 undefined

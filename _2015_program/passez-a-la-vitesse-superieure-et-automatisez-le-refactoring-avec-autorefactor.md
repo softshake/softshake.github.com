@@ -14,8 +14,9 @@ sessionTopic: Refactoring
 sessionDescription: "Le refactoring c’est super, mais comment refactorer tout ce code legacy? Comment garder son code lisible et moderne avec peu d’effort?\n\nRefactoreur dans l’âme, Jean-Noël présentera comment faire du refactoring efficacement pour améliorer le code. Cela marche bien mais reste un processus manuel qui demande beaucoup d’attention.\n\nPour se faciliter la vie, il a créé AutoRefactor. C’est un plugin Eclipse qui refactore le code tout seul. Alors qu'un formatteur de code ne touche qu'aux espaces et aux sauts de ligne, AutoRefactor se place un niveau au dessus et réécrit les structures du programme pour le désobscurcir et le rendre plus facilement lisible. Nous allons l’exécuter pour nettoyer une base de code complète en un clic! Finalement Jean-Noël expliquera son fonctionnement et rêvera à ce que son futur sera."
 sessionTags:
     - Java
-day: '1'
-scheduleOrder: 4
+scheduleDay: 0
+scheduleOrder: 5
+scheduleRoom: 5
 ---
 
 undefined

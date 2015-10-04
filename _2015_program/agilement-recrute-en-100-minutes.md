@@ -14,8 +14,9 @@ sessionTopic: 'craftswomen, craftsmen'
 sessionDescription: "Les modèles d’entretien techniques surtout les modèles traditionnels ont beaucoup de points communs avec le modèle du cycle en V ou les projets waterfall. Cette ressemblance concerne notamment les deux points suivants :\nle récit des expériences professionnelles du candidat \nles tests techniques sous forme de QCM\n\nLe problème avec ces deux points est le manque d’un feedback rapide pour le recruteur qui ne l’aide pas à optimiser son entretien qui est déjà d’une durée limitée.\n\nAfin de maîtriser notre process de recrutement et garantir une méthode d’évaluation homogène et partagée, nous nous sommes inspirés des méthodes agiles pour définir notre propre modèle de recrutement et d’animation des entretiens techniques. \n\nNotre objectif est de satisfaire les besoins des différents acteurs impliqués dans ce process, à savoir : le candidat, le(s) recruteur(s) et le(s) décideur(s). \n\nL’entretien dans notre modèle est constitué de plusieurs itérations assez courtes ayant comme objectif de donner un feedback rapide au recruteur à la fin de chaque itération. \n\nA l’issu de l’entretien, notre modèle permet au recruteur d’identifier un profil bien précis du candidat synthétisant ses points forts, ses points faibles ainsi qu’un plan pour conquérir ces derniers. Cette synthèse est partagée avec le candidat lors d’une rétrospective puis communiqué au(x) décideur(s) .\n\nCette session est un retour d’expérience sur une centaine d’entretiens techniques animées sur quatre ans. Nous détaillons les différentes parties de l’entretien, la méthode d’évaluation suivie, les contrôles permettant de détecter les points à améliorer dans notre modèle, la qualité des candidats reçus (taux de réussite, etc.), ainsi que le suivi des candidats qui nous ont rejoint (intégration, évolution, etc.)\n\nCette session s'adresse à tous les développeurs même ceux qui n'animent pas des entretiens techniques mais aussi toutes les personnes qui sont intéressées par les questions de recrutement."
 sessionTags:
     - Incubateur
-day: '2'
-scheduleOrder: 2
+scheduleDay: 1
+scheduleOrder: 0
+scheduleRoom: 1
 ---
 
 undefined

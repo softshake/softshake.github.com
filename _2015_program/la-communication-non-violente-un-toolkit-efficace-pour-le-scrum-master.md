@@ -14,8 +14,9 @@ sessionTopic: Communication
 sessionDescription: "Une retrospective qui part en vrille ?\nUn code review qui ajoute de la tension ?\nPourquoi l'agilité fonctionne ici et pas là ? Comment (ré)agir face aux conflits latents révélés par le changement amené par l'agilité ?\nL'agilité transforme la directivité en collaboration et de manière analogue la CNV nous invite à changer le paradigme du \"pouvoir sur\" vers le \"pouvoir avec\". Si l'agilité met en lumière les problématiques humaines, la CNV fait de même en proposant un regard universel sur les relations humaines et dans la confiance que chacun a les ressources pour mieux avancer ensemble.\nLa CNV, n'est pas une liste exhaustive de bonnes pratiques ou une statistique des choses qui marchent ou qui ne marchent pas, c'est un processus extrêmement puissant qui demande un travail introspectif conséquent tout en amenant rapidement des résultats impressionnants.\nLe but de cet atelier/conférence est de découvrir cette thématique de manière ludique et avec des exemples inspirés du quotidien des scrum masters/développeurs/devops/chef d'équipe pour faire découvrir une manière pour désamorcer les conflits naturels amenés par l'agilité."
 sessionTags:
     - Agile
-day: '1'
-scheduleOrder: 3
+scheduleDay: 0
+scheduleOrder: 5
+scheduleRoom: 0
 ---
 
 undefined

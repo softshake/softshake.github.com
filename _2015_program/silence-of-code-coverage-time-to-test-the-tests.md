@@ -14,8 +14,9 @@ sessionTopic: 'real world mutation testing with pitest'
 sessionDescription: 'Unit tests are guardians for your production code, but "Quis custodiet ipsos custodes?" "Who will guard the guards themselves?" What to do if coverage metrics are great, but code is still buggy? It’s time to test the tests! Come discover mutation testing.'
 sessionTags:
     - Java
-day: '1'
-scheduleOrder: 4
+scheduleDay: 0
+scheduleOrder: 2
+scheduleRoom: 4
 ---
 
 undefined

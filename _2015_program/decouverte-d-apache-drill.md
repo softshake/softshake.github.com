@@ -14,8 +14,9 @@ sessionTopic: 'Learning by doing!'
 sessionDescription: "Vous désirez requéter un très gros volume de données, structurées ou non... stockées sous plusieurs format CSV, Parquet, NoSQL, Hadoop...\nEt vous aimeriez utiliser SQL ...\n\nApache Drill est votre ami! Apache Drill est une moteur SQL multi data source (Hadoop, NoSQL, Fichiers et plus...). \n\nDurant cet atelier vous découvrirez comme requeter n'importe que source de donnée, et effectuer des requetes SQL complexe (Jointures, Aggregations, Statistiques) sur des fichiers CSV, MongoDB, Fichiers Parquets, ... \n\nVous découvrirer comment intégrer Drill à vos applications et outils, par exemple Java par le biais de JDBC. Vous finirez l'atelier en enrichissant Drill et SQL en développant votre propre fonction.\n\nAgenda\n\n* Installation\n* \"Re\"-Découverte du SQL\n* Sources de données\n* Requetes avancées\n* Intégration\n* Extension\n\nPrérequis:\n\n* JDK 7 ou 8\n* Maven 3\n* Option (MongoDB 3.x, MySQL)\n"
 sessionTags:
     - 'Big Data'
-day: '1'
-scheduleOrder: 1
+scheduleDay: 0
+scheduleOrder: 0
+scheduleRoom: 5
 ---
 
 undefined

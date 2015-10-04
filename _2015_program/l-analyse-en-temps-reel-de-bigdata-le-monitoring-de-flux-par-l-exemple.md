@@ -14,8 +14,9 @@ sessionTopic: BigData
 sessionDescription: "Tous les projets stratégiques ont besoin de gestion et de surveillance, et les questions qui se posent souvent:\n\tComment puis-je visualiser la santé de ma plate-forme?\n\tComment puis-je analyser les données de mes applications?\n\tComment puis-je visualiser la performance de l'entreprise et la part des objectifs atteints?\nDans cette présentation nous allons voir comment nous pouvons répondre à ces questions et donner des tableaux de bord spécifiques fondés sur un ensemble de produits open source qui permettent de centraliser et d'analyser des données de votre SI en temps réel.\n"
 sessionTags:
     - 'Big Data'
-day: '1'
-scheduleOrder: 1
+scheduleDay: 0
+scheduleOrder: 3
+scheduleRoom: 4
 ---
 
 undefined

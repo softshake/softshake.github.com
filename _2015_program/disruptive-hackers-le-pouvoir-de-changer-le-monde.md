@@ -14,8 +14,9 @@ sessionTopic: 'Innovation de rupture'
 sessionDescription: 'Ce n’est pas un hasard si 2 des plus grandes companies IT au monde sont détenues par des développeurs, le logiciel dévore le monde et nous, les développeurs et hackers, en sommes les instigateurs. A l’image de super héros nous avons des supers pouvoirs et comme tous super héros à grands pouvoirs, grandes responsabilités ainsi nous devons être en mesure de créer des innovations au service des gens et en rupture avec leurs anciennes habitudes.'
 sessionTags:
     - Incubateur
-day: '1'
-scheduleOrder: 0
+scheduleDay: 0
+scheduleOrder: 2
+scheduleRoom: 3
 ---
 
 undefined

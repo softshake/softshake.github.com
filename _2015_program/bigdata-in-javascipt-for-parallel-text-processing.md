@@ -14,8 +14,9 @@ sessionTopic: 'BIg Data'
 sessionDescription: "The JavaScript Virtual Machine gave us a unique capability to scale out our processing pipelines to over thousands of parallel threads. This talk presents a new framework to do fast text processing and machine learning called JS-Spark. Participants will experience real-time scaling  of a computing cluster, and be shown how to use the framework with Natural Language Processor to predict user behavior.\n"
 sessionTags:
     - 'Big Data'
-day: '2'
-scheduleOrder: 1
+scheduleDay: 1
+scheduleOrder: 3
+scheduleRoom: 5
 ---
 
 undefined

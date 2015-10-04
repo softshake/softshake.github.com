@@ -14,8 +14,9 @@ sessionTopic: 'Présentation framework Crunch'
 sessionDescription: "L’écriture de job Map/Reduce s’appuie fréquemment sur des outils de plus haut niveau comme Hive ou Pig. Si ces outils sont très utiles en phase d’investigation ou pour certains profils (data analysts), les développeurs sont rapidement confrontés à une difficulté majeure lors du développement de pipelines conséquents : il est très difficile d’industrialiser le développement des scripts Pig ou les requêtes Hive (debbuging et tests automatiques).\nNous verrons dans cette présentation comment le framework Crunch ( https://crunch.apache.org/ ) répond à cette problématique lors de l’utilisation d’un cluster Hadoop ou Spark.\n"
 sessionTags:
     - 'Big Data'
-day: '2'
-scheduleOrder: 0
+scheduleDay: 1
+scheduleOrder: 1
+scheduleRoom: 5
 ---
 
 undefined

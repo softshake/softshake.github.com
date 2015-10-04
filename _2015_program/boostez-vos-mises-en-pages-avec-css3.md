@@ -14,8 +14,9 @@ sessionTopic: CSS3
 sessionDescription: "Faire des mises en pages avancées a toujours été une gageure en CSS. \n\nNous avons utilisé les tableaux, puis des dizaines de div, et tout un tas d'astuces et de bidouilles plus ou moins élégantes. Heureusement les choses changent enfin ! \n\nDe nouvelles normes ont fait leur apparition pour nous aider : flexbox, CSS Column, CSS Shapes et CSS Grid Layout\n\nA travers ce tour d'horizon, vous pourrez les découvrir et voir ce que nous reserve un avenir pas si lointain"
 sessionTags:
     - Web
-day: '1'
-scheduleOrder: 1
+scheduleDay: 0
+scheduleOrder: 2
+scheduleRoom: 1
 ---
 
 undefined

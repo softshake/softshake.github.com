@@ -14,8 +14,9 @@ sessionTopic: 'Stream Processing'
 sessionDescription: "Stream Processing is a concept used to create a high-performance system for rapidly building applications that analyze and act on real-time streaming data. Benefits, amongst others, are faster processing and reaction to real-time complex event streams and the flexibility to quickly adapt to changing business and analytic needs. Big data, cloud, mobile and internet of things are the major drivers for stream processing and streaming analytics. \n\nThis session discusses the technical concepts of stream processing and how it is related to big data, mobile, cloud and internet of things. Different use cases such as inventory management or fraud detection are used to show and compare alternative frameworks and products for stream processing and streaming analytics. \n\nThe audience will understand when to use open source frameworks such as Apache Storm, Apache Spark or Esper, and powerful engines from software vendors such as IBM InfoSphere Streams or TIBCO StreamBase.  Live demos will give the audience a good feeling about how to use these frameworks and tools.\n"
 sessionTags:
     - 'Big Data'
-day: '1'
-scheduleOrder: 2
+scheduleDay: 0
+scheduleOrder: 1
+scheduleRoom: 4
 ---
 
 undefined

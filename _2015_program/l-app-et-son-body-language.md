@@ -14,8 +14,9 @@ sessionTopic: 'Apps & UX'
 sessionDescription: 'Les interactions avec votre smartphone s’apparentent à une relation interpersonnelle : tactile, naturelle, avec des attentes sur la simplicité et la clarté du message délivré. Au travers de ce workshop, nous introduirons ce que Lunabee appelle le “body language" d’une App, et quelques principes fondamentaux d’interaction design.'
 sessionTags:
     - Mobilité
-day: '1'
-scheduleOrder: 2
+scheduleDay: 0
+scheduleOrder: 1
+scheduleRoom: 2
 ---
 
 undefined

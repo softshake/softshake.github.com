@@ -14,8 +14,9 @@ sessionTopic: 'The combination of recent disruptive market trends combined in on
 sessionDescription: 'Scala, Apache Spark, The PlayFramework, Docker and Platform as a Service - the combination of recent disruptive market trends combined in one demo application - in this talk I will explain why and how these new technologies are disrupting the (Startup) Ecosystem and how the work. After giving a short introduction in each of the technologies I''ll show a end to end demo analyzing a live twitter stream using Apache Spark, plotting a live dashboard with the PlayFramework and in addition to that showing total elasticity using Docker auto-scaling for Spark and PlayFramework. In addition to that, everything will be implemented in Scala.'
 sessionTags:
     - 'Big Data'
-day: '1'
-scheduleOrder: 0
+scheduleDay: 0
+scheduleOrder: 4
+scheduleRoom: 5
 ---
 
 undefined

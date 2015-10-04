@@ -14,8 +14,6 @@ sessionTopic: Angular
 sessionDescription: "Tout le monde connait AngularJS et nous sommes tous persuadés que c'est la meilleure solution actuelle pour développer un nouveau projet web. Emmanuel fait parti de ces amoureux qui utilisent, mangent et rêvent de ce framework. Malheureusement, un beau matin d'octobre 2014, le rêve est devenu un cauchemar..., juste pendant quelques secondes en fait. L'équipe en charge de ce projet avait décidé de tout casser ! Toutes les fonctionnalités qui ont fait d'AngularJS ce qu'il est actuellement... parties en fumée. \n\nMais notre expert est là pour vous rassurer aujourd'hui...  et vous allez tous vite devenir amoureux également de la prochaine version d'Angular. "
 sessionTags:
     - Web
-day: '2'
-scheduleOrder: 0
 ---
 
 undefined

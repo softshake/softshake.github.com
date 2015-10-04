@@ -20,8 +20,9 @@ secondSpeakerBio: "Michel est consultant depuis 2013 chez OCTO Technology, dans 
 secondSpeakerTitle: Consultant
 secondSpeakerOrganization: 'OCTO Technology'
 secondSpeakerAvatarUrl: '//www.gravatar.com/avatar/595258ee137dc74fdc508d6ef2fa33f5?size=200&default=mm'
-day: '1'
-scheduleOrder: 5
+scheduleDay: 0
+scheduleOrder: 2
+scheduleRoom: 5
 ---
 
 undefined

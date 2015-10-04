@@ -14,8 +14,9 @@ sessionTopic: 'Java Enterprise Edition'
 sessionDescription: "WildFly is the project once called the JBoss Application Server and to this day it remains the most popular opensource Java EE application server.\n\nCome to this session to hear from the horse's mouth the current state and the latest features of the WildFly community project."
 sessionTags:
     - Java
-day: '2'
-scheduleOrder: 2
+scheduleDay: 1
+scheduleOrder: 0
+scheduleRoom: 5
 ---
 
 undefined

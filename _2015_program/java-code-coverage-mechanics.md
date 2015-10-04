@@ -14,8 +14,9 @@ sessionTopic: JaCoCo
 sessionDescription: 'Java Code Coverage with JaCoCo ( http://www.jacoco.org/ ). Implementation details and challenges, interoperability with other tools and use cases.'
 sessionTags:
     - Java
-day: '1'
-scheduleOrder: 5
+scheduleDay: 0
+scheduleOrder: 3
+scheduleRoom: 0
 ---
 
 undefined

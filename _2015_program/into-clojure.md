@@ -14,8 +14,9 @@ sessionTopic: 'Intro to Clojure'
 sessionDescription: "Hands-on discovery of the Clojure programming language for developers, i.e. REPL instead of slides. No previous knowledge of the language is required. A second session to extend the content is also possible (see point 2. in \"further comments\").\n\n"
 sessionTags:
     - 'Prog. Fonctionnelle'
-day: '2'
-scheduleOrder: 2
+scheduleDay: 1
+scheduleOrder: 3
+scheduleRoom: 3
 ---
 
 undefined

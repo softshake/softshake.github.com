@@ -11,11 +11,12 @@ speakerAvatarUrl: '//www.gravatar.com/avatar/7bfb30913db9127c865e1bf097ba9ca8?si
 sessionCategory: 'Décideur # Decision maker, Encadrement, coach # Trainer, mentor, coach, Architecte # Architect, Développeur # Developer, Designer, Autre # Other'
 sessionLevel: 'Shu (débutant # beginner), Ha (intermédiaire # intermediate), Ri (avancé # advanced)'
 sessionTopic: 'Product management, product design, product development'
-sessionDescription: "Let’s discuss together about what is a product. How is it different from a project? Who is your product's target and what impact it has on the development process? What is the technical debt and how we should manage it? \n\nDiscutons ensemble sur ce qu'est un produit. En quoi est-ce différent d'un projet? Qui est l'audience de votre produit et quel impact elle a sur son développement? Qu'est ce que la dette technique and comment la gérer?"
+sessionDescription: "What is a product?\n\nDiscutons ensemble sur ce qu’est un produit. En quoi est-ce différent d’un projet? Qu’est ce que le cycle de vie d’un produit et qu’est ce que ça change?\nN’espérez pas une formule magique mais des outils et des questions pour vous aider à donner de la valeur à votre idée.\n\nTalk in French and slides in English\n\nLet’s discuss together about what is a product. How is it different from a project? What is the product lifecycle and why you should care.\nDon’t expect the magic formula about software product but tools and questions to help you transform your idea into something valuable."
 sessionTags:
     - Incubateur
-day: '1'
+scheduleDay: 0
 scheduleOrder: 2
+scheduleRoom: 2
 ---
 
 undefined

@@ -14,8 +14,9 @@ sessionTopic: DevOps
 sessionDescription: '…mais quand j’en fais c’est sans l’OS ! Docker a révolutionné le monde de la virtualisation en permettant d’empaqueter une application et de la déployer aisément dans un conteneur. Ce qui réduit significativement le surcoût du système d’exploitation. Les Unikernels permettent d’aller un cran plus loin. Après tout, à l’ère du cloud, pourquoi s’encombrer d’un système d’exploitation alors qu’on ne déploie souvent qu’une seule application par machine virtuelle ?'
 sessionTags:
     - Incubateur
-day: '2'
+scheduleDay: 1
 scheduleOrder: 0
+scheduleRoom: 2
 ---
 
 undefined

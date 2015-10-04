@@ -20,8 +20,9 @@ secondSpeakerBio: "Dorian a commencé sa carrière professionnelle en 2010 dans 
 secondSpeakerTitle: Consultant
 secondSpeakerOrganization: 'OCTO Technology'
 secondSpeakerAvatarUrl: '//www.gravatar.com/avatar/e3701d97fbbf8e34a13b4f19df42d970?size=200&default=mm'
-day: '1'
-scheduleOrder: 0
+scheduleDay: 0
+scheduleOrder: 4
+scheduleRoom: 0
 ---
 
 undefined

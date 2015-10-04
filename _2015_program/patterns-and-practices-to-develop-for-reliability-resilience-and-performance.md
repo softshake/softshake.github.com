@@ -14,8 +14,9 @@ sessionTopic: 'Solution Architecture, Software Architecture, Software Design, De
 sessionDescription: 'This session will walk the audience on the best practices to follow to deliver reliable, production ready software. From the team empowerment, use of agile methods, enforcement of engineering practices, to making the right architectural decisions, it will be presented the best techniques that can be used through all the software development lifecycle to guarantee the delivery of reliable and resilient software.'
 sessionTags:
     - Incubateur
-day: '2'
+scheduleDay: 1
 scheduleOrder: 3
+scheduleRoom: 2
 ---
 
 undefined

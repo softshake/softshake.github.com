@@ -14,8 +14,9 @@ sessionTopic: 'TDD et Docker'
 sessionDescription: "Le concept de **Infrastructure as Code**, appuyé par des outils comme Chef, Ansible, Salt ou Docker, permet de décrire une infrastructure par des fichiers de code source. La definition d'une infrastructure se fait désormais avec les mêmes outils (IDE, gestionnaire de code source) et les mêmes pratiques (Integration Continue) que le développement de logiciel.\n\nLe **Test Driven Development** est une pratique de développement qui consiste à écrire du code en commençant par les tests.\n\nLe sujet de ce talk est l'application des principes du **TDD** au concept de **Infrastructure as Code** en utilisant Docker. Par ailleurs Mario présentera Capybara, un outil qui permet de développer les images Docker en commençant par les tests.\n\nUne description plus détaillée du projet Capybara se trouve [ici](https://gist.github.com/l0rd/70d6317af7804941a14f).\n"
 sessionTags:
     - Java
-day: '2'
-scheduleOrder: 1
+scheduleDay: 1
+scheduleOrder: 3
+scheduleRoom: 0
 ---
 
 undefined
