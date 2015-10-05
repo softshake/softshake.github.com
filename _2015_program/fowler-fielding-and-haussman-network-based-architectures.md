@@ -1,13 +1,13 @@
 ---
 layout: 2015_session
 sessionTitle: 'Fowler, Fielding, and Haussman - network-based architectures'
-speakerName: 'Nicolas Babel'
-speakerEmail: nicolas.babel@streamdata.io
-speakerBio: "Après une école d’ingé, le côté obscure de la force (Marketing/vente) a été le plus fort mais après de nombreuses année, je redécouvre les joies du code chez streamdata.io ! Nous sommes spécialisés dans les Data Streaming API et j'aurai le plaisir de partager un peu de notre savoir et de notre code.\n"
+speakerName: 'Éric Horesnyi'
+speakerEmail: eric.horesnyi@streamdata.io
+speakerBio: "Éric a été un des membres fondateurs de Internet Way (French B2B ISP, vendu à UUnet) puis a travaillé chez Radianz (Global Finance Cloud racheté par British Telecom). C'est un expert des infrastructures de Trading à Haute Fréquence qui se passionne pour la Fintech et la CleanTech. Après avoir vécu à San Francisco, NYC, Mexico, Éric vit actuellement à Paris avec sa petite famille.\n"
 speakerAddress: 'Paris, France'
 speakerTitle: 'Fowler, Fielding, and Haussman - network-based architectures'
 speakerOrganization: Streamdata.io
-speakerAvatarUrl: '//www.gravatar.com/avatar/ba22c61296f250bebdea1effa64f6e55?size=200&default=mm'
+speakerAvatarUrl: ''
 sessionCategory: 'Encadrement, coach # Trainer, mentor, coach, Architecte # Architect, Développeur # Developer'
 sessionLevel: 'Shu (débutant # beginner)'
 sessionTopic: 'Network/Code architecture'

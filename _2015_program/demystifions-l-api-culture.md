@@ -1,9 +1,9 @@
 ---
 layout: 2015_session
 sessionTitle: 'Démystifions l''API-culture !'
-speakerName: 'Farhdine Boutzakhti'
-speakerEmail: fbi@octo.com
-speakerBio: "Diplômé en 2007 de l'Epitech Paris, Farhdine a commencé sa carrière en tant que développeur en banque d’investissement. Il a ensuite passé quatre années dans l’industrie avant de rejoindre à Lausanne OCTO Technology en 2013 en tant que consultant.\nFort de ses compétences transverses, Farhdine s’implique dans l’ensemble du cycle de développement logiciel et particulièrement sur les aspects DevOps afin d'améliorer collaboration, automatisation et réduction du time-to-market.\nIl est co-organisateur du meetup \"DevOps Switzerland\"."
+speakerName: 'Jérôme Van Der Linden'
+speakerEmail: jvanderlinden@octo.com
+speakerBio: ""
 speakerAddress: 'Lausanne, Switzerland'
 speakerTitle: 'Démystifions l''API-culture !'
 speakerOrganization: 'OCTO Technology'
