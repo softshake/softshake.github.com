@@ -3,7 +3,7 @@ layout: 2015_session
 sessionTitle: 'Démystifions l''API-culture !'
 speakerName: 'Jérôme Van Der Linden'
 speakerEmail: jvanderlinden@octo.com
-speakerBio: ""
+speakerBio: "Consultant OCTO depuis 2006, Jérôme a passé plusieurs années à auditer, concevoir et réaliser des applications Java (JEE, Web, Android), lui apportant une bonne connaissance des différentes architectures applicatives et leurs briques associées (sécurité, ihm, serveurs d'applications…).Depuis 2011, il s'intéresse à l’intégration dans la DSI des architectures mobiles (applications, plateformes de services, API) ainsi qu'aux processus de développement associés, notamment les méthodes Agiles et DevOps.Jérôme aime à partager ses connaissances lors de formations ou de conférences (Droidcon, Devoxx, MDevCon…) et sera ravi de venir parler API à SoftShake."
 speakerAddress: 'Lausanne, Switzerland'
 speakerTitle: 'Démystifions l''API-culture !'
 speakerOrganization: 'OCTO Technology'
