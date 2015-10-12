@@ -11,7 +11,7 @@ speakerAvatarUrl: '//www.gravatar.com/avatar/b7eb3b1483a36824d26ba035ccc3ea4f?si
 sessionCategory: 'Développeur # Developer'
 sessionLevel: 'Shu (débutant # beginner)'
 sessionTopic: 'Intro to Clojure'
-sessionDescription: "Hands-on discovery of the Clojure programming language for developers, i.e. REPL instead of slides. No previous knowledge of the language is required. A second session to extend the content is also possible (see point 2. in \"further comments\").\n\n"
+sessionDescription: "Hands-on discovery of the Clojure programming language for developers, i.e. REPL instead of slides. No previous knowledge of the language is required.\n\n"
 sessionTags:
     - 'Prog. Fonctionnelle'
 scheduleDay: 1
