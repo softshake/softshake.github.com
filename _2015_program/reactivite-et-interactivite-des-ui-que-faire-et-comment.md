@@ -1,13 +1,13 @@
 ---
 layout: 2015_session
 sessionTitle: 'Réactivité et Interactivité des UI : que faire et comment ?'
-speakerName: 'Nicolas Babel'
-speakerEmail: nicolas.babel@streamdata.io
-speakerBio: 'Après une école d’ingé, le côté obscure de la force (Marketing/vente) a été le plus fort mais après de nombreuses année, je redécouvre les joies du code chez streamdata.io ! Nous sommes spécialisés dans les Data Streaming API et j''aurai le plaisir de partager un peu de notre savoir et de notre code.'
+speakerName: 'Cédric Tran-Xuan'
+speakerEmail: cedric.tranxuan@streamdata.io
+speakerBio: ''
 speakerAddress: 'Paris, France'
 speakerTitle: 'Réactivité et Interactivité des UI : que faire et comment ?'
 speakerOrganization: Streamdata.io
-speakerAvatarUrl: '//www.gravatar.com/avatar/ba22c61296f250bebdea1effa64f6e55?size=200&default=mm'
+speakerAvatarUrl: ''
 sessionCategory: 'Architecte # Architect, Développeur # Developer, Designer'
 sessionLevel: 'Shu (débutant # beginner)'
 sessionTopic: 'UI, UX & technologies'
