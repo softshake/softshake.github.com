@@ -20,18 +20,18 @@
       <div class="tab-content">
         <div class="tab-pane wo-tab-pane fade in active" id="dayone"> 
           <!-- DAY ONE -->
-          <div class="span3">
+          <div class="span2">
             <h2>First Day</h2>
 			<!-- <p>The order of the sessions are random !</p> -->
             <div class="schedule-download"><a href="#schedule" class="btn btn-large btn-primary"><div class="icon-wrap medium color2"><i class="iconf-lightbulb"></i> </div>
-              <p>The sessions start time may change !</p>
+              <p>Session duration is 45 minutes</p>
               </a> </div>
             <!-- <div class="schedule-download"><a href="#" class="btn"><i class="iconf-acrobat"></i>
               <p>Full Schedule</p>
               </a> </div> -->
           </div>
           <!-- end span4 -->
-          <div class="span9"> 
+          <div class="span9 offset1"> 
             <!-- TIMELINE -->
             <section class="timeline toggle-shortcode toggles"> 
               <!-- EVENT 1 -->
@@ -40,7 +40,7 @@
                   <div class="timeline-icon-container"><i class="iconf-wine"></i> </div>
                 </div>
                 <div class="time-box">
-                  <time>08:00</time>
+                  <time style="padding-left: 0px">08:00</time>
                 </div>
                 <div class="timeline-content">
                     <div class="event-content">
@@ -54,13 +54,28 @@
                 </div>
               </article>
               <!-- end EVENT 1 --> 
+              <article class="event">
+                <div class="timeline-icon">
+                  <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
+                </div>
+                <div class="time-box" style="left: -20px">
+                  <time style="padding-left: 0px">09:30-09:40</time>
+                </div>
+                <div class="timeline-content">
+                    <div class="event-content">
+                      <div class="toggle-item-title event-title" data-count="1">
+                        <h3>Welcome speech <span></span></h3>
+                      </div>
+                    </div>
+                </div>
+              </article>
               <!-- KEYNOTE EVENT 1 -->
               <article class="event">
                 <div class="timeline-icon">
                   <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
                 </div>
-                <div class="time-box">
-                  <time>TBD</time>
+                <div class="time-box" style="left: -20px">
+                  <time style="padding-left: 0px">09:45-10:15</time>
                 </div>
                 <div class="timeline-content">
                     <div class="event-content">
@@ -84,7 +99,7 @@
               </article>
               <!-- end KEYNOTE EVENT 1 -->
 			  <!-- EVENT Generation -->
-			  {% include 2015_day_talks.html day=0 %}
+			  {% include 2015_day_talks_randoms.html day=0 %}
               <!-- end EVENT Generation --> 
               <!-- ADD AN EVENT HERE --> 
             </section>
@@ -94,18 +109,18 @@
         </div>
         <div class="tab-pane wo-tab-pane fade" id="daytwo"> 
           <!-- DAY TWO -->
-          <div class="span3">
+          <div class="span2">
             <h2>Second Day</h2>
 			<!-- <p>The order of the sessions are random !</p> -->
             <div class="schedule-download"><a href="#schedule" class="btn btn-large btn-primary"><div class="icon-wrap medium color2"><i class="iconf-lightbulb"></i> </div>
-              <p>The sessions start time may change !</p>
+              <p>Session duration is 45 minutes</p>
               </a> </div>
             <!-- <div class="schedule-download"><a href="#" class="btn"><i class="iconf-acrobat"></i>
               <p>Full Schedule</p>
               </a> </div> -->
           </div>
           <!-- end span3 -->
-          <div class="span9"> 
+          <div class="span9 offset1"> 
             <!-- TIMELINE -->
             <section class="timeline toggle-shortcode toggles"> 
               <!-- EVENT 1 -->
@@ -114,7 +129,7 @@
                   <div class="timeline-icon-container"><i class="iconf-wine"></i> </div>
                 </div>
                 <div class="time-box">
-                  <time>08:00</time>
+                  <time style="padding-left: 0px">08:30</time>
                 </div>
                 <div class="timeline-content">
                     <div class="event-content">
@@ -133,8 +148,8 @@
                 <div class="timeline-icon">
                   <div class="timeline-icon-container"><i class="iconf-microphone"></i> </div>
                 </div>
-                <div class="time-box">
-                  <time>TBD</time>
+                <div class="time-box" style="left: -20px">
+                  <time style="padding-left: 0px">09:45-10:15</time>
                 </div>
                 <div class="timeline-content">
                     <div class="event-content">
@@ -165,7 +180,7 @@ Author 2: Julien Jehl, Professor at Lycée Juliette Récamier, member of the Pop
               </article>
               <!-- end KEYNOTE EVENT 1 -->
 			  <!-- EVENT Generation -->
-			  {% include 2015_day_talks.html day=1 %}
+			  {% include 2015_day_talks_randoms.html day=1 %}
               <!-- end EVENT Generation -->
               <!-- ADD AN EVENT HERE --> 
             </section>
