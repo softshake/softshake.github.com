@@ -1,13 +1,13 @@
 ---
 layout: 2015_session
 sessionTitle: 'Démystifions l''API-culture !'
-speakerName: 'Jérôme Van Der Linden'
+speakerName: 'Jérôme Ven Der Linden'
 speakerEmail: jvanderlinden@octo.com
-speakerBio: "Consultant OCTO depuis 2006, Jérôme a passé plusieurs années à auditer, concevoir et réaliser des applications Java (JEE, Web, Android), lui apportant une bonne connaissance des différentes architectures applicatives et leurs briques associées (sécurité, ihm, serveurs d'applications…).Depuis 2011, il s'intéresse à l’intégration dans la DSI des architectures mobiles (applications, plateformes de services, API) ainsi qu'aux processus de développement associés, notamment les méthodes Agiles et DevOps.Jérôme aime à partager ses connaissances lors de formations ou de conférences (Droidcon, Devoxx, MDevCon…) et sera ravi de venir parler API à SoftShake."
+speakerBio: "Consultant OCTO depuis 2006, Jérôme a passé plusieurs années à auditer, concevoir et réaliser des applications Java (JEE, Web, Android), lui apportant une bonne connaissance des différentes architectures applicatives et leurs briques associées (sécurité, ihm, serveurs d'applications…).\n\nDepuis 2011, il s'intéresse à l’intégration dans la DSI des architectures mobiles (applications, plateformes de services, API) ainsi qu'aux processus de développement associés, notamment les méthodes Agiles et DevOps.\n\nJérôme aime à partager ses connaissances lors de formations ou de conférences (Droidcon, Devoxx, MDevCon…) et sera ravi de venir parler API à SoftShake."
 speakerAddress: 'Lausanne, Switzerland'
 speakerTitle: 'Démystifions l''API-culture !'
 speakerOrganization: 'OCTO Technology'
-speakerAvatarUrl: '//www.gravatar.com/avatar/0d0cd1f73137b59e708103db3972b9b6?size=200&default=mm'
+speakerAvatarUrl: '//www.gravatar.com/avatar/ba02eefcfb3448d229a6a88b807d3543?size=200&default=mm'
 sessionCategory: 'Décideur # Decision maker, Architecte # Architect, Développeur # Developer'
 sessionLevel: 'Shu (débutant # beginner), Ha (intermédiaire # intermediate)'
 sessionTopic: Architecture

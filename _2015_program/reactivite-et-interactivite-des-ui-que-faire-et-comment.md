@@ -3,11 +3,11 @@ layout: 2015_session
 sessionTitle: 'Réactivité et Interactivité des UI : que faire et comment ?'
 speakerName: 'Cédric Tran-Xuan'
 speakerEmail: cedric.tranxuan@streamdata.io
-speakerBio: ''
+speakerBio: ""
 speakerAddress: 'Paris, France'
 speakerTitle: 'Réactivité et Interactivité des UI : que faire et comment ?'
 speakerOrganization: Streamdata.io
-speakerAvatarUrl: ''
+speakerAvatarUrl: '//www.gravatar.com/avatar/90580411e5831f617ad19451ddc11e3f?size=200&default=mm'
 sessionCategory: 'Architecte # Architect, Développeur # Developer, Designer'
 sessionLevel: 'Shu (débutant # beginner)'
 sessionTopic: 'UI, UX & technologies'

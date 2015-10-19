@@ -15,8 +15,8 @@ sessionDescription: "The JavaScript Virtual Machine gave us a unique capability 
 sessionTags:
     - 'Big Data'
 scheduleDay: 1
-scheduleOrder: 3
-scheduleRoom: 5
+scheduleOrder: 4
+scheduleRoom: 7
 ---
 
 undefined

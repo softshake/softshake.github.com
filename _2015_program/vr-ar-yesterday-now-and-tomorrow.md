@@ -14,9 +14,9 @@ sessionTopic: 'Virtual Reality & Augmented Reality status'
 sessionDescription: "Virtual Reality is starting to become a consumer product and not anymore a \"lab toy\", Virtual Reality is exponentially growing as well as Augmented Reality, and new concepts are blossoming, like Mixed Reality...\nOn this session we will see what has brought us to the current point, what is the current point, the main players and the current technology status with the products soon-to-be, their release dates and timeline and what is in there for the foreseeable future...\n"
 sessionTags:
     - Microsoft
-scheduleDay: 0
-scheduleOrder: 4
-scheduleRoom: 6
+scheduleDay: 1
+scheduleOrder: 1
+scheduleRoom: 7
 ---
 
 undefined

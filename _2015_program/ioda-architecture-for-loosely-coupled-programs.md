@@ -15,7 +15,7 @@ sessionDescription: "No matter how hard we try, over time our programs seem to d
 sessionTags:
     - Microsoft
 scheduleDay: 1
-scheduleOrder: 1
+scheduleOrder: 3
 scheduleRoom: 7
 ---
 

@@ -14,9 +14,9 @@ sessionTopic: 'Equipes distribuéss'
 sessionDescription: "C’est depuis un an que des Coding Dojo sont organisés en interne chez Zenika. Au début, l’éparpillement des développeurs sur plusieurs agences en France a  été un obstacle. Mais, au fur et à mesure d’expérimenter des outils pour rendre le pair programming à distance plus agréable, ce rendez-vous mensuel est devenu incontournable pour la tribu des crafstman Zenika.\n\nCe talk est notre retour d’experience sur cette pratique avec la revue des outils testés et quelques astuces pour importer cette pratique chez vous.\n"
 sessionTags:
     - Agile
-scheduleDay: 1
-scheduleOrder: 2
-scheduleRoom: 1
+scheduleDay: 0
+scheduleOrder: 4
+scheduleRoom: 6
 ---
 
 undefined

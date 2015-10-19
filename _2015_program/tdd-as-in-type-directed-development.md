@@ -16,7 +16,7 @@ sessionTags:
     - 'Prog. Fonctionnelle'
 scheduleDay: 0
 scheduleOrder: 3
-scheduleRoom: 2
+scheduleRoom: 7
 ---
 
 undefined

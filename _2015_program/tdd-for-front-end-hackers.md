@@ -15,7 +15,7 @@ sessionDescription: "Most websites start off with a little bit of this in them:\
 sessionTags:
     - Web
 scheduleDay: 0
-scheduleOrder: 4
+scheduleOrder: 5
 scheduleRoom: 1
 ---
 

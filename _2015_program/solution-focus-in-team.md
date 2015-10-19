@@ -16,7 +16,7 @@ sessionTags:
     - Agile
 scheduleDay: 1
 scheduleOrder: 4
-scheduleRoom: 1
+scheduleRoom: 0
 ---
 
 undefined

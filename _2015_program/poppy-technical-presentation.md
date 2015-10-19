@@ -20,9 +20,9 @@ secondSpeakerBio: "Julien Jehl, Professor at\_Lycée Juliette Récamier, member 
 secondSpeakerTitle: ""
 secondSpeakerOrganization: ""
 secondSpeakerAvatarUrl: '//www.gravatar.com/avatar/d80f140637d569d48c4f8f561adbec0d?size=200&default=mm'
-scheduleDay: 0
-scheduleOrder: 3
-scheduleRoom: 7
+scheduleDay: 1
+scheduleOrder: 4
+scheduleRoom: 1
 ---
 
 undefined

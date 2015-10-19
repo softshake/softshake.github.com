@@ -14,8 +14,8 @@ sessionTopic: 'Containers, orchestration'
 sessionDescription: 'Avec des milliards de conteneurs démarrés tous les mois pour ses services GMail, Search, Maps, … Google a développé un savoir-faire partagé dans de nombreux papiers de recherche mais aussi dans des projets open source comme Kubernetes et dans ses produits Google Cloud Platform. Cette session expliquera comment Google optimise ses ressources et introduira Kubernetes et en proposera une démonstration.'
 sessionTags:
     - Web
-scheduleDay: 0
-scheduleOrder: 1
+scheduleDay: 1
+scheduleOrder: 2
 scheduleRoom: 7
 ---
 
