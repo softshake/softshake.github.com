@@ -49,6 +49,7 @@
 	              <div class="event-content">
 	                <div class="toggle-item-title event-title" data-count="1">
 	                  <h3>Lunch <span>and networking</span></h3>
+					  <span class="label badge-info">Atrium</span>
 	                </div>
 	        <div class="toggle-item-body" style="display: none;">
 			<div class="entry-content">
@@ -56,5 +57,55 @@
 			            </div>
 			</div>
 		</article>	
+		{% if include.day == 0 %}
+		<article class="event">
+	    <div class="timeline-icon">
+	      <div class="timeline-icon-container"><i class="iconf-coffee"></i> </div>
+	    </div>
+	    <div class="time-box">
+	      <time>12:15</time>
+	    </div>
+
+	        <div class="timeline-content">
+	              <div class="event-content">
+	                <div class="toggle-item-title event-title" data-count="1">
+	                  <h3>Pyxis Animation <span>Individu et équipe – Bougez la polarité Agile !</span></h3>
+					  <span class="label badge-info">Atrium</span>
+	                </div>
+	        <div class="toggle-item-body" style="display: none;">
+			<div class="entry-content">
+						  <p>Trop de spécialisation, communication et collaboration sclérosées. Créons des équipes. 
+
+Tout pour l’équipe, je ne me sens plus considéré, mon expertise se dégrade. Je râle ou je démissionne ! <br />
+Accepter que certains problèmes soient insolubles ! Le faire accepter à mon boss ! Voir plus large et interpréter différemment la résistance au changement.
+Venez bouger avec l'équipe Pyxis Suisse et traverser l'une des polarités clés des organisations ?<br />
+ à toute à l'heure !</p>
+			            </div>
+			</div>
+		</article>			
+		{% endif %}
+		
+				{% if include.day == 1 %}
+				<article class="event">
+			    <div class="timeline-icon">
+			      <div class="timeline-icon-container"><i class="iconf-coffee"></i> </div>
+			    </div>
+			    <div class="time-box">
+			      <time>12:15</time>
+			    </div>
+
+			        <div class="timeline-content">
+			              <div class="event-content">
+			                <div class="toggle-item-title event-title" data-count="1">
+			                  <h3>CodinGame Animation<span>Clash of Code</span></h3>
+							  <span class="label badge-info">Atrium 1er</span>
+			                </div>
+			        <div class="toggle-item-body" style="display: none;">
+					<div class="entry-content">
+								  <p></p>
+					            </div>
+					</div>
+				</article>			
+				{% endif %}
 	{% endif %}
 	{% endfor %}
